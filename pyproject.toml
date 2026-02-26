@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "splatoon-translate"
+version = "0.1.0"
+description = "Automated Japanese subtitle translation pipeline for Splatoon 3 videos"
+requires-python = ">=3.11"
+dependencies = [
+    "faster-whisper>=1.1.0",
+    "mecab-python3",
+    "unidic-lite",
+    "anthropic>=0.40",
+    "openai>=1.50",
+    "python-dotenv",
+    "tqdm",
+]
+
+[project.scripts]
+splatoon-translate = "splatoon_translate.pipeline:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
