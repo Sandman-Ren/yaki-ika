@@ -134,7 +134,7 @@ Two modes:
 
 ## Data Architecture
 
-All data files live under `data/` in the repo root.
+All data files live under `data/` in the repo root: `glossary/`, `jargon/`, `corrections/`, `context/`, and `references/`.
 
 ### Glossary System
 
@@ -191,6 +191,53 @@ data/context/
 ```
 
 Structured knowledge about Splatoon 3 injected into the translation prompt: game overview, key concepts (inking, splatting, squid form), game modes, characters (Deep Cut, Squid Sisters, Off the Hook), translation tone guide, ambiguous term disambiguation, and weapon class JP↔EN divergences.
+
+## Reference Translation System
+
+A standalone subsystem for collecting and storing reference translations from any source, to compare against LLM-generated pipeline output.
+
+### Purpose
+
+The pipeline produces LLM translations but has no built-in way to evaluate quality. Community translations (fan-subs, soft subtitles, reviewed corrections) serve as ground truth for comparison. This system collects, indexes, and stores them.
+
+### Sources
+
+| Source | Method | Module |
+|--------|--------|--------|
+| Burned-in subtitles (e.g., Bilibili fan-subs) | PaddleOCR frame extraction | `ocr.py` |
+| Soft subtitles (CC tracks) | yt-dlp subtitle download | `gather_references.py` |
+| Reviewed pipeline output | Web UI export → SRT import | `references.py` |
+| Local SRT files | Direct import | `references.py` |
+
+### OCR Module (`ocr.py`)
+
+Standalone module — never imported by the main pipeline. Requires the `[ocr]` optional dependency group.
+
+**Algorithm:**
+1. **Frame sampling** — OpenCV `VideoCapture`, sample every 0.5s, crop to bottom 25% (subtitle region)
+2. **Frame dedup** — Pixel-difference threshold between consecutive crops; skip OCR if near-identical
+3. **OCR** — PaddleOCR (`lang='ch'`), confidence threshold 0.75, multi-line concatenation
+4. **Text dedup + timing** — Group consecutive frames with similar text (SequenceMatcher ≥ 0.85), record start/end timestamps
+5. **Output** — SRT and/or JSON
+
+### Reference Storage (`references.py`)
+
+Per-collection JSON files stored in `data/references/<platform>/`, with a master index at `data/references/index.json`. Platform directories are created on demand.
+
+Each collection contains metadata (source URL, platform, language, extractor) and a list of timed text segments. Factory methods create collections from OCR JSON or SRT files.
+
+### CLI Tools
+
+| Script | Purpose |
+|--------|---------|
+| `scripts/extract_subtitles.py` | OCR extraction from video file or URL → SRT/JSON |
+| `scripts/gather_references.py` | Add/list/search reference translations; auto-detects platform from URL; tries soft-sub extraction before OCR fallback |
+
+### Future (Phase 2)
+
+- Timestamp-based JP↔reference alignment
+- RAG injection of reference translations into LLM prompts
+- Automated evaluation metrics (BLEU, semantic similarity)
 
 ## Domain Knowledge (RAG Approach)
 
@@ -410,12 +457,16 @@ graph TD
 | `translate.py` | LLM translation with prompt construction + batched API calls |
 | `subtitle.py` | SRT generation with line wrapping (mono + bilingual) |
 | `embed.py` | FFmpeg subtitle burn-in (GPU/CPU) and soft subtitle muxing |
+| `ocr.py` | Burned-in subtitle OCR extraction using PaddleOCR (standalone, requires `[ocr]` extras) |
+| `references.py` | Reference translation storage — save/load/list/search collections |
 
 ### Scripts
 
 | File | Description |
 |------|-------------|
 | `scripts/build_glossary.py` | Standalone glossary builder (runs `glossary.build_glossary()`) |
+| `scripts/extract_subtitles.py` | OCR subtitle extraction CLI (video file or URL → SRT/JSON) |
+| `scripts/gather_references.py` | Reference translation management CLI (add/list/search) |
 
 ### Data Files (`data/`)
 
@@ -428,6 +479,8 @@ graph TD
 | `jargon/community_jargon.zh-TW.json` | Traditional Chinese jargon (168 entries) |
 | `corrections/whisper_corrections.json` | ASR correction rules (48) + initial_prompt terms (13) |
 | `context/game_world_context.json` | Game world knowledge for prompt injection |
+| `references/index.json` | Master index of reference translation collections |
+| `references/<platform>/*.json` | Per-collection reference translations (created on demand) |
 
 ### Web UI (`web/src/`)
 
@@ -487,6 +540,14 @@ graph TD
 | `openai` >=1.50 | OpenAI API client |
 | `python-dotenv` | `.env` file loading |
 | `tqdm` | Progress bars |
+
+**Optional `[ocr]` extras** (`uv sync --extra ocr`):
+
+| Package | Purpose |
+|---------|---------|
+| `paddlepaddle-gpu` >=2.6 | PaddlePaddle deep learning framework (GPU) |
+| `paddleocr` >=2.9 | OCR engine with CJK models |
+| `opencv-python` >=4.8 | Video frame extraction and image processing |
 
 ### Data Sources
 
