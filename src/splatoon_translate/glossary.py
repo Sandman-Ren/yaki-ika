@@ -150,7 +150,15 @@ def load_glossary(
     target_lang: str = "zh-CN",
     glossary_path: Path | None = None,
 ) -> dict[str, dict]:
-    """Load the pre-built glossary lookup dict (keyed by JP term)."""
+    """Load the pre-built glossary lookup dict (keyed by JP term).
+
+    Returns an empty dict if the glossary file doesn't exist (the pipeline
+    will still work, just without game-term injection).
+    """
     glossary_path = glossary_path or GLOSSARY_DIR / f"glossary_lookup.{target_lang}.json"
+    if not glossary_path.exists():
+        print(f"  Warning: glossary not found at {glossary_path}")
+        print(f"           Run 'python scripts/build_glossary.py {target_lang}' to build it.")
+        return {}
     with open(glossary_path, encoding="utf-8") as f:
         return json.load(f)

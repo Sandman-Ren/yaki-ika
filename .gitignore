@@ -36,7 +36,6 @@ desktop.ini
 
 # Project
 output/
-data/glossary/*.json
 *.wav
 *.mp4
 *.mkv

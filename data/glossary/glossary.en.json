@@ -1,0 +1,9560 @@
+[
+  {
+    "jp": "クマサン印のブラスター",
+    "target": "Grizzco Blaster",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "Rブラスターエリート",
+    "target": "Rapid Blaster Pro",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "Rブラスターエリートデコ",
+    "target": "Rapid Blaster Pro Deco",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "RブラスターエリートWNTR",
+    "target": "Rapid Blaster Pro WNT-R",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "クラッシュブラスター",
+    "target": "Clash Blaster",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "クラッシュブラスターネオ",
+    "target": "Clash Blaster Neo",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "ラピッドブラスター",
+    "target": "Rapid Blaster",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "ラピッドブラスターデコ",
+    "target": "Rapid Blaster Deco",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "ロングブラスター",
+    "target": "Range Blaster",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "ロングブラスターカスタム",
+    "target": "Custom Range Blaster",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "ホットブラスター",
+    "target": "Blaster",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "ホットブラスターカスタム",
+    "target": "Custom Blaster",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "ホットブラスター艶",
+    "target": "Gleamz Blaster",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "S-BLAST92",
+    "target": "S-BLAST '92",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "S-BLAST91",
+    "target": "S-BLAST '91",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "ノヴァブラスター",
+    "target": "Luna Blaster",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "ノヴァブラスターネオ",
+    "target": "Luna Blaster Neo",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "オーダーブラスター レプリカ",
+    "target": "Order Blaster Replica",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "フィンセント・ヒュー",
+    "target": "Painbrush Nouveau",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "フィンセントBRNZ",
+    "target": "Painbrush BRN-Z",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "パブロ・ヒュー",
+    "target": "Inkbrush Nouveau",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "ホクサイ・ヒュー",
+    "target": "Octobrush Nouveau",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "ホクサイ彗",
+    "target": "Cometz Octobrush",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "オーダーブラシ レプリカ",
+    "target": "Orderbrush Replica",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "クマサン印のチャージャー",
+    "target": "Grizzco Charger",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "ソイチューバーカスタム",
+    "target": "Custom Goo Tuber",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "14式竹筒銃・甲",
+    "target": "Bamboozler 14 Mk I",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "14式竹筒銃・乙",
+    "target": "Bamboozler 14 Mk II",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "4Kスコープ",
+    "target": "E-liter 4K Scope",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "4Kスコープカスタム",
+    "target": "Custom E-liter 4K Scope",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "リッター4K",
+    "target": "E-liter 4K",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "リッター4Kカスタム",
+    "target": "Custom E-liter 4K",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "スプラスコープ",
+    "target": "Splatterscope",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "スプラスコープコラボ",
+    "target": "Z+F Splatterscope",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "スプラスコープFRST",
+    "target": "Splatterscope CAM-O",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "スプラチャージャー",
+    "target": "Splat Charger",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "スプラチャージャーコラボ",
+    "target": "Z+F Splat Charger",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "スプラチャージャーFRST",
+    "target": "Splat Charger CAM-O",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "オーダーチャージャー レプリカ",
+    "target": "Order Charger Replica",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "R-PEN/5H",
+    "target": "Snipewriter 5H",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "R-PEN/5B",
+    "target": "Snipewriter 5B",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "スクイックリンα",
+    "target": "Classic Squiffer",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "スクイックリンβ",
+    "target": "New Squiffer",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "クマサン印のマニューバー",
+    "target": "Grizzco Dualies",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "デュアルスイーパー",
+    "target": "Dualie Squelchers",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "デュアルスイーパーカスタム",
+    "target": "Custom Dualie Squelchers",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "デュアルスイーパー蹄",
+    "target": "Hoofz Dualie Squelchers",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "ケルビン525",
+    "target": "Glooga Dualies",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "ケルビン525デコ",
+    "target": "Glooga Dualies Deco",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "ガエンFF",
+    "target": "Douser Dualies FF",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "ガエンFFカスタム",
+    "target": "Custom Douser Dualies FF",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "スプラマニューバー",
+    "target": "Splat Dualies",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "スプラマニューバーコラボ",
+    "target": "Enperry Splat Dualies",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "スプラマニューバー耀",
+    "target": "Twinklez Splat Dualies",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "オーダーマニューバー レプリカ",
+    "target": "Order Dualie Replicas",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "スパッタリー・ヒュー",
+    "target": "Dapple Dualies Nouveau",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "スパッタリーOWL",
+    "target": "Dapple Dualies NOC-T",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "クアッドホッパーブラック",
+    "target": "Dark Tetra Dualies",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "クアッドホッパーホワイト",
+    "target": "Light Tetra Dualies",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "クマサン印のローラー",
+    "target": "Grizzco Roller",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "カーボンローラー",
+    "target": "Carbon Roller",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "カーボンローラーデコ",
+    "target": "Carbon Roller Deco",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "カーボンローラーANGL",
+    "target": "Carbon Roller ANG-L",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "ダイナモローラー",
+    "target": "Dynamo Roller",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "ダイナモローラーテスラ",
+    "target": "Gold Dynamo Roller",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "ダイナモローラー冥",
+    "target": "Starz Dynamo Roller",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "ヴァリアブルローラー",
+    "target": "Flingza Roller",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "ヴァリアブルローラーフォイル",
+    "target": "Foil Flingza Roller",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "スプラローラー",
+    "target": "Splat Roller",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "スプラローラーコラボ",
+    "target": "Krak-On Splat Roller",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "オーダーローラー レプリカ",
+    "target": "Order Roller Replica",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "ワイドローラー",
+    "target": "Big Swig Roller",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "ワイドローラーコラボ",
+    "target": "Big Swig Roller Express",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "ワイドローラー惑",
+    "target": "Planetz Big Swig Roller",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "クマサン印のワイパー",
+    "target": "Grizzco Splatana",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "デンタルワイパーミント",
+    "target": "Mint Decavitator",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "デンタルワイパースミ",
+    "target": "Charcoal Decavitator",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "ドライブワイパーデコ",
+    "target": "Splatana Wiper Deco",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "ドライブワイパーRUST",
+    "target": "Splatana Wiper RUS-T",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "ジムワイパー・ヒュー",
+    "target": "Splatana Stamper Nouveau",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "ジムワイパー封",
+    "target": "Stickerz Splatana Stamper",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "オーダーワイパー レプリカ",
+    "target": "Order Splatana Replica",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "クマサン印のシェルター",
+    "target": "Grizzco Brella",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "スパイガジェット",
+    "target": "Undercover Brella",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "スパイガジェットソレーラ",
+    "target": "Undercover Sorella Brella",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "スパイガジェット繚",
+    "target": "Patternz Undercover Brella",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "24式張替傘・甲",
+    "target": "Recycled Brella 24 Mk I",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "24式張替傘・乙",
+    "target": "Recycled Brella 24 Mk II",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "パラシェルターソレーラ",
+    "target": "Sorella Brella",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "オーダーシェルター レプリカ",
+    "target": "Order Brella Replica",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "キャンピングシェルター",
+    "target": "Tenta Brella",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "キャンピングシェルターソレーラ",
+    "target": "Tenta Sorella Brella",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "キャンピングシェルターCREM",
+    "target": "Tenta Brella CRE-M",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "プロモデラーMG",
+    "target": "Aerospray MG",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "プロモデラーRG",
+    "target": "Aerospray RG",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "プロモデラー彩",
+    "target": "Colorz Aerospray",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "プライムシューター",
+    "target": "Splattershot Pro",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "プライムシューターコラボ",
+    "target": "Forge Splattershot Pro",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "プライムシューターFRZN",
+    "target": "Splattershot Pro FRZ-N",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "わかばシューター",
+    "target": "Splattershot Jr.",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "もみじシューター",
+    "target": "Custom Splattershot Jr.",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "ボトルガイザー",
+    "target": "Squeezer",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "ボトルガイザーフォイル",
+    "target": "Foil Squeezer",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": ".52ガロン",
+    "target": ".52 Gal",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": ".52ガロンデコ",
+    "target": ".52 Gal Deco",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": ".96ガロン",
+    "target": ".96 Gal",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": ".96ガロンデコ",
+    "target": ".96 Gal Deco",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": ".96ガロン爪",
+    "target": "Clawz .96 Gal",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "ジェットスイーパー",
+    "target": "Jet Squelcher",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "ジェットスイーパーカスタム",
+    "target": "Custom Jet Squelcher",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "ジェットスイーパーCOBR",
+    "target": "Jet Squelcher COB-R",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "スプラシューター",
+    "target": "Splattershot",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "スプラシューターコラボ",
+    "target": "Tentatek Splattershot",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "スプラシューター煌",
+    "target": "Glamorz Splattershot",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "ヒーローシューター レプリカ",
+    "target": "Hero Shot Replica",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "オーダーシューター レプリカ",
+    "target": "Order Shot Replica",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "オクタシューター レプリカ",
+    "target": "Octo Shot Replica",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "シャープマーカー",
+    "target": "Splash-o-matic",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "シャープマーカーネオ",
+    "target": "Neo Splash-o-matic",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "シャープマーカーGECK",
+    "target": "Splash-o-matic GCK-O",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "スペースシューター",
+    "target": "Splattershot Nova",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "スペースシューターコラボ",
+    "target": "Annaki Splattershot Nova",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "N-ZAP85",
+    "target": "N-ZAP '85",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "N-ZAP89",
+    "target": "N-ZAP '89",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "ボールドマーカー",
+    "target": "Sploosh-o-matic",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "ボールドマーカーネオ",
+    "target": "Neo Sploosh-o-matic",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "H3リールガン",
+    "target": "H-3 Nozzlenose",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "H3リールガンD",
+    "target": "H-3 Nozzlenose D",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "H3リールガンSNAK",
+    "target": "H-3 Nozzlenose VIP-R",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "L3リールガン",
+    "target": "L-3 Nozzlenose",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "L3リールガンD",
+    "target": "L-3 Nozzlenose D",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "L3リールガン箔",
+    "target": "Glitterz L-3 Nozzlenose",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "オーバーフロッシャーデコ",
+    "target": "Bloblobber Deco",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "クマサン印のスロッシャー",
+    "target": "Grizzco Slosher",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "ヒッセン・ヒュー",
+    "target": "Tri-Slosher Nouveau",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "ヒッセンASH",
+    "target": "Tri-Slosher ASH-N",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "モップリンD",
+    "target": "Dread Wringer D",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "モップリン角",
+    "target": "Hornz Dread Wringer",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "スクリュースロッシャー",
+    "target": "Sloshing Machine",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "スクリュースロッシャーネオ",
+    "target": "Sloshing Machine Neo",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "バケットスロッシャー",
+    "target": "Slosher",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "バケットスロッシャーデコ",
+    "target": "Slosher Deco",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "オーダースロッシャー レプリカ",
+    "target": "Order Slosher Replica",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "エクスプロッシャー",
+    "target": "Explosher",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "エクスプロッシャーカスタム",
+    "target": "Custom Explosher",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "クーゲルシュライバー",
+    "target": "Ballpoint Splatling",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "クーゲルシュライバー・ヒュー",
+    "target": "Ballpoint Splatling Nouveau",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "イグザミナー",
+    "target": "Heavy Edit Splatling",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "イグザミナー・ヒュー",
+    "target": "Heavy Edit Splatling Nouveau",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "ハイドラント",
+    "target": "Hydra Splatling",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "ハイドラントカスタム",
+    "target": "Custom Hydra Splatling",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "ハイドラント圧",
+    "target": "Torrentz Hydra Splatling",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "スプラスピナー",
+    "target": "Mini Splatling",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "スプラスピナーコラボ",
+    "target": "Zink Mini Splatling",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "スプラスピナーPYTN",
+    "target": "Mini Splatling RTL-R",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "ノーチラス47",
+    "target": "Nautilus 47",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "ノーチラス79",
+    "target": "Nautilus 79",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "バレルスピナー",
+    "target": "Heavy Splatling",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "バレルスピナーデコ",
+    "target": "Heavy Splatling Deco",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "オーダースピナー レプリカ",
+    "target": "Order Splatling Replica",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "クマサン印のストリンガー",
+    "target": "Grizzco Stringer",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "フルイドV",
+    "target": "Wellstring V",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "フルイドVカスタム",
+    "target": "Custom Wellstring V",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "トライストリンガー",
+    "target": "Tri-Stringer",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "トライストリンガーコラボ",
+    "target": "Inkline Tri-Stringer",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "トライストリンガー燈",
+    "target": "Bulbz Tri-Stringer",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "オーダーストリンガー レプリカ",
+    "target": "Order Stringer Replica",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "LACT-450",
+    "target": "REEF-LUX 450",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "LACT-450デコ",
+    "target": "REEF-LUX 450 Deco",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "LACT-450MILK",
+    "target": "REEF-LUX 450 MIL-K",
+    "category": "WeaponName_Main"
+  },
+  {
+    "jp": "ジャンプビーコン",
+    "target": "Squid Beakon",
+    "category": "WeaponName_Sub"
+  },
+  {
+    "jp": "カーリングボム",
+    "target": "Curling Bomb",
+    "category": "WeaponName_Sub"
+  },
+  {
+    "jp": "タンサンボム",
+    "target": "Fizzy Bomb",
+    "category": "WeaponName_Sub"
+  },
+  {
+    "jp": "クイックボム",
+    "target": "Burst Bomb",
+    "category": "WeaponName_Sub"
+  },
+  {
+    "jp": "ロボットボム",
+    "target": "Autobomb",
+    "category": "WeaponName_Sub"
+  },
+  {
+    "jp": "スプラッシュボム",
+    "target": "Splat Bomb",
+    "category": "WeaponName_Sub"
+  },
+  {
+    "jp": "キューバンボム",
+    "target": "Suction Bomb",
+    "category": "WeaponName_Sub"
+  },
+  {
+    "jp": "トーピード",
+    "target": "Torpedo",
+    "category": "WeaponName_Sub"
+  },
+  {
+    "jp": "ラインマーカー",
+    "target": "Angle Shooter",
+    "category": "WeaponName_Sub"
+  },
+  {
+    "jp": "ポイントセンサー",
+    "target": "Point Sensor",
+    "category": "WeaponName_Sub"
+  },
+  {
+    "jp": "ポイズンミスト",
+    "target": "Toxic Mist",
+    "category": "WeaponName_Sub"
+  },
+  {
+    "jp": "スプラッシュシールド",
+    "target": "Splash Wall",
+    "category": "WeaponName_Sub"
+  },
+  {
+    "jp": "スプリンクラー",
+    "target": "Sprinkler",
+    "category": "WeaponName_Sub"
+  },
+  {
+    "jp": "トラップ",
+    "target": "Ink Mine",
+    "category": "WeaponName_Sub"
+  },
+  {
+    "jp": "キューインキ",
+    "target": "Ink Vac",
+    "category": "WeaponName_Special"
+  },
+  {
+    "jp": "テイオウイカ",
+    "target": "Kraken Royale",
+    "category": "WeaponName_Special"
+  },
+  {
+    "jp": "カニタンク",
+    "target": "Crab Tank",
+    "category": "WeaponName_Special"
+  },
+  {
+    "jp": "スミナガシート",
+    "target": "Splattercolor Screen",
+    "category": "WeaponName_Special"
+  },
+  {
+    "jp": "エナジースタンド",
+    "target": "Tacticooler",
+    "category": "WeaponName_Special"
+  },
+  {
+    "jp": "デコイチラシ",
+    "target": "Super Chump",
+    "category": "WeaponName_Special"
+  },
+  {
+    "jp": "ガチホコ",
+    "target": "Rainmaker",
+    "category": "WeaponName_Special"
+  },
+  {
+    "jp": "グレートバリア",
+    "target": "Big Bubbler",
+    "category": "WeaponName_Special"
+  },
+  {
+    "jp": "アメフラシ",
+    "target": "Ink Storm",
+    "category": "WeaponName_Special"
+  },
+  {
+    "jp": "ジェットパック",
+    "target": "Inkjet",
+    "category": "WeaponName_Special"
+  },
+  {
+    "jp": "メガホンレーザー5.1ch",
+    "target": "Killer Wail 5.1",
+    "category": "WeaponName_Special"
+  },
+  {
+    "jp": "マルチミサイル",
+    "target": "Tenta Missiles",
+    "category": "WeaponName_Special"
+  },
+  {
+    "jp": "ナイスダマ",
+    "target": "Booyah Bomb",
+    "category": "WeaponName_Special"
+  },
+  {
+    "jp": "ウルトラチャクチ",
+    "target": "Triple Splashdown",
+    "category": "WeaponName_Special"
+  },
+  {
+    "jp": "ホップソナー",
+    "target": "Wave Breaker",
+    "category": "WeaponName_Special"
+  },
+  {
+    "jp": "サメライド",
+    "target": "Reefslider",
+    "category": "WeaponName_Special"
+  },
+  {
+    "jp": "スーパーチャクチ",
+    "target": "Splashdown",
+    "category": "WeaponName_Special"
+  },
+  {
+    "jp": "トリプルトルネード",
+    "target": "Triple Inkstrike",
+    "category": "WeaponName_Special"
+  },
+  {
+    "jp": "ウルトラショット",
+    "target": "Trizooka",
+    "category": "WeaponName_Special"
+  },
+  {
+    "jp": "ウルトラハンコ",
+    "target": "Ultra Stamp",
+    "category": "WeaponName_Special"
+  },
+  {
+    "jp": "ブラスター",
+    "target": "Blasters",
+    "category": "WeaponTypeName"
+  },
+  {
+    "jp": "フデ",
+    "target": "Brushes",
+    "category": "WeaponTypeName"
+  },
+  {
+    "jp": "チャージャー",
+    "target": "Chargers",
+    "category": "WeaponTypeName"
+  },
+  {
+    "jp": "ローラー",
+    "target": "Rollers",
+    "category": "WeaponTypeName"
+  },
+  {
+    "jp": "ワイパー",
+    "target": "Splatanas",
+    "category": "WeaponTypeName"
+  },
+  {
+    "jp": "シェルター",
+    "target": "Brellas",
+    "category": "WeaponTypeName"
+  },
+  {
+    "jp": "シューター",
+    "target": "Shooters",
+    "category": "WeaponTypeName"
+  },
+  {
+    "jp": "スロッシャー",
+    "target": "Sloshers",
+    "category": "WeaponTypeName"
+  },
+  {
+    "jp": "スピナー",
+    "target": "Splatlings",
+    "category": "WeaponTypeName"
+  },
+  {
+    "jp": "ストリンガー",
+    "target": "Stringers",
+    "category": "WeaponTypeName"
+  },
+  {
+    "jp": "リュウグウターミナル",
+    "target": "Lemuria Hub",
+    "category": "VSStageName"
+  },
+  {
+    "jp": "クサヤ温泉",
+    "target": "Brinewater Springs",
+    "category": "VSStageName"
+  },
+  {
+    "jp": "スメーシーワールド",
+    "target": "Wahoo World",
+    "category": "VSStageName"
+  },
+  {
+    "jp": "デカライン高架下",
+    "target": "Urchin Underpass",
+    "category": "VSStageName"
+  },
+  {
+    "jp": "バイガイ亭",
+    "target": "Robo ROM-en",
+    "category": "VSStageName"
+  },
+  {
+    "jp": "ゴンズイ地区",
+    "target": "Eeltail Alley",
+    "category": "VSStageName"
+  },
+  {
+    "jp": "ナンプラー遺跡",
+    "target": "Um'ami Ruins",
+    "category": "VSStageName"
+  },
+  {
+    "jp": "マヒマヒリゾート＆スパ",
+    "target": "Mahi-Mahi Resort",
+    "category": "VSStageName"
+  },
+  {
+    "jp": "ヒラメが丘団地",
+    "target": "Flounder Heights",
+    "category": "VSStageName"
+  },
+  {
+    "jp": "マサバ海峡大橋",
+    "target": "Hammerhead Bridge",
+    "category": "VSStageName"
+  },
+  {
+    "jp": "ザトウマーケット",
+    "target": "MakoMart",
+    "category": "VSStageName"
+  },
+  {
+    "jp": "グランドバンカラアリーナ",
+    "target": "Grand Splatlands Bowl",
+    "category": "VSStageName"
+  },
+  {
+    "jp": "チョウザメ造船",
+    "target": "Sturgeon Shipyard",
+    "category": "VSStageName"
+  },
+  {
+    "jp": "マンタマリア号",
+    "target": "Manta Maria",
+    "category": "VSStageName"
+  },
+  {
+    "jp": "キンメダイ美術館",
+    "target": "Museum d'Alfonsino",
+    "category": "VSStageName"
+  },
+  {
+    "jp": "カジキ空港",
+    "target": "Marlin Airport",
+    "category": "VSStageName"
+  },
+  {
+    "jp": "ランダム",
+    "target": "Random",
+    "category": "VSStageName"
+  },
+  {
+    "jp": "ネギトロ炭鉱",
+    "target": "Bluefin Depot",
+    "category": "VSStageName"
+  },
+  {
+    "jp": "ナメロウ金属",
+    "target": "Mincemeat Metalworks",
+    "category": "VSStageName"
+  },
+  {
+    "jp": "タラポートショッピングパーク",
+    "target": "Barnacle & Dime",
+    "category": "VSStageName"
+  },
+  {
+    "jp": "タカアシ経済特区",
+    "target": "Crableg Capital",
+    "category": "VSStageName"
+  },
+  {
+    "jp": "マテガイ放水路",
+    "target": "Undertow Spillway",
+    "category": "VSStageName"
+  },
+  {
+    "jp": "オヒョウ海運",
+    "target": "Shipshape Cargo Co.",
+    "category": "VSStageName"
+  },
+  {
+    "jp": "？？？",
+    "target": "???",
+    "category": "VSStageName"
+  },
+  {
+    "jp": "海女美術大学",
+    "target": "Inkblot Art Academy",
+    "category": "VSStageName"
+  },
+  {
+    "jp": "コンブトラック",
+    "target": "Humpback Pump Track",
+    "category": "VSStageName"
+  },
+  {
+    "jp": "ヤガラ市場",
+    "target": "Hagglefish Market",
+    "category": "VSStageName"
+  },
+  {
+    "jp": "ユノハナ大渓谷",
+    "target": "Scorch Gorge",
+    "category": "VSStageName"
+  },
+  {
+    "jp": "各地で同時発生",
+    "target": "Multiple Sites",
+    "category": "CoopStageName"
+  },
+  {
+    "jp": "ムニ・エール海洋発電所",
+    "target": "Gone Fission Hydroplant",
+    "category": "CoopStageName"
+  },
+  {
+    "jp": "すじこジャンクション跡",
+    "target": "Jammin' Salmon Junction",
+    "category": "CoopStageName"
+  },
+  {
+    "jp": "トキシラズいぶし工房",
+    "target": "Salmonid Smokeyard",
+    "category": "CoopStageName"
+  },
+  {
+    "jp": "どんぴこ闘技場",
+    "target": "Bonerattle Arena",
+    "category": "CoopStageName"
+  },
+  {
+    "jp": "難破船ドン・ブラコ",
+    "target": "Marooner's Bay",
+    "category": "CoopStageName"
+  },
+  {
+    "jp": "アラマキ砦",
+    "target": "Sockeye Station",
+    "category": "CoopStageName"
+  },
+  {
+    "jp": "シェケナダム",
+    "target": "Spawning Grounds",
+    "category": "CoopStageName"
+  },
+  {
+    "jp": "テッキュウ",
+    "target": "Big Shot",
+    "category": "CoopEnemy"
+  },
+  {
+    "jp": "シャケコプター",
+    "target": "Chinook",
+    "category": "CoopEnemy"
+  },
+  {
+    "jp": "ダイバー",
+    "target": "Flipper-Flopper",
+    "category": "CoopEnemy"
+  },
+  {
+    "jp": "タマヒロイ",
+    "target": "Snatcher",
+    "category": "CoopEnemy"
+  },
+  {
+    "jp": "ハシラ",
+    "target": "Fish Stick",
+    "category": "CoopEnemy"
+  },
+  {
+    "jp": "ナベブタ",
+    "target": "Slammin' Lid",
+    "category": "CoopEnemy"
+  },
+  {
+    "jp": "モグラ",
+    "target": "Maws",
+    "category": "CoopEnemy"
+  },
+  {
+    "jp": "バクダン",
+    "target": "Steelhead",
+    "category": "CoopEnemy"
+  },
+  {
+    "jp": "カタパッド",
+    "target": "Flyfish",
+    "category": "CoopEnemy"
+  },
+  {
+    "jp": "ドスコイ",
+    "target": "Cohock",
+    "category": "CoopEnemy"
+  },
+  {
+    "jp": "テッパン",
+    "target": "Scrapper",
+    "category": "CoopEnemy"
+  },
+  {
+    "jp": "ヘビ",
+    "target": "Steel Eel",
+    "category": "CoopEnemy"
+  },
+  {
+    "jp": "タワー",
+    "target": "Stinger",
+    "category": "CoopEnemy"
+  },
+  {
+    "jp": "コウモリ",
+    "target": "Drizzler",
+    "category": "CoopEnemy"
+  },
+  {
+    "jp": "オカシラ連合",
+    "target": "Triumvirate",
+    "category": "CoopEnemy"
+  },
+  {
+    "jp": "かけだし",
+    "target": "Apprentice",
+    "category": "CoopGrade"
+  },
+  {
+    "jp": "はんにんまえ",
+    "target": "Part-Timer",
+    "category": "CoopGrade"
+  },
+  {
+    "jp": "いちにんまえ",
+    "target": "Go-Getter",
+    "category": "CoopGrade"
+  },
+  {
+    "jp": "じゅくれん",
+    "target": "Overachiever",
+    "category": "CoopGrade"
+  },
+  {
+    "jp": "たつじん＋１",
+    "target": "Profreshional +1",
+    "category": "CoopGrade"
+  },
+  {
+    "jp": "たつじん＋２",
+    "target": "Profreshional +2",
+    "category": "CoopGrade"
+  },
+  {
+    "jp": "たつじん＋３",
+    "target": "Profreshional +3",
+    "category": "CoopGrade"
+  },
+  {
+    "jp": "かけだし アルバイター",
+    "target": "Apprentice",
+    "category": "CoopGrade"
+  },
+  {
+    "jp": "はんにんまえ アルバイター",
+    "target": "Part-Timer",
+    "category": "CoopGrade"
+  },
+  {
+    "jp": "いちにんまえ アルバイター",
+    "target": "Go-Getter",
+    "category": "CoopGrade"
+  },
+  {
+    "jp": "じゅくれん アルバイター",
+    "target": "Overachiever",
+    "category": "CoopGrade"
+  },
+  {
+    "jp": "たつじん アルバイター",
+    "target": "Profreshional",
+    "category": "CoopGrade"
+  },
+  {
+    "jp": "たつじん＋１ アルバイター",
+    "target": "Profreshional +1",
+    "category": "CoopGrade"
+  },
+  {
+    "jp": "たつじん＋２ アルバイター",
+    "target": "Profreshional +2",
+    "category": "CoopGrade"
+  },
+  {
+    "jp": "たつじん＋３ アルバイター",
+    "target": "Profreshional +3",
+    "category": "CoopGrade"
+  },
+  {
+    "jp": "でんせつ アルバイター",
+    "target": "Eggsecutive VP",
+    "category": "CoopGrade"
+  },
+  {
+    "jp": "バイトツナギ オレンジ",
+    "target": "Orange Slopsuit",
+    "category": "CoopSkinName"
+  },
+  {
+    "jp": "バイトツナギ グリーン",
+    "target": "Green Slopsuit",
+    "category": "CoopSkinName"
+  },
+  {
+    "jp": "バイトツナギ イエロー",
+    "target": "Yellow Slopsuit",
+    "category": "CoopSkinName"
+  },
+  {
+    "jp": "バイトツナギ ピンク",
+    "target": "Pink Slopsuit",
+    "category": "CoopSkinName"
+  },
+  {
+    "jp": "バイトツナギ ブルー",
+    "target": "Blue Slopsuit",
+    "category": "CoopSkinName"
+  },
+  {
+    "jp": "バイトツナギ ブラック",
+    "target": "Black Slopsuit",
+    "category": "CoopSkinName"
+  },
+  {
+    "jp": "バイトツナギ ホワイト",
+    "target": "White Slopsuit",
+    "category": "CoopSkinName"
+  },
+  {
+    "jp": "バイトウェーダー オレンジ",
+    "target": "Orange Gloopsuit",
+    "category": "CoopSkinName"
+  },
+  {
+    "jp": "バイトウェーダー ブラック",
+    "target": "Black Gloopsuit",
+    "category": "CoopSkinName"
+  },
+  {
+    "jp": "バイトウェーダー イエロー",
+    "target": "Yellow Gloopsuit",
+    "category": "CoopSkinName"
+  },
+  {
+    "jp": "バイトウェーダー ブラウン",
+    "target": "Brown Gloopsuit",
+    "category": "CoopSkinName"
+  },
+  {
+    "jp": "バイトツナギ ドット",
+    "target": "Polka-Dot Slopsuit",
+    "category": "CoopSkinName"
+  },
+  {
+    "jp": "バイトツナギ カモ",
+    "target": "Camo Slopsuit",
+    "category": "CoopSkinName"
+  },
+  {
+    "jp": "バイトツナギ ニシキ",
+    "target": "Koi Slopsuit",
+    "category": "CoopSkinName"
+  },
+  {
+    "jp": "バイトウェーダー ピーチ",
+    "target": "Peach Gloopsuit",
+    "category": "CoopSkinName"
+  },
+  {
+    "jp": "バイトウェーダー ライム",
+    "target": "Lime Gloopsuit",
+    "category": "CoopSkinName"
+  },
+  {
+    "jp": "バイトウェーダー ベリー",
+    "target": "Berry Gloopsuit",
+    "category": "CoopSkinName"
+  },
+  {
+    "jp": "バイトツナギ シルバー",
+    "target": "Silver Slopsuit",
+    "category": "CoopSkinName"
+  },
+  {
+    "jp": "バイトツナギ ゴールド",
+    "target": "Gold Slopsuit",
+    "category": "CoopSkinName"
+  },
+  {
+    "jp": "バイトツナギ プリズム",
+    "target": "Iridescent Slopsuit",
+    "category": "CoopSkinName"
+  },
+  {
+    "jp": "バイトツナギ ブロッカー",
+    "target": "Heavy-Duty Slopsuit",
+    "category": "CoopSkinName"
+  },
+  {
+    "jp": "アクション強化",
+    "target": "Intensify Action",
+    "category": "GearPowerName"
+  },
+  {
+    "jp": "カムバック",
+    "target": "Comeback",
+    "category": "GearPowerName"
+  },
+  {
+    "jp": "ラストスパート",
+    "target": "Last-Ditch Effort",
+    "category": "GearPowerName"
+  },
+  {
+    "jp": "追加ギアパワー倍化",
+    "target": "Ability Doubler",
+    "category": "GearPowerName"
+  },
+  {
+    "jp": "復活ペナルティアップ",
+    "target": "Respawn Punisher",
+    "category": "GearPowerName"
+  },
+  {
+    "jp": "ヒト移動速度アップ",
+    "target": "Run Speed Up",
+    "category": "GearPowerName"
+  },
+  {
+    "jp": "インク回復力アップ",
+    "target": "Ink Recovery Up",
+    "category": "GearPowerName"
+  },
+  {
+    "jp": "スーパージャンプ時間短縮",
+    "target": "Quick Super Jump",
+    "category": "GearPowerName"
+  },
+  {
+    "jp": "インク効率アップ(メイン)",
+    "target": "Ink Saver (Main)",
+    "category": "GearPowerName"
+  },
+  {
+    "jp": "逆境強化",
+    "target": "Tenacity",
+    "category": "GearPowerName"
+  },
+  {
+    "jp": "対物攻撃力アップ",
+    "target": "Object Shredder",
+    "category": "GearPowerName"
+  },
+  {
+    "jp": "相手インク影響軽減",
+    "target": "Ink Resistance Up",
+    "category": "GearPowerName"
+  },
+  {
+    "jp": "スペシャル減少量ダウン",
+    "target": "Special Saver",
+    "category": "GearPowerName"
+  },
+  {
+    "jp": "復活時間短縮",
+    "target": "Quick Respawn",
+    "category": "GearPowerName"
+  },
+  {
+    "jp": "受け身術",
+    "target": "Drop Roller",
+    "category": "GearPowerName"
+  },
+  {
+    "jp": "スペシャル増加量アップ",
+    "target": "Special Charge Up",
+    "category": "GearPowerName"
+  },
+  {
+    "jp": "スペシャル性能アップ",
+    "target": "Special Power Up",
+    "category": "GearPowerName"
+  },
+  {
+    "jp": "イカニンジャ",
+    "target": "Ninja Squid",
+    "category": "GearPowerName"
+  },
+  {
+    "jp": "イカダッシュ速度アップ",
+    "target": "Swim Speed Up",
+    "category": "GearPowerName"
+  },
+  {
+    "jp": "スタートダッシュ",
+    "target": "Opening Gambit",
+    "category": "GearPowerName"
+  },
+  {
+    "jp": "サブ影響軽減",
+    "target": "Sub Resistance Up",
+    "category": "GearPowerName"
+  },
+  {
+    "jp": "インク効率アップ(サブ)",
+    "target": "Ink Saver (Sub)",
+    "category": "GearPowerName"
+  },
+  {
+    "jp": "サブ性能アップ",
+    "target": "Sub Power Up",
+    "category": "GearPowerName"
+  },
+  {
+    "jp": "ステルスジャンプ",
+    "target": "Stealth Jump",
+    "category": "GearPowerName"
+  },
+  {
+    "jp": "サーマルインク",
+    "target": "Thermal Ink",
+    "category": "GearPowerName"
+  },
+  {
+    "jp": "バトロイカ",
+    "target": "SquidForce",
+    "category": "GearBrandName"
+  },
+  {
+    "jp": "アイロニック",
+    "target": "Zink",
+    "category": "GearBrandName"
+  },
+  {
+    "jp": "クラーゲス",
+    "target": "Krak-On",
+    "category": "GearBrandName"
+  },
+  {
+    "jp": "ロッケンベルグ",
+    "target": "Rockenberg",
+    "category": "GearBrandName"
+  },
+  {
+    "jp": "エゾッコ",
+    "target": "Zekko",
+    "category": "GearBrandName"
+  },
+  {
+    "jp": "フォーリマ",
+    "target": "Forge",
+    "category": "GearBrandName"
+  },
+  {
+    "jp": "ホッコリー",
+    "target": "Firefin",
+    "category": "GearBrandName"
+  },
+  {
+    "jp": "ホタックス",
+    "target": "Skalop",
+    "category": "GearBrandName"
+  },
+  {
+    "jp": "ジモン",
+    "target": "Splash Mob",
+    "category": "GearBrandName"
+  },
+  {
+    "jp": "シグレニ",
+    "target": "Inkline",
+    "category": "GearBrandName"
+  },
+  {
+    "jp": "アロメ",
+    "target": "Tentatek",
+    "category": "GearBrandName"
+  },
+  {
+    "jp": "ヤコ",
+    "target": "Takoroka",
+    "category": "GearBrandName"
+  },
+  {
+    "jp": "アナアキ",
+    "target": "Annaki",
+    "category": "GearBrandName"
+  },
+  {
+    "jp": "エンペリー",
+    "target": "Enperry",
+    "category": "GearBrandName"
+  },
+  {
+    "jp": "タタキケンサキ",
+    "target": "Toni Kensa",
+    "category": "GearBrandName"
+  },
+  {
+    "jp": "エゾッコリー",
+    "target": "Z+F",
+    "category": "GearBrandName"
+  },
+  {
+    "jp": "バラズシ",
+    "target": "Barazushi",
+    "category": "GearBrandName"
+  },
+  {
+    "jp": "シチリン",
+    "target": "Emberz",
+    "category": "GearBrandName"
+  },
+  {
+    "jp": "クマサン商会",
+    "target": "Grizzco",
+    "category": "GearBrandName"
+  },
+  {
+    "jp": "アタリメイド",
+    "target": "Cuttlegear",
+    "category": "GearBrandName"
+  },
+  {
+    "jp": "イカタコピアス",
+    "target": "Tentaclinger Earring",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "イカパッチン",
+    "target": "Squid Hairclip",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "サムライヘルメット",
+    "target": "Samurai Helmet",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "パワードマスク",
+    "target": "Power Mask",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "イカクリップ",
+    "target": "Squid Clip-Ons",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "イカカゲマスク乙",
+    "target": "Squinja Mask Mk II",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "パワードマスク オリジン",
+    "target": "Power Mask Mk I",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ヒメイトクラウンS",
+    "target": "Pearlescent Crown S",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "イイダチヘッドホン",
+    "target": "Marinated Headphones",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "エンチャントハット",
+    "target": "Enchanted Hat",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "タコティカルなヘルム",
+    "target": "Steel Helm",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ひれおくん",
+    "target": "Fresh Fish Head",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "オシャブリボーン",
+    "target": "Boss Floss",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "タコハチ",
+    "target": "Sushi Sous-Chef Band",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "バーサークヘル",
+    "target": "Chaos Helm",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "イカカゲマスク甲",
+    "target": "Squinja Mask Mk I",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ヒメイトクラウンL",
+    "target": "Pearlescent Crown L",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ホホジロノオモテ",
+    "target": "Hohojiro Mask",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "オナガノオモテ",
+    "target": "Onaga Mask",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "マンダノオモテ",
+    "target": "Manta Mask",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ワールドMCクラウン",
+    "target": "World Tour Crown",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ワールドDJヘッドホン",
+    "target": "World Tour Headphones",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ウーニーズBBキャップ",
+    "target": "Urchins Cap",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "キャンプキャップ",
+    "target": "Lightweight Cap",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ヤコメッシュ",
+    "target": "Takoroka Mesh",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ビバレッジキャップ",
+    "target": "Streetstyle Cap",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "チドリキャップ",
+    "target": "Squid-Stitch Cap",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "イカベーダーキャップ",
+    "target": "Squidvader Cap",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "カモメッシュ",
+    "target": "Camo Mesh",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "5パネルキャップ",
+    "target": "Five-Panel Cap",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "エゾッコメッシュ",
+    "target": "Zekko Mesh",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "バックワードキャップ",
+    "target": "Backward Cap",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "2ラインメッシュ",
+    "target": "Two-Stripe Mesh",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ジェットキャップ",
+    "target": "Jet Cap",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "テッカサイクルキャップ",
+    "target": "Cycling Cap",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "チャリキング帽",
+    "target": "Cycle King Cap",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ロングビルキャップ",
+    "target": "Long-Billed Cap",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "キングフリップメッシュ",
+    "target": "King Flip Mesh",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ヒッコリーワークキャップ",
+    "target": "Hickory Work Cap",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ウールウーニーズクラシック",
+    "target": "Woolly Urchins Classic",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "クラゲーダーキャップ",
+    "target": "Jellyvader Cap",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ハウスタグデニムCAP",
+    "target": "House-Tag Denim Cap",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "フグハンチング",
+    "target": "Blowfish Newsie",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ドゥーラグキャップガサネ",
+    "target": "Do-Rag, Cap & Glasses",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "フライトぼう",
+    "target": "Pilot Hat",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "シェーディングキャップ スミ",
+    "target": "Ink-Black Flap Cap",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "コーラルキャップ",
+    "target": "Coral Cap",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "イシダイストライプスキャップ",
+    "target": "Barrelfish Baseball Hat",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "マリンキャップ",
+    "target": "Cap'n Cap",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "フライカーキャップ",
+    "target": "Vintage Biker Cap",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "グンチンハ",
+    "target": "Flounder Flap Cap",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "カモキャップ ドトン",
+    "target": "Dustcloud Cap",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "カモキャップ スイトン",
+    "target": "Seafoam Cap",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "フィッシャーマンキャップ",
+    "target": "Wharfside Cap",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ブリムリブハット",
+    "target": "Clue-Detecting Cap",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ナイトハイクキャップ",
+    "target": "Headlamp Hat",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "スイムキャップ",
+    "target": "Swim Cap",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ヘッドライトヘルム",
+    "target": "Headlamp Helmet",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ダストブロッカー 2.5",
+    "target": "Dust Blocker 2000",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "アイアンマスカレイド",
+    "target": "Welding Mask",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ガーディアンアーミーハット",
+    "target": "Beekeeper Hat",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ゾネスティックスコープ",
+    "target": "Octoleet Goggles",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "レジェンドのぼうし",
+    "target": "Cap of Legend",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "アセストップソシナ",
+    "target": "Worker's Head Towel",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "スペボウ レプリカ",
+    "target": "Worker's Cap",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "マリリンハットウィズピンズ",
+    "target": "Sailor Cap",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "イトヨリキャップ",
+    "target": "Bream-Brim Cap",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "シカイバイザー",
+    "target": "Lo-Vis Visor",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "カジカブト",
+    "target": "Five-Alarm Helmet",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "パイロットメット",
+    "target": "Astro Helm",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ハイテクスコープ",
+    "target": "360 All-Scopes",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ヒラメキブレインメット",
+    "target": "Brain Strainer",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "タコツボメット",
+    "target": "Deep Sinker Helm",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ガーディアンズキャップ",
+    "target": "Commander Cap",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "マルミエールUD",
+    "target": "See-an-Enemy HUD",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ハイパーミライヘッド",
+    "target": "Retro Future Helmet",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ウキアガールRB",
+    "target": "3D Glasses",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "エル・カラマレス",
+    "target": "El Rey Calamar",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ショーグンメット",
+    "target": "Octavio Dome",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "バイトヘルメット レプリカ",
+    "target": "Hard Hat Replica",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "クロブチ レトロ",
+    "target": "Retro Specs",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "スプラッシュゴーグル",
+    "target": "Splash Goggles",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "パイロットゴーグル",
+    "target": "Pilot Goggles",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "イロメガネ",
+    "target": "Tinted Shades",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "アローバンド ブラック",
+    "target": "Black Arrowbands",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ダイバーゴーグル",
+    "target": "Snorkel Mask",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "アローバンド ホワイト",
+    "target": "White Arrowbands",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ダテコンタクト",
+    "target": "Fake Contacts",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "タレサン18K",
+    "target": "18K Aviators",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "マルベッコー",
+    "target": "Full-Moon Glasses",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "オクタグラス",
+    "target": "Octoglasses",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "セルブロウ",
+    "target": "Half-Rim Glasses",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ダブルエッグサングラス",
+    "target": "Double Egg Shades",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "エゾッコフリッパー",
+    "target": "Zekko Cap",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "マルサンSV925",
+    "target": "SV925 Circle Shades",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "アナアキバスクベレー",
+    "target": "Annaki Beret & Glasses",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "スイミングモーグル",
+    "target": "Swim Goggles",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "スミガードゴーグル",
+    "target": "Ink-Guard Goggles",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "モーグル タタキベッチュー",
+    "target": "Toni Kensa Goggles",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "デメニギスゴーグル",
+    "target": "Ink-Tinted Goggles",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "８ビットフレーム",
+    "target": "Retro Framers",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ワイヤーグラス",
+    "target": "Glassless Glasses",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "サンサンサングラス",
+    "target": "Triple-Deck Specs",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "フロート クリアグラス",
+    "target": "Invisifloats",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "バイカーシェード",
+    "target": "Moto Shades",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "アナアキスクエアグラス",
+    "target": "Annaki Charms",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "クラムグラス",
+    "target": "Glam Clam Specs",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "タマサンBC925",
+    "target": "Retro BluFocals",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "メダイサングラス",
+    "target": "Sea-Me-Nots",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "フトブチスクエア",
+    "target": "Hipster Horn-Rims",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "パーフェクトスリーパー",
+    "target": "Deluxury Sleep Mask",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ヘッドバンド ホワイト",
+    "target": "White Headband",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "キョンキョンぼう",
+    "target": "Kyonshi Hat",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ウミウシカチューシャ",
+    "target": "Li'l Devil Horns",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ホッケかめん",
+    "target": "Hockey Mask",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "アンコウラバーマスク",
+    "target": "Anglerfish Mask",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "パーティーコーンデコ",
+    "target": "Festive Party Cone",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ニューイヤーグラスDX",
+    "target": "New Year's Glasses DX",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ねじりゴージャス",
+    "target": "Twisty Headband",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ハッピーチンアナゴハット",
+    "target": "Eel-Cake Hat",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ノベルティバイザールピナス",
+    "target": "Purple Novelty Visor",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ノベルティバイザーナズナ",
+    "target": "Green Novelty Visor",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ノベルティバイザーポピー",
+    "target": "Orange Novelty Visor",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ノベルティバイザーナデシコ",
+    "target": "Pink Novelty Visor",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "バーニングブロイラー",
+    "target": "Jetflame Crest",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ギガギョコツ",
+    "target": "Fierce Fishskull",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "コズミックアンテナ",
+    "target": "Hivemind Antenna",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ジャスティスブレイン",
+    "target": "Eye of Justice",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "マミイカヘッド",
+    "target": "Undead Head",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "キャプテン・カサゴ",
+    "target": "The Plankton Walker",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "スケアリーフェイス",
+    "target": "Swim Reaper",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "カジキマスク",
+    "target": "Bleak Beak",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "カイトウ・フック",
+    "target": "Dapperdasher Hat",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "カイノワ",
+    "target": "Coral Wreath",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "キンギョマスケラ",
+    "target": "Golden Gala Masque",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "オクトパールクラウン",
+    "target": "Octopearl Crown",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ノベルティグラス ムスカリ",
+    "target": "Teal Pinhole Shades",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ノベルティグラス ヨツバ",
+    "target": "Green Pinhole Shades",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ノベルティグラス アネモネ",
+    "target": "Pink Pinhole Shades",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ノベルティグラス タンポポ",
+    "target": "Yellow Pinhole Shades",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "フェスフェイス カサゴ",
+    "target": "Lionfish Funface",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "フェスフェイス ハコフグ",
+    "target": "Cowfish Funface",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "フェスフェイス チゴフグ",
+    "target": "ZedFry Funface",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "フェスフェイス サルカニ",
+    "target": "Monkey-Crab Funface",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "フェスフェイス キツネ",
+    "target": "Fox Funface",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "フェスフェイス スマイル",
+    "target": "Cartoony Funface",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ヌラネバカチューシャ",
+    "target": "Now or Never Spikes",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ヌラネバクラウン",
+    "target": "Now or Never Crown",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ヌラネバキャップ",
+    "target": "Now or Never Cap",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ヌラネバピアス",
+    "target": "Now or Never Earrings",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ヌラネババレッタ",
+    "target": "Now or Never Barrette",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ヌラネバウィッグ",
+    "target": "Now or Never Horns",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ヌラネバカベッサ",
+    "target": "Now or Never Headdress",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ロブスターブーニー",
+    "target": "Safari Hat",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "サファリハット",
+    "target": "Jungle Hat",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "キャンプハット",
+    "target": "Camping Hat",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "フグベルハット",
+    "target": "Blowfish Bell Hat",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "スゲ",
+    "target": "Bamboo Hat",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "イカンカン",
+    "target": "Straw Boater",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "イカンカン クラシック",
+    "target": "Classic Straw Boater",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "トレジャーメット",
+    "target": "Treasure Hunter",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "イカバケット",
+    "target": "Bucket Hat",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "パッチハット",
+    "target": "Patched Hat",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "パラソルチューリップ",
+    "target": "Tulip Parasol",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "フグベルベルハット",
+    "target": "Fugu Bell Hat",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "カイガラスゲ",
+    "target": "Seashell Bamboo Hat",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ホタプラントハット",
+    "target": "Hothouse Hat",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ヤマハット",
+    "target": "Mountie Hat",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ボーラークラシック",
+    "target": "Classic Bowler",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ステンシルデニムハット",
+    "target": "Jean Dream Bucket",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ホタテンガロン",
+    "target": "Howdy Hat",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ムキウニクロシェ",
+    "target": "Urchin Understitch",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ストローハット",
+    "target": "Beachcomber",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "エゾッコリーボーラー",
+    "target": "Z+F Flair Bowler",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "フグベルベルベルハット",
+    "target": "Hat-Trick Bell Hat",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "サウナハット",
+    "target": "Sauna Hat",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ウミユリパイハット",
+    "target": "Sea-Lily Hat",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "バスケバンド",
+    "target": "B-ball Headband",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "スカッシュバンド",
+    "target": "Squash Headband",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "テニスバンド",
+    "target": "Tennis Headband",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ランニングバンド",
+    "target": "Jogging Headband",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "サッカーバンド",
+    "target": "Soccer Headband",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ヤキフグビスケットバンダナ",
+    "target": "FishFry Biscuit Bandana",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "クロヤキフグバンダナ",
+    "target": "Black FishFry Bandana",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ピンポンバンド",
+    "target": "Squidband",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "スタジオヘッドホン",
+    "target": "Studio Headphones",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "オーロラヘッドホン",
+    "target": "Designer Headphones",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "イヤーマフ",
+    "target": "Noise Cancelers",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "エンペラフックHDP",
+    "target": "Squidfin Hook Cans",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ステカセヘッドホン",
+    "target": "Squidlife Headphones",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ミミタコ8",
+    "target": "Ocho OctoPhones",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "甲伝導エンペラEP",
+    "target": "Cephalo Pods",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ミミタコ8 RAW",
+    "target": "Ocho OctoPhones Blancos",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ヘッドホン90-d",
+    "target": "Aux Boxes",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "カモヘッドホン ドトン",
+    "target": "Dustcloud 'Phones",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "カモヘッドホン スイトン",
+    "target": "Seafoam 'Phones",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "サイクルメット",
+    "target": "Bike Helmet",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ナイトビジョン",
+    "target": "Stealth Goggles",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "スケボーメット",
+    "target": "Skate Helmet",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "バイザーメット",
+    "target": "Visor Skate Helmet",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ロゴヅクシMTBメット",
+    "target": "MTB Helmet",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "イカロスHKメット",
+    "target": "Hockey Helmet",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ツヤケシMTBメット",
+    "target": "Matte Bike Helmet",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "オクトメットプライズデコ",
+    "target": "Octo Tackle Helmet Deco",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "デカメットアイシールド",
+    "target": "Deca Tackle Visor Helmet",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "シェルメット",
+    "target": "Winkle Stripe Helm",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ホーンメットBF",
+    "target": "Party Hard Hat",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "キャッチャーマスクFU",
+    "target": "Home-Team Catcher",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "キャッチャーマスクFC",
+    "target": "Away-Team Catcher",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ヘッキャ ムジ",
+    "target": "Scrum Cap",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ヘッキャ イシダイ",
+    "target": "Barrelfish Headgear",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "イシダイSTメット ホーム",
+    "target": "Barrelfish Home Helmet",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "チゴフグメット",
+    "target": "ZedFry Helmet",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "イカフィットメットPRO",
+    "target": "Slipstream Helmet Pro",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "イカフィットメット",
+    "target": "Slipstream Helmet",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "タコマスク",
+    "target": "Gas Mask",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "フェイスゴーグル",
+    "target": "Paintball Mask",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "エイズリーバンダナ",
+    "target": "Paisley Bandana",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "イカスカルマスク",
+    "target": "Skull Bandana",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ペインターマスク",
+    "target": "Painter's Mask",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "アナアキマスク",
+    "target": "Annaki Mask",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "キングタコスターマスク",
+    "target": "Octoking Facemask",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "イカバッテンガード",
+    "target": "Squid Facemask",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "マスクドホッコリー",
+    "target": "Firefin Facemask",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "キングオブマスク",
+    "target": "King Facemask",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ノーズガードモトクロス",
+    "target": "Motocross Nose Guard",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "フォーリマスク",
+    "target": "Forge Mask",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "フォーリマスク デジカモ",
+    "target": "Digi-Camo Forge Mask",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ブロブスマイルマスク",
+    "target": "BlobMob Mask",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "エラブリースマスク",
+    "target": "Air Gills DX",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "トンビシールドR255",
+    "target": "Squidbeak Shield",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "マイネームイズマスク",
+    "target": "Meetcha Mask",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "トンビシールドRGB0",
+    "target": "Stealth Squidbeak Shield",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "マルノミウーパー",
+    "target": "Snaxolotl Hood",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ヒーローヘッズ レプリカ",
+    "target": "Hero Headset Replica",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "アーマーメット レプリカ",
+    "target": "Armor Helmet Replica",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "クマノミミ",
+    "target": "Teddy Band",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ケタコゾネスゴーグル",
+    "target": "Fuzz-Octoling Goggles",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "サバイバルイヤー",
+    "target": "Survival Ear",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ヒーローブレインLv1",
+    "target": "Hero Brain Lv1",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ヒーローブレインLv2",
+    "target": "Hero Brain Lv2",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ヒーローブレインLv3",
+    "target": "Hero Brain Lv3",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ヒーローブレインST",
+    "target": "Hero Brain ST",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ヒーローブレイン レプリカ",
+    "target": "Hero Mindset Replica",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ヒーロークリップ レプリカ",
+    "target": "Hero Grip Replica",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "でんせつのぼうし",
+    "target": "Legendary Cap",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "コマンダーヘッド レプリカ",
+    "target": "Captain's Cap Replica",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ボンボンニット",
+    "target": "Bobble Hat",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ショートビーニー",
+    "target": "Short Beanie",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ボーダービーニー",
+    "target": "Striped Beanie",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ウインターボンボン",
+    "target": "Sporty Bobble Hat",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "モンゴウベレー",
+    "target": "Special-Forces Beret",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "イカノルディック",
+    "target": "Squid Nordic",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "リブニット",
+    "target": "Knitted Hat",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "アナアキアンピンベレー",
+    "target": "Annaki Beret",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ヤマギリビーニー",
+    "target": "Yamagiri Beanie",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "オシノビニット",
+    "target": "Sneaky Beanie",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "アンコウニット",
+    "target": "Anglerfish Knit",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "チゴフグニット",
+    "target": "ZedFry Beanie",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "オーダーピアス レプリカ",
+    "target": "Order Earring Replica",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "オーダーレギュ レプリカ",
+    "target": "Order Regulator Replica",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ブレインウォッシュVE",
+    "target": "Controller VM",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "イカイノカメン",
+    "target": "Parallel Mask",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ヒメグルミ",
+    "target": "Pearl Plushie",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ロブキャップ",
+    "target": "Stay Crusty Cap",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ジャッジメントイヤー",
+    "target": "Judicial Hearing",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "キャディ サンバイザー",
+    "target": "Golf Visor",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ヤキフグ サンバイザー",
+    "target": "FishFry Visor",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "サンサンサンバイザー",
+    "target": "Sun Visor",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ヤコバイザー",
+    "target": "Takoroka Visor",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "フェイスバイザー",
+    "target": "Face Visor",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "ロブズ・10・バイザー",
+    "target": "Crust Bucket Visor",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "スラグンサンバイザー",
+    "target": "Tee Time Visor",
+    "category": "GearName_Head"
+  },
+  {
+    "jp": "スクールブレザーL",
+    "target": "School Uniform A",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "サムライジャケット",
+    "target": "Samurai Jacket",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "パワードスーツ",
+    "target": "Power Armor",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "スクールカーデ リボン",
+    "target": "School Cardigan A",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ニンジャスーツ",
+    "target": "Squinja Suit",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "パワードスーツ オリジン",
+    "target": "Power Armor Mk I",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ヒメイトパーカー",
+    "target": "Pearlescent Hoodie",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "イイダチトップス",
+    "target": "Marinated Top",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "エンチャントローブS",
+    "target": "Enchanted Robe A",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "タコティカルなよろい",
+    "target": "Steel Platemail",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ひれおくんのて",
+    "target": "Fresh Fish Gloves",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "サキイカガクラン",
+    "target": "Schoolyard Scrap Jack",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ジュウドウギ クロオビ",
+    "target": "Black-Belt Gi",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "バーサークアーマー",
+    "target": "Chaos Commander Suit",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "スクールブレザーR",
+    "target": "School Uniform B",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "スクールカーデ ネクタイ",
+    "target": "School Cardigan B",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "エンチャントローブL",
+    "target": "Enchanted Robe B",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ホホジロノハゴロモ",
+    "target": "Chomp Top",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "オナガノハゴロモ",
+    "target": "Eelneck Tank",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "マンダノカッパ",
+    "target": "Big Slick",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ワールドMCジャンパー",
+    "target": "World Tour Puffy Coat",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ワールドDJジャケット",
+    "target": "World Tour Jacket",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "イカテンくんポロ",
+    "target": "Squiddor Polo",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "アンカーベスト",
+    "target": "Anchor Life Vest",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "フューエルブルゾン",
+    "target": "Juice Parka",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "マクレGT",
+    "target": "Garden Gear",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "アゲアゲ・10・プラーXXL",
+    "target": "Crustwear XXL",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "フロムキタグニ87",
+    "target": "North-Country Parka",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ゾネスティックプロテクター",
+    "target": "Octoleet Armor",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "デベロッパーズワークウエア",
+    "target": "Dev Uniform",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ジムパーソンアーマー",
+    "target": "Office Attire",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "アカシックコート",
+    "target": "SRL Coat",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ガーディアンズスーツ",
+    "target": "Commander Tunic",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ナリキリハイテクスーツ",
+    "target": "Astro Wear",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ハイパーミライスーツ",
+    "target": "Retro Future Suit",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "カリスマシンガージャケット",
+    "target": "Brinestone Jacket",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ミライスタージャケット",
+    "target": "SplatJack 5000",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ハリキリインベンター",
+    "target": "Hacker Jacket",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "エネルギッシュジャケット",
+    "target": "Cooler Jacket",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "わかばイカＴ",
+    "target": "Basic Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "わかばタコT",
+    "target": "Fresh Octo Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "フェスＴ",
+    "target": "Splatfest Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "フェスT",
+    "target": "Splatfest Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "マウンテンオリーブ",
+    "target": "Olive Ski Jacket",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ヤコナイロン ヴィンテージ",
+    "target": "Takoroka Nylon Vintage",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "マウンテンベリー",
+    "target": "Berry Ski Jacket",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "スタジャンロゴマシ",
+    "target": "Varsity Jacket",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "スクールジャージー",
+    "target": "School Jersey",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "レタード グリーン",
+    "target": "Green Cardigan",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "イカライダーBLACK",
+    "target": "Black Inky Rider",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "イカライダーWHITE",
+    "target": "White Inky Rider",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "FCジャージー",
+    "target": "Retro Gamer Jersey",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "レタード オレンジ",
+    "target": "Orange Cardigan",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "F-190",
+    "target": "Forge Inkling Parka",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "F-010",
+    "target": "Forge Octarian Jacket",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "イカセーラー ブルー",
+    "target": "Blue Sailor Suit",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "イカセーラー ホワイト",
+    "target": "White Sailor Suit",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "イカスカジャン",
+    "target": "Squid Satin Jacket",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ウラスカジャン",
+    "target": "Zapfish Satin Jacket",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "クラーゲス528",
+    "target": "Krak-On 528",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "マウンテンフローズン",
+    "target": "Chilly Mountain Coat",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ヤコナイロンレトロ",
+    "target": "Takoroka Windcrusher",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "マッチャ ライトダウン",
+    "target": "Matcha Down Jacket",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "FA-01オモテ",
+    "target": "FA-01 Jacket",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "FA-01ウラ",
+    "target": "FA-01 Reversed",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "プルオーバーコート",
+    "target": "Pullover Coat",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ケンサキコーチ",
+    "target": "Kensa Coat",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "トリスカベッチン",
+    "target": "Birded Corduroy Jacket",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ウラタコスカジャン",
+    "target": "Deep-Octo Satin Jacket",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "エゾッココーチ アカネ",
+    "target": "Zekko Redleaf Coat",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "マウンテンノリタマゴ",
+    "target": "Lemon Mountain Coat",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "エゾッココーチ モエギ",
+    "target": "Zekko Jade Coat",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ボンバージャケット ポジ",
+    "target": "Light Bomber Jacket",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "キングベンチNV",
+    "target": "Navy Eminence Jacket",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "エゾッココーチ ウコン",
+    "target": "Tumeric Zekko Coat",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "F-3 ペイントカスタム",
+    "target": "Custom Painted F-3",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ボンバージャケット ネガ",
+    "target": "Dark Bomber Jacket",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "F-3 ホワイトレザー",
+    "target": "White Leather F-3",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "マウンテンチリペッパー",
+    "target": "Chili-Pepper Ski Jacket",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ハウスタグホエールニット",
+    "target": "Whale-Knit Sweater",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ロッケンブレイクジャケット",
+    "target": "Rockin' Leather Jacket",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "クンフージャージ",
+    "target": "Kung-Fu Zip-Up",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "クンフーパンジャージ",
+    "target": "Panda Kung-Fu Zip-Up",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "モンスター PCU56",
+    "target": "Arctic Monster Parka",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "バラズシヤッケ",
+    "target": "Barazushi Anorak",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "フィレジャケット",
+    "target": "Patchwork Bomber",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "オールウェイズファン",
+    "target": "Airflow & Hustle Jacket",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "パドリングジャケット ネガ",
+    "target": "Ink-Black Paddle Jack",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "コテボレロ ネガ",
+    "target": "Orca Bolero",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "オスモル アイボリー",
+    "target": "Cream Tundra Fleece",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "オスモル アース",
+    "target": "Rugby Fleece",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "アナアキダブルジャケット",
+    "target": "Annaki Anchored Coat",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ハンティングジャケットKK",
+    "target": "Dusty Field Jacket",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "パドリングジャケット ポジ",
+    "target": "Light-Bright Paddle Jack",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "コテボレロ ポジ",
+    "target": "Penguin Bolero",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "バラズシダッフル",
+    "target": "Barazushi Tuff Duffel",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "バラズシピーコート",
+    "target": "Barazushi Peacoat",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "イチニンバオリ",
+    "target": "Indigo Boss Haori",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "マウンテン アオサ",
+    "target": "Lime Ski Jacket",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ヤコナイロン ノスタルジア",
+    "target": "Takoroka Nineties Nylon",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "バラズシライナー",
+    "target": "Barazushi Liner Shell",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "チェックテーラード",
+    "target": "Tenured Turtleneck",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "アナアキダッフル",
+    "target": "Annaki Tuff Duffel",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "スタジャンフカマシ",
+    "target": "Chompers Varsity Jacket",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ヒーロージャケット レプリカ",
+    "target": "Hero Jacket Replica",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "アーマージャケット レプリカ",
+    "target": "Armor Jacket Replica",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ケタコゾネスプロテクター",
+    "target": "Fuzz-Octoling Armor",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "サバイバルスーツ",
+    "target": "Survival Suit",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ヒーロースーツLv1",
+    "target": "Hero Suit Lv1",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ヒーロースーツLv2",
+    "target": "Hero Suit Lv2",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ヒーロースーツLv3",
+    "target": "Hero Suit Lv3",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ヒーロースーツST",
+    "target": "Hero Suit ST",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ヒーロースーツ レプリカ",
+    "target": "Hero Suit Replica",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "サバイバルスーツ レプリカ",
+    "target": "Survival Suit Replica",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "でんせつのマント",
+    "target": "Legendary Cape",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "コマンダーマント レプリカ",
+    "target": "Captain's Poncho Replica",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "さくらエビポロ",
+    "target": "Shrimp-Pink Polo",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "オレンジボーダーラガー",
+    "target": "Striped Rugby",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "トリコロールラガー",
+    "target": "Tricolor Rugby",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "よもぎポロ",
+    "target": "Sage Polo",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ピンポンポロ",
+    "target": "Black Polo",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "テッカサイクルシャツ",
+    "target": "Cycling Shirt",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "チャリキングジャージ",
+    "target": "Cycle King Jersey",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "FCカラスミ",
+    "target": "Slipstream United",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "アオサドーレ",
+    "target": "FC Albacore",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "キングラガー010",
+    "target": "Rugby King 10",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "キングラガー008",
+    "target": "Rugby King 08",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ジップアップ カモ",
+    "target": "Camo Zip Hoodie",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ジップアップ グリーン",
+    "target": "Green Zip Hoodie",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "エゾッコパーカー アズキ",
+    "target": "Zekko Hoodie",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "シャツノゾキブルー",
+    "target": "Shirt with Blue Hoodie",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "キングパーカー グレープ",
+    "target": "Grape Hoodie",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ホタパーカー グレー",
+    "target": "Gray Hoodie",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ホタプラントパーカー",
+    "target": "Hothouse Hoodie",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "シャツノゾキピンク",
+    "target": "Pink Hoodie",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "エゾッコパーカー ウグイス",
+    "target": "Olive Zekko Parka",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ホタパーカー ブラック",
+    "target": "Black Hoodie",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "バハフーディー ロホ",
+    "target": "Sudadera Roja",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "カモパーカー ドトン",
+    "target": "Dustcloud Hoodie",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "バハフーディー セレステ",
+    "target": "Sudadera Celeste",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "カモパーカー スイトン",
+    "target": "Seafoam Hoodie",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "オーダースーツ レプリカ",
+    "target": "Order Suit Replica",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "オータムネル",
+    "target": "Lumberjack Shirt",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "イカスタンシャツ",
+    "target": "Rodeo Shirt",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ギンガムチェック ミドリ",
+    "target": "Green-Check Shirt",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "シロシャツ",
+    "target": "White Shirt",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ウーニーズBBシャツ",
+    "target": "Urchins Jersey",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "おどるイカアロハ",
+    "target": "Aloha Shirt",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ギンガムチェック アカ",
+    "target": "Red-Check Shirt",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ベイビークラゲシャツ",
+    "target": "Baby-Jelly Shirt",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ミスターベースボール",
+    "target": "Baseball Jersey",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ミックスシャツ グレー",
+    "target": "Gray Mixed Shirt",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ヴィンテージチェック",
+    "target": "Vintage Check Shirt",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "マルエリシャツ",
+    "target": "Round-Collar Shirt",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ロゴマシマシアロハ",
+    "target": "Logo Aloha Shirt",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ブロックストライプシャツ",
+    "target": "Striped Shirt",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "シャンブレーシャツ",
+    "target": "Linen Shirt",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "タイシャツ",
+    "target": "Shirt & Tie",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ピーターパンクシャツ",
+    "target": "Hula Punk Shirt",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "タコボウラーシャツ",
+    "target": "Octobowler Shirt",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "スミカケシャツ",
+    "target": "Inkfall Shirt",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "パラシューター ザクロ",
+    "target": "Crimson Parashooter",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "タイツキベイビークラゲ",
+    "target": "Baby-Jelly Shirt & Tie",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "パラシューター プルーン",
+    "target": "Prune Parashooter",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ピーターパンクタイ ブラッド",
+    "target": "Red Hula Punk with Tie",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "チリメンタコアロハ",
+    "target": "Chili Octo Aloha",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "アナアキオンブレネル",
+    "target": "Annaki Flannel Hoodie",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "スミヌキシャツ",
+    "target": "Ink-Wash Shirt",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "レイヤードットシャツ",
+    "target": "Dots-on-Dots Shirt",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "タタキBBBシャツ",
+    "target": "Toni K. Baseball Jersey",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "タツノコキューバ",
+    "target": "Seahorse Shoreliner",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ピエロシャツ",
+    "target": "Button-Clown Shirt",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ジャコスカウト",
+    "target": "Trooper Top",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "フィレシャツ サファリ",
+    "target": "Business Animal",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ステッチシャツ ヤガラ",
+    "target": "Fancyfish Stitch",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "スミコボシシャツ",
+    "target": "Dark Splash Shirt",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "スミチラシシャツ",
+    "target": "Fashion Splash Shirt",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "バンドカラー ストライプ",
+    "target": "Hype Stripe Button Up",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "バンドカラー ムジ",
+    "target": "Base White Button Up",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "パッチワークシャツ",
+    "target": "Rad Plaid Casual",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "フィレシャツ アーバン",
+    "target": "Urban Upcycle Top",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "イシダイストライプスユニ",
+    "target": "Barrelfish Baseball Uni",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "オーシャンリゾートアロハ",
+    "target": "Coral Bloom Aloha",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ジャコスカウト ハマチ",
+    "target": "Kelp Trooper Top",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "カレッジスウェット グレー",
+    "target": "Gray College Sweat",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "イカバッテン マスタード",
+    "target": "Squidmark Sweat",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "レトロジャッジ",
+    "target": "Retro Sweat",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ホッコリー ネイビー",
+    "target": "Firefin Navy Sweat",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "カレッジスウェット ネイビー",
+    "target": "Navy College Sweat",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "リールロールスウェット",
+    "target": "Reel Sweat",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "イカリスウェット",
+    "target": "Anchor Sweat",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ドロップスウェット ネガ",
+    "target": "Negative Longcuff Sweater",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ショートニットカサネ",
+    "target": "Short Knit Layers",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ドロップスウェット ポジ",
+    "target": "Positive Longcuff Sweater",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "アナアキニット アオソデ",
+    "target": "Annaki Blue Cuff",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "アナアキニット キソデ",
+    "target": "Annaki Yellow Cuff",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "アナアキニット アカソデ",
+    "target": "Annaki Red Cuff",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "エンペーサートレーナー",
+    "target": "N-Pacer Sweat",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "オクタリアンレトロ",
+    "target": "Octarian Retro",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ヤコピステ",
+    "target": "Takoroka Jersey",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "クラマナスウェット",
+    "target": "Manatee Swag Sweat",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "3Dニット シャーク",
+    "target": "Apex Sweater",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "タコピステ ブルー",
+    "target": "Octo Jumper Away",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "タコピステ ホワイト",
+    "target": "Octo Jumper Home",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "3Dニット ホエール",
+    "target": "Moby Knit",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "フードレスパーカー イエロー",
+    "target": "Lemon Hoodless",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "フードレスパーカー マルチ",
+    "target": "Motley Hoodless",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "フードレスパーカー グリーン",
+    "target": "Lime Hoodless",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ワケワカメニット",
+    "target": "Fuzzly Sweater",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "CFHパーカー",
+    "target": "Fringehead Hoodless",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ボーダーホワイト",
+    "target": "White Striped LS",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "バニーポップ ブラック",
+    "target": "Black LS",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "カモフラパープル",
+    "target": "Purple Camo LS",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ボーダーネイビー",
+    "target": "Navy Striped LS",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "エゾッコラグラン",
+    "target": "Zekko Baseball LS",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "カレッジラグラン",
+    "target": "Varsity Baseball LS",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ハラグロラグラン",
+    "target": "Black Baseball LS",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ハラシロラグラン",
+    "target": "White Baseball LS",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "バトロング ホワイト",
+    "target": "White LS",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ボーダーモスグリーン",
+    "target": "Green Striped LS",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "イカバッテンロング",
+    "target": "Squidmark LS",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "アイロニックロング",
+    "target": "Zink LS",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ヤマビコボーダー",
+    "target": "Striped Peaks LS",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ゆとりボーダー ピンク",
+    "target": "Pink Easy-Stripe Shirt",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "トビウォーズHKユニ",
+    "target": "Inkopolis Squaps Jersey",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "アナアキロンT ドライブ",
+    "target": "Annaki Drive Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ゆとりボーダー ライム",
+    "target": "Lime Easy-Stripe Shirt",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "アナアキロンT イボルブ",
+    "target": "Annaki Evolution Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "エゾッコロンTキャロット",
+    "target": "Zekko Long Carrot Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "エゾッコロンTラディッシュ",
+    "target": "Zekko Long Radish Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "タコロンT 黒",
+    "target": "Black Cuttlegear LS",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ヤコラグランクレイジー",
+    "target": "Takoroka Crazy Baseball LS",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "タコロンT 赤",
+    "target": "Red Cuttlegear LS",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ヤキフグ16bit カーキ",
+    "target": "Khaki 16-Bit FishFry",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ヤキフグ16bit ブルー",
+    "target": "Blue 16-Bit FishFry",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "カラマリフック ブラック",
+    "target": "Ink-Black Tangle Top",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "カラマリフック ディープ",
+    "target": "Deepsea Tangle Top",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "シャークラグラン",
+    "target": "Sharkfin Raglan",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "イカホワイト",
+    "target": "White Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "イカノメＴ ブラック",
+    "target": "Black Squideye",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "イカノメＴ ライトブルー",
+    "target": "Sky-Blue Squideye",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ロッケンベルグＴ ホワイト",
+    "target": "Rockenberg White",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ロッケンベルグＴ ブラック",
+    "target": "Rockenberg Black",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "イカブラック",
+    "target": "Black Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "サニーオレンジＴ",
+    "target": "Sunny-Day Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "レイニーブルーＴ",
+    "target": "Rainy-Day Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "イカジャマイカ",
+    "target": "Reggae Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "マルフグＴ",
+    "target": "Fugu Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ミントＴ",
+    "target": "Mint Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "グレープＴ",
+    "target": "Grape Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ベクトルパターン レッド",
+    "target": "Red Vector Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ベクトルパターン グレー",
+    "target": "Gray Vector Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ヤマビコＴ ブルー",
+    "target": "Blue Peaks Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ヤマビコＴ アイボリー",
+    "target": "Ivory Peaks Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "チドリメロンＴ",
+    "target": "Squid-Stitch Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "パイレーツボーダー",
+    "target": "Pirate-Stripe Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "マリンボーダー",
+    "target": "Sailor-Stripe Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ヤキフグ8bit ホワイト",
+    "target": "White 8-Bit FishFry",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ヤキフグ8bit ブラック",
+    "target": "Black 8-Bit FishFry",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ガチホワイト",
+    "target": "White Anchor Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ガチブラック",
+    "target": "Black Anchor Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ニクショクＴ",
+    "target": "Carnivore Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "パールドットＴ",
+    "target": "Pearl Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "タコＴ",
+    "target": "Octo Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ソウショクＴ",
+    "target": "Herbivore Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "イカブラックV",
+    "target": "Black V-Neck Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "デカロゴＴ シロ",
+    "target": "White Deca Logo Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "スウェットT ゴブ",
+    "target": "Half-Sleeve Sweater",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "キングHKシャツ",
+    "target": "King Jersey",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ヤキフグ8bit グレー",
+    "target": "Gray 8-Bit FishFry",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "イカホワイトV",
+    "target": "White V-Neck Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ガンガゼロックT シロ",
+    "target": "White Urchin Rock Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ガンガゼロックT クロ",
+    "target": "Black Urchin Rock Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "バンドT WETFLOOR",
+    "target": "Wet Floor Band Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "バンドT SQUIDSQUAD",
+    "target": "Squid Squad Band Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "デカロゴT ノーコン",
+    "target": "Navy Deca Logo Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ミスターシュラッグT",
+    "target": "Mister Shrug Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "バンドT ABXY",
+    "target": "Chirpy Chips Band Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "バンドT HIGHTIDEERA",
+    "target": "Hightide Era Band Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ω-3T",
+    "target": "ω-3 Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "アナアキT ポルポピック",
+    "target": "Annaki Polpo-Pic Tank",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ホットグラデT",
+    "target": "Firewave Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ヤコタイダイ ギャラクシー",
+    "target": "Takoroka Galactic Tie Dye",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ヤコタイダイ レインボー",
+    "target": "Takoroka Rainbow Tie Dye",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ミズシュラッグT",
+    "target": "Missus Shrug Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "リーグT",
+    "target": "League Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "フレンドT",
+    "target": "Friend Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "アロメスローガンT",
+    "target": "Tentatek Slogan Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "アイスグラデT",
+    "target": "Icewave Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "キングオクトHKシャツ",
+    "target": "Octoking HK Jersey",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "デカロTキウイ",
+    "target": "Dakro Nana Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "デカロTゴールデン",
+    "target": "Dakro Golden Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "キングオクトTブラックベロア",
+    "target": "Black Velour Octoking Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "キングオクトTミドリベロア",
+    "target": "Green Velour Octoking Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "サキイカホワイト",
+    "target": "Tri-Shred Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "アロメT ゴブゴブ",
+    "target": "Tentatek Tandem",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "アナアキT チョーカー",
+    "target": "Annaki Choker Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "アナアキT アシメブレス",
+    "target": "Annaki Bracelet Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "リイシューT ホワイト",
+    "target": "White Retro Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "リイシューT ブルー",
+    "target": "Blue Retro Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "リイシューT ブラウン",
+    "target": "Tan Retro Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "バラズシ ノリマキ",
+    "target": "Barazushi Wrap",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "バラズシT ハクマイ",
+    "target": "Barazushi Rice Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "バラズシT ゲンマイ",
+    "target": "Barazushi Black Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "バラズシT セキハン",
+    "target": "Barazushi Sakura Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "イコT ゴブゴブ",
+    "target": "Octosquid Tandem Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "イカサンT",
+    "target": "Tri-Squid Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "タコサンT",
+    "target": "Tri-Octo Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ヤコT ヘヴィクラブ",
+    "target": "Takoroka \\m/ Crab",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ヤコT メタルエイリアン",
+    "target": "Takoroka \\m/ Alien",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ヤコT ゴブゴブ",
+    "target": "Takoroka Tandem",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "リンガーT パイン",
+    "target": "Pineapple Ringer",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "リンガーT アップル",
+    "target": "Apple Ringer",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "トワイライトグラデT",
+    "target": "Vaporwave Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "サンセットグラデT",
+    "target": "Duskwave Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ビバレッジT リコピン",
+    "target": "Lyco-P Streetstyle Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ビバレッジT セサミン",
+    "target": "Slate Streetstyle Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ガブリエルT",
+    "target": "Eelzebub Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "コントレイルボーダー",
+    "target": "Zontal Ztripe Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "スシズメブロブ ライム",
+    "target": "Lime BlobMob Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "スシズメブロブ ベリー",
+    "target": "Berry BlobMob Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "エゾッコリーT ホワイト",
+    "target": "White Z+F Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "エゾッコリーT ネイビー",
+    "target": "Navy Z+F Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "バラズシ アカシソマキ",
+    "target": "Plum Barazushi Wrap",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "キングシースルーT",
+    "target": "King Mesh Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "レイヤード ホワイト",
+    "target": "White Layered LS",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "マスタードガサネ",
+    "target": "Yellow Layered LS",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "カモガサネ",
+    "target": "Camo Layered LS",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "レイヤード ブラック",
+    "target": "Black Layered LS",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "アイロニックレイヤード",
+    "target": "Zink Layered LS",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ガチガサネ",
+    "target": "Layered Anchor LS",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "チョコガサネ",
+    "target": "Choco Layered LS",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "かくれパイレーツ",
+    "target": "Part-Time Pirate",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ベクトルラインガサネ",
+    "target": "Layered Vector LS",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "グリーンＴ",
+    "target": "Green Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "アロメテックT レッド",
+    "target": "Red Tentatek Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "アロメテックT ブルー",
+    "target": "Blue Tentatek Tee",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "イカイエローVガサネ",
+    "target": "Squid Yellow Layered LS",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "バスケジャージ ホーム",
+    "target": "B-ball Jersey (Home)",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "バスケジャージ アウェイ",
+    "target": "B-ball Jersey (Away)",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "キングタンク ホワイト",
+    "target": "White King Tank",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "キングタンク スラッシュ",
+    "target": "Slash King Tank",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "キングタンク マリン",
+    "target": "Navy King Tank",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ロブスターズユニ",
+    "target": "Lob-Stars Jersey",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ウミボーズ アウェイ",
+    "target": "Umibozu Road Jersey",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ウミボーズ ホーム",
+    "target": "Umibozu Home Jersey",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "アゲアゲコロモ",
+    "target": "Crispy Crustume",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ジャッジメントハンド",
+    "target": "Frivolous Paw Suit",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "マウンテンダウン",
+    "target": "Mountain Vest",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "フォレストダウン",
+    "target": "Forest Vest",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "アーバンベスト ナイト",
+    "target": "Dark Urban Vest",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "アーバンベスト イエロー",
+    "target": "Yellow Urban Vest",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "イカゴッチンベスト",
+    "target": "Squid-Pattern Waistcoat",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "イカノボリベスト",
+    "target": "Squidstar Waistcoat",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "フィッシャーズベスト オジ",
+    "target": "Fishing Vest",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "フロントジップベスト",
+    "target": "Front-Zip Vest",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "アロメランベスト シルバー",
+    "target": "Silver Tentatek Vest",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ハンティングベストKK",
+    "target": "Khaki Ranger Vest",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "タカアシプロテクターレッド",
+    "target": "Red Battlecrab Shell",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "タカアシプロテクターライム",
+    "target": "Lime Battlecrab Shell",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "スミチラシベスト",
+    "target": "Distressed Vest",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ハンティングベストBK",
+    "target": "Black Ranger Vest",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "スミコボシベスト",
+    "target": "Dark Distressed Vest",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "アロメサイクルベスト",
+    "target": "Tentatek Slipstream Vest",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "ゴマサバスポーティージレ",
+    "target": "Teal Body Warmer",
+    "category": "GearName_Clothes"
+  },
+  {
+    "jp": "スクールローファー ハイソ",
+    "target": "School Shoes + Hi Socks",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "サムライシューズ",
+    "target": "Samurai Shoes",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "パワードレッグス",
+    "target": "Power Boots",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "キルトローファー ルーズ",
+    "target": "Baggy-Sock Fringe Loafs",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "シノビアシ",
+    "target": "Squinja Boots",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "パワードレッグス オリジン",
+    "target": "Power Boots Mk I",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ヒメイトスニーカー",
+    "target": "Pearlescent Kicks",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "イイダチスリッポン",
+    "target": "Marinated Slip-Ons",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "エンチャントブーツ",
+    "target": "Enchanted Boots",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "タコティカルなすねあて",
+    "target": "Steel Greaves",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ひれおくんのあし",
+    "target": "Fresh Fish Feet",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "イダテンヒモサン",
+    "target": "Knotty Bois",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "アンクルサポーター",
+    "target": "Kick Dampeners",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "バーサークグリーブ",
+    "target": "Chaos Kicks",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "スクールローファー スゲソ",
+    "target": "Base School Shoes",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "キルトローファー スゲソ",
+    "target": "Base Fringed Loafers",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ホホジロノポックリ",
+    "target": "Faux Sharkskin Platfins",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "オナガノタビ",
+    "target": "Eel Heel Socks",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "マンダノナガグツ",
+    "target": "Big Muds",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ワールドMCブーツ",
+    "target": "World Tour Boots",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ワールドDJブーティー",
+    "target": "World Tour Heels",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "モトクロスブーツ",
+    "target": "Moto Boots",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ヌバックブーツ イエロー",
+    "target": "Tan Work Boots",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ヌバックブーツ レッド",
+    "target": "Red Work Boots",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "モトクロス ソリッドブルー",
+    "target": "Blue Moto Boots",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "レイニーモスグリーン",
+    "target": "Green Rain Boots",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "レイニーアセロラ",
+    "target": "Acerola Rain Boots",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ロッキンホワイト",
+    "target": "Punk Whites",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ロッキンチェリー",
+    "target": "Punk Cherries",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ロッキンイエロー",
+    "target": "Punk Yellows",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "レイニーシャボン",
+    "target": "Bubble Rain Boots",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ミルキーダウンブーツ",
+    "target": "Snowy Down Boots",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "アイスダウンブーツ",
+    "target": "Icy Down Boots",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ハンティングブーツ",
+    "target": "Hunting Boots",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ロッキンブラック",
+    "target": "Punk Nights",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "シンカイレザーブーツ",
+    "target": "Deepsea Leather Boots",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "アナアキスパイダー6ホール",
+    "target": "Annaki Arachno Boots",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "シンリョクレザーブーツ",
+    "target": "New-Leaf Leather Boots",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "チャバハンティングブーツ",
+    "target": "Tea-Green Hunting Boots",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "モトクロスM-DCB",
+    "target": "Blu-Shift Moto Boots",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ヌバックブーツxSJ",
+    "target": "Skipjack Work Boots",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ダックブーツ スノウ",
+    "target": "Arctic Duck Boots",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ダックブーツ ブッシュ",
+    "target": "Field Duck Boots",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "カセブカブーツ レッド",
+    "target": "Red Hammertreads",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "カセブカブーツ ダップル",
+    "target": "Dappled Hammertreads",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ロッキンピンク",
+    "target": "Punk Pinks",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ウォームブーツ",
+    "target": "Fuzzy Boots",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "カモチャームブーツ",
+    "target": "Transom Note Boots",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "モトクロスM-DCR",
+    "target": "Red-Shift Moto Boots",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ダックブーツ カクタス",
+    "target": "Spiked Duck Boots",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "エンジニアブーツ",
+    "target": "Buckle-Down Boots",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ブルーベリーコンフォート",
+    "target": "Blueberry Casuals",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "アケビコンフォート",
+    "target": "Plum Casuals",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "マッドラバー",
+    "target": "Angry Rain Boots",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ノンスリップタクミ",
+    "target": "Nonslip Senseis",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ゾネスティックブーツ",
+    "target": "Octoleet Boots",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "チギリノヒモ",
+    "target": "Friendship Bracelet",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ゲソバタアシスト",
+    "target": "Flipper Floppers",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "バンカラコロン",
+    "target": "Wooden Sandals",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ローラーシューズGT",
+    "target": "Trevally Derby Rollers",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "カリスマシンガーブーツ",
+    "target": "Brinestone Boots",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ノックアウトシューズ",
+    "target": "Knockout Boots",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "キャンバス ホワイト",
+    "target": "Cream Basics",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ノーリーチャッカ ヒメイト",
+    "target": "Pearl-Scout Lace-Ups",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "エギング4 ヒメキン",
+    "target": "Pearlescent Squidkid IV",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ロッキンクラウン",
+    "target": "Pearl Punk Crowns",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "アカツキアローズ",
+    "target": "New-Day Arrows",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ノーリーチャッカ イイダチ",
+    "target": "Marination Lace-Ups",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "エギング4 イイマリ",
+    "target": "Rina Squidkid IV",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "パワーストリップ トルーパー",
+    "target": "Trooper Power Stripes",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ミッドナイトスリッポン",
+    "target": "Midnight Slip-Ons",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "エギング3xHF",
+    "target": "Shivery Squidkid III",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "エギング3xOU",
+    "target": "Fried Squidkid III",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "エギング3xMT",
+    "target": "Big Squidkid III",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "スリミクロッグ クサリ",
+    "target": "Chained DC Toejamz",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "スリミクロッグ スタッズ",
+    "target": "Jeweled DC Toejamz",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "スリミクロッグ マーブル",
+    "target": "Swirled DC Toejamz",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "サンモンヨウダックブーツ",
+    "target": "Trifecta Duck Boots",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "サンモンヨウキャンバスHi",
+    "target": "Trifecta Hi-Tops",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "サンモンヨウシャワサン",
+    "target": "Trifecta Sandals",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ラバーソール ホワイト",
+    "target": "White Kicks",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ラバーソール チェリー",
+    "target": "Cherry Kicks",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ラバーソール ターコイズ",
+    "target": "Turquoise Kicks",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "イカスミチップ",
+    "target": "Squink Wingtips",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "イカヤキチップ",
+    "target": "Roasted Brogues",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "イカボウズキャメル",
+    "target": "Kid Clams",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "スモークチップ",
+    "target": "Smoky Wingtips",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ネイビーチップ レッドソール",
+    "target": "Navy Red-Soled Wingtips",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "グレーチップ イエローソール",
+    "target": "Gray Yellow-Soled Wingtips",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "イカボウズジェットブラック",
+    "target": "Inky Kid Clams",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "アナアキラバー ハバネロ",
+    "target": "Annaki Habaneros",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "アナアキラバー フェイク",
+    "target": "Annaki Tigers",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "チャッカブーツ サンド",
+    "target": "Desert Chukkas",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "デッキシューズ フカイリ",
+    "target": "Dark-Roast Boaties",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "デッキシューズ ブレンド",
+    "target": "Tricolor Boaties",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "シーホースビットローファー",
+    "target": "Bit 'n' Bridle Loafers",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ヒーローキックス レプリカ",
+    "target": "Hero Runner Replicas",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "アーマーブーツ レプリカ",
+    "target": "Armor Boot Replicas",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ケタコゾネスブーツ",
+    "target": "Fuzz-Octoling Boots",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "サバイバルフット",
+    "target": "Survival Foot",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ヒーローブーツLv1",
+    "target": "Hero Boots Lv1",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ヒーローブーツLv2",
+    "target": "Hero Boots Lv2",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ヒーローブーツLv3",
+    "target": "Hero Boots Lv3",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ヒーローブーツST",
+    "target": "Hero Boots ST",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ヒーローブーツ レプリカ",
+    "target": "Hero Boot Replicas",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "サバイバルフット レプリカ",
+    "target": "Survival Footwrap Replicas",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "でんせつのゾーリ",
+    "target": "Legendary Sandals",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "コマンダーゾーリ レプリカ",
+    "target": "Captain's Flip-Flop Replicas",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "オイスタークロッグ",
+    "target": "Oyster Clogs",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "チョコクロッグ",
+    "target": "Choco Clogs",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "デルタストラップ ネオン",
+    "target": "Neon Delta Straps",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "BBサンダル",
+    "target": "Black Flip-Flops",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "デルタストラップ スノー",
+    "target": "Snow Delta Straps",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "デルタストラップ ルミナス",
+    "target": "Luminous Delta Straps",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ヤキフグシャワサン アカ",
+    "target": "Red FishFry Sandals",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ヤキフグシャワサン キ",
+    "target": "Yellow FishFry Sandals",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "フジツボペタサン",
+    "target": "Musselforge Flip-Flops",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "フィッシュボーンワラチ",
+    "target": "Cuttlefish Sandies",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "アローズサンダル アオキ",
+    "target": "Arrow Toesies Blu",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "BSサンダル",
+    "target": "BlobMob Flip-Flops",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ベリベリサン オレンジ",
+    "target": "Orange Dadfoot Sandals",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "アローズサンダル ムラキ",
+    "target": "Arrow Toesies Purp",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "アナアキストラップ レザー",
+    "target": "Annaki Strappy Sandals",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "イカボーンサンダル",
+    "target": "Squid Bone Unslips",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ベリベリサン マゼンタ",
+    "target": "Pink Dadfoot Sandals",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ベリベリサン シアン",
+    "target": "Cyan Dadfoot Sandals",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "エゾックロッグ ネイビー",
+    "target": "Navy Toejamz",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "エゾックロッグ レッド",
+    "target": "Red Toejamz",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "エゾックロッグ イエロー",
+    "target": "Yellow Toejamz",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "エゾックロッグ グリーン",
+    "target": "Green Toejamz",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "イカニラミサボ",
+    "target": "Skirmish Sabots",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ホネナラベサボ",
+    "target": "Fishbone Sabots",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "オーダーシューズ レプリカ",
+    "target": "Order Boot Replicas",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "シーホースHi レッド",
+    "target": "Red Hi-Horses",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "シーホースHi ゾンビ",
+    "target": "Zombie Hi-Horses",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "キャンバスHi マッシュルーム",
+    "target": "Cream Hi-Tops",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "シーホースHi パープル",
+    "target": "Purple Hi-Horses",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "キャンバスHi モロヘイヤ",
+    "target": "Hunter Hi-Tops",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "キャンバスHi トマト",
+    "target": "Red Hi-Tops",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "シーホースHi ゴールド",
+    "target": "Gold Hi-Horses",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "シャークモカシン",
+    "target": "Shark Moccasins",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ジョーズモカシン",
+    "target": "Mawcasins",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "デカロニックチョコレート",
+    "target": "Chocolate Dakroniks",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "デカロニックミント",
+    "target": "Cyan Dakroniks",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "デカロニックブラック",
+    "target": "Black Dakroniks",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ピラニアモカシン",
+    "target": "Piranha Moccasins",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ノリマキ750 ホワイト",
+    "target": "White Norimaki 750s",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ノリマキ750 ブラック",
+    "target": "Black Norimaki 750s",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "オルカHi サンセット",
+    "target": "Sunset Orca Hi-Tops",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "エギング4 アカクロ",
+    "target": "Red & Black Squidkid IV",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "エギング4 アオクロ",
+    "target": "Blue & Black Squidkid IV",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ウミウシタウンHi グレー",
+    "target": "Gray Sea-Slug Hi-Tops",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "オルカHi",
+    "target": "Orca Hi-Tops",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "エンペリアルNV",
+    "target": "Navy Enperrials",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ウミウシタウンHi アンバー",
+    "target": "Amber Sea Slug Hi-Tops",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "イロマキ750 イエロー",
+    "target": "Yellow Iromaki 750s",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "エギング5 シロアカ",
+    "target": "Red & White Squidkid V",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "エギング5 ハニオレ",
+    "target": "Honey & Orange Squidkid V",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "エギング4 キイコン",
+    "target": "Sun & Shade Squidkid IV",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "オルカHi ウーブン",
+    "target": "Orca Woven Hi-Tops",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "イロマキ750 グリーン",
+    "target": "Green Iromaki 750s",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "イロマキ750 パープル",
+    "target": "Purple Iromaki 750s",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "イロマキ750 レッド",
+    "target": "Red Iromaki 750s",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "イロマキ750 ブルー",
+    "target": "Blue Iromaki 750s",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "イロマキ750 オレンジ",
+    "target": "Orange Iromaki 750s",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "パワーストリップ アカアシ",
+    "target": "Red Power Stripes",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "パワーストリップ アオアシ",
+    "target": "Blue Power Stripes",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ストリップ タタキベッチュー",
+    "target": "Toni Kensa Black Hi-Tops",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ゴマシオ270",
+    "target": "Sesame Salt 270s",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "エギング5 クロアオ",
+    "target": "Black & Blue Squidkid V",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "オルカHi パッション",
+    "target": "Orca Passion Hi-Tops",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "キャンバスHi トリュフ",
+    "target": "Truffle Canvas Hi-Tops",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "パワーリセットHi",
+    "target": "Force ReBoots",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "テンヤ8 レッド",
+    "target": "Tenya OctoReds",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "テンヤ8 パープル",
+    "target": "Tenya OctoPurps",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "01STER コハク",
+    "target": "Pearl 01STERs",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ウノアシHi",
+    "target": "Zebrafish Hi-Tops",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "カモスニーカー ドトン",
+    "target": "Dustcloud Hi-Tops",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "カモスニーカー スイトン",
+    "target": "Seafoam Hi-Tops",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "パーチHi ホワイト",
+    "target": "White Lo-Vert Hi-Tops",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "エギング3 アオクロシロ",
+    "target": "Blue & Black Squidkid III",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "エギング3 アカシロクロ",
+    "target": "Red & White Squidkid III",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "01STER カンロ",
+    "target": "Onyx 01STERs",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "エギング3 ZY",
+    "target": "Crab-Trap Squidkid III",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ピンクビーンズ",
+    "target": "Pink Trainers",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "オレンジアローズ",
+    "target": "Orange Arrows",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ウミウシイエロー",
+    "target": "Neon Sea Slugs",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ホワイトアローズ",
+    "target": "White Arrows",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "シアンビーンズ",
+    "target": "Cyan Trainers",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ウミウシブルー",
+    "target": "Blue Sea Slugs",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ウミウシレッド",
+    "target": "Red Sea Slugs",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ウミウシパープル",
+    "target": "Purple Sea Slugs",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "クレイジーアローズ",
+    "target": "Crazy Arrows",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ブラックビーンズ",
+    "target": "Black Trainers",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "スミレビーンズ",
+    "target": "Violet Trainers",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "カナリアビーンズ",
+    "target": "Canary Trainers",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "アロメッシュイエロー",
+    "target": "Yellow-Mesh Sneakers",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "アローズ タタキベッチュー",
+    "target": "Arrow Pull-Ons",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "アロメッシュバーミリオン",
+    "target": "Orange-Mesh Sneakers",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "エンペーサーCaO",
+    "target": "N-Pacer CaO",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "エンペーサーAg",
+    "target": "N-Pacer Ag",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "エンペーサーAu",
+    "target": "N-Pacer Au",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ウミウシボルト95",
+    "target": "Sea Slug Volt 95s",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "アスレチックアローズ",
+    "target": "Athletic Arrows",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "イカサシ スクランブル",
+    "target": "U Jellys",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "グッピーフラミンゴ",
+    "target": "Hyper Guppies",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "MOVEレッド",
+    "target": "Turbo Tabi Red",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "MODZ-9",
+    "target": "E-JECT 30XX",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "シェルバシラWO",
+    "target": "Slamgerine Slip-Ons",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "フカヒレニマイバ",
+    "target": "Mako Bucket Hi-Tops",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "シャコナックル",
+    "target": "Blue Shrimpsiders",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "MODZ-9S",
+    "target": "E-JECT 30VV",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "クラゲイターAKA",
+    "target": "OB Gaiter Waders",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "クラゲイターMIZ",
+    "target": "AG Gaiter Waders",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "グッピーフルブラック",
+    "target": "Noir Guppies",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "LT90-3",
+    "target": "LT-CL0WN",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "グリッチョ ブルー",
+    "target": "Blue Lo-Tops",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "キャンバス バナナ",
+    "target": "Banana Basics",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "グリッチョ グリーン 限定版",
+    "target": "LE Lo-Tops",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "シーホース ホワイト",
+    "target": "White Seahorses",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "グリッチョ オレンジ",
+    "target": "Orange Lo-Tops",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "シーホース ブラックレザー",
+    "target": "Black Seahorses",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "キャンバス クマノミ",
+    "target": "Clownfish Basics",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "シーホース イエロー",
+    "target": "Yellow Seahorses",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ベリベリホワイト",
+    "target": "White 3-Straps",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ベリベリレッド",
+    "target": "Red 3-Straps",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ユデスパイカ",
+    "target": "Soccer Shoes",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "レアスパイカ",
+    "target": "LE Soccer Shoes",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ボルダーシューズ タイノエ",
+    "target": "Sunny Climbing Shoes",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ボルダーシューズ ハザクラ",
+    "target": "Birch Climbing Shoes",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ヒモヒモグリーン",
+    "target": "Green Lace-Ups",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "デカロノーレース ホワイト",
+    "target": "White Laceless Dakroniks",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "デカロノーレース ブルー",
+    "target": "Blue Laceless Dakroniks",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ノーリーチャッカ グレー",
+    "target": "Suede Gray Lace-Ups",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ノーリーチャッカ トライブ",
+    "target": "Suede Nation Lace-Ups",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ノーリーチャッカ ロビンズ",
+    "target": "Suede Marine Lace-Ups",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "スパイカ タタキベッチュー",
+    "target": "Toni Kensa Soccer Shoes",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "NNJグリーン",
+    "target": "Wasabi Tabi",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ザ・ベース ルーキー",
+    "target": "Suede Basics",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "クラム600 カンロ",
+    "target": "Ink-Black Clam 600s",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ザ・ベース ボス",
+    "target": "Suede Bosses",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "クラム600 コハク",
+    "target": "White Clam 600s",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "サイクルシューズ エナジー",
+    "target": "Stamina Cycling Shoes",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "サイクルシューズ ソーダ",
+    "target": "Energy Cycling Shoes",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "スリッポン ブルー",
+    "target": "Blue Slip-Ons",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "スリッポン レッド",
+    "target": "Red Slip-Ons",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "スリッポン チドリ",
+    "target": "Squid-Stitch Slip-Ons",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "スリッポン ポルカ",
+    "target": "Polka-Dot Slip-Ons",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "チゴフグスリッポン",
+    "target": "ZedFry Slip-Ons",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "AGE262",
+    "target": "Fry Tops",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "ジャッジメントフット",
+    "target": "Burden of Floof",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "トレッキングライト",
+    "target": "Trail Boots",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "トレッキングカスタム",
+    "target": "Custom Trail Boots",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "トレッキングプロ",
+    "target": "Pro Trail Boots",
+    "category": "GearName_Shoes"
+  },
+  {
+    "jp": "バンカラマッチ（チャレンジ）",
+    "target": "Anarchy Battle (Series)",
+    "category": "MatchMode"
+  },
+  {
+    "jp": "バンカラマッチ（オープン）",
+    "target": "Anarchy Battle (Open)",
+    "category": "MatchMode"
+  },
+  {
+    "jp": "SALMON RUN",
+    "target": "Salmon Run",
+    "category": "MatchMode"
+  },
+  {
+    "jp": "プライベートバイト",
+    "target": "Private Job",
+    "category": "MatchMode"
+  },
+  {
+    "jp": "バイトチームコンテスト",
+    "target": "Eggstra Work",
+    "category": "MatchMode"
+  },
+  {
+    "jp": "フェスマッチ（チャレンジ）",
+    "target": "Splatfest Battle (Pro)",
+    "category": "MatchMode"
+  },
+  {
+    "jp": "フェスマッチ（オープン）",
+    "target": "Splatfest Battle (Open)",
+    "category": "MatchMode"
+  },
+  {
+    "jp": "トリカラマッチ",
+    "target": "Tricolor Battle",
+    "category": "MatchMode"
+  },
+  {
+    "jp": "イベントマッチ",
+    "target": "Challenge",
+    "category": "MatchMode"
+  },
+  {
+    "jp": "プライベートマッチ",
+    "target": "Private Battle",
+    "category": "MatchMode"
+  },
+  {
+    "jp": "レギュラーマッチ",
+    "target": "Regular Battle",
+    "category": "MatchMode"
+  },
+  {
+    "jp": "ライアン",
+    "target": "Orion",
+    "category": "Glossary"
+  },
+  {
+    "jp": "オルタナ",
+    "target": "Alterna",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ゲソタウン",
+    "target": "SplatNet Shop",
+    "category": "Glossary"
+  },
+  {
+    "jp": "アタリメ",
+    "target": "Cuttlefish",
+    "category": "Glossary"
+  },
+  {
+    "jp": "バトルメモリー",
+    "target": "battle replay",
+    "category": "Glossary"
+  },
+  {
+    "jp": "二つ名",
+    "target": "title",
+    "category": "Glossary"
+  },
+  {
+    "jp": "カードパック",
+    "target": "pack of cards",
+    "category": "Glossary"
+  },
+  {
+    "jp": "フレッシュカードパック",
+    "target": "fresh card pack",
+    "category": "Glossary"
+  },
+  {
+    "jp": "カードスリーブ",
+    "target": "card sleeves",
+    "category": "Glossary"
+  },
+  {
+    "jp": "司令",
+    "target": "Captain",
+    "category": "Glossary"
+  },
+  {
+    "jp": "グリル発進",
+    "target": "The Griller",
+    "category": "Glossary"
+  },
+  {
+    "jp": "キンシャケ探し",
+    "target": "Goldie Seeking",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ハコビヤ襲来",
+    "target": "The Mothership",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ドスコイ大量発生",
+    "target": "Cohock Charge",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ドロシャケ噴出",
+    "target": "Mudmouth Eruptions",
+    "category": "Glossary"
+  },
+  {
+    "jp": "バイトシナリオ",
+    "target": "job scenario",
+    "category": "Glossary"
+  },
+  {
+    "jp": "大会イベント用バイトシナリオ",
+    "target": "tournament job scenario",
+    "category": "Glossary"
+  },
+  {
+    "jp": "クレーター",
+    "target": "The Crater",
+    "category": "Glossary"
+  },
+  {
+    "jp": "イルカ",
+    "target": "O.R.C.A.",
+    "category": "Glossary"
+  },
+  {
+    "jp": "エモート",
+    "target": "emote",
+    "category": "Glossary"
+  },
+  {
+    "jp": "チゴフグ",
+    "target": "ZedFry",
+    "category": "Glossary"
+  },
+  {
+    "jp": "１００ケツ",
+    "target": "Top 100",
+    "category": "Glossary"
+  },
+  {
+    "jp": "オミコシ",
+    "target": "Splatfest Float",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ヨビ祭",
+    "target": "Splatfest Sneak Peek",
+    "category": "Glossary"
+  },
+  {
+    "jp": "本祭",
+    "target": "Splatfest Main Event",
+    "category": "Glossary"
+  },
+  {
+    "jp": "フェスポイント",
+    "target": "Splatfest Points",
+    "category": "Glossary"
+  },
+  {
+    "jp": "フェスランク",
+    "target": "Splatfest Rank",
+    "category": "Glossary"
+  },
+  {
+    "jp": "オマツリガイ",
+    "target": "festival shell",
+    "category": "Glossary"
+  },
+  {
+    "jp": "オキモノ",
+    "target": "decoration",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ユメエビ",
+    "target": "Cipher",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ロブ",
+    "target": "Crusty Sean",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ハナガサ",
+    "target": "Jel La Fleur",
+    "category": "Glossary"
+  },
+  {
+    "jp": "エチゼン",
+    "target": "Jelonzo",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ビゼン",
+    "target": "Jelfonzo",
+    "category": "Glossary"
+  },
+  {
+    "jp": "オームラ",
+    "target": "Gnarly Eddy",
+    "category": "Glossary"
+  },
+  {
+    "jp": "アネモ",
+    "target": "Annie",
+    "category": "Glossary"
+  },
+  {
+    "jp": "クマノ",
+    "target": "Moe",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ミウラ",
+    "target": "Flow",
+    "category": "Glossary"
+  },
+  {
+    "jp": "エビィ",
+    "target": "Craymond",
+    "category": "Glossary"
+  },
+  {
+    "jp": "タニシ店長",
+    "target": "Nails",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ヤシガニさん",
+    "target": "Mr. Coco",
+    "category": "Glossary"
+  },
+  {
+    "jp": "アジオ",
+    "target": "Fred Crumbs",
+    "category": "Glossary"
+  },
+  {
+    "jp": "シガニー",
+    "target": "Bisk",
+    "category": "Glossary"
+  },
+  {
+    "jp": "パル子",
+    "target": "Harmony",
+    "category": "Glossary"
+  },
+  {
+    "jp": "グランドフェスティバル",
+    "target": "Grand Festival",
+    "category": "Glossary"
+  },
+  {
+    "jp": "クマサン端末",
+    "target": "Grizzco terminal",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ハチ",
+    "target": "Eight",
+    "category": "Glossary"
+  },
+  {
+    "jp": "８号",
+    "target": "Agent 8",
+    "category": "Glossary"
+  },
+  {
+    "jp": "１号",
+    "target": "Agent 1",
+    "category": "Glossary"
+  },
+  {
+    "jp": "Sea O'Colors\n(シオカラーズ)",
+    "target": "Squid Sisters",
+    "category": "Glossary"
+  },
+  {
+    "jp": "インクリング",
+    "target": "Inkling",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ハイカラシティ",
+    "target": "Inkopolis Plaza",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ハイカラスクエア",
+    "target": "Inkopolis Square",
+    "category": "Glossary"
+  },
+  {
+    "jp": "バトルポット",
+    "target": "battle pot",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ロビー端末",
+    "target": "lobby terminal",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ダミイカ",
+    "target": "copy machine",
+    "category": "Glossary"
+  },
+  {
+    "jp": "くじ引き",
+    "target": "Shell-Out Machine",
+    "category": "Glossary"
+  },
+  {
+    "jp": "くじ引きコイン",
+    "target": "Shell-Out Token",
+    "category": "Glossary"
+  },
+  {
+    "jp": "しょしんしゃクラゲ",
+    "target": "Baby Jelly",
+    "category": "Glossary"
+  },
+  {
+    "jp": "のんびりクラゲ",
+    "target": "Cool Jelly",
+    "category": "Glossary"
+  },
+  {
+    "jp": "まえむきクラゲ",
+    "target": "Aggro Jelly",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ものまねクラゲ",
+    "target": "Clone Jelly",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ナワバトランク",
+    "target": "Tableturf Rank",
+    "category": "Glossary"
+  },
+  {
+    "jp": "陣取大戦ナワバトラー",
+    "target": "Tableturf Battle",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ミズタ",
+    "target": "Acht",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ヒーローモード",
+    "target": "Story Mode",
+    "category": "Glossary"
+  },
+  {
+    "jp": "マザー",
+    "target": "Marigold",
+    "category": "Glossary"
+  },
+  {
+    "jp": "店員さん",
+    "target": "Staff",
+    "category": "Glossary"
+  },
+  {
+    "jp": "スタッフさん",
+    "target": "Staff",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ガイドさん",
+    "target": "Recon Guide",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ミステリーファイル",
+    "target": "Sunken Scroll",
+    "category": "Glossary"
+  },
+  {
+    "jp": "サイト",
+    "target": "site",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ダメ風船",
+    "target": "fail balloon",
+    "category": "Glossary"
+  },
+  {
+    "jp": "マト",
+    "target": "target",
+    "category": "Glossary"
+  },
+  {
+    "jp": "チェックポイント",
+    "target": "checkpoint",
+    "category": "Glossary"
+  },
+  {
+    "jp": "スイッチ",
+    "target": "splat switch",
+    "category": "Glossary"
+  },
+  {
+    "jp": "でんでんスイッチ",
+    "target": "ink switch",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ボム風船",
+    "target": "balloon fish",
+    "category": "Glossary"
+  },
+  {
+    "jp": "スポンジ",
+    "target": "sponge",
+    "category": "Glossary"
+  },
+  {
+    "jp": "カンケツセン",
+    "target": "gusher",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ピロピロ",
+    "target": "inkfurler",
+    "category": "Glossary"
+  },
+  {
+    "jp": "プロペラ",
+    "target": "propeller",
+    "category": "Glossary"
+  },
+  {
+    "jp": "インクレール",
+    "target": "inkrail",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ライドレール",
+    "target": "ride rail",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ダッシュ板",
+    "target": "dash track",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ジャンプマット",
+    "target": "bounce pad",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ヌリホイール",
+    "target": "ink wheel",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ヘビブロック",
+    "target": "soaker block",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ふみスイッチ",
+    "target": "switch",
+    "category": "Glossary"
+  },
+  {
+    "jp": "エネルギーコア",
+    "target": "energy core",
+    "category": "Glossary"
+  },
+  {
+    "jp": "プロペラリフト",
+    "target": "propellervator",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ドローン",
+    "target": "Shel-drone",
+    "category": "Glossary"
+  },
+  {
+    "jp": "タコストライク",
+    "target": "Octoballer",
+    "category": "Glossary"
+  },
+  {
+    "jp": "インクリーナー",
+    "target": "Squee-G",
+    "category": "Glossary"
+  },
+  {
+    "jp": "タココマンダー",
+    "target": "Octocommander",
+    "category": "Glossary"
+  },
+  {
+    "jp": "タコプター",
+    "target": "Octocopter",
+    "category": "Glossary"
+  },
+  {
+    "jp": "タコミラーボール",
+    "target": "Octodisco",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ボムタコプター",
+    "target": "Octobomber",
+    "category": "Glossary"
+  },
+  {
+    "jp": "スタコラー",
+    "target": "Tentakook",
+    "category": "Glossary"
+  },
+  {
+    "jp": "タコドーザー",
+    "target": "Flooder",
+    "category": "Glossary"
+  },
+  {
+    "jp": "タコッペリン号",
+    "target": "Octozeppelin",
+    "category": "Glossary"
+  },
+  {
+    "jp": "タコミサイル",
+    "target": "Octomissile",
+    "category": "Glossary"
+  },
+  {
+    "jp": "タコポッド",
+    "target": "Octopod",
+    "category": "Glossary"
+  },
+  {
+    "jp": "大容量タコポッド",
+    "target": "Oversized Octopod",
+    "category": "Glossary"
+  },
+  {
+    "jp": "タコスナイパー",
+    "target": "Octosniper",
+    "category": "Glossary"
+  },
+  {
+    "jp": "タコゾネス",
+    "target": "Octoling",
+    "category": "Glossary"
+  },
+  {
+    "jp": "タコスタンプ",
+    "target": "Octostamp",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ビートタコスタンプ",
+    "target": "Amped Octostamp",
+    "category": "Glossary"
+  },
+  {
+    "jp": "タコトルーパー",
+    "target": "Octotrooper",
+    "category": "Glossary"
+  },
+  {
+    "jp": "タテタコトルーパー",
+    "target": "Shielded Octotrooper",
+    "category": "Glossary"
+  },
+  {
+    "jp": "バイタコトルーパー",
+    "target": "Twintacle Octotrooper",
+    "category": "Glossary"
+  },
+  {
+    "jp": "タコホッパー",
+    "target": "Octohopper",
+    "category": "Glossary"
+  },
+  {
+    "jp": "イリコニウム",
+    "target": "Sardinium",
+    "category": "Glossary"
+  },
+  {
+    "jp": "イクラ",
+    "target": "Power Egg",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ビンイクラ",
+    "target": "Power Egg pack",
+    "category": "Glossary"
+  },
+  {
+    "jp": "イカフライ",
+    "target": "squid ring",
+    "category": "Glossary"
+  },
+  {
+    "jp": "スペシャルカンヅメ",
+    "target": "canned special",
+    "category": "Glossary"
+  },
+  {
+    "jp": "カギ",
+    "target": "key",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ゴールドディスク",
+    "target": "gold record",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ジャンプポイント",
+    "target": "launchpad",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ヌリヌリ棒",
+    "target": "ink stick",
+    "category": "Glossary"
+  },
+  {
+    "jp": "強化ポイント",
+    "target": "Upgrade Point",
+    "category": "Glossary"
+  },
+  {
+    "jp": "パイプライン",
+    "target": "pipeline",
+    "category": "Glossary"
+  },
+  {
+    "jp": "びっくりネジ",
+    "target": "loot anchor",
+    "category": "Glossary"
+  },
+  {
+    "jp": "オオデンチナマズ",
+    "target": "Great Zapfish",
+    "category": "Glossary"
+  },
+  {
+    "jp": "デンチナマズ",
+    "target": "Zapfish",
+    "category": "Glossary"
+  },
+  {
+    "jp": "でんちゃん",
+    "target": "stuffed Zapfish",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ナゾの声",
+    "target": "Raspy Voice",
+    "category": "Glossary"
+  },
+  {
+    "jp": "プレート",
+    "target": "banner",
+    "category": "Glossary"
+  },
+  {
+    "jp": "２号",
+    "target": "Agent 2",
+    "category": "Glossary"
+  },
+  {
+    "jp": "チャンネル",
+    "target": "Pool",
+    "category": "Glossary"
+  },
+  {
+    "jp": "オクタリアン",
+    "target": "Octarian",
+    "category": "Glossary"
+  },
+  {
+    "jp": "オクトリング",
+    "target": "Octoling",
+    "category": "Glossary"
+  },
+  {
+    "jp": "オーダ",
+    "target": "Order",
+    "category": "Glossary"
+  },
+  {
+    "jp": "オーダコ",
+    "target": "Overlorder",
+    "category": "Glossary"
+  },
+  {
+    "jp": "コダコ",
+    "target": "Smollusk",
+    "category": "Glossary"
+  },
+  {
+    "jp": "New!カラストンビ部隊",
+    "target": "New Squidbeak Splatoon",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ブンシン",
+    "target": "ghosts",
+    "category": "Glossary"
+  },
+  {
+    "jp": "フェス投票所",
+    "target": "Splatfest Pledge Box",
+    "category": "Glossary"
+  },
+  {
+    "jp": "イクラキャノン",
+    "target": "egg cannon",
+    "category": "Glossary"
+  },
+  {
+    "jp": "イクラコンテナ",
+    "target": "egg basket",
+    "category": "Glossary"
+  },
+  {
+    "jp": "イカリング３",
+    "target": "SplatNet 3",
+    "category": "Glossary"
+  },
+  {
+    "jp": "発射台",
+    "target": "Big Shot launcher",
+    "category": "Glossary"
+  },
+  {
+    "jp": "オカシラシャケ",
+    "target": "King Salmonid",
+    "category": "Glossary"
+  },
+  {
+    "jp": "オカシラゲージ",
+    "target": "Salmometer",
+    "category": "Glossary"
+  },
+  {
+    "jp": "３号",
+    "target": "Agent 3",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ボール",
+    "target": "∞-ball",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ラッキーボム",
+    "target": "Lucky Bomb",
+    "category": "Glossary"
+  },
+  {
+    "jp": "系統",
+    "target": "tone",
+    "category": "Glossary"
+  },
+  {
+    "jp": "カラーチップ",
+    "target": "color chip",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ノンカラ処理",
+    "target": "Grayscaling",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ヒメドローン",
+    "target": "Pearl Drone",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ドローンバッテリー",
+    "target": "drone battery",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ドローンゲージ",
+    "target": "drone gauge",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ネリコイン",
+    "target": "Membux",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ゴロゴロマルチャーレ",
+    "target": "Pinging Marciale",
+    "category": "Glossary"
+  },
+  {
+    "jp": "イイダ・エジタンド",
+    "target": "Marina Agitando",
+    "category": "Glossary"
+  },
+  {
+    "jp": "噴出するトリオンファーレ",
+    "target": "Gushing Trionfale",
+    "category": "Glossary"
+  },
+  {
+    "jp": "そびえ立つノビルメンテ",
+    "target": "Towering Nobilmente",
+    "category": "Glossary"
+  },
+  {
+    "jp": "疾走するアラマンボ",
+    "target": "Panicking Alla Mambo",
+    "category": "Glossary"
+  },
+  {
+    "jp": "伸縮するスピッカート",
+    "target": "Springing Spiccato",
+    "category": "Glossary"
+  },
+  {
+    "jp": "制圧するグラーヴェ",
+    "target": "Battering Lento",
+    "category": "Glossary"
+  },
+  {
+    "jp": "行進するアンダンテ",
+    "target": "Marching Andante",
+    "category": "Glossary"
+  },
+  {
+    "jp": "イカイノカノン",
+    "target": "Parallel Canon",
+    "category": "Glossary"
+  },
+  {
+    "jp": "反射するコラパルテ",
+    "target": "Whirling Accelerando",
+    "category": "Glossary"
+  },
+  {
+    "jp": "群れるラングエンド",
+    "target": "Swarming Languendo",
+    "category": "Glossary"
+  },
+  {
+    "jp": "撒き散らすカプリチョーソ",
+    "target": "Drizzling Capriccioso",
+    "category": "Glossary"
+  },
+  {
+    "jp": "カイセンロンド",
+    "target": "Asynchronous Rondo",
+    "category": "Glossary"
+  },
+  {
+    "jp": "産み出すアッコルド",
+    "target": "Spawning Accordo",
+    "category": "Glossary"
+  },
+  {
+    "jp": "飛来するアルペジオ",
+    "target": "Homing Arpeggio",
+    "category": "Glossary"
+  },
+  {
+    "jp": "エントランス",
+    "target": "foyer",
+    "category": "Glossary"
+  },
+  {
+    "jp": "スケルトーン",
+    "target": "Jelleton",
+    "category": "Glossary"
+  },
+  {
+    "jp": "Ｆ",
+    "target": "F",
+    "category": "Glossary"
+  },
+  {
+    "jp": "インクボトル",
+    "target": "ink bottle",
+    "category": "Glossary"
+  },
+  {
+    "jp": "シンジュ",
+    "target": "Prlz",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ライフ",
+    "target": "Lives",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ケージ",
+    "target": "cage",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ラッキーコンボ",
+    "target": "Lucky Chain",
+    "category": "Glossary"
+  },
+  {
+    "jp": "お題",
+    "target": "objective",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ユメエビの露店",
+    "target": "Cipher's Siftings",
+    "category": "Glossary"
+  },
+  {
+    "jp": "秩序の街",
+    "target": "Order Sector",
+    "category": "Glossary"
+  },
+  {
+    "jp": "パレット",
+    "target": "Palette",
+    "category": "Glossary"
+  },
+  {
+    "jp": "自販機",
+    "target": "vending machine",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ポータル",
+    "target": "portal",
+    "category": "Glossary"
+  },
+  {
+    "jp": "フロア",
+    "target": "Floor",
+    "category": "Glossary"
+  },
+  {
+    "jp": "サウンドバースト",
+    "target": "Step-Off Song",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ディスクパーツ",
+    "target": "disc piece",
+    "category": "Glossary"
+  },
+  {
+    "jp": "カラーチップフィーバー",
+    "target": "Color-Chip Saturation",
+    "category": "Glossary"
+  },
+  {
+    "jp": "秩序の塔",
+    "target": "Spire of Order",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ネリバース",
+    "target": "Memverse",
+    "category": "Glossary"
+  },
+  {
+    "jp": "プロペラヤグラ",
+    "target": "turbine tower",
+    "category": "Glossary"
+  },
+  {
+    "jp": "スペシャルアタック",
+    "target": "Special Attack",
+    "category": "Glossary"
+  },
+  {
+    "jp": "スペシャルポイント",
+    "target": "Special Point",
+    "category": "Glossary"
+  },
+  {
+    "jp": "バンカラ地方",
+    "target": "The Splatlands",
+    "category": "Glossary"
+  },
+  {
+    "jp": "バンカラ街",
+    "target": "Splatsville",
+    "category": "Glossary"
+  },
+  {
+    "jp": "イカスポーン",
+    "target": "Squid Spawn",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ステッカー",
+    "target": "sticker",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ウキワタンク",
+    "target": "life ring",
+    "category": "Glossary"
+  },
+  {
+    "jp": "スーパーシグナル",
+    "target": "Ultra Signal",
+    "category": "Glossary"
+  },
+  {
+    "jp": "マトイ",
+    "target": "Sprinkler of Doom",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ホラガイ",
+    "target": "conch shell",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ホラガイ争奪戦",
+    "target": "Conch Clash",
+    "category": "Glossary"
+  },
+  {
+    "jp": "スーパーサザエ",
+    "target": "Super Sea Snail",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ウデマエポイント",
+    "target": "Rank Points",
+    "category": "Glossary"
+  },
+  {
+    "jp": "昇格戦",
+    "target": "Rank-Up Battle",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ウロコ",
+    "target": "fish scales",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ガチエリア",
+    "target": "Splat Zone",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ガチヤグラ",
+    "target": "Tower Control Tower",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ガチアサリ",
+    "target": "power clam",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ハナビダマ",
+    "target": "Fizzbang",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ダウニー",
+    "target": "Spyke",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ブキチライセンス",
+    "target": "Sheldon License",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ゴールドブキチライセンス",
+    "target": "Gold Sheldon License",
+    "category": "Glossary"
+  },
+  {
+    "jp": "マメブキチ",
+    "target": "Shelly",
+    "category": "Glossary"
+  },
+  {
+    "jp": "ツブブキチ",
+    "target": "Donny",
+    "category": "Glossary"
+  },
+  {
+    "jp": "Xランキング",
+    "target": "X Rankings",
+    "category": "Glossary"
+  },
+  {
+    "jp": "グループ",
+    "target": "Division",
+    "category": "Glossary"
+  },
+  {
+    "jp": "４号",
+    "target": "Agent 4",
+    "category": "Glossary"
+  },
+  {
+    "jp": "最初の塔をクリアした",
+    "target": "Cleared the Initial Spire",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "サイド・オーダーをクリアした",
+    "target": "Cleared Side Order",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "全てのパレットで秩序の塔をクリアした",
+    "target": "Cleared the Spire of Order with Every Palette",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ユメエビの露店で全ての品を交換した",
+    "target": "Bought Everything from Cipher's Siftings",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ハッキング極少のハチのパレットで秩序の塔をクリアした",
+    "target": "Cleared the Spire of Order with the Low-Hacks Eight's Palette",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "カタログレベルが５０になった",
+    "target": "Level 50 Catalog Reached!",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "カタログレベルが１００になった",
+    "target": "Level 100 Catalog Reached!",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "バンカラマッチ（チャレンジ）で１０回勝ちぬけした",
+    "target": "Won 10 Straight Anarchy Battles (Series)",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "バンカラマッチ（チャレンジ）で５０回勝ちぬけした",
+    "target": "Won 50 Straight Anarchy Battles (Series)",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "バンカラマッチ（チャレンジ）で２５０回勝ちぬけした",
+    "target": "Won 250 Straight Anarchy Battles (Series)",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ビッグランで銅以上のオキモノをもらった",
+    "target": "Got a Bronze or Higher Decoration in Big Run",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ビッグランで銀以上のオキモノをもらった",
+    "target": "Got a Silver or Higher Decoration in Big Run",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ビッグランで金のオキモノをもらった",
+    "target": "Got a Gold Decoration in Big Run",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "キケン度MAXをクリアした",
+    "target": "MAX Hazard Level Cleared",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "バイトチームコンテストで上位５０%に入った",
+    "target": "Top 50% in Eggstra Work!",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "バイトチームコンテストで上位２０%に入った",
+    "target": "Top 20% in Eggstra Work!",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "バイトチームコンテストで上位５%に入った",
+    "target": "Top 5% in Eggstra Work!",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "オカシラ連合を倒した",
+    "target": "Dethroned a Triumvirate",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "イベントマッチで上位５０%に入った",
+    "target": "Top 50% in a Challenge!",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "イベントマッチで上位２０%に入った",
+    "target": "Top 20% in a Challenge!",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "イベントマッチで上位５%に入った",
+    "target": "Top 5% in a Challenge!",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "１０倍マッチを３回戦いぬいた",
+    "target": "Competed in Three 10x Battles",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "１０倍マッチで１０回勝利した",
+    "target": "Won Ten 10x Battles",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "フェスランクが「えいえん」になった",
+    "target": "Ruler of Splatfest Reached!",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "タイカイサポートで主催した大会の参加者が合計１６人になった",
+    "target": "Organized a 16-Player Tournament with Tournament Manager!",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "タイカイサポートで主催した大会の参加者が合計２５０人になった",
+    "target": "Organized a 250-Player Tournament with Tournament Manager!",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "タイカイサポートで主催した大会の参加者が合計１０００人になった",
+    "target": "Organized a 1,000-Player Tournament with Tournament Manager!",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "くじ引きで大当たりを４回引いた",
+    "target": "Hit the Shell-Out Machine Jackpot 4 Times",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "くじ引きで大当たりを８回引いた",
+    "target": "Hit the Shell-Out Machine Jackpot 8 Times",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "くじ引きで大当たりを１６回引いた",
+    "target": "Hit the Shell-Out Machine Jackpot 16 Times",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "DJタコワサ将軍を倒した",
+    "target": "DJ Octavio Defeated!",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ヒーローモードをクリアした",
+    "target": "Story Mode Cleared!",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ヒーローそうびの強化ポイントを最大まで手に入れた",
+    "target": "Max Hero Level Achieved!",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "かくしヤカンをクリアした",
+    "target": "Secret Kettle Found and Cleared!",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ナワバトラーのカードを９０種類コレクションした",
+    "target": "Collected 90 Tableturf Battle Cards",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ナワバトラーのカードを１２０種類コレクションした",
+    "target": "Collected 120 Tableturf Battle Cards",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ナワバトラーのカードを１５０種類コレクションした",
+    "target": "Collected 150 Tableturf Battle Cards",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ナワバトランクが３０になった",
+    "target": "Reached Tableturf Rank 30",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ナワバトランクが４０になった",
+    "target": "Reached Tableturf Rank 40",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ナワバトランクが５０になった",
+    "target": "Reached Tableturf Rank 50",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ナワバトランクが１００になった",
+    "target": "Reached Tableturf Rank 100",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ナワバトランクが２００になった",
+    "target": "Reached Tableturf Rank 200",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ナワバトランクが３００になった",
+    "target": "Reached Tableturf Rank 300",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ナワバトランクが４００になった",
+    "target": "Reached Tableturf Rank 400",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ナワバトランクが５００になった",
+    "target": "Reached Tableturf Rank 500",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ナワバトランクが６００になった",
+    "target": "Reached Tableturf Rank 600",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ナワバトランクが７００になった",
+    "target": "Reached Tableturf Rank 700",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ナワバトランクが８００になった",
+    "target": "Reached Tableturf Rank 800",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ナワバトランクが９００になった",
+    "target": "Reached Tableturf Rank 900",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ナワバトランクが９９９になった",
+    "target": "Reached Tableturf Rank 999",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ナワバトラー道場で全員の最高レベルに勝利した",
+    "target": "Tableturf Battle Dojo Max Level Champ",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "売店で１０回注文した",
+    "target": "Ordered 10 Concessions",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "売店で１００回注文した",
+    "target": "Ordered 100 Concessions",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "売店で１０００回注文した",
+    "target": "Ordered 1,000 Concessions",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ダウニーに１０回ギアを注文した",
+    "target": "10 Spyke Orders",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ダウニーに１００回ギアを注文した",
+    "target": "100 Spyke Orders",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "スパイキーに１０回ギアを注文した",
+    "target": "10 Murch Orders",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "スパイキーに１００回ギアを注文した",
+    "target": "100 Murch Orders",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ランクが３０になった",
+    "target": "Reached Level 30",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ランクが５０になった",
+    "target": "Reached Level 50",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ランクが１００になった",
+    "target": "Reached Level 100",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ランクが２００になった",
+    "target": "Reached Level 200",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ランクが３００になった",
+    "target": "Reached Level 300",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ランクが４００になった",
+    "target": "Reached Level 400",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ランクが５００になった",
+    "target": "Reached Level 500",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ランクが６００になった",
+    "target": "Reached Level 600",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ランクが７００になった",
+    "target": "Reached Level 700",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ランクが８００になった",
+    "target": "Reached Level 800",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ランクが９００になった",
+    "target": "Reached Level 900",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ランクが９９９になった",
+    "target": "Reached Level 999",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "くじ引きでおカネを３００,０００ゲソ使った",
+    "target": "Spent 300,000 Cash on the Shell-Out Machine",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "くじ引きでおカネを３,０００,０００ゲソ使った",
+    "target": "Spent 3,000,000 Cash on the Shell-Out Machine",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "くじ引きでおカネを３０,０００,０００ゲソ使った",
+    "target": "Spent 30,000,000 Cash on the Shell-Out Machine",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ハイカラシティのフク屋でおカネを１００,０００ゲソ使った",
+    "target": "100K Jelly Fresh Club",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ハイカラシティのフク屋でおカネを１,０００,０００ゲソ使った",
+    "target": "1MM Jelly Fresh Club",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "バンカラ街のフク屋でおカネを１００,０００ゲソ使った",
+    "target": "100K Man-o'-Wardrobe Club",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "バンカラ街のフク屋でおカネを１,０００,０００ゲソ使った",
+    "target": "1MM Man-o'-Wardrobe Club",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ハイカラスクエアのフク屋でおカネを１００,０００ゲソ使った",
+    "target": "100K Ye Olde Cloth Shoppe Club",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ハイカラスクエアのフク屋でおカネを１,０００,０００ゲソ使った",
+    "target": "1MM Ye Olde Cloth Shoppe Club",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ザッカ屋でおカネを１００,０００ゲソ使った",
+    "target": "100K Hotlantis Club",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ザッカ屋でおカネを１,０００,０００ゲソ使った",
+    "target": "1MM Hotlantis Club",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ハイカラシティのアタマ屋でおカネを１００,０００ゲソ使った",
+    "target": "100K Cooler Heads Club",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ハイカラシティのアタマ屋でおカネを１,０００,０００ゲソ使った",
+    "target": "1MM Cooler Heads Club",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "バンカラ街のアタマ屋でおカネを１００,０００ゲソ使った",
+    "target": "100K Naut Couture Club",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "バンカラ街のアタマ屋でおカネを１,０００,０００ゲソ使った",
+    "target": "1MM Naut Couture Club",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ハイカラスクエアのアタマ屋でおカネを１００,０００ゲソ使った",
+    "target": "100K Headspace Club",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ハイカラスクエアのアタマ屋でおカネを１,０００,０００ゲソ使った",
+    "target": "1MM Headspace Club",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ハイカラシティのクツ屋でおカネを１００,０００ゲソ使った",
+    "target": "100K Shrimp Kicks Club",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ハイカラシティのクツ屋でおカネを１,０００,０００ゲソ使った",
+    "target": "1MM Shrimp Kicks Club",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "バンカラ街のクツ屋でおカネを１００,０００ゲソ使った",
+    "target": "100K Crush Station Club",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "バンカラ街のクツ屋でおカネを１,０００,０００ゲソ使った",
+    "target": "1MM Crush Station Club",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ハイカラスクエアのクツ屋でおカネを１００,０００ゲソ使った",
+    "target": "100K Shella Fresh Club",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ハイカラスクエアのクツ屋でおカネを１,０００,０００ゲソ使った",
+    "target": "1MM Shella Fresh Club",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "同じ色のカラーチップの情報を全て集めた",
+    "target": "Collected Data for All Color Chips of the Same Tone",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "クマサンポイントを１００００pかせいだ",
+    "target": "10,000 Grizzco Point Club",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "クマサンポイントを１００,０００pかせいだ",
+    "target": "100,000 Grizzco Point Club",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "クマサンポイントを９,９９９,９９９pかせいだ",
+    "target": "9,999,999 Grizzco Point Club",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ウデマエがＡになった",
+    "target": "A Rank Reached!",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ウデマエがＳになった",
+    "target": "S Rank Reached!",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ウデマエがＳ+になった",
+    "target": "S+ Rank Reached!",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "１０コのブキのじゅくれん度が★４以上になった",
+    "target": "Hit 4★ with 10 Weapons",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "２５コのブキのじゅくれん度が★４以上になった",
+    "target": "Hit 4★ with 25 Weapons",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "５０コのブキのじゅくれん度が★４以上になった",
+    "target": "Hit 4★ with 50 Weapons",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "Xパワー２０００以上でXマッチを１５回勝ちぬけした",
+    "target": "Won 15 Straight X Battles with X Power at 2,000+",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "Xパワー２０００以上でXマッチを７０回勝ちぬけした",
+    "target": "Won 70 Straight X Battles with X Power at 2,000+",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "Xパワー２０００以上でXマッチを３５０回勝ちぬけした",
+    "target": "Won 350 Straight X Battles with X Power at 2,000+",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ナワバリバトルで５０回勝利した",
+    "target": "50 Turf War Wins",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ナワバリバトルで２５０回勝利した",
+    "target": "250 Turf War Wins",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ナワバリバトルで１２００回勝利した",
+    "target": "1,200 Turf War Wins",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "トリカラバトルの攻撃チームで勝利した",
+    "target": "Tricolor Turf War Win - Attacker",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "トリカラバトルの攻撃チームで１０回勝利した",
+    "target": "10 Tricolor Turf War Wins - Attacker",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "トリカラバトルの守備チームで勝利した",
+    "target": "Tricolor Turf War Win - Defender",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "トリカラバトルの守備チームで１０回勝利した",
+    "target": "10 Tricolor Turf War Wins - Defender",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ガチエリアで１００回勝利した",
+    "target": "100 Splat Zones Wins",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ガチエリアで１０００回勝利した",
+    "target": "1,000 Splat Zones Wins",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ガチアサリで１００回勝利した",
+    "target": "100 Clam Blitz Wins",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ガチアサリで１０００回勝利した",
+    "target": "1,000 Clam Blitz Wins",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ガチホコバトルで１００回勝利した",
+    "target": "100 Rainmaker Wins",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ガチホコバトルで１０００回勝利した",
+    "target": "1,000 Rainmaker Wins",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ガチヤグラで１００回勝利した",
+    "target": "100 Tower Control Wins",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "ガチヤグラで１０００回勝利した",
+    "target": "1,000 Tower Control Wins",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "Xパワーが２０００以上になった",
+    "target": "Hit 2,000+ X Power",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "Xマッチのランキングで３０００位以内に入った",
+    "target": "Top 3,000 in X Battle!",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "Xマッチのランキングで５００位以内に入った",
+    "target": "Top 500 in X Battle!",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "Xマッチのランキングで１０位以内に入った",
+    "target": "Top 10 in X Battle!",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "Xマッチのランキングで５００００位以内に入った",
+    "target": "Top 50,000 X Battle Rank",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "Xマッチのランキングで３００００位以内に入った",
+    "target": "Top 30,000 X Battle Rank",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "Xマッチのランキングで１００００位以内に入った",
+    "target": "Top 10,000 X Battle Rank",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "Xマッチのランキングで５０００位以内に入った",
+    "target": "Top 5,000 X Battle Rank",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "Xマッチのランキングで３０００位以内に入った",
+    "target": "Top 3,000 X Battle Rank",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "Xマッチのランキングで１０００位以内に入った",
+    "target": "Top 1,000 X Battle Rank",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "Xマッチのランキングで５００位以内に入った",
+    "target": "Top 500 X Battle Rank",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "Xマッチのランキングで１０位以内に入った",
+    "target": "Top 10 X Battle Rank",
+    "category": "BadgeMsg"
+  },
+  {
+    "jp": "打開",
+    "category": "strategy",
+    "context": "打開しよう = Let's retake / push in",
+    "target": "retake / push"
+  },
+  {
+    "jp": "抑え",
+    "category": "strategy",
+    "context": "抑えに行こう = Let's go hold them",
+    "target": "hold / suppress"
+  },
+  {
+    "jp": "塗り",
+    "category": "strategy",
+    "target": "inking / painting"
+  },
+  {
+    "jp": "キル",
+    "category": "strategy",
+    "target": "splat / kill"
+  },
+  {
+    "jp": "デス",
+    "category": "strategy",
+    "target": "death / got splatted"
+  },
+  {
+    "jp": "潜伏",
+    "category": "strategy",
+    "context": "潜伏してた = Was lurking in ink",
+    "target": "lurking in ink"
+  },
+  {
+    "jp": "リスキル",
+    "category": "strategy",
+    "target": "spawn camping"
+  },
+  {
+    "jp": "対面",
+    "category": "strategy",
+    "context": "対面強い = Strong in 1v1s",
+    "target": "1v1 fight"
+  },
+  {
+    "jp": "編成",
+    "category": "strategy",
+    "context": "編成がキツい = Tough team comp to deal with",
+    "target": "team comp"
+  },
+  {
+    "jp": "立ち回り",
+    "category": "strategy",
+    "context": "立ち回りが上手い = Good positioning",
+    "target": "playstyle / positioning"
+  },
+  {
+    "jp": "射程",
+    "category": "strategy",
+    "context": "射程が長い = Long range",
+    "target": "range"
+  },
+  {
+    "jp": "前線",
+    "category": "strategy",
+    "target": "front line"
+  },
+  {
+    "jp": "裏取り",
+    "category": "strategy",
+    "context": "裏取りされた = Got flanked",
+    "target": "flanking"
+  },
+  {
+    "jp": "塗り状況",
+    "category": "strategy",
+    "target": "ink coverage"
+  },
+  {
+    "jp": "人数有利",
+    "category": "strategy",
+    "target": "numbers advantage"
+  },
+  {
+    "jp": "人数不利",
+    "category": "strategy",
+    "target": "numbers disadvantage"
+  },
+  {
+    "jp": "カウント",
+    "category": "strategy",
+    "target": "count / score"
+  },
+  {
+    "jp": "スペシャル",
+    "category": "strategy",
+    "target": "special"
+  },
+  {
+    "jp": "サブ",
+    "category": "strategy",
+    "target": "sub weapon"
+  },
+  {
+    "jp": "メイン",
+    "category": "strategy",
+    "target": "main weapon"
+  },
+  {
+    "jp": "確1",
+    "category": "strategy",
+    "target": "one-shot kill"
+  },
+  {
+    "jp": "確2",
+    "category": "strategy",
+    "target": "two-shot kill"
+  },
+  {
+    "jp": "確3",
+    "category": "strategy",
+    "target": "three-shot kill"
+  },
+  {
+    "jp": "確4",
+    "category": "strategy",
+    "target": "four-shot kill"
+  },
+  {
+    "jp": "1確",
+    "category": "strategy",
+    "target": "one-shot kill"
+  },
+  {
+    "jp": "2確",
+    "category": "strategy",
+    "target": "two-shot kill"
+  },
+  {
+    "jp": "3確",
+    "category": "strategy",
+    "target": "three-shot kill"
+  },
+  {
+    "jp": "4確",
+    "category": "strategy",
+    "target": "four-shot kill"
+  },
+  {
+    "jp": "エイム",
+    "category": "strategy",
+    "target": "aim"
+  },
+  {
+    "jp": "キャリー",
+    "category": "strategy",
+    "context": "キャリーしてる = Carrying the team",
+    "target": "carry"
+  },
+  {
+    "jp": "ヘイト",
+    "category": "strategy",
+    "context": "ヘイトを集める = Drawing aggro",
+    "target": "aggro / attention"
+  },
+  {
+    "jp": "ボム",
+    "category": "strategy",
+    "target": "bomb"
+  },
+  {
+    "jp": "張り付き",
+    "category": "strategy",
+    "target": "wall cling"
+  },
+  {
+    "jp": "硬直",
+    "category": "strategy",
+    "context": "硬直が長い = Long endlag",
+    "target": "endlag / recovery"
+  },
+  {
+    "jp": "構築",
+    "category": "strategy",
+    "notes": "startup lag/animation in context of abilities",
+    "target": "startup (animation)"
+  },
+  {
+    "jp": "全落ち",
+    "category": "strategy",
+    "context": "全落ちした = Got team wiped",
+    "target": "team wipe"
+  },
+  {
+    "jp": "ワイプ",
+    "category": "strategy",
+    "target": "wipe"
+  },
+  {
+    "jp": "落ち",
+    "category": "strategy",
+    "context": "一人落ちた = One player down",
+    "target": "got splatted"
+  },
+  {
+    "jp": "落とす",
+    "category": "strategy",
+    "target": "to splat (someone)"
+  },
+  {
+    "jp": "味方",
+    "category": "strategy",
+    "target": "teammate"
+  },
+  {
+    "jp": "相手",
+    "category": "strategy",
+    "target": "opponent"
+  },
+  {
+    "jp": "復帰",
+    "category": "strategy",
+    "target": "respawn / come back"
+  },
+  {
+    "jp": "スーパージャンプ",
+    "category": "strategy",
+    "target": "Super Jump"
+  },
+  {
+    "jp": "スパジャン",
+    "category": "strategy",
+    "notes": "abbreviation",
+    "target": "Super Jump"
+  },
+  {
+    "jp": "索敵",
+    "category": "strategy",
+    "target": "spotting enemies"
+  },
+  {
+    "jp": "クリアリング",
+    "category": "strategy",
+    "context": "クリアリングしてから進む = Clear the area before advancing",
+    "target": "clearing"
+  },
+  {
+    "jp": "ラインを上げる",
+    "category": "strategy",
+    "target": "pushing up"
+  },
+  {
+    "jp": "ラインを下げる",
+    "category": "strategy",
+    "target": "falling back"
+  },
+  {
+    "jp": "ライン上げ",
+    "category": "strategy",
+    "target": "line push / advancing"
+  },
+  {
+    "jp": "詰める",
+    "category": "strategy",
+    "target": "pushing in / closing distance"
+  },
+  {
+    "jp": "引く",
+    "category": "strategy",
+    "target": "pulling back / retreating"
+  },
+  {
+    "jp": "荒らす",
+    "category": "strategy",
+    "target": "disrupting / harassing"
+  },
+  {
+    "jp": "固める",
+    "category": "strategy",
+    "target": "locking down"
+  },
+  {
+    "jp": "カバー",
+    "category": "strategy",
+    "target": "covering / backup"
+  },
+  {
+    "jp": "初動",
+    "category": "strategy",
+    "context": "初動で塗り広げる = Spread ink on the opening play",
+    "target": "opening play"
+  },
+  {
+    "jp": "打開返し",
+    "category": "strategy",
+    "target": "counter-push"
+  },
+  {
+    "jp": "延長戦",
+    "category": "strategy",
+    "target": "overtime"
+  },
+  {
+    "jp": "連キル",
+    "category": "strategy",
+    "target": "kill streak / multi-splat"
+  },
+  {
+    "jp": "アシスト",
+    "category": "strategy",
+    "target": "assist"
+  },
+  {
+    "jp": "塗りポイント",
+    "category": "strategy",
+    "target": "turf inked / paint points"
+  },
+  {
+    "jp": "スペシャルゲージ",
+    "category": "strategy",
+    "target": "special gauge"
+  },
+  {
+    "jp": "チャージ",
+    "category": "strategy",
+    "target": "charge (weapon/special)"
+  },
+  {
+    "jp": "チャージキープ",
+    "category": "strategy",
+    "notes": "holding charge while in squid form",
+    "target": "charge hold"
+  },
+  {
+    "jp": "疑似確",
+    "category": "strategy",
+    "context": "メイン性能で疑似1確 = Pseudo one-shot with Main Power Up",
+    "notes": "achieving one-shot with damage up abilities",
+    "target": "pseudo one-shot"
+  },
+  {
+    "jp": "メイン性能",
+    "category": "ability_abbrev",
+    "target": "Main Power Up"
+  },
+  {
+    "jp": "対物",
+    "category": "ability_abbrev",
+    "target": "Object Shredder"
+  },
+  {
+    "jp": "相手インク",
+    "category": "ability_abbrev",
+    "target": "Ink Resistance Up"
+  },
+  {
+    "jp": "サブ性能",
+    "category": "ability_abbrev",
+    "target": "Sub Power Up"
+  },
+  {
+    "jp": "スぺ性能",
+    "category": "ability_abbrev",
+    "target": "Special Power Up"
+  },
+  {
+    "jp": "ゾンビ",
+    "category": "ability_abbrev",
+    "context": "ゾンビ積んでる = Running zombie build (stacking Quick Respawn)",
+    "target": "Quick Respawn (zombie build)"
+  },
+  {
+    "jp": "カムバ",
+    "category": "ability_abbrev",
+    "target": "Comeback"
+  },
+  {
+    "jp": "ラスパ",
+    "category": "ability_abbrev",
+    "target": "Last-Ditch Effort"
+  },
+  {
+    "jp": "リベンジ",
+    "category": "ability_abbrev",
+    "target": "Haunt"
+  },
+  {
+    "jp": "アクション",
+    "category": "ability_abbrev",
+    "target": "Intensify Action"
+  },
+  {
+    "jp": "イカ速",
+    "category": "ability_abbrev",
+    "target": "Swim Speed Up"
+  },
+  {
+    "jp": "ヒト速",
+    "category": "ability_abbrev",
+    "target": "Run Speed Up"
+  },
+  {
+    "jp": "イカニン",
+    "category": "ability_abbrev",
+    "target": "Ninja Squid"
+  },
+  {
+    "jp": "スぺ増",
+    "category": "ability_abbrev",
+    "target": "Special Charge Up"
+  },
+  {
+    "jp": "スぺ減",
+    "category": "ability_abbrev",
+    "target": "Special Saver"
+  },
+  {
+    "jp": "復短",
+    "category": "ability_abbrev",
+    "target": "Quick Respawn"
+  },
+  {
+    "jp": "安全靴",
+    "category": "ability_abbrev",
+    "target": "Drop Roller"
+  },
+  {
+    "jp": "ステジャン",
+    "category": "ability_abbrev",
+    "target": "Stealth Jump"
+  },
+  {
+    "jp": "ダイナモ",
+    "category": "weapon_abbrev",
+    "target": "Dynamo Roller"
+  },
+  {
+    "jp": "リッター",
+    "category": "weapon_abbrev",
+    "target": "E-liter 4K"
+  },
+  {
+    "jp": "スシ",
+    "category": "weapon_abbrev",
+    "notes": "NOT sushi — always means Splattershot in Splatoon context",
+    "target": "Splattershot"
+  },
+  {
+    "jp": "スシコラ",
+    "category": "weapon_abbrev",
+    "target": "Tentatek Splattershot"
+  },
+  {
+    "jp": "わかば",
+    "category": "weapon_abbrev",
+    "notes": "NOT young leaf — always means Splattershot Jr.",
+    "target": "Splattershot Jr."
+  },
+  {
+    "jp": "プライム",
+    "category": "weapon_abbrev",
+    "target": "Splattershot Pro"
+  },
+  {
+    "jp": "ザップ",
+    "category": "weapon_abbrev",
+    "target": "N-ZAP"
+  },
+  {
+    "jp": "ロンブラ",
+    "category": "weapon_abbrev",
+    "target": "Range Blaster"
+  },
+  {
+    "jp": "ラピ",
+    "category": "weapon_abbrev",
+    "target": "Rapid Blaster"
+  },
+  {
+    "jp": "ハイドラ",
+    "category": "weapon_abbrev",
+    "target": "Hydra Splatling"
+  },
+  {
+    "jp": "バレル",
+    "category": "weapon_abbrev",
+    "target": "Heavy Splatling"
+  },
+  {
+    "jp": "ノヴァ",
+    "category": "weapon_abbrev",
+    "target": "Luna Blaster"
+  },
+  {
+    "jp": "ボールド",
+    "category": "weapon_abbrev",
+    "target": "Sploosh-o-matic"
+  },
+  {
+    "jp": "シャープ",
+    "category": "weapon_abbrev",
+    "target": "Splash-o-matic"
+  },
+  {
+    "jp": "プロモ",
+    "category": "weapon_abbrev",
+    "target": "Aerospray"
+  },
+  {
+    "jp": "プロモデラー",
+    "category": "weapon_abbrev",
+    "target": "Aerospray"
+  },
+  {
+    "jp": "クロ",
+    "category": "weapon_abbrev",
+    "notes": "from クロガネ (kurogane)",
+    "target": ".96 Gal"
+  },
+  {
+    "jp": "ゴーニー",
+    "category": "weapon_abbrev",
+    "target": ".52 Gal"
+  },
+  {
+    "jp": "ジェッスイ",
+    "category": "weapon_abbrev",
+    "target": "Jet Squelcher"
+  },
+  {
+    "jp": "ジェット",
+    "category": "weapon_abbrev",
+    "target": "Jet Squelcher"
+  },
+  {
+    "jp": "エルスリー",
+    "category": "weapon_abbrev",
+    "target": "L-3 Nozzlenose"
+  },
+  {
+    "jp": "エイチスリー",
+    "category": "weapon_abbrev",
+    "target": "H-3 Nozzlenose"
+  },
+  {
+    "jp": "ラピエリ",
+    "category": "weapon_abbrev",
+    "target": "Rapid Blaster Pro"
+  },
+  {
+    "jp": "クラブラ",
+    "category": "weapon_abbrev",
+    "target": "Clash Blaster"
+  },
+  {
+    "jp": "カーボン",
+    "category": "weapon_abbrev",
+    "target": "Carbon Roller"
+  },
+  {
+    "jp": "パブロ",
+    "category": "weapon_abbrev",
+    "target": "Inkbrush"
+  },
+  {
+    "jp": "ホクサイ",
+    "category": "weapon_abbrev",
+    "target": "Octobrush"
+  },
+  {
+    "jp": "スプチャ",
+    "category": "weapon_abbrev",
+    "target": "Splat Charger"
+  },
+  {
+    "jp": "スクイク",
+    "category": "weapon_abbrev",
+    "target": "Classic Squiffer"
+  },
+  {
+    "jp": "竹",
+    "category": "weapon_abbrev",
+    "target": "Bamboozler"
+  },
+  {
+    "jp": "タケ",
+    "category": "weapon_abbrev",
+    "target": "Bamboozler"
+  },
+  {
+    "jp": "ソイチューバー",
+    "category": "weapon_abbrev",
+    "target": "Goo Tuber"
+  },
+  {
+    "jp": "バケツ",
+    "category": "weapon_abbrev",
+    "notes": "literally 'bucket'",
+    "target": "Slosher"
+  },
+  {
+    "jp": "ヒッセン",
+    "category": "weapon_abbrev",
+    "target": "Tri-Slosher"
+  },
+  {
+    "jp": "エクス",
+    "category": "weapon_abbrev",
+    "target": "Explosher"
+  },
+  {
+    "jp": "モップリン",
+    "category": "weapon_abbrev",
+    "target": "Dread Wringer"
+  },
+  {
+    "jp": "スプスピ",
+    "category": "weapon_abbrev",
+    "target": "Mini Splatling"
+  },
+  {
+    "jp": "バレスピ",
+    "category": "weapon_abbrev",
+    "target": "Heavy Splatling"
+  },
+  {
+    "jp": "ノーチラス",
+    "category": "weapon_abbrev",
+    "target": "Nautilus"
+  },
+  {
+    "jp": "スパッタリー",
+    "category": "weapon_abbrev",
+    "target": "Dapple Dualies"
+  },
+  {
+    "jp": "マニュ",
+    "category": "weapon_abbrev",
+    "target": "Dualies"
+  },
+  {
+    "jp": "マニューバー",
+    "category": "weapon_abbrev",
+    "target": "Dualies"
+  },
+  {
+    "jp": "デュアル",
+    "category": "weapon_abbrev",
+    "target": "Dualie Squelchers"
+  },
+  {
+    "jp": "クアッド",
+    "category": "weapon_abbrev",
+    "target": "Tetra Dualies"
+  },
+  {
+    "jp": "パラシェルター",
+    "category": "weapon_abbrev",
+    "target": "Splat Brella"
+  },
+  {
+    "jp": "キャンプ",
+    "category": "weapon_abbrev",
+    "notes": "NOT camping — means Tenta Brella in weapon context",
+    "target": "Tenta Brella"
+  },
+  {
+    "jp": "スパイ",
+    "category": "weapon_abbrev",
+    "notes": "NOT spy — means Undercover Brella in weapon context",
+    "target": "Undercover Brella"
+  },
+  {
+    "jp": "トライ",
+    "category": "weapon_abbrev",
+    "target": "Tri-Stringer"
+  },
+  {
+    "jp": "リーフ",
+    "category": "weapon_abbrev",
+    "target": "REEF-LUX 450"
+  },
+  {
+    "jp": "ジム",
+    "category": "weapon_abbrev",
+    "target": "Splatana Stamper"
+  },
+  {
+    "jp": "ジムワイパー",
+    "category": "weapon_abbrev",
+    "target": "Splatana Stamper"
+  },
+  {
+    "jp": "ドライブ",
+    "category": "weapon_abbrev",
+    "target": "Splatana Wiper"
+  },
+  {
+    "jp": "ドライブワイパー",
+    "category": "weapon_abbrev",
+    "target": "Splatana Wiper"
+  },
+  {
+    "jp": "デカ",
+    "category": "weapon_abbrev",
+    "target": "Decavitator"
+  },
+  {
+    "jp": "フィンセント",
+    "category": "weapon_abbrev",
+    "target": "Wellstring V"
+  },
+  {
+    "jp": "オーバーフロッシャー",
+    "category": "weapon_abbrev",
+    "target": "Bloblobber"
+  },
+  {
+    "jp": "オフロ",
+    "category": "weapon_abbrev",
+    "notes": "abbreviation of オーバーフロッシャー",
+    "target": "Bloblobber"
+  },
+  {
+    "jp": "スクスロ",
+    "category": "weapon_abbrev",
+    "target": "Sloshing Machine"
+  },
+  {
+    "jp": "ボトル",
+    "category": "weapon_abbrev",
+    "target": "Squeezer"
+  },
+  {
+    "jp": "ケルビン",
+    "category": "weapon_abbrev",
+    "target": "Glooga Dualies"
+  },
+  {
+    "jp": "クーゲル",
+    "category": "weapon_abbrev",
+    "target": "Ballpoint Splatling"
+  },
+  {
+    "jp": "R-PEN",
+    "category": "weapon_abbrev",
+    "target": "Recycled Brella"
+  },
+  {
+    "jp": "エッジ",
+    "category": "weapon_abbrev",
+    "target": "Heavy Edit Splatling"
+  },
+  {
+    "jp": "ガエン",
+    "category": "weapon_abbrev",
+    "target": "Douser Dualies FF"
+  },
+  {
+    "jp": "筆",
+    "category": "weapon_abbrev",
+    "target": "Painbrush"
+  },
+  {
+    "jp": "リール",
+    "category": "weapon_abbrev",
+    "target": "Snipewriter"
+  },
+  {
+    "jp": "Sブラスト",
+    "category": "weapon_abbrev",
+    "target": "S-BLAST"
+  },
+  {
+    "jp": "ホコ",
+    "category": "mode_abbrev",
+    "target": "Rainmaker"
+  },
+  {
+    "jp": "ヤグラ",
+    "category": "mode_abbrev",
+    "target": "Tower Control"
+  },
+  {
+    "jp": "エリア",
+    "category": "mode_abbrev",
+    "target": "Splat Zones"
+  },
+  {
+    "jp": "アサリ",
+    "category": "mode_abbrev",
+    "target": "Clam Blitz"
+  },
+  {
+    "jp": "ナワバリ",
+    "category": "mode_abbrev",
+    "target": "Turf War"
+  },
+  {
+    "jp": "バンカラ",
+    "category": "mode_abbrev",
+    "target": "Anarchy Battle"
+  },
+  {
+    "jp": "ガチマ",
+    "category": "mode_abbrev",
+    "target": "Anarchy Battle"
+  },
+  {
+    "jp": "ガチマッチ",
+    "category": "mode_abbrev",
+    "target": "Anarchy Battle"
+  },
+  {
+    "jp": "サモラン",
+    "category": "mode_abbrev",
+    "target": "Salmon Run"
+  },
+  {
+    "jp": "Xマッチ",
+    "category": "mode_abbrev",
+    "target": "X Battle"
+  },
+  {
+    "jp": "リグマ",
+    "category": "mode_abbrev",
+    "target": "League Battle"
+  },
+  {
+    "jp": "プラベ",
+    "category": "mode_abbrev",
+    "target": "Private Battle"
+  },
+  {
+    "jp": "ナワバトラー",
+    "category": "mode_abbrev",
+    "target": "Tableturf Battle"
+  },
+  {
+    "jp": "右",
+    "category": "callout",
+    "target": "right side"
+  },
+  {
+    "jp": "左",
+    "category": "callout",
+    "target": "left side"
+  },
+  {
+    "jp": "正面",
+    "category": "callout",
+    "target": "front / straight ahead"
+  },
+  {
+    "jp": "自陣",
+    "category": "callout",
+    "target": "our side"
+  },
+  {
+    "jp": "敵陣",
+    "category": "callout",
+    "target": "enemy side"
+  },
+  {
+    "jp": "高台",
+    "category": "callout",
+    "target": "high ground"
+  },
+  {
+    "jp": "中央",
+    "category": "callout",
+    "target": "center / mid"
+  },
+  {
+    "jp": "リスポーン",
+    "category": "callout",
+    "target": "respawn"
+  },
+  {
+    "jp": "リス",
+    "category": "callout",
+    "target": "spawn"
+  },
+  {
+    "jp": "リス地",
+    "category": "callout",
+    "target": "spawn point"
+  },
+  {
+    "jp": "裏",
+    "category": "callout",
+    "target": "behind / back route"
+  },
+  {
+    "jp": "手前",
+    "category": "callout",
+    "target": "near side"
+  },
+  {
+    "jp": "奥",
+    "category": "callout",
+    "target": "far side / deep"
+  },
+  {
+    "jp": "ノルマ",
+    "category": "salmon_run",
+    "target": "quota"
+  },
+  {
+    "jp": "納品",
+    "category": "salmon_run",
+    "target": "deliver / deposit (eggs)"
+  },
+  {
+    "jp": "寄せ",
+    "category": "salmon_run",
+    "target": "luring (bosses to basket)"
+  },
+  {
+    "jp": "寄せすぎ",
+    "category": "salmon_run",
+    "target": "over-luring"
+  },
+  {
+    "jp": "処理",
+    "category": "salmon_run",
+    "target": "dealing with / clearing (a boss)"
+  },
+  {
+    "jp": "野良",
+    "category": "salmon_run",
+    "context": "野良でやる = Playing with randoms",
+    "target": "random / PUG (pick-up group)"
+  },
+  {
+    "jp": "干潮",
+    "category": "salmon_run",
+    "target": "low tide"
+  },
+  {
+    "jp": "満潮",
+    "category": "salmon_run",
+    "target": "high tide"
+  },
+  {
+    "jp": "通常潮",
+    "category": "salmon_run",
+    "target": "normal tide"
+  },
+  {
+    "jp": "イクラ投げ",
+    "category": "salmon_run",
+    "target": "egg throw"
+  },
+  {
+    "jp": "コンテナ",
+    "category": "salmon_run",
+    "target": "egg basket"
+  },
+  {
+    "jp": "バイト",
+    "category": "salmon_run",
+    "notes": "NOT part-time job — means Salmon Run shift",
+    "target": "shift / job (Salmon Run)"
+  },
+  {
+    "jp": "全滅",
+    "category": "salmon_run",
+    "target": "crew wipe"
+  },
+  {
+    "jp": "オオモノ",
+    "category": "salmon_run",
+    "target": "boss Salmonid"
+  },
+  {
+    "jp": "ヨコヅナ",
+    "category": "salmon_run",
+    "target": "Cohozuna"
+  },
+  {
+    "jp": "タツ",
+    "category": "salmon_run",
+    "target": "Horrorboros"
+  },
+  {
+    "jp": "ジョー",
+    "category": "salmon_run",
+    "target": "Megalodontia"
+  },
+  {
+    "jp": "でんせつ",
+    "category": "salmon_run",
+    "target": "Eggsecutive VP"
+  },
+  {
+    "jp": "たつじん",
+    "category": "salmon_run",
+    "target": "Profreshional"
+  },
+  {
+    "jp": "キンシャケ",
+    "category": "salmon_run",
+    "target": "Goldie"
+  },
+  {
+    "jp": "グリル",
+    "category": "salmon_run",
+    "target": "Griller"
+  },
+  {
+    "jp": "ドロシャケ",
+    "category": "salmon_run",
+    "target": "Mudmouth"
+  },
+  {
+    "jp": "ラッシュ",
+    "category": "salmon_run",
+    "target": "Rush (Glowfly event)"
+  },
+  {
+    "jp": "霧",
+    "category": "salmon_run",
+    "target": "Fog event"
+  },
+  {
+    "jp": "ハコビヤ",
+    "category": "salmon_run",
+    "target": "Mothership"
+  },
+  {
+    "jp": "巨大タツマキ",
+    "category": "salmon_run",
+    "target": "Giant Tornado"
+  },
+  {
+    "jp": "キッズ",
+    "category": "slang",
+    "target": "kids (unskilled players)"
+  },
+  {
+    "jp": "産廃",
+    "category": "slang",
+    "target": "trash tier (useless weapon)"
+  },
+  {
+    "jp": "地雷",
+    "category": "slang",
+    "target": "deadweight teammate"
+  },
+  {
+    "jp": "沼",
+    "category": "slang",
+    "target": "losing streak"
+  },
+  {
+    "jp": "gg",
+    "category": "slang",
+    "target": "good game"
+  },
+  {
+    "jp": "ジージー",
+    "category": "slang",
+    "target": "good game"
+  },
+  {
+    "jp": "ナイス",
+    "category": "slang",
+    "target": "nice / booyah"
+  },
+  {
+    "jp": "カモン",
+    "category": "slang",
+    "target": "this way / come on"
+  },
+  {
+    "jp": "やられた",
+    "category": "slang",
+    "target": "got splatted"
+  },
+  {
+    "jp": "無理ゲー",
+    "category": "slang",
+    "target": "impossible / unwinnable"
+  },
+  {
+    "jp": "戦犯",
+    "category": "slang",
+    "notes": "blame term for teammate who caused the loss",
+    "target": "the one who threw"
+  },
+  {
+    "jp": "環境",
+    "category": "slang",
+    "context": "環境武器 = Meta weapon",
+    "target": "the meta"
+  },
+  {
+    "jp": "壊れ",
+    "category": "slang",
+    "target": "broken / OP"
+  },
+  {
+    "jp": "ナーフ",
+    "category": "slang",
+    "target": "nerf"
+  },
+  {
+    "jp": "バフ",
+    "category": "slang",
+    "target": "buff"
+  },
+  {
+    "jp": "Xパワー",
+    "category": "slang",
+    "target": "X Power"
+  },
+  {
+    "jp": "盛る",
+    "category": "slang",
+    "target": "climbing rank / gaining X Power"
+  },
+  {
+    "jp": "溶かす",
+    "category": "slang",
+    "target": "to melt / shred (kill quickly)"
+  },
+  {
+    "jp": "溶ける",
+    "category": "slang",
+    "target": "getting melted / shredded"
+  },
+  {
+    "jp": "カス当たり",
+    "category": "slang",
+    "target": "grazing hit / chip damage"
+  },
+  {
+    "jp": "味方ガチャ",
+    "category": "slang",
+    "target": "teammate RNG / teammate lottery"
+  },
+  {
+    "jp": "お散歩",
+    "category": "slang",
+    "target": "wandering around (doing nothing useful)"
+  },
+  {
+    "jp": "ブッ刺さり",
+    "category": "slang",
+    "target": "hard counter / extremely effective"
+  },
+  {
+    "jp": "ヘタクソ",
+    "category": "slang",
+    "target": "terrible / unskilled"
+  },
+  {
+    "jp": "神プレイ",
+    "category": "slang",
+    "target": "god-tier play / insane play"
+  },
+  {
+    "jp": "上振れ",
+    "category": "slang",
+    "target": "lucky streak / playing above average"
+  },
+  {
+    "jp": "下振れ",
+    "category": "slang",
+    "target": "unlucky streak / playing below average"
+  },
+  {
+    "jp": "ウデマエ",
+    "category": "general",
+    "target": "rank"
+  },
+  {
+    "jp": "ブキ",
+    "category": "general",
+    "target": "weapon"
+  },
+  {
+    "jp": "ギア",
+    "category": "general",
+    "target": "gear"
+  },
+  {
+    "jp": "ギアパワー",
+    "category": "general",
+    "target": "gear ability"
+  },
+  {
+    "jp": "バトル",
+    "category": "general",
+    "target": "battle / match"
+  },
+  {
+    "jp": "フェス",
+    "category": "general",
+    "target": "Splatfest"
+  },
+  {
+    "jp": "ビッグラン",
+    "category": "general",
+    "target": "Big Run"
+  },
+  {
+    "jp": "オカシラ",
+    "category": "general",
+    "target": "King Salmonid"
+  },
+  {
+    "jp": "シャケ",
+    "category": "general",
+    "target": "Salmonid"
+  },
+  {
+    "jp": "金イクラ",
+    "category": "general",
+    "target": "Golden Egg"
+  },
+  {
+    "jp": "赤イクラ",
+    "category": "general",
+    "target": "Power Egg"
+  },
+  {
+    "jp": "ショクワンダー",
+    "category": "general",
+    "target": "Squid Surge"
+  },
+  {
+    "jp": "イカノボリ",
+    "category": "general",
+    "notes": "official JP name for Squid Surge",
+    "target": "Squid Surge"
+  },
+  {
+    "jp": "イカロール",
+    "category": "general",
+    "target": "Squid Roll"
+  },
+  {
+    "jp": "金網",
+    "category": "general",
+    "target": "grate"
+  },
+  {
+    "jp": "イカ状態",
+    "category": "general",
+    "target": "squid form"
+  },
+  {
+    "jp": "ヒト状態",
+    "category": "general",
+    "target": "kid form"
+  },
+  {
+    "jp": "連打",
+    "category": "general",
+    "target": "mashing (button)"
+  },
+  {
+    "jp": "ジャイロ",
+    "category": "general",
+    "target": "gyro controls / motion controls"
+  },
+  {
+    "jp": "スティック",
+    "category": "general",
+    "target": "stick controls"
+  },
+  {
+    "jp": "感度",
+    "category": "general",
+    "target": "sensitivity (controller)"
+  },
+  {
+    "jp": "散歩",
+    "category": "general",
+    "target": "recon (walking around a stage before battle)"
+  },
+  {
+    "jp": "試し撃ち",
+    "category": "general",
+    "target": "test fire / shooting range"
+  },
+  {
+    "jp": "カタログ",
+    "category": "general",
+    "target": "catalog (season pass)"
+  },
+  {
+    "jp": "ロッカー",
+    "category": "general",
+    "target": "locker"
+  },
+  {
+    "jp": "ナワバリ力",
+    "category": "general",
+    "target": "Freshness (Turf War rating)"
+  },
+  {
+    "jp": "すりみ連合",
+    "category": "character",
+    "target": "Deep Cut (idol group)"
+  },
+  {
+    "jp": "フウカ",
+    "category": "character",
+    "target": "Shiver"
+  },
+  {
+    "jp": "ウツホ",
+    "category": "character",
+    "target": "Frye"
+  },
+  {
+    "jp": "マンタロー",
+    "category": "character",
+    "target": "Big Man"
+  },
+  {
+    "jp": "シオカラーズ",
+    "category": "character",
+    "target": "Squid Sisters"
+  },
+  {
+    "jp": "アオリ",
+    "category": "character",
+    "target": "Callie"
+  },
+  {
+    "jp": "ホタル",
+    "category": "character",
+    "target": "Marie"
+  },
+  {
+    "jp": "テンタクルズ",
+    "category": "character",
+    "target": "Off the Hook"
+  },
+  {
+    "jp": "ヒメ",
+    "category": "character",
+    "target": "Pearl"
+  },
+  {
+    "jp": "イイダ",
+    "category": "character",
+    "target": "Marina"
+  },
+  {
+    "jp": "ブキチ",
+    "category": "character",
+    "target": "Sheldon"
+  },
+  {
+    "jp": "クマサン",
+    "category": "character",
+    "target": "Mr. Grizz"
+  },
+  {
+    "jp": "コジャケ",
+    "category": "character",
+    "target": "Smallfry (buddy)"
+  },
+  {
+    "jp": "DJタコワサ将軍",
+    "category": "character",
+    "target": "DJ Octavio"
+  },
+  {
+    "jp": "ジャッジくん",
+    "category": "character",
+    "target": "Judd"
+  },
+  {
+    "jp": "コジャッジくん",
+    "category": "character",
+    "target": "Li'l Judd"
+  },
+  {
+    "jp": "スパイキー",
+    "category": "character",
+    "target": "Spyke / Murch"
+  },
+  {
+    "jp": "エイトちゃん",
+    "category": "character",
+    "target": "Agent 8"
+  },
+  {
+    "jp": "シクワンダー",
+    "category": "whisper_correction",
+    "notes": "common Whisper mistranscription of ショクワンダー",
+    "target": "Squid Surge"
+  },
+  {
+    "jp": "食安",
+    "category": "whisper_correction",
+    "notes": "Whisper converts ショクワンダー to kanji 食安 (food safety)",
+    "target": "Squid Surge"
+  },
+  {
+    "jp": "寿司",
+    "category": "whisper_correction",
+    "notes": "Whisper may transcribe スシ (Splattershot) as 寿司 (sushi)",
+    "target": "Splattershot"
+  },
+  {
+    "jp": "若葉",
+    "category": "whisper_correction",
+    "notes": "Whisper may transcribe わかば (Splattershot Jr.) as 若葉 (young leaf)",
+    "target": "Splattershot Jr."
+  },
+  {
+    "jp": "鉄球",
+    "category": "whisper_correction",
+    "notes": "Whisper converts テッキュウ to kanji 鉄球",
+    "target": "Big Shot (Salmon Run boss)"
+  },
+  {
+    "jp": "鍋蓋",
+    "category": "whisper_correction",
+    "notes": "Whisper converts ナベブタ to kanji 鍋蓋",
+    "target": "Slammin' Lid (Salmon Run boss)"
+  },
+  {
+    "jp": "爆弾",
+    "category": "whisper_correction",
+    "notes": "Whisper converts バクダン to kanji 爆弾 in Salmon Run context",
+    "target": "Steelhead (Salmon Run boss)"
+  },
+  {
+    "jp": "鉄板",
+    "category": "whisper_correction",
+    "notes": "Whisper converts テッパン to kanji 鉄板 in Salmon Run context",
+    "target": "Scrapper (Salmon Run boss)"
+  },
+  {
+    "jp": "着地",
+    "category": "whisper_correction",
+    "notes": "Whisper may convert チャクチ to kanji 着地",
+    "target": "Splashdown"
+  },
+  {
+    "jp": "帝王イカ",
+    "category": "whisper_correction",
+    "notes": "Whisper may partially convert テイオウイカ",
+    "target": "Kraken Royale"
+  },
+  {
+    "jp": "蟹タンク",
+    "category": "whisper_correction",
+    "notes": "Whisper may convert カニ to kanji 蟹",
+    "target": "Crab Tank"
+  },
+  {
+    "jp": "吸引器",
+    "category": "whisper_correction",
+    "notes": "Whisper may convert キューインキ to medical term",
+    "target": "Ink Vac"
+  },
+  {
+    "jp": "竜宮ターミナル",
+    "category": "whisper_correction",
+    "notes": "Whisper may convert リュウグウ to kanji 竜宮",
+    "target": "Lemuria Hub"
+  },
+  {
+    "jp": "スプラ シューター",
+    "category": "whisper_correction",
+    "notes": "Whisper may split スプラシューター into two words",
+    "target": "Splattershot"
+  },
+  {
+    "jp": "ウルトラ ショット",
+    "category": "whisper_correction",
+    "notes": "Whisper may split compound special weapon names",
+    "target": "Trizooka"
+  },
+  {
+    "jp": "マルチ ミサイル",
+    "category": "whisper_correction",
+    "notes": "Whisper may split マルチミサイル",
+    "target": "Tenta Missiles"
+  },
+  {
+    "jp": "ナイス玉",
+    "category": "whisper_correction",
+    "notes": "Whisper may convert ダマ to kanji 玉",
+    "target": "Booyah Bomb"
+  },
+  {
+    "jp": "ナイスだま",
+    "category": "whisper_correction",
+    "notes": "Whisper may output hiragana variant of ナイスダマ",
+    "target": "Booyah Bomb"
+  },
+  {
+    "jp": "それでは",
+    "category": "commentary_pattern",
+    "notes": "common video intro/transition phrase",
+    "target": "(filler: so then)"
+  },
+  {
+    "jp": "はいどうも",
+    "category": "commentary_pattern",
+    "target": "(greeting: hey everyone)"
+  },
+  {
+    "jp": "というわけで",
+    "category": "commentary_pattern",
+    "target": "(transition: so with that said)"
+  },
+  {
+    "jp": "ということで",
+    "category": "commentary_pattern",
+    "target": "(transition: so that's how it is)"
+  },
+  {
+    "jp": "解説",
+    "category": "commentary_pattern",
+    "target": "guide / breakdown"
+  },
+  {
+    "jp": "攻略",
+    "category": "commentary_pattern",
+    "target": "strategy guide / tips"
+  },
+  {
+    "jp": "実況",
+    "category": "commentary_pattern",
+    "target": "live commentary"
+  },
+  {
+    "jp": "ゆっくり",
+    "category": "commentary_pattern",
+    "notes": "TTS voiceover style popular in JP gaming videos",
+    "target": "Yukkuri (text-to-speech commentary style)"
+  },
+  {
+    "jp": "チャンネル登録",
+    "category": "commentary_pattern",
+    "target": "subscribe (to the channel)"
+  },
+  {
+    "jp": "高評価",
+    "category": "commentary_pattern",
+    "target": "like (the video)"
+  }
+]

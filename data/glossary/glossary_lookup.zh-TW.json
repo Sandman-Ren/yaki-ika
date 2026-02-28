@@ -1,0 +1,8862 @@
+{
+  "クマサン印のブラスター": {
+    "jp": "クマサン印のブラスター",
+    "target": "熊先生印章爆破槍",
+    "category": "WeaponName_Main"
+  },
+  "Rブラスターエリート": {
+    "jp": "Rブラスターエリート",
+    "target": "快速爆破槍 精英",
+    "category": "WeaponName_Main"
+  },
+  "Rブラスターエリートデコ": {
+    "jp": "Rブラスターエリートデコ",
+    "target": "快速爆破槍 精英裝飾",
+    "category": "WeaponName_Main"
+  },
+  "RブラスターエリートWNTR": {
+    "jp": "RブラスターエリートWNTR",
+    "target": "快速爆破槍 精英WNTR",
+    "category": "WeaponName_Main"
+  },
+  "クラッシュブラスター": {
+    "jp": "クラッシュブラスター",
+    "target": "衝塗爆破槍",
+    "category": "WeaponName_Main"
+  },
+  "クラッシュブラスターネオ": {
+    "jp": "クラッシュブラスターネオ",
+    "target": "衝塗爆破槍 新型",
+    "category": "WeaponName_Main"
+  },
+  "ラピッドブラスター": {
+    "jp": "ラピッドブラスター",
+    "target": "快速爆破槍",
+    "category": "WeaponName_Main"
+  },
+  "ラピッドブラスターデコ": {
+    "jp": "ラピッドブラスターデコ",
+    "target": "快速爆破槍 裝飾",
+    "category": "WeaponName_Main"
+  },
+  "ロングブラスター": {
+    "jp": "ロングブラスター",
+    "target": "遠距爆破槍",
+    "category": "WeaponName_Main"
+  },
+  "ロングブラスターカスタム": {
+    "jp": "ロングブラスターカスタム",
+    "target": "遠距爆破槍 改裝",
+    "category": "WeaponName_Main"
+  },
+  "ホットブラスター": {
+    "jp": "ホットブラスター",
+    "target": "火熱爆破槍",
+    "category": "WeaponName_Main"
+  },
+  "ホットブラスターカスタム": {
+    "jp": "ホットブラスターカスタム",
+    "target": "火熱爆破槍 改裝",
+    "category": "WeaponName_Main"
+  },
+  "ホットブラスター艶": {
+    "jp": "ホットブラスター艶",
+    "target": "火熱爆破槍 艷",
+    "category": "WeaponName_Main"
+  },
+  "ノヴァブラスター": {
+    "jp": "ノヴァブラスター",
+    "target": "新星爆破槍",
+    "category": "WeaponName_Main"
+  },
+  "ノヴァブラスターネオ": {
+    "jp": "ノヴァブラスターネオ",
+    "target": "新星爆破槍 新型",
+    "category": "WeaponName_Main"
+  },
+  "オーダーブラスター レプリカ": {
+    "jp": "オーダーブラスター レプリカ",
+    "target": "秩序爆破槍 複製",
+    "category": "WeaponName_Main"
+  },
+  "フィンセント": {
+    "jp": "フィンセント",
+    "target": "文森",
+    "category": "WeaponName_Main"
+  },
+  "フィンセント・ヒュー": {
+    "jp": "フィンセント・ヒュー",
+    "target": "文森‧新藝術",
+    "category": "WeaponName_Main"
+  },
+  "フィンセントBRNZ": {
+    "jp": "フィンセントBRNZ",
+    "target": "文森BRNZ",
+    "category": "WeaponName_Main"
+  },
+  "パブロ・ヒュー": {
+    "jp": "パブロ・ヒュー",
+    "target": "巴勃羅‧新藝術",
+    "category": "WeaponName_Main"
+  },
+  "ホクサイ・ヒュー": {
+    "jp": "ホクサイ・ヒュー",
+    "target": "北齋‧新藝術",
+    "category": "WeaponName_Main"
+  },
+  "ホクサイ彗": {
+    "jp": "ホクサイ彗",
+    "target": "北齋 彗",
+    "category": "WeaponName_Main"
+  },
+  "オーダーブラシ レプリカ": {
+    "jp": "オーダーブラシ レプリカ",
+    "target": "秩序排刷 複製",
+    "category": "WeaponName_Main"
+  },
+  "クマサン印のチャージャー": {
+    "jp": "クマサン印のチャージャー",
+    "target": "熊先生印章狙擊槍",
+    "category": "WeaponName_Main"
+  },
+  "ソイチューバー": {
+    "jp": "ソイチューバー",
+    "target": "高壓油管槍",
+    "category": "WeaponName_Main"
+  },
+  "ソイチューバーカスタム": {
+    "jp": "ソイチューバーカスタム",
+    "target": "高壓油管槍 改裝",
+    "category": "WeaponName_Main"
+  },
+  "14式竹筒銃・甲": {
+    "jp": "14式竹筒銃・甲",
+    "target": "14式竹筒槍‧甲",
+    "category": "WeaponName_Main"
+  },
+  "14式竹筒銃・乙": {
+    "jp": "14式竹筒銃・乙",
+    "target": "14式竹筒槍‧乙",
+    "category": "WeaponName_Main"
+  },
+  "4Kスコープ": {
+    "jp": "4Kスコープ",
+    "target": "4K準星槍",
+    "category": "WeaponName_Main"
+  },
+  "4Kスコープカスタム": {
+    "jp": "4Kスコープカスタム",
+    "target": "4K準星槍 改裝",
+    "category": "WeaponName_Main"
+  },
+  "リッター4K": {
+    "jp": "リッター4K",
+    "target": "公升4K",
+    "category": "WeaponName_Main"
+  },
+  "リッター4Kカスタム": {
+    "jp": "リッター4Kカスタム",
+    "target": "公升4K 改裝",
+    "category": "WeaponName_Main"
+  },
+  "スプラスコープ": {
+    "jp": "スプラスコープ",
+    "target": "斯普拉準星槍",
+    "category": "WeaponName_Main"
+  },
+  "スプラスコープコラボ": {
+    "jp": "スプラスコープコラボ",
+    "target": "斯普拉準星槍 聯名",
+    "category": "WeaponName_Main"
+  },
+  "スプラスコープFRST": {
+    "jp": "スプラスコープFRST",
+    "target": "斯普拉準星槍FRST",
+    "category": "WeaponName_Main"
+  },
+  "スプラチャージャー": {
+    "jp": "スプラチャージャー",
+    "target": "斯普拉蓄力狙擊槍",
+    "category": "WeaponName_Main"
+  },
+  "スプラチャージャーコラボ": {
+    "jp": "スプラチャージャーコラボ",
+    "target": "斯普拉蓄力狙擊槍 聯名",
+    "category": "WeaponName_Main"
+  },
+  "スプラチャージャーFRST": {
+    "jp": "スプラチャージャーFRST",
+    "target": "斯普拉蓄力狙擊槍FRST",
+    "category": "WeaponName_Main"
+  },
+  "オーダーチャージャー レプリカ": {
+    "jp": "オーダーチャージャー レプリカ",
+    "target": "秩序蓄力狙擊槍 複製",
+    "category": "WeaponName_Main"
+  },
+  "スクイックリンα": {
+    "jp": "スクイックリンα",
+    "target": "魷快潔α",
+    "category": "WeaponName_Main"
+  },
+  "スクイックリンβ": {
+    "jp": "スクイックリンβ",
+    "target": "魷快潔β",
+    "category": "WeaponName_Main"
+  },
+  "クマサン印のマニューバー": {
+    "jp": "クマサン印のマニューバー",
+    "target": "熊先生印章機動槍",
+    "category": "WeaponName_Main"
+  },
+  "デュアルスイーパー": {
+    "jp": "デュアルスイーパー",
+    "target": "雙重清潔槍",
+    "category": "WeaponName_Main"
+  },
+  "デュアルスイーパーカスタム": {
+    "jp": "デュアルスイーパーカスタム",
+    "target": "雙重清潔槍 改裝",
+    "category": "WeaponName_Main"
+  },
+  "デュアルスイーパー蹄": {
+    "jp": "デュアルスイーパー蹄",
+    "target": "雙重清潔槍 蹄",
+    "category": "WeaponName_Main"
+  },
+  "ケルビン525": {
+    "jp": "ケルビン525",
+    "target": "開爾文525",
+    "category": "WeaponName_Main"
+  },
+  "ケルビン525デコ": {
+    "jp": "ケルビン525デコ",
+    "target": "開爾文525 裝飾",
+    "category": "WeaponName_Main"
+  },
+  "ガエンFF": {
+    "jp": "ガエンFF",
+    "target": "滅熄FF",
+    "category": "WeaponName_Main"
+  },
+  "ガエンFFカスタム": {
+    "jp": "ガエンFFカスタム",
+    "target": "滅熄FF 改裝",
+    "category": "WeaponName_Main"
+  },
+  "スプラマニューバー": {
+    "jp": "スプラマニューバー",
+    "target": "斯普拉機動槍",
+    "category": "WeaponName_Main"
+  },
+  "スプラマニューバーコラボ": {
+    "jp": "スプラマニューバーコラボ",
+    "target": "斯普拉機動槍 聯名",
+    "category": "WeaponName_Main"
+  },
+  "スプラマニューバー耀": {
+    "jp": "スプラマニューバー耀",
+    "target": "斯普拉機動槍 耀",
+    "category": "WeaponName_Main"
+  },
+  "オーダーマニューバー レプリカ": {
+    "jp": "オーダーマニューバー レプリカ",
+    "target": "秩序機動槍 複製",
+    "category": "WeaponName_Main"
+  },
+  "スパッタリー": {
+    "jp": "スパッタリー",
+    "target": "濺鍍槍",
+    "category": "WeaponName_Main"
+  },
+  "スパッタリー・ヒュー": {
+    "jp": "スパッタリー・ヒュー",
+    "target": "濺鍍槍‧新藝術",
+    "category": "WeaponName_Main"
+  },
+  "スパッタリーOWL": {
+    "jp": "スパッタリーOWL",
+    "target": "濺鍍槍OWL",
+    "category": "WeaponName_Main"
+  },
+  "クアッドホッパーブラック": {
+    "jp": "クアッドホッパーブラック",
+    "target": "四重彈跳手槍 黑",
+    "category": "WeaponName_Main"
+  },
+  "クアッドホッパーホワイト": {
+    "jp": "クアッドホッパーホワイト",
+    "target": "四重彈跳手槍 白",
+    "category": "WeaponName_Main"
+  },
+  "クマサン印のローラー": {
+    "jp": "クマサン印のローラー",
+    "target": "熊先生印章滾筒",
+    "category": "WeaponName_Main"
+  },
+  "カーボンローラー": {
+    "jp": "カーボンローラー",
+    "target": "碳纖維滾筒",
+    "category": "WeaponName_Main"
+  },
+  "カーボンローラーデコ": {
+    "jp": "カーボンローラーデコ",
+    "target": "碳纖維滾筒 裝飾",
+    "category": "WeaponName_Main"
+  },
+  "カーボンローラーANGL": {
+    "jp": "カーボンローラーANGL",
+    "target": "碳纖維滾筒ANGL",
+    "category": "WeaponName_Main"
+  },
+  "ダイナモローラー": {
+    "jp": "ダイナモローラー",
+    "target": "電動馬達滾筒",
+    "category": "WeaponName_Main"
+  },
+  "ダイナモローラーテスラ": {
+    "jp": "ダイナモローラーテスラ",
+    "target": "電動馬達滾筒 高磁波",
+    "category": "WeaponName_Main"
+  },
+  "ダイナモローラー冥": {
+    "jp": "ダイナモローラー冥",
+    "target": "電動馬達滾筒 冥",
+    "category": "WeaponName_Main"
+  },
+  "ヴァリアブルローラー": {
+    "jp": "ヴァリアブルローラー",
+    "target": "可變式滾筒",
+    "category": "WeaponName_Main"
+  },
+  "ヴァリアブルローラーフォイル": {
+    "jp": "ヴァリアブルローラーフォイル",
+    "target": "可變式滾筒 金屬箔",
+    "category": "WeaponName_Main"
+  },
+  "スプラローラー": {
+    "jp": "スプラローラー",
+    "target": "斯普拉滾筒",
+    "category": "WeaponName_Main"
+  },
+  "スプラローラーコラボ": {
+    "jp": "スプラローラーコラボ",
+    "target": "斯普拉滾筒 聯名",
+    "category": "WeaponName_Main"
+  },
+  "オーダーローラー レプリカ": {
+    "jp": "オーダーローラー レプリカ",
+    "target": "秩序滾筒 複製",
+    "category": "WeaponName_Main"
+  },
+  "ワイドローラー": {
+    "jp": "ワイドローラー",
+    "target": "寬滾筒",
+    "category": "WeaponName_Main"
+  },
+  "ワイドローラーコラボ": {
+    "jp": "ワイドローラーコラボ",
+    "target": "寬滾筒 聯名",
+    "category": "WeaponName_Main"
+  },
+  "ワイドローラー惑": {
+    "jp": "ワイドローラー惑",
+    "target": "寬滾筒 惑",
+    "category": "WeaponName_Main"
+  },
+  "クマサン印のワイパー": {
+    "jp": "クマサン印のワイパー",
+    "target": "熊先生印章刮水刀",
+    "category": "WeaponName_Main"
+  },
+  "デンタルワイパーミント": {
+    "jp": "デンタルワイパーミント",
+    "target": "巨齒刮水刀 薄荷",
+    "category": "WeaponName_Main"
+  },
+  "デンタルワイパースミ": {
+    "jp": "デンタルワイパースミ",
+    "target": "巨齒刮水刀 墨黑",
+    "category": "WeaponName_Main"
+  },
+  "ドライブワイパー": {
+    "jp": "ドライブワイパー",
+    "target": "雨刷刮水刀",
+    "category": "WeaponName_Main"
+  },
+  "ドライブワイパーデコ": {
+    "jp": "ドライブワイパーデコ",
+    "target": "雨刷刮水刀 裝飾",
+    "category": "WeaponName_Main"
+  },
+  "ドライブワイパーRUST": {
+    "jp": "ドライブワイパーRUST",
+    "target": "雨刷刮水刀RUST",
+    "category": "WeaponName_Main"
+  },
+  "ジムワイパー": {
+    "jp": "ジムワイパー",
+    "target": "工作刮水刀",
+    "category": "WeaponName_Main"
+  },
+  "ジムワイパー・ヒュー": {
+    "jp": "ジムワイパー・ヒュー",
+    "target": "工作刮水刀‧新藝術",
+    "category": "WeaponName_Main"
+  },
+  "ジムワイパー封": {
+    "jp": "ジムワイパー封",
+    "target": "工作刮水刀 封",
+    "category": "WeaponName_Main"
+  },
+  "オーダーワイパー レプリカ": {
+    "jp": "オーダーワイパー レプリカ",
+    "target": "秩序刮水刀 複製",
+    "category": "WeaponName_Main"
+  },
+  "クマサン印のシェルター": {
+    "jp": "クマサン印のシェルター",
+    "target": "熊先生印章防空傘",
+    "category": "WeaponName_Main"
+  },
+  "スパイガジェット": {
+    "jp": "スパイガジェット",
+    "target": "特務配件",
+    "category": "WeaponName_Main"
+  },
+  "スパイガジェットソレーラ": {
+    "jp": "スパイガジェットソレーラ",
+    "target": "特務配件 姐妹",
+    "category": "WeaponName_Main"
+  },
+  "スパイガジェット繚": {
+    "jp": "スパイガジェット繚",
+    "target": "特務配件 繚",
+    "category": "WeaponName_Main"
+  },
+  "24式張替傘・甲": {
+    "jp": "24式張替傘・甲",
+    "target": "24式可替換傘‧甲",
+    "category": "WeaponName_Main"
+  },
+  "24式張替傘・乙": {
+    "jp": "24式張替傘・乙",
+    "target": "24式可替換傘‧乙",
+    "category": "WeaponName_Main"
+  },
+  "パラシェルター": {
+    "jp": "パラシェルター",
+    "target": "遮陽防空傘",
+    "category": "WeaponName_Main"
+  },
+  "パラシェルターソレーラ": {
+    "jp": "パラシェルターソレーラ",
+    "target": "遮陽防空傘 姐妹",
+    "category": "WeaponName_Main"
+  },
+  "オーダーシェルター レプリカ": {
+    "jp": "オーダーシェルター レプリカ",
+    "target": "秩序防空傘 複製",
+    "category": "WeaponName_Main"
+  },
+  "キャンピングシェルター": {
+    "jp": "キャンピングシェルター",
+    "target": "露營防空傘",
+    "category": "WeaponName_Main"
+  },
+  "キャンピングシェルターソレーラ": {
+    "jp": "キャンピングシェルターソレーラ",
+    "target": "露營防空傘 姐妹",
+    "category": "WeaponName_Main"
+  },
+  "キャンピングシェルターCREM": {
+    "jp": "キャンピングシェルターCREM",
+    "target": "露營防空傘CREM",
+    "category": "WeaponName_Main"
+  },
+  "プロモデラーMG": {
+    "jp": "プロモデラーMG",
+    "target": "專業模型槍MG",
+    "category": "WeaponName_Main"
+  },
+  "プロモデラーRG": {
+    "jp": "プロモデラーRG",
+    "target": "專業模型槍RG",
+    "category": "WeaponName_Main"
+  },
+  "プロモデラー彩": {
+    "jp": "プロモデラー彩",
+    "target": "專業模型槍 彩",
+    "category": "WeaponName_Main"
+  },
+  "プライムシューター": {
+    "jp": "プライムシューター",
+    "target": "頂尖射擊槍",
+    "category": "WeaponName_Main"
+  },
+  "プライムシューターコラボ": {
+    "jp": "プライムシューターコラボ",
+    "target": "頂尖射擊槍 聯名",
+    "category": "WeaponName_Main"
+  },
+  "プライムシューターFRZN": {
+    "jp": "プライムシューターFRZN",
+    "target": "頂尖射擊槍FRZN",
+    "category": "WeaponName_Main"
+  },
+  "わかばシューター": {
+    "jp": "わかばシューター",
+    "target": "新葉射擊槍",
+    "category": "WeaponName_Main"
+  },
+  "もみじシューター": {
+    "jp": "もみじシューター",
+    "target": "楓葉射擊槍",
+    "category": "WeaponName_Main"
+  },
+  "ボトルガイザー": {
+    "jp": "ボトルガイザー",
+    "target": "開瓶噴泉槍",
+    "category": "WeaponName_Main"
+  },
+  "ボトルガイザーフォイル": {
+    "jp": "ボトルガイザーフォイル",
+    "target": "開瓶噴泉槍 金屬箔",
+    "category": "WeaponName_Main"
+  },
+  ".52ガロン": {
+    "jp": ".52ガロン",
+    "target": ".52加侖",
+    "category": "WeaponName_Main"
+  },
+  ".52ガロンデコ": {
+    "jp": ".52ガロンデコ",
+    "target": ".52加侖 裝飾",
+    "category": "WeaponName_Main"
+  },
+  ".96ガロン": {
+    "jp": ".96ガロン",
+    "target": ".96加侖",
+    "category": "WeaponName_Main"
+  },
+  ".96ガロンデコ": {
+    "jp": ".96ガロンデコ",
+    "target": ".96加侖 裝飾",
+    "category": "WeaponName_Main"
+  },
+  ".96ガロン爪": {
+    "jp": ".96ガロン爪",
+    "target": ".96加侖 爪",
+    "category": "WeaponName_Main"
+  },
+  "ジェットスイーパー": {
+    "jp": "ジェットスイーパー",
+    "target": "噴射清潔槍",
+    "category": "WeaponName_Main"
+  },
+  "ジェットスイーパーカスタム": {
+    "jp": "ジェットスイーパーカスタム",
+    "target": "噴射清潔槍 改裝",
+    "category": "WeaponName_Main"
+  },
+  "ジェットスイーパーCOBR": {
+    "jp": "ジェットスイーパーCOBR",
+    "target": "噴射清潔槍COBR",
+    "category": "WeaponName_Main"
+  },
+  "スプラシューター": {
+    "jp": "スプラシューター",
+    "target": "斯普拉射擊槍",
+    "category": "WeaponName_Main"
+  },
+  "スプラシューターコラボ": {
+    "jp": "スプラシューターコラボ",
+    "target": "斯普拉射擊槍 聯名",
+    "category": "WeaponName_Main"
+  },
+  "スプラシューター煌": {
+    "jp": "スプラシューター煌",
+    "target": "斯普拉射擊槍 煌",
+    "category": "WeaponName_Main"
+  },
+  "ヒーローシューター レプリカ": {
+    "jp": "ヒーローシューター レプリカ",
+    "target": "英雄射擊槍 複製",
+    "category": "WeaponName_Main"
+  },
+  "オーダーシューター レプリカ": {
+    "jp": "オーダーシューター レプリカ",
+    "target": "秩序射擊槍 複製",
+    "category": "WeaponName_Main"
+  },
+  "オクタシューター レプリカ": {
+    "jp": "オクタシューター レプリカ",
+    "target": "章魚射擊槍 複製",
+    "category": "WeaponName_Main"
+  },
+  "シャープマーカー": {
+    "jp": "シャープマーカー",
+    "target": "窄域標記槍",
+    "category": "WeaponName_Main"
+  },
+  "シャープマーカーネオ": {
+    "jp": "シャープマーカーネオ",
+    "target": "窄域標記槍 新型",
+    "category": "WeaponName_Main"
+  },
+  "シャープマーカーGECK": {
+    "jp": "シャープマーカーGECK",
+    "target": "窄域標記槍GECK",
+    "category": "WeaponName_Main"
+  },
+  "スペースシューター": {
+    "jp": "スペースシューター",
+    "target": "太空射擊槍",
+    "category": "WeaponName_Main"
+  },
+  "スペースシューターコラボ": {
+    "jp": "スペースシューターコラボ",
+    "target": "太空射擊槍 聯名",
+    "category": "WeaponName_Main"
+  },
+  "ボールドマーカー": {
+    "jp": "ボールドマーカー",
+    "target": "廣域標記槍",
+    "category": "WeaponName_Main"
+  },
+  "ボールドマーカーネオ": {
+    "jp": "ボールドマーカーネオ",
+    "target": "廣域標記槍 新型",
+    "category": "WeaponName_Main"
+  },
+  "H3リールガン": {
+    "jp": "H3リールガン",
+    "target": "H3捲管槍",
+    "category": "WeaponName_Main"
+  },
+  "H3リールガンD": {
+    "jp": "H3リールガンD",
+    "target": "H3捲管槍D",
+    "category": "WeaponName_Main"
+  },
+  "H3リールガンSNAK": {
+    "jp": "H3リールガンSNAK",
+    "target": "H3捲管槍SNAK",
+    "category": "WeaponName_Main"
+  },
+  "L3リールガン": {
+    "jp": "L3リールガン",
+    "target": "L3捲管槍",
+    "category": "WeaponName_Main"
+  },
+  "L3リールガンD": {
+    "jp": "L3リールガンD",
+    "target": "L3捲管槍D",
+    "category": "WeaponName_Main"
+  },
+  "L3リールガン箔": {
+    "jp": "L3リールガン箔",
+    "target": "L3捲管槍 箔",
+    "category": "WeaponName_Main"
+  },
+  "オーバーフロッシャー": {
+    "jp": "オーバーフロッシャー",
+    "target": "滿溢泡澡潑桶",
+    "category": "WeaponName_Main"
+  },
+  "オーバーフロッシャーデコ": {
+    "jp": "オーバーフロッシャーデコ",
+    "target": "滿溢泡澡潑桶 裝飾",
+    "category": "WeaponName_Main"
+  },
+  "クマサン印のスロッシャー": {
+    "jp": "クマサン印のスロッシャー",
+    "target": "熊先生印章潑桶",
+    "category": "WeaponName_Main"
+  },
+  "ヒッセン・ヒュー": {
+    "jp": "ヒッセン・ヒュー",
+    "target": "洗筆桶‧新藝術",
+    "category": "WeaponName_Main"
+  },
+  "ヒッセンASH": {
+    "jp": "ヒッセンASH",
+    "target": "洗筆桶ASH",
+    "category": "WeaponName_Main"
+  },
+  "モップリンD": {
+    "jp": "モップリンD",
+    "target": "墨瀑淋D",
+    "category": "WeaponName_Main"
+  },
+  "モップリン角": {
+    "jp": "モップリン角",
+    "target": "墨瀑淋 角",
+    "category": "WeaponName_Main"
+  },
+  "スクリュースロッシャー": {
+    "jp": "スクリュースロッシャー",
+    "target": "迴旋潑桶",
+    "category": "WeaponName_Main"
+  },
+  "スクリュースロッシャーネオ": {
+    "jp": "スクリュースロッシャーネオ",
+    "target": "迴旋潑桶 新型",
+    "category": "WeaponName_Main"
+  },
+  "バケットスロッシャー": {
+    "jp": "バケットスロッシャー",
+    "target": "飛濺潑桶",
+    "category": "WeaponName_Main"
+  },
+  "バケットスロッシャーデコ": {
+    "jp": "バケットスロッシャーデコ",
+    "target": "飛濺潑桶 裝飾",
+    "category": "WeaponName_Main"
+  },
+  "オーダースロッシャー レプリカ": {
+    "jp": "オーダースロッシャー レプリカ",
+    "target": "秩序潑桶 複製",
+    "category": "WeaponName_Main"
+  },
+  "エクスプロッシャー": {
+    "jp": "エクスプロッシャー",
+    "target": "爆炸潑桶",
+    "category": "WeaponName_Main"
+  },
+  "エクスプロッシャーカスタム": {
+    "jp": "エクスプロッシャーカスタム",
+    "target": "爆炸潑桶 改裝",
+    "category": "WeaponName_Main"
+  },
+  "クーゲルシュライバー": {
+    "jp": "クーゲルシュライバー",
+    "target": "圓珠筆",
+    "category": "WeaponName_Main"
+  },
+  "クーゲルシュライバー・ヒュー": {
+    "jp": "クーゲルシュライバー・ヒュー",
+    "target": "圓珠筆‧新藝術",
+    "category": "WeaponName_Main"
+  },
+  "イグザミナー": {
+    "jp": "イグザミナー",
+    "target": "審查者",
+    "category": "WeaponName_Main"
+  },
+  "イグザミナー・ヒュー": {
+    "jp": "イグザミナー・ヒュー",
+    "target": "審查者‧新藝術",
+    "category": "WeaponName_Main"
+  },
+  "ハイドラント": {
+    "jp": "ハイドラント",
+    "target": "消防栓旋轉槍",
+    "category": "WeaponName_Main"
+  },
+  "ハイドラントカスタム": {
+    "jp": "ハイドラントカスタム",
+    "target": "消防栓旋轉槍 改裝",
+    "category": "WeaponName_Main"
+  },
+  "ハイドラント圧": {
+    "jp": "ハイドラント圧",
+    "target": "消防栓旋轉槍 壓",
+    "category": "WeaponName_Main"
+  },
+  "スプラスピナー": {
+    "jp": "スプラスピナー",
+    "target": "斯普拉旋轉槍",
+    "category": "WeaponName_Main"
+  },
+  "スプラスピナーコラボ": {
+    "jp": "スプラスピナーコラボ",
+    "target": "斯普拉旋轉槍 聯名",
+    "category": "WeaponName_Main"
+  },
+  "スプラスピナーPYTN": {
+    "jp": "スプラスピナーPYTN",
+    "target": "斯普拉旋轉槍PYTN",
+    "category": "WeaponName_Main"
+  },
+  "ノーチラス47": {
+    "jp": "ノーチラス47",
+    "target": "鸚鵡螺號47",
+    "category": "WeaponName_Main"
+  },
+  "ノーチラス79": {
+    "jp": "ノーチラス79",
+    "target": "鸚鵡螺號79",
+    "category": "WeaponName_Main"
+  },
+  "バレルスピナー": {
+    "jp": "バレルスピナー",
+    "target": "桶裝旋轉槍",
+    "category": "WeaponName_Main"
+  },
+  "バレルスピナーデコ": {
+    "jp": "バレルスピナーデコ",
+    "target": "桶裝旋轉槍 裝飾",
+    "category": "WeaponName_Main"
+  },
+  "オーダースピナー レプリカ": {
+    "jp": "オーダースピナー レプリカ",
+    "target": "秩序旋轉槍 複製",
+    "category": "WeaponName_Main"
+  },
+  "クマサン印のストリンガー": {
+    "jp": "クマサン印のストリンガー",
+    "target": "熊先生印章獵魚弓",
+    "category": "WeaponName_Main"
+  },
+  "フルイドV": {
+    "jp": "フルイドV",
+    "target": "邦普V",
+    "category": "WeaponName_Main"
+  },
+  "フルイドVカスタム": {
+    "jp": "フルイドVカスタム",
+    "target": "邦普V 改裝",
+    "category": "WeaponName_Main"
+  },
+  "トライストリンガー": {
+    "jp": "トライストリンガー",
+    "target": "三發獵魚弓",
+    "category": "WeaponName_Main"
+  },
+  "トライストリンガーコラボ": {
+    "jp": "トライストリンガーコラボ",
+    "target": "三發獵魚弓 聯名",
+    "category": "WeaponName_Main"
+  },
+  "トライストリンガー燈": {
+    "jp": "トライストリンガー燈",
+    "target": "三發獵魚弓 燈",
+    "category": "WeaponName_Main"
+  },
+  "オーダーストリンガー レプリカ": {
+    "jp": "オーダーストリンガー レプリカ",
+    "target": "秩序獵魚弓 複製",
+    "category": "WeaponName_Main"
+  },
+  "LACT-450デコ": {
+    "jp": "LACT-450デコ",
+    "target": "LACT-450 裝飾",
+    "category": "WeaponName_Main"
+  },
+  "ジャンプビーコン": {
+    "jp": "ジャンプビーコン",
+    "target": "跳躍信標",
+    "category": "WeaponName_Sub"
+  },
+  "カーリングボム": {
+    "jp": "カーリングボム",
+    "target": "冰壺炸彈",
+    "category": "WeaponName_Sub"
+  },
+  "タンサンボム": {
+    "jp": "タンサンボム",
+    "target": "碳酸炸彈",
+    "category": "WeaponName_Sub"
+  },
+  "クイックボム": {
+    "jp": "クイックボム",
+    "target": "快速炸彈",
+    "category": "WeaponName_Sub"
+  },
+  "ロボットボム": {
+    "jp": "ロボットボム",
+    "target": "機器人炸彈",
+    "category": "WeaponName_Sub"
+  },
+  "スプラッシュボム": {
+    "jp": "スプラッシュボム",
+    "target": "斯普拉炸彈",
+    "category": "WeaponName_Sub"
+  },
+  "キューバンボム": {
+    "jp": "キューバンボム",
+    "target": "吸盤炸彈",
+    "category": "WeaponName_Sub"
+  },
+  "トーピード": {
+    "jp": "トーピード",
+    "target": "魚雷",
+    "category": "WeaponName_Sub"
+  },
+  "ラインマーカー": {
+    "jp": "ラインマーカー",
+    "target": "標線器",
+    "category": "WeaponName_Sub"
+  },
+  "ポイントセンサー": {
+    "jp": "ポイントセンサー",
+    "target": "定點偵測器",
+    "category": "WeaponName_Sub"
+  },
+  "ポイズンミスト": {
+    "jp": "ポイズンミスト",
+    "target": "毒霧",
+    "category": "WeaponName_Sub"
+  },
+  "スプラッシュシールド": {
+    "jp": "スプラッシュシールド",
+    "target": "斯普拉防護牆",
+    "category": "WeaponName_Sub"
+  },
+  "スプリンクラー": {
+    "jp": "スプリンクラー",
+    "target": "灑墨器",
+    "category": "WeaponName_Sub"
+  },
+  "トラップ": {
+    "jp": "トラップ",
+    "target": "墨汁陷阱",
+    "category": "WeaponName_Sub"
+  },
+  "キューインキ": {
+    "jp": "キューインキ",
+    "target": "吸墨機",
+    "category": "WeaponName_Special"
+  },
+  "テイオウイカ": {
+    "jp": "テイオウイカ",
+    "target": "帝王魷魚",
+    "category": "WeaponName_Special"
+  },
+  "カニタンク": {
+    "jp": "カニタンク",
+    "target": "螃蟹坦克",
+    "category": "WeaponName_Special"
+  },
+  "スミナガシート": {
+    "jp": "スミナガシート",
+    "target": "浮墨幕牆",
+    "category": "WeaponName_Special"
+  },
+  "エナジースタンド": {
+    "jp": "エナジースタンド",
+    "target": "能量站",
+    "category": "WeaponName_Special"
+  },
+  "デコイチラシ": {
+    "jp": "デコイチラシ",
+    "target": "誘餌煙火",
+    "category": "WeaponName_Special"
+  },
+  "ガチホコ": {
+    "jp": "ガチホコ",
+    "target": "真格魚虎",
+    "category": "WeaponName_Special"
+  },
+  "グレートバリア": {
+    "jp": "グレートバリア",
+    "target": "巨大防護罩",
+    "category": "WeaponName_Special"
+  },
+  "アメフラシ": {
+    "jp": "アメフラシ",
+    "target": "墨雨雲",
+    "category": "WeaponName_Special"
+  },
+  "ジェットパック": {
+    "jp": "ジェットパック",
+    "target": "噴射背包",
+    "category": "WeaponName_Special"
+  },
+  "メガホンレーザー5.1ch": {
+    "jp": "メガホンレーザー5.1ch",
+    "target": "喇叭雷射5.1ch",
+    "category": "WeaponName_Special"
+  },
+  "マルチミサイル": {
+    "jp": "マルチミサイル",
+    "target": "多重導彈",
+    "category": "WeaponName_Special"
+  },
+  "ナイスダマ": {
+    "jp": "ナイスダマ",
+    "target": "讚氣彈",
+    "category": "WeaponName_Special"
+  },
+  "ウルトラチャクチ": {
+    "jp": "ウルトラチャクチ",
+    "target": "終極著陸",
+    "category": "WeaponName_Special"
+  },
+  "ホップソナー": {
+    "jp": "ホップソナー",
+    "target": "彈跳聲納",
+    "category": "WeaponName_Special"
+  },
+  "サメライド": {
+    "jp": "サメライド",
+    "target": "鯊魚坐騎",
+    "category": "WeaponName_Special"
+  },
+  "スーパーチャクチ": {
+    "jp": "スーパーチャクチ",
+    "target": "超級著陸",
+    "category": "WeaponName_Special"
+  },
+  "トリプルトルネード": {
+    "jp": "トリプルトルネード",
+    "target": "三重龍捲風",
+    "category": "WeaponName_Special"
+  },
+  "ウルトラショット": {
+    "jp": "ウルトラショット",
+    "target": "終極發射",
+    "category": "WeaponName_Special"
+  },
+  "ウルトラハンコ": {
+    "jp": "ウルトラハンコ",
+    "target": "終極印章",
+    "category": "WeaponName_Special"
+  },
+  "ブラスター": {
+    "jp": "ブラスター",
+    "target": "爆破槍",
+    "category": "WeaponTypeName"
+  },
+  "フデ": {
+    "jp": "フデ",
+    "target": "畫筆",
+    "category": "WeaponTypeName"
+  },
+  "チャージャー": {
+    "jp": "チャージャー",
+    "target": "蓄力狙擊槍",
+    "category": "WeaponTypeName"
+  },
+  "マニューバー": {
+    "jp": "マニューバー",
+    "target": "機動槍",
+    "category": "WeaponTypeName"
+  },
+  "ローラー": {
+    "jp": "ローラー",
+    "target": "滾筒",
+    "category": "WeaponTypeName"
+  },
+  "ワイパー": {
+    "jp": "ワイパー",
+    "target": "刮水刀",
+    "category": "WeaponTypeName"
+  },
+  "シェルター": {
+    "jp": "シェルター",
+    "target": "防空傘",
+    "category": "WeaponTypeName"
+  },
+  "シューター": {
+    "jp": "シューター",
+    "target": "射擊槍",
+    "category": "WeaponTypeName"
+  },
+  "スロッシャー": {
+    "jp": "スロッシャー",
+    "target": "潑桶",
+    "category": "WeaponTypeName"
+  },
+  "スピナー": {
+    "jp": "スピナー",
+    "target": "旋轉槍",
+    "category": "WeaponTypeName"
+  },
+  "ストリンガー": {
+    "jp": "ストリンガー",
+    "target": "獵魚弓",
+    "category": "WeaponTypeName"
+  },
+  "リュウグウターミナル": {
+    "jp": "リュウグウターミナル",
+    "target": "龍宮轉運站",
+    "category": "VSStageName"
+  },
+  "クサヤ温泉": {
+    "jp": "クサヤ温泉",
+    "target": "臭魚乾溫泉",
+    "category": "VSStageName"
+  },
+  "スメーシーワールド": {
+    "jp": "スメーシーワールド",
+    "target": "醋飯海洋世界",
+    "category": "VSStageName"
+  },
+  "デカライン高架下": {
+    "jp": "デカライン高架下",
+    "target": "十路通高架橋下",
+    "category": "VSStageName"
+  },
+  "バイガイ亭": {
+    "jp": "バイガイ亭",
+    "target": "貝見亭",
+    "category": "VSStageName"
+  },
+  "ゴンズイ地区": {
+    "jp": "ゴンズイ地区",
+    "target": "鰻鯰區",
+    "category": "VSStageName"
+  },
+  "ナンプラー遺跡": {
+    "jp": "ナンプラー遺跡",
+    "target": "魚露遺跡",
+    "category": "VSStageName"
+  },
+  "マヒマヒリゾート＆スパ": {
+    "jp": "マヒマヒリゾート＆スパ",
+    "target": "鬼頭刀SPA度假區",
+    "category": "VSStageName"
+  },
+  "ヒラメが丘団地": {
+    "jp": "ヒラメが丘団地",
+    "target": "比目魚住宅區",
+    "category": "VSStageName"
+  },
+  "マサバ海峡大橋": {
+    "jp": "マサバ海峡大橋",
+    "target": "真鯖跨海大橋",
+    "category": "VSStageName"
+  },
+  "ザトウマーケット": {
+    "jp": "ザトウマーケット",
+    "target": "座頭購物中心",
+    "category": "VSStageName"
+  },
+  "グランドバンカラアリーナ": {
+    "jp": "グランドバンカラアリーナ",
+    "target": "蠻頹大巨蛋",
+    "category": "VSStageName"
+  },
+  "チョウザメ造船": {
+    "jp": "チョウザメ造船",
+    "target": "鱘魚造船廠",
+    "category": "VSStageName"
+  },
+  "マンタマリア号": {
+    "jp": "マンタマリア号",
+    "target": "鬼蝠魟瑪利亞號",
+    "category": "VSStageName"
+  },
+  "キンメダイ美術館": {
+    "jp": "キンメダイ美術館",
+    "target": "金眼鯛美術館",
+    "category": "VSStageName"
+  },
+  "カジキ空港": {
+    "jp": "カジキ空港",
+    "target": "旗魚機場",
+    "category": "VSStageName"
+  },
+  "ランダム": {
+    "jp": "ランダム",
+    "target": "隨機",
+    "category": "VSStageName"
+  },
+  "ネギトロ炭鉱": {
+    "jp": "ネギトロ炭鉱",
+    "target": "蔥鮪魚煤礦場",
+    "category": "VSStageName"
+  },
+  "ナメロウ金属": {
+    "jp": "ナメロウ金属",
+    "target": "魚肉碎金屬",
+    "category": "VSStageName"
+  },
+  "タラポートショッピングパーク": {
+    "jp": "タラポートショッピングパーク",
+    "target": "塔拉波特購物公園",
+    "category": "VSStageName"
+  },
+  "タカアシ経済特区": {
+    "jp": "タカアシ経済特区",
+    "target": "高腳經濟特區",
+    "category": "VSStageName"
+  },
+  "マテガイ放水路": {
+    "jp": "マテガイ放水路",
+    "target": "竹蟶疏洪道",
+    "category": "VSStageName"
+  },
+  "オヒョウ海運": {
+    "jp": "オヒョウ海運",
+    "target": "大比目魚海運中心",
+    "category": "VSStageName"
+  },
+  "海女美術大学": {
+    "jp": "海女美術大学",
+    "target": "海女美術大學",
+    "category": "VSStageName"
+  },
+  "コンブトラック": {
+    "jp": "コンブトラック",
+    "target": "昆布賽道",
+    "category": "VSStageName"
+  },
+  "ヤガラ市場": {
+    "jp": "ヤガラ市場",
+    "target": "煙管魚市場",
+    "category": "VSStageName"
+  },
+  "ユノハナ大渓谷": {
+    "jp": "ユノハナ大渓谷",
+    "target": "溫泉花大峽谷",
+    "category": "VSStageName"
+  },
+  "各地で同時発生": {
+    "jp": "各地で同時発生",
+    "target": "各地同時發生",
+    "category": "CoopStageName"
+  },
+  "ムニ・エール海洋発電所": {
+    "jp": "ムニ・エール海洋発電所",
+    "target": "麥年海洋發電所",
+    "category": "CoopStageName"
+  },
+  "すじこジャンクション跡": {
+    "jp": "すじこジャンクション跡",
+    "target": "生筋子系統交流道遺址",
+    "category": "CoopStageName"
+  },
+  "トキシラズいぶし工房": {
+    "jp": "トキシラズいぶし工房",
+    "target": "時不知鮭煙燻工房",
+    "category": "CoopStageName"
+  },
+  "どんぴこ闘技場": {
+    "jp": "どんぴこ闘技場",
+    "target": "鮭魚心臟鬥技場",
+    "category": "CoopStageName"
+  },
+  "難破船ドン・ブラコ": {
+    "jp": "難破船ドン・ブラコ",
+    "target": "漂浮落難船",
+    "category": "CoopStageName"
+  },
+  "アラマキ砦": {
+    "jp": "アラマキ砦",
+    "target": "新卷堡",
+    "category": "CoopStageName"
+  },
+  "シェケナダム": {
+    "jp": "シェケナダム",
+    "target": "鮭壩",
+    "category": "CoopStageName"
+  },
+  "テッキュウ": {
+    "jp": "テッキュウ",
+    "target": "鐵球魚",
+    "category": "CoopEnemy"
+  },
+  "ドロシャケ": {
+    "jp": "ドロシャケ",
+    "target": "泥鮭魚",
+    "category": "CoopEnemy"
+  },
+  "シャケコプター": {
+    "jp": "シャケコプター",
+    "target": "直升機鮭魚",
+    "category": "CoopEnemy"
+  },
+  "ダイバー": {
+    "jp": "ダイバー",
+    "target": "潛水魚",
+    "category": "CoopEnemy"
+  },
+  "タマヒロイ": {
+    "jp": "タマヒロイ",
+    "target": "拾蛋魚",
+    "category": "CoopEnemy"
+  },
+  "ハシラ": {
+    "jp": "ハシラ",
+    "target": "柱魚",
+    "category": "CoopEnemy"
+  },
+  "ナベブタ": {
+    "jp": "ナベブタ",
+    "target": "鍋蓋魚",
+    "category": "CoopEnemy"
+  },
+  "モグラ": {
+    "jp": "モグラ",
+    "target": "鼴鼠魚",
+    "category": "CoopEnemy"
+  },
+  "グリル": {
+    "jp": "グリル",
+    "target": "烤架魚",
+    "category": "CoopEnemy"
+  },
+  "バクダン": {
+    "jp": "バクダン",
+    "target": "炸彈魚",
+    "category": "CoopEnemy"
+  },
+  "カタパッド": {
+    "jp": "カタパッド",
+    "target": "墊肩飛魚",
+    "category": "CoopEnemy"
+  },
+  "キンシャケ": {
+    "jp": "キンシャケ",
+    "target": "金鮭魚",
+    "category": "CoopEnemy"
+  },
+  "ドスコイ": {
+    "jp": "ドスコイ",
+    "target": "大胖魚",
+    "category": "CoopEnemy"
+  },
+  "テッパン": {
+    "jp": "テッパン",
+    "target": "鐵板魚",
+    "category": "CoopEnemy"
+  },
+  "ヘビ": {
+    "jp": "ヘビ",
+    "target": "蛇魚",
+    "category": "CoopEnemy"
+  },
+  "タワー": {
+    "jp": "タワー",
+    "target": "高塔魚",
+    "category": "CoopEnemy"
+  },
+  "コウモリ": {
+    "jp": "コウモリ",
+    "target": "蝙蝠魚",
+    "category": "CoopEnemy"
+  },
+  "オカシラ連合": {
+    "jp": "オカシラ連合",
+    "target": "頭目聯合",
+    "category": "CoopEnemy"
+  },
+  "かけだし": {
+    "jp": "かけだし",
+    "target": "新手",
+    "category": "CoopGrade"
+  },
+  "はんにんまえ": {
+    "jp": "はんにんまえ",
+    "target": "半吊子",
+    "category": "CoopGrade"
+  },
+  "いちにんまえ": {
+    "jp": "いちにんまえ",
+    "target": "獨當一面",
+    "category": "CoopGrade"
+  },
+  "じゅくれん": {
+    "jp": "じゅくれん",
+    "target": "熟練",
+    "category": "CoopGrade"
+  },
+  "たつじん": {
+    "jp": "たつじん",
+    "target": "達人",
+    "category": "CoopGrade"
+  },
+  "たつじん＋１": {
+    "jp": "たつじん＋１",
+    "target": "達人+1",
+    "category": "CoopGrade"
+  },
+  "たつじん＋２": {
+    "jp": "たつじん＋２",
+    "target": "達人+2",
+    "category": "CoopGrade"
+  },
+  "たつじん＋３": {
+    "jp": "たつじん＋３",
+    "target": "達人+3",
+    "category": "CoopGrade"
+  },
+  "でんせつ": {
+    "jp": "でんせつ",
+    "target": "傳說",
+    "category": "CoopGrade"
+  },
+  "かけだし アルバイター": {
+    "jp": "かけだし アルバイター",
+    "target": "新手 打工仔",
+    "category": "CoopGrade"
+  },
+  "はんにんまえ アルバイター": {
+    "jp": "はんにんまえ アルバイター",
+    "target": "半吊子 打工仔",
+    "category": "CoopGrade"
+  },
+  "いちにんまえ アルバイター": {
+    "jp": "いちにんまえ アルバイター",
+    "target": "獨當一面 打工仔",
+    "category": "CoopGrade"
+  },
+  "じゅくれん アルバイター": {
+    "jp": "じゅくれん アルバイター",
+    "target": "熟練 打工仔",
+    "category": "CoopGrade"
+  },
+  "たつじん アルバイター": {
+    "jp": "たつじん アルバイター",
+    "target": "達人 打工仔",
+    "category": "CoopGrade"
+  },
+  "たつじん＋１ アルバイター": {
+    "jp": "たつじん＋１ アルバイター",
+    "target": "達人+1 打工仔",
+    "category": "CoopGrade"
+  },
+  "たつじん＋２ アルバイター": {
+    "jp": "たつじん＋２ アルバイター",
+    "target": "達人+2 打工仔",
+    "category": "CoopGrade"
+  },
+  "たつじん＋３ アルバイター": {
+    "jp": "たつじん＋３ アルバイター",
+    "target": "達人+3 打工仔",
+    "category": "CoopGrade"
+  },
+  "でんせつ アルバイター": {
+    "jp": "でんせつ アルバイター",
+    "target": "傳說 打工仔",
+    "category": "CoopGrade"
+  },
+  "バイトツナギ オレンジ": {
+    "jp": "バイトツナギ オレンジ",
+    "target": "打工連身工作服 橘色",
+    "category": "CoopSkinName"
+  },
+  "バイトツナギ グリーン": {
+    "jp": "バイトツナギ グリーン",
+    "target": "打工連身工作服 綠色",
+    "category": "CoopSkinName"
+  },
+  "バイトツナギ イエロー": {
+    "jp": "バイトツナギ イエロー",
+    "target": "打工連身工作服 黃色",
+    "category": "CoopSkinName"
+  },
+  "バイトツナギ ピンク": {
+    "jp": "バイトツナギ ピンク",
+    "target": "打工連身工作服 粉紅色",
+    "category": "CoopSkinName"
+  },
+  "バイトツナギ ブルー": {
+    "jp": "バイトツナギ ブルー",
+    "target": "打工連身工作服 藍色",
+    "category": "CoopSkinName"
+  },
+  "バイトツナギ ブラック": {
+    "jp": "バイトツナギ ブラック",
+    "target": "打工連身工作服 黑色",
+    "category": "CoopSkinName"
+  },
+  "バイトツナギ ホワイト": {
+    "jp": "バイトツナギ ホワイト",
+    "target": "打工連身工作服 白色",
+    "category": "CoopSkinName"
+  },
+  "バイトウェーダー オレンジ": {
+    "jp": "バイトウェーダー オレンジ",
+    "target": "打工防水衣 橘色",
+    "category": "CoopSkinName"
+  },
+  "バイトウェーダー ブラック": {
+    "jp": "バイトウェーダー ブラック",
+    "target": "打工防水衣 黑色",
+    "category": "CoopSkinName"
+  },
+  "バイトウェーダー イエロー": {
+    "jp": "バイトウェーダー イエロー",
+    "target": "打工防水衣 黃色",
+    "category": "CoopSkinName"
+  },
+  "バイトウェーダー ブラウン": {
+    "jp": "バイトウェーダー ブラウン",
+    "target": "打工防水衣 棕色",
+    "category": "CoopSkinName"
+  },
+  "バイトツナギ ドット": {
+    "jp": "バイトツナギ ドット",
+    "target": "打工連身工作服 點點",
+    "category": "CoopSkinName"
+  },
+  "バイトツナギ カモ": {
+    "jp": "バイトツナギ カモ",
+    "target": "打工連身工作服 迷彩",
+    "category": "CoopSkinName"
+  },
+  "バイトツナギ ニシキ": {
+    "jp": "バイトツナギ ニシキ",
+    "target": "打工連身工作服 錦鯉",
+    "category": "CoopSkinName"
+  },
+  "バイトウェーダー ピーチ": {
+    "jp": "バイトウェーダー ピーチ",
+    "target": "打工防水衣 桃紅",
+    "category": "CoopSkinName"
+  },
+  "バイトウェーダー ライム": {
+    "jp": "バイトウェーダー ライム",
+    "target": "打工防水衣 萊姆綠",
+    "category": "CoopSkinName"
+  },
+  "バイトウェーダー ベリー": {
+    "jp": "バイトウェーダー ベリー",
+    "target": "打工防水衣 莓果紅",
+    "category": "CoopSkinName"
+  },
+  "バイトツナギ シルバー": {
+    "jp": "バイトツナギ シルバー",
+    "target": "打工連身工作服 銀色",
+    "category": "CoopSkinName"
+  },
+  "バイトツナギ ゴールド": {
+    "jp": "バイトツナギ ゴールド",
+    "target": "打工連身工作服 金色",
+    "category": "CoopSkinName"
+  },
+  "バイトツナギ プリズム": {
+    "jp": "バイトツナギ プリズム",
+    "target": "打工連身工作服 稜鏡",
+    "category": "CoopSkinName"
+  },
+  "バイトツナギ ブロッカー": {
+    "jp": "バイトツナギ ブロッカー",
+    "target": "打工連身工作服 重裝",
+    "category": "CoopSkinName"
+  },
+  "アクション強化": {
+    "jp": "アクション強化",
+    "target": "行動強化",
+    "category": "GearPowerName"
+  },
+  "カムバック": {
+    "jp": "カムバック",
+    "target": "回歸",
+    "category": "GearPowerName"
+  },
+  "リベンジ": {
+    "jp": "リベンジ",
+    "target": "復仇",
+    "category": "GearPowerName"
+  },
+  "ラストスパート": {
+    "jp": "ラストスパート",
+    "target": "最後衝刺",
+    "category": "GearPowerName"
+  },
+  "追加ギアパワー倍化": {
+    "jp": "追加ギアパワー倍化",
+    "target": "追加裝備能力增倍",
+    "category": "GearPowerName"
+  },
+  "復活ペナルティアップ": {
+    "jp": "復活ペナルティアップ",
+    "target": "提升復活懲罰",
+    "category": "GearPowerName"
+  },
+  "ヒト移動速度アップ": {
+    "jp": "ヒト移動速度アップ",
+    "target": "提升人類移動速度",
+    "category": "GearPowerName"
+  },
+  "インク回復力アップ": {
+    "jp": "インク回復力アップ",
+    "target": "提升墨汁回復力",
+    "category": "GearPowerName"
+  },
+  "スーパージャンプ時間短縮": {
+    "jp": "スーパージャンプ時間短縮",
+    "target": "縮短超級跳躍時間",
+    "category": "GearPowerName"
+  },
+  "インク効率アップ(メイン)": {
+    "jp": "インク効率アップ(メイン)",
+    "target": "提升墨汁效率（主要武器）",
+    "category": "GearPowerName"
+  },
+  "対物攻撃力アップ": {
+    "jp": "対物攻撃力アップ",
+    "target": "提升對物體攻擊力",
+    "category": "GearPowerName"
+  },
+  "相手インク影響軽減": {
+    "jp": "相手インク影響軽減",
+    "target": "減輕對手墨汁影響",
+    "category": "GearPowerName"
+  },
+  "スペシャル減少量ダウン": {
+    "jp": "スペシャル減少量ダウン",
+    "target": "降低特殊武器減少量",
+    "category": "GearPowerName"
+  },
+  "復活時間短縮": {
+    "jp": "復活時間短縮",
+    "target": "縮短復活時間",
+    "category": "GearPowerName"
+  },
+  "受け身術": {
+    "jp": "受け身術",
+    "target": "受身術",
+    "category": "GearPowerName"
+  },
+  "スペシャル増加量アップ": {
+    "jp": "スペシャル増加量アップ",
+    "target": "提升特殊武器增加量",
+    "category": "GearPowerName"
+  },
+  "スペシャル性能アップ": {
+    "jp": "スペシャル性能アップ",
+    "target": "提升特殊武器性能",
+    "category": "GearPowerName"
+  },
+  "イカニンジャ": {
+    "jp": "イカニンジャ",
+    "target": "魷魚忍者",
+    "category": "GearPowerName"
+  },
+  "イカダッシュ速度アップ": {
+    "jp": "イカダッシュ速度アップ",
+    "target": "提升魷魚衝刺速度",
+    "category": "GearPowerName"
+  },
+  "スタートダッシュ": {
+    "jp": "スタートダッシュ",
+    "target": "最初衝刺",
+    "category": "GearPowerName"
+  },
+  "サブ影響軽減": {
+    "jp": "サブ影響軽減",
+    "target": "減輕次要武器影響",
+    "category": "GearPowerName"
+  },
+  "インク効率アップ(サブ)": {
+    "jp": "インク効率アップ(サブ)",
+    "target": "提升墨汁效率（次要武器）",
+    "category": "GearPowerName"
+  },
+  "サブ性能アップ": {
+    "jp": "サブ性能アップ",
+    "target": "提升次要武器性能",
+    "category": "GearPowerName"
+  },
+  "ステルスジャンプ": {
+    "jp": "ステルスジャンプ",
+    "target": "隱身跳躍",
+    "category": "GearPowerName"
+  },
+  "サーマルインク": {
+    "jp": "サーマルインク",
+    "target": "熱力墨汁",
+    "category": "GearPowerName"
+  },
+  "バトロイカ": {
+    "jp": "バトロイカ",
+    "target": "戰鬥魷魚",
+    "category": "GearBrandName"
+  },
+  "アイロニック": {
+    "jp": "アイロニック",
+    "target": "鋼鐵先鋒",
+    "category": "GearBrandName"
+  },
+  "クラーゲス": {
+    "jp": "クラーゲス",
+    "target": "海月",
+    "category": "GearBrandName"
+  },
+  "ロッケンベルグ": {
+    "jp": "ロッケンベルグ",
+    "target": "羅肯貝格",
+    "category": "GearBrandName"
+  },
+  "エゾッコ": {
+    "jp": "エゾッコ",
+    "target": "澤酷",
+    "category": "GearBrandName"
+  },
+  "フォーリマ": {
+    "jp": "フォーリマ",
+    "target": "鍛品",
+    "category": "GearBrandName"
+  },
+  "ホッコリー": {
+    "jp": "ホッコリー",
+    "target": "暖流",
+    "category": "GearBrandName"
+  },
+  "ホタックス": {
+    "jp": "ホタックス",
+    "target": "帆立",
+    "category": "GearBrandName"
+  },
+  "ジモン": {
+    "jp": "ジモン",
+    "target": "寺門",
+    "category": "GearBrandName"
+  },
+  "シグレニ": {
+    "jp": "シグレニ",
+    "target": "時雨",
+    "category": "GearBrandName"
+  },
+  "アロメ": {
+    "jp": "アロメ",
+    "target": "艾洛眼",
+    "category": "GearBrandName"
+  },
+  "ヤコ": {
+    "jp": "ヤコ",
+    "target": "暇古",
+    "category": "GearBrandName"
+  },
+  "アナアキ": {
+    "jp": "アナアキ",
+    "target": "無法無天",
+    "category": "GearBrandName"
+  },
+  "エンペリー": {
+    "jp": "エンペリー",
+    "target": "魷皇",
+    "category": "GearBrandName"
+  },
+  "タタキケンサキ": {
+    "jp": "タタキケンサキ",
+    "target": "劍尖魷",
+    "category": "GearBrandName"
+  },
+  "エゾッコリー": {
+    "jp": "エゾッコリー",
+    "target": "澤酷暖流",
+    "category": "GearBrandName"
+  },
+  "バラズシ": {
+    "jp": "バラズシ",
+    "target": "散壽司",
+    "category": "GearBrandName"
+  },
+  "シチリン": {
+    "jp": "シチリン",
+    "target": "七輪",
+    "category": "GearBrandName"
+  },
+  "クマサン商会": {
+    "jp": "クマサン商会",
+    "target": "熊先生商會",
+    "category": "GearBrandName"
+  },
+  "アタリメイド": {
+    "jp": "アタリメイド",
+    "target": "魚乾製造",
+    "category": "GearBrandName"
+  },
+  "イカタコピアス": {
+    "jp": "イカタコピアス",
+    "target": "魷魚章魚耳飾",
+    "category": "GearName_Head"
+  },
+  "イカパッチン": {
+    "jp": "イカパッチン",
+    "target": "魷魚髮夾",
+    "category": "GearName_Head"
+  },
+  "サムライヘルメット": {
+    "jp": "サムライヘルメット",
+    "target": "武士頭盔",
+    "category": "GearName_Head"
+  },
+  "パワードマスク": {
+    "jp": "パワードマスク",
+    "target": "動力面罩",
+    "category": "GearName_Head"
+  },
+  "イカクリップ": {
+    "jp": "イカクリップ",
+    "target": "魷魚迴紋針",
+    "category": "GearName_Head"
+  },
+  "イカカゲマスク乙": {
+    "jp": "イカカゲマスク乙",
+    "target": "魷魚影子面罩 乙",
+    "category": "GearName_Head"
+  },
+  "パワードマスク オリジン": {
+    "jp": "パワードマスク オリジン",
+    "target": "動力面罩 原型",
+    "category": "GearName_Head"
+  },
+  "ヒメイトクラウンS": {
+    "jp": "ヒメイトクラウンS",
+    "target": "姬伴皇冠S",
+    "category": "GearName_Head"
+  },
+  "イイダチヘッドホン": {
+    "jp": "イイダチヘッドホン",
+    "target": "飯友耳機",
+    "category": "GearName_Head"
+  },
+  "エンチャントハット": {
+    "jp": "エンチャントハット",
+    "target": "魔力圓邊帽",
+    "category": "GearName_Head"
+  },
+  "タコティカルなヘルム": {
+    "jp": "タコティカルなヘルム",
+    "target": "章魚鋼盔",
+    "category": "GearName_Head"
+  },
+  "ひれおくん": {
+    "jp": "ひれおくん",
+    "target": "魚奇奇",
+    "category": "GearName_Head"
+  },
+  "オシャブリボーン": {
+    "jp": "オシャブリボーン",
+    "target": "奶嘴骨",
+    "category": "GearName_Head"
+  },
+  "タコハチ": {
+    "jp": "タコハチ",
+    "target": "章魚缽卷頭帶",
+    "category": "GearName_Head"
+  },
+  "バーサークヘル": {
+    "jp": "バーサークヘル",
+    "target": "狂戰士鋼盔",
+    "category": "GearName_Head"
+  },
+  "イカカゲマスク甲": {
+    "jp": "イカカゲマスク甲",
+    "target": "魷魚影子面罩 甲",
+    "category": "GearName_Head"
+  },
+  "ヒメイトクラウンL": {
+    "jp": "ヒメイトクラウンL",
+    "target": "姬伴皇冠L",
+    "category": "GearName_Head"
+  },
+  "ホホジロノオモテ": {
+    "jp": "ホホジロノオモテ",
+    "target": "頰白的面具",
+    "category": "GearName_Head"
+  },
+  "オナガノオモテ": {
+    "jp": "オナガノオモテ",
+    "target": "翁長的面具",
+    "category": "GearName_Head"
+  },
+  "マンダノオモテ": {
+    "jp": "マンダノオモテ",
+    "target": "曼蛇的面具",
+    "category": "GearName_Head"
+  },
+  "ワールドMCクラウン": {
+    "jp": "ワールドMCクラウン",
+    "target": "世界級MC皇冠",
+    "category": "GearName_Head"
+  },
+  "ワールドDJヘッドホン": {
+    "jp": "ワールドDJヘッドホン",
+    "target": "世界級DJ耳機",
+    "category": "GearName_Head"
+  },
+  "ウーニーズBBキャップ": {
+    "jp": "ウーニーズBBキャップ",
+    "target": "海膽BB帽",
+    "category": "GearName_Head"
+  },
+  "キャンプキャップ": {
+    "jp": "キャンプキャップ",
+    "target": "露營帽",
+    "category": "GearName_Head"
+  },
+  "ヤコメッシュ": {
+    "jp": "ヤコメッシュ",
+    "target": "暇古網帽",
+    "category": "GearName_Head"
+  },
+  "ビバレッジキャップ": {
+    "jp": "ビバレッジキャップ",
+    "target": "飲料標誌帽",
+    "category": "GearName_Head"
+  },
+  "チドリキャップ": {
+    "jp": "チドリキャップ",
+    "target": "千鳥帽",
+    "category": "GearName_Head"
+  },
+  "イカベーダーキャップ": {
+    "jp": "イカベーダーキャップ",
+    "target": "墨行帽",
+    "category": "GearName_Head"
+  },
+  "カモメッシュ": {
+    "jp": "カモメッシュ",
+    "target": "迷彩網帽",
+    "category": "GearName_Head"
+  },
+  "5パネルキャップ": {
+    "jp": "5パネルキャップ",
+    "target": "五分割帽",
+    "category": "GearName_Head"
+  },
+  "エゾッコメッシュ": {
+    "jp": "エゾッコメッシュ",
+    "target": "澤酷網帽",
+    "category": "GearName_Head"
+  },
+  "バックワードキャップ": {
+    "jp": "バックワードキャップ",
+    "target": "反戴帽",
+    "category": "GearName_Head"
+  },
+  "2ラインメッシュ": {
+    "jp": "2ラインメッシュ",
+    "target": "雙線網帽",
+    "category": "GearName_Head"
+  },
+  "ジェットキャップ": {
+    "jp": "ジェットキャップ",
+    "target": "噴射帽",
+    "category": "GearName_Head"
+  },
+  "テッカサイクルキャップ": {
+    "jp": "テッカサイクルキャップ",
+    "target": "單車帽",
+    "category": "GearName_Head"
+  },
+  "チャリキング帽": {
+    "jp": "チャリキング帽",
+    "target": "單車王者帽",
+    "category": "GearName_Head"
+  },
+  "ロングビルキャップ": {
+    "jp": "ロングビルキャップ",
+    "target": "長帽檐帽",
+    "category": "GearName_Head"
+  },
+  "キングフリップメッシュ": {
+    "jp": "キングフリップメッシュ",
+    "target": "王者翻檐網帽",
+    "category": "GearName_Head"
+  },
+  "ヒッコリーワークキャップ": {
+    "jp": "ヒッコリーワークキャップ",
+    "target": "山核桃條紋工作帽",
+    "category": "GearName_Head"
+  },
+  "ウールウーニーズクラシック": {
+    "jp": "ウールウーニーズクラシック",
+    "target": "羊毛海膽經典帽",
+    "category": "GearName_Head"
+  },
+  "クラゲーダーキャップ": {
+    "jp": "クラゲーダーキャップ",
+    "target": "位元水母帽",
+    "category": "GearName_Head"
+  },
+  "ハウスタグデニムCAP": {
+    "jp": "ハウスタグデニムCAP",
+    "target": "房屋標籤牛仔帽",
+    "category": "GearName_Head"
+  },
+  "フグハンチング": {
+    "jp": "フグハンチング",
+    "target": "河豚狩獵帽",
+    "category": "GearName_Head"
+  },
+  "ドゥーラグキャップガサネ": {
+    "jp": "ドゥーラグキャップガサネ",
+    "target": "嘻哈頭巾配帽子",
+    "category": "GearName_Head"
+  },
+  "フライトぼう": {
+    "jp": "フライトぼう",
+    "target": "飛行帽",
+    "category": "GearName_Head"
+  },
+  "シェーディングキャップ スミ": {
+    "jp": "シェーディングキャップ スミ",
+    "target": "遮陽帽 墨黑",
+    "category": "GearName_Head"
+  },
+  "コーラルキャップ": {
+    "jp": "コーラルキャップ",
+    "target": "珊瑚帽",
+    "category": "GearName_Head"
+  },
+  "イシダイストライプスキャップ": {
+    "jp": "イシダイストライプスキャップ",
+    "target": "條石鯛條紋帽",
+    "category": "GearName_Head"
+  },
+  "マリンキャップ": {
+    "jp": "マリンキャップ",
+    "target": "海軍風帽",
+    "category": "GearName_Head"
+  },
+  "フライカーキャップ": {
+    "jp": "フライカーキャップ",
+    "target": "飛魚騎行帽",
+    "category": "GearName_Head"
+  },
+  "グンチンハ": {
+    "jp": "グンチンハ",
+    "target": "反戴狩獵帽",
+    "category": "GearName_Head"
+  },
+  "カモキャップ ドトン": {
+    "jp": "カモキャップ ドトン",
+    "target": "迷彩帽 土遁",
+    "category": "GearName_Head"
+  },
+  "カモキャップ スイトン": {
+    "jp": "カモキャップ スイトン",
+    "target": "迷彩帽 水遁",
+    "category": "GearName_Head"
+  },
+  "フィッシャーマンキャップ": {
+    "jp": "フィッシャーマンキャップ",
+    "target": "瓜皮帽",
+    "category": "GearName_Head"
+  },
+  "ブリムリブハット": {
+    "jp": "ブリムリブハット",
+    "target": "棱紋獵鹿帽",
+    "category": "GearName_Head"
+  },
+  "ナイトハイクキャップ": {
+    "jp": "ナイトハイクキャップ",
+    "target": "夜行帽",
+    "category": "GearName_Head"
+  },
+  "スイムキャップ": {
+    "jp": "スイムキャップ",
+    "target": "泳帽",
+    "category": "GearName_Head"
+  },
+  "ヘッドライトヘルム": {
+    "jp": "ヘッドライトヘルム",
+    "target": "頭燈鋼盔",
+    "category": "GearName_Head"
+  },
+  "ダストブロッカー 2.5": {
+    "jp": "ダストブロッカー 2.5",
+    "target": "防塵口罩2.5",
+    "category": "GearName_Head"
+  },
+  "アイアンマスカレイド": {
+    "jp": "アイアンマスカレイド",
+    "target": "鋼鐵面具",
+    "category": "GearName_Head"
+  },
+  "ガーディアンアーミーハット": {
+    "jp": "ガーディアンアーミーハット",
+    "target": "守衛軍圓邊帽",
+    "category": "GearName_Head"
+  },
+  "ゾネスティックスコープ": {
+    "jp": "ゾネスティックスコープ",
+    "target": "女戰士風望遠鏡",
+    "category": "GearName_Head"
+  },
+  "レジェンドのぼうし": {
+    "jp": "レジェンドのぼうし",
+    "target": "傳奇帽子",
+    "category": "GearName_Head"
+  },
+  "アセストップソシナ": {
+    "jp": "アセストップソシナ",
+    "target": "止汗頭巾",
+    "category": "GearName_Head"
+  },
+  "スペボウ レプリカ": {
+    "jp": "スペボウ レプリカ",
+    "target": "抽繩帽 複製",
+    "category": "GearName_Head"
+  },
+  "マリリンハットウィズピンズ": {
+    "jp": "マリリンハットウィズピンズ",
+    "target": "別針海軍圓邊帽",
+    "category": "GearName_Head"
+  },
+  "イトヨリキャップ": {
+    "jp": "イトヨリキャップ",
+    "target": "金線魚帽",
+    "category": "GearName_Head"
+  },
+  "シカイバイザー": {
+    "jp": "シカイバイザー",
+    "target": "視野中空遮陽帽",
+    "category": "GearName_Head"
+  },
+  "カジカブト": {
+    "jp": "カジカブト",
+    "target": "消防盔",
+    "category": "GearName_Head"
+  },
+  "パイロットメット": {
+    "jp": "パイロットメット",
+    "target": "飛行員安全帽",
+    "category": "GearName_Head"
+  },
+  "ハイテクスコープ": {
+    "jp": "ハイテクスコープ",
+    "target": "高科技望遠鏡",
+    "category": "GearName_Head"
+  },
+  "ヒラメキブレインメット": {
+    "jp": "ヒラメキブレインメット",
+    "target": "靈光一閃安全帽",
+    "category": "GearName_Head"
+  },
+  "タコツボメット": {
+    "jp": "タコツボメット",
+    "target": "蛸壺安全帽",
+    "category": "GearName_Head"
+  },
+  "ガーディアンズキャップ": {
+    "jp": "ガーディアンズキャップ",
+    "target": "守衛者帽",
+    "category": "GearName_Head"
+  },
+  "マルミエールUD": {
+    "jp": "マルミエールUD",
+    "target": "視魄UD",
+    "category": "GearName_Head"
+  },
+  "ハイパーミライヘッド": {
+    "jp": "ハイパーミライヘッド",
+    "target": "超未來頭盔",
+    "category": "GearName_Head"
+  },
+  "ウキアガールRB": {
+    "jp": "ウキアガールRB",
+    "target": "身臨其境RB",
+    "category": "GearName_Head"
+  },
+  "エル・カラマレス": {
+    "jp": "エル・カラマレス",
+    "target": "El Calamares",
+    "category": "GearName_Head"
+  },
+  "ショーグンメット": {
+    "jp": "ショーグンメット",
+    "target": "將軍安全帽",
+    "category": "GearName_Head"
+  },
+  "バイトヘルメット レプリカ": {
+    "jp": "バイトヘルメット レプリカ",
+    "target": "打工安全帽 複製",
+    "category": "GearName_Head"
+  },
+  "クロブチ レトロ": {
+    "jp": "クロブチ レトロ",
+    "target": "復古黑框眼鏡",
+    "category": "GearName_Head"
+  },
+  "スプラッシュゴーグル": {
+    "jp": "スプラッシュゴーグル",
+    "target": "斯普拉護目鏡",
+    "category": "GearName_Head"
+  },
+  "パイロットゴーグル": {
+    "jp": "パイロットゴーグル",
+    "target": "飛行員護目鏡",
+    "category": "GearName_Head"
+  },
+  "イロメガネ": {
+    "jp": "イロメガネ",
+    "target": "有色眼鏡",
+    "category": "GearName_Head"
+  },
+  "アローバンド ブラック": {
+    "jp": "アローバンド ブラック",
+    "target": "眼鏡固定帶 黑色",
+    "category": "GearName_Head"
+  },
+  "ダイバーゴーグル": {
+    "jp": "ダイバーゴーグル",
+    "target": "潛水護目鏡",
+    "category": "GearName_Head"
+  },
+  "アローバンド ホワイト": {
+    "jp": "アローバンド ホワイト",
+    "target": "眼鏡固定帶 白色",
+    "category": "GearName_Head"
+  },
+  "ダテコンタクト": {
+    "jp": "ダテコンタクト",
+    "target": "顯眼隱形眼鏡",
+    "category": "GearName_Head"
+  },
+  "タレサン18K": {
+    "jp": "タレサン18K",
+    "target": "明星墨鏡 18K",
+    "category": "GearName_Head"
+  },
+  "マルベッコー": {
+    "jp": "マルベッコー",
+    "target": "玳瑁圓形眼鏡",
+    "category": "GearName_Head"
+  },
+  "オクタグラス": {
+    "jp": "オクタグラス",
+    "target": "章魚墨鏡",
+    "category": "GearName_Head"
+  },
+  "セルブロウ": {
+    "jp": "セルブロウ",
+    "target": "半框眼鏡",
+    "category": "GearName_Head"
+  },
+  "ダブルエッグサングラス": {
+    "jp": "ダブルエッグサングラス",
+    "target": "鐵蛋墨鏡",
+    "category": "GearName_Head"
+  },
+  "エゾッコフリッパー": {
+    "jp": "エゾッコフリッパー",
+    "target": "澤酷翻檐帽",
+    "category": "GearName_Head"
+  },
+  "マルサンSV925": {
+    "jp": "マルサンSV925",
+    "target": "圓形墨鏡SV925",
+    "category": "GearName_Head"
+  },
+  "アナアキバスクベレー": {
+    "jp": "アナアキバスクベレー",
+    "target": "無法無天巴斯克貝雷帽",
+    "category": "GearName_Head"
+  },
+  "スイミングモーグル": {
+    "jp": "スイミングモーグル",
+    "target": "競技泳鏡",
+    "category": "GearName_Head"
+  },
+  "スミガードゴーグル": {
+    "jp": "スミガードゴーグル",
+    "target": "防墨護目鏡",
+    "category": "GearName_Head"
+  },
+  "モーグル タタキベッチュー": {
+    "jp": "モーグル タタキベッチュー",
+    "target": "劍尖特製競技泳鏡",
+    "category": "GearName_Head"
+  },
+  "デメニギスゴーグル": {
+    "jp": "デメニギスゴーグル",
+    "target": "桶眼魚護目鏡",
+    "category": "GearName_Head"
+  },
+  "８ビットフレーム": {
+    "jp": "８ビットフレーム",
+    "target": "8-Bit 鏡框",
+    "category": "GearName_Head"
+  },
+  "ワイヤーグラス": {
+    "jp": "ワイヤーグラス",
+    "target": "眼飾",
+    "category": "GearName_Head"
+  },
+  "サンサンサングラス": {
+    "jp": "サンサンサングラス",
+    "target": "墨墨墨鏡",
+    "category": "GearName_Head"
+  },
+  "フロート クリアグラス": {
+    "jp": "フロート クリアグラス",
+    "target": "浮法玻璃透明眼鏡",
+    "category": "GearName_Head"
+  },
+  "バイカーシェード": {
+    "jp": "バイカーシェード",
+    "target": "騎士偏光眼鏡",
+    "category": "GearName_Head"
+  },
+  "アナアキスクエアグラス": {
+    "jp": "アナアキスクエアグラス",
+    "target": "無法無天方形眼鏡",
+    "category": "GearName_Head"
+  },
+  "クラムグラス": {
+    "jp": "クラムグラス",
+    "target": "蛤蜊墨鏡",
+    "category": "GearName_Head"
+  },
+  "タマサンBC925": {
+    "jp": "タマサンBC925",
+    "target": "球形墨鏡BC925",
+    "category": "GearName_Head"
+  },
+  "メダイサングラス": {
+    "jp": "メダイサングラス",
+    "target": "眼鯛墨鏡",
+    "category": "GearName_Head"
+  },
+  "フトブチスクエア": {
+    "jp": "フトブチスクエア",
+    "target": "粗框方形眼鏡",
+    "category": "GearName_Head"
+  },
+  "パーフェクトスリーパー": {
+    "jp": "パーフェクトスリーパー",
+    "target": "完美眼罩",
+    "category": "GearName_Head"
+  },
+  "ヘッドバンド ホワイト": {
+    "jp": "ヘッドバンド ホワイト",
+    "target": "頭帶 白色",
+    "category": "GearName_Head"
+  },
+  "キョンキョンぼう": {
+    "jp": "キョンキョンぼう",
+    "target": "殭殭帽",
+    "category": "GearName_Head"
+  },
+  "ウミウシカチューシャ": {
+    "jp": "ウミウシカチューシャ",
+    "target": "海蛞蝓角髮箍",
+    "category": "GearName_Head"
+  },
+  "ホッケかめん": {
+    "jp": "ホッケかめん",
+    "target": "曲棍球面具",
+    "category": "GearName_Head"
+  },
+  "アンコウラバーマスク": {
+    "jp": "アンコウラバーマスク",
+    "target": "燈籠魚橡皮面罩",
+    "category": "GearName_Head"
+  },
+  "パーティーコーンデコ": {
+    "jp": "パーティーコーンデコ",
+    "target": "派對裝飾三角帽",
+    "category": "GearName_Head"
+  },
+  "ニューイヤーグラスDX": {
+    "jp": "ニューイヤーグラスDX",
+    "target": "新年眼鏡DX",
+    "category": "GearName_Head"
+  },
+  "ねじりゴージャス": {
+    "jp": "ねじりゴージャス",
+    "target": "華麗扭繩頭帶",
+    "category": "GearName_Head"
+  },
+  "ハッピーチンアナゴハット": {
+    "jp": "ハッピーチンアナゴハット",
+    "target": "花園鰻快樂圓邊帽",
+    "category": "GearName_Head"
+  },
+  "ノベルティバイザールピナス": {
+    "jp": "ノベルティバイザールピナス",
+    "target": "活動紀念帽 魯冰紫",
+    "category": "GearName_Head"
+  },
+  "ノベルティバイザーナズナ": {
+    "jp": "ノベルティバイザーナズナ",
+    "target": "活動紀念帽 薺菜綠",
+    "category": "GearName_Head"
+  },
+  "ノベルティバイザーポピー": {
+    "jp": "ノベルティバイザーポピー",
+    "target": "活動紀念帽 虞美人橘",
+    "category": "GearName_Head"
+  },
+  "ノベルティバイザーナデシコ": {
+    "jp": "ノベルティバイザーナデシコ",
+    "target": "活動紀念帽 石竹粉",
+    "category": "GearName_Head"
+  },
+  "バーニングブロイラー": {
+    "jp": "バーニングブロイラー",
+    "target": "火焰雞冠帽",
+    "category": "GearName_Head"
+  },
+  "ギガギョコツ": {
+    "jp": "ギガギョコツ",
+    "target": "巨魚骨盔",
+    "category": "GearName_Head"
+  },
+  "コズミックアンテナ": {
+    "jp": "コズミックアンテナ",
+    "target": "宇宙天線",
+    "category": "GearName_Head"
+  },
+  "ジャスティスブレイン": {
+    "jp": "ジャスティスブレイン",
+    "target": "正義之腦",
+    "category": "GearName_Head"
+  },
+  "マミイカヘッド": {
+    "jp": "マミイカヘッド",
+    "target": "木乃魷裹頭布",
+    "category": "GearName_Head"
+  },
+  "キャプテン・カサゴ": {
+    "jp": "キャプテン・カサゴ",
+    "target": "石狗公隊長",
+    "category": "GearName_Head"
+  },
+  "スケアリーフェイス": {
+    "jp": "スケアリーフェイス",
+    "target": "嚇人面具",
+    "category": "GearName_Head"
+  },
+  "カジキマスク": {
+    "jp": "カジキマスク",
+    "target": "旗魚面罩",
+    "category": "GearName_Head"
+  },
+  "カイトウ・フック": {
+    "jp": "カイトウ・フック",
+    "target": "鉤子怪盜帽",
+    "category": "GearName_Head"
+  },
+  "カイノワ": {
+    "jp": "カイノワ",
+    "target": "貝殼頭環",
+    "category": "GearName_Head"
+  },
+  "キンギョマスケラ": {
+    "jp": "キンギョマスケラ",
+    "target": "金魚舞會面具",
+    "category": "GearName_Head"
+  },
+  "オクトパールクラウン": {
+    "jp": "オクトパールクラウン",
+    "target": "章魚珍珠皇冠",
+    "category": "GearName_Head"
+  },
+  "ノベルティグラス ムスカリ": {
+    "jp": "ノベルティグラス ムスカリ",
+    "target": "活動紀念墨鏡 風信子",
+    "category": "GearName_Head"
+  },
+  "ノベルティグラス ヨツバ": {
+    "jp": "ノベルティグラス ヨツバ",
+    "target": "活動紀念墨鏡 四葉草",
+    "category": "GearName_Head"
+  },
+  "ノベルティグラス アネモネ": {
+    "jp": "ノベルティグラス アネモネ",
+    "target": "活動紀念墨鏡 銀蓮花",
+    "category": "GearName_Head"
+  },
+  "ノベルティグラス タンポポ": {
+    "jp": "ノベルティグラス タンポポ",
+    "target": "活動紀念墨鏡 蒲公英",
+    "category": "GearName_Head"
+  },
+  "フェスフェイス カサゴ": {
+    "jp": "フェスフェイス カサゴ",
+    "target": "祭典面具 石狗公",
+    "category": "GearName_Head"
+  },
+  "フェスフェイス ハコフグ": {
+    "jp": "フェスフェイス ハコフグ",
+    "target": "祭典面具 箱河豚",
+    "category": "GearName_Head"
+  },
+  "フェスフェイス チゴフグ": {
+    "jp": "フェスフェイス チゴフグ",
+    "target": "祭典面具 幼河豚",
+    "category": "GearName_Head"
+  },
+  "フェスフェイス サルカニ": {
+    "jp": "フェスフェイス サルカニ",
+    "target": "祭典面具 猿蟹",
+    "category": "GearName_Head"
+  },
+  "フェスフェイス キツネ": {
+    "jp": "フェスフェイス キツネ",
+    "target": "祭典面具 狐狸",
+    "category": "GearName_Head"
+  },
+  "フェスフェイス スマイル": {
+    "jp": "フェスフェイス スマイル",
+    "target": "祭典面具 笑臉",
+    "category": "GearName_Head"
+  },
+  "ヌラネバカチューシャ": {
+    "jp": "ヌラネバカチューシャ",
+    "target": "Now or Never 髮箍",
+    "category": "GearName_Head"
+  },
+  "ヌラネバクラウン": {
+    "jp": "ヌラネバクラウン",
+    "target": "Now or Never 皇冠",
+    "category": "GearName_Head"
+  },
+  "ヌラネバキャップ": {
+    "jp": "ヌラネバキャップ",
+    "target": "Now or Never 帽",
+    "category": "GearName_Head"
+  },
+  "ヌラネバピアス": {
+    "jp": "ヌラネバピアス",
+    "target": "Now or Never 耳飾",
+    "category": "GearName_Head"
+  },
+  "ヌラネババレッタ": {
+    "jp": "ヌラネババレッタ",
+    "target": "Now or Never 髮夾",
+    "category": "GearName_Head"
+  },
+  "ヌラネバウィッグ": {
+    "jp": "ヌラネバウィッグ",
+    "target": "Now or Never 假髮",
+    "category": "GearName_Head"
+  },
+  "ヌラネバカベッサ": {
+    "jp": "ヌラネバカベッサ",
+    "target": "Now or Never 頭飾",
+    "category": "GearName_Head"
+  },
+  "ロブスターブーニー": {
+    "jp": "ロブスターブーニー",
+    "target": "龍蝦登山帽",
+    "category": "GearName_Head"
+  },
+  "サファリハット": {
+    "jp": "サファリハット",
+    "target": "野外觀察圓邊帽",
+    "category": "GearName_Head"
+  },
+  "キャンプハット": {
+    "jp": "キャンプハット",
+    "target": "露營圓邊帽",
+    "category": "GearName_Head"
+  },
+  "フグベルハット": {
+    "jp": "フグベルハット",
+    "target": "河豚鈴鐺圓邊帽",
+    "category": "GearName_Head"
+  },
+  "スゲ": {
+    "jp": "スゲ",
+    "target": "斗笠",
+    "category": "GearName_Head"
+  },
+  "イカンカン": {
+    "jp": "イカンカン",
+    "target": "魷魚草帽",
+    "category": "GearName_Head"
+  },
+  "イカンカン クラシック": {
+    "jp": "イカンカン クラシック",
+    "target": "經典魷魚草帽",
+    "category": "GearName_Head"
+  },
+  "トレジャーメット": {
+    "jp": "トレジャーメット",
+    "target": "寶藏安全帽",
+    "category": "GearName_Head"
+  },
+  "イカバケット": {
+    "jp": "イカバケット",
+    "target": "魷魚漁夫帽",
+    "category": "GearName_Head"
+  },
+  "パッチハット": {
+    "jp": "パッチハット",
+    "target": "補丁圓邊帽",
+    "category": "GearName_Head"
+  },
+  "パラソルチューリップ": {
+    "jp": "パラソルチューリップ",
+    "target": "遮陽鬱金香帽",
+    "category": "GearName_Head"
+  },
+  "フグベルベルハット": {
+    "jp": "フグベルベルハット",
+    "target": "河豚鈴鐺雙層圓邊帽",
+    "category": "GearName_Head"
+  },
+  "カイガラスゲ": {
+    "jp": "カイガラスゲ",
+    "target": "貝紋斗笠",
+    "category": "GearName_Head"
+  },
+  "ホタプラントハット": {
+    "jp": "ホタプラントハット",
+    "target": "帆立植物圓邊帽",
+    "category": "GearName_Head"
+  },
+  "ヤマハット": {
+    "jp": "ヤマハット",
+    "target": "山形圓邊帽",
+    "category": "GearName_Head"
+  },
+  "ボーラークラシック": {
+    "jp": "ボーラークラシック",
+    "target": "經典圓頂禮帽",
+    "category": "GearName_Head"
+  },
+  "ステンシルデニムハット": {
+    "jp": "ステンシルデニムハット",
+    "target": "模板噴畫牛仔布帽",
+    "category": "GearName_Head"
+  },
+  "ホタテンガロン": {
+    "jp": "ホタテンガロン",
+    "target": "帆立貝牛仔帽",
+    "category": "GearName_Head"
+  },
+  "ムキウニクロシェ": {
+    "jp": "ムキウニクロシェ",
+    "target": "剝殼海膽鉤織帽",
+    "category": "GearName_Head"
+  },
+  "ストローハット": {
+    "jp": "ストローハット",
+    "target": "草帽",
+    "category": "GearName_Head"
+  },
+  "エゾッコリーボーラー": {
+    "jp": "エゾッコリーボーラー",
+    "target": "澤酷暖流圓頂禮帽",
+    "category": "GearName_Head"
+  },
+  "フグベルベルベルハット": {
+    "jp": "フグベルベルベルハット",
+    "target": "河豚鈴鐺三層圓邊帽",
+    "category": "GearName_Head"
+  },
+  "サウナハット": {
+    "jp": "サウナハット",
+    "target": "三溫暖圓邊帽",
+    "category": "GearName_Head"
+  },
+  "ウミユリパイハット": {
+    "jp": "ウミユリパイハット",
+    "target": "海百合派帽",
+    "category": "GearName_Head"
+  },
+  "バスケバンド": {
+    "jp": "バスケバンド",
+    "target": "籃球頭帶",
+    "category": "GearName_Head"
+  },
+  "スカッシュバンド": {
+    "jp": "スカッシュバンド",
+    "target": "壁球頭帶",
+    "category": "GearName_Head"
+  },
+  "テニスバンド": {
+    "jp": "テニスバンド",
+    "target": "網球頭帶",
+    "category": "GearName_Head"
+  },
+  "ランニングバンド": {
+    "jp": "ランニングバンド",
+    "target": "跑步頭帶",
+    "category": "GearName_Head"
+  },
+  "サッカーバンド": {
+    "jp": "サッカーバンド",
+    "target": "足球頭帶",
+    "category": "GearName_Head"
+  },
+  "ヤキフグビスケットバンダナ": {
+    "jp": "ヤキフグビスケットバンダナ",
+    "target": "燒河豚絲巾 餅乾",
+    "category": "GearName_Head"
+  },
+  "クロヤキフグバンダナ": {
+    "jp": "クロヤキフグバンダナ",
+    "target": "燒河豚絲巾 黑色",
+    "category": "GearName_Head"
+  },
+  "ピンポンバンド": {
+    "jp": "ピンポンバンド",
+    "target": "乒乓頭帶",
+    "category": "GearName_Head"
+  },
+  "スタジオヘッドホン": {
+    "jp": "スタジオヘッドホン",
+    "target": "工作室耳機",
+    "category": "GearName_Head"
+  },
+  "オーロラヘッドホン": {
+    "jp": "オーロラヘッドホン",
+    "target": "極光耳機",
+    "category": "GearName_Head"
+  },
+  "イヤーマフ": {
+    "jp": "イヤーマフ",
+    "target": "抗噪耳機",
+    "category": "GearName_Head"
+  },
+  "エンペラフックHDP": {
+    "jp": "エンペラフックHDP",
+    "target": "鰭掛式耳機HDP",
+    "category": "GearName_Head"
+  },
+  "ステカセヘッドホン": {
+    "jp": "ステカセヘッドホン",
+    "target": "立體聲錄音機耳機",
+    "category": "GearName_Head"
+  },
+  "ミミタコ8": {
+    "jp": "ミミタコ8",
+    "target": "耳朵章魚8",
+    "category": "GearName_Head"
+  },
+  "甲伝導エンペラEP": {
+    "jp": "甲伝導エンペラEP",
+    "target": "骨傳導鰭掛式耳機EP",
+    "category": "GearName_Head"
+  },
+  "ミミタコ8 RAW": {
+    "jp": "ミミタコ8 RAW",
+    "target": "耳朵章魚8 RAW",
+    "category": "GearName_Head"
+  },
+  "ヘッドホン90-d": {
+    "jp": "ヘッドホン90-d",
+    "target": "耳機90-d",
+    "category": "GearName_Head"
+  },
+  "カモヘッドホン ドトン": {
+    "jp": "カモヘッドホン ドトン",
+    "target": "迷彩耳機 土遁",
+    "category": "GearName_Head"
+  },
+  "カモヘッドホン スイトン": {
+    "jp": "カモヘッドホン スイトン",
+    "target": "迷彩耳機 水遁",
+    "category": "GearName_Head"
+  },
+  "サイクルメット": {
+    "jp": "サイクルメット",
+    "target": "單車安全帽",
+    "category": "GearName_Head"
+  },
+  "ナイトビジョン": {
+    "jp": "ナイトビジョン",
+    "target": "夜視鏡",
+    "category": "GearName_Head"
+  },
+  "スケボーメット": {
+    "jp": "スケボーメット",
+    "target": "滑板安全帽",
+    "category": "GearName_Head"
+  },
+  "バイザーメット": {
+    "jp": "バイザーメット",
+    "target": "遮陽板安全帽",
+    "category": "GearName_Head"
+  },
+  "ロゴヅクシMTBメット": {
+    "jp": "ロゴヅクシMTBメット",
+    "target": "贊助商標摩托車安全帽",
+    "category": "GearName_Head"
+  },
+  "イカロスHKメット": {
+    "jp": "イカロスHKメット",
+    "target": "伊卡洛斯曲棍球安全帽",
+    "category": "GearName_Head"
+  },
+  "ツヤケシMTBメット": {
+    "jp": "ツヤケシMTBメット",
+    "target": "霧面摩托車安全帽",
+    "category": "GearName_Head"
+  },
+  "オクトメットプライズデコ": {
+    "jp": "オクトメットプライズデコ",
+    "target": "裝飾獎章魚安全帽",
+    "category": "GearName_Head"
+  },
+  "デカメットアイシールド": {
+    "jp": "デカメットアイシールド",
+    "target": "護目鏡大安全帽",
+    "category": "GearName_Head"
+  },
+  "シェルメット": {
+    "jp": "シェルメット",
+    "target": "貝殼安全帽",
+    "category": "GearName_Head"
+  },
+  "ホーンメットBF": {
+    "jp": "ホーンメットBF",
+    "target": "號角安全帽BF",
+    "category": "GearName_Head"
+  },
+  "キャッチャーマスクFU": {
+    "jp": "キャッチャーマスクFU",
+    "target": "捕手面罩FU",
+    "category": "GearName_Head"
+  },
+  "キャッチャーマスクFC": {
+    "jp": "キャッチャーマスクFC",
+    "target": "捕手面罩FC",
+    "category": "GearName_Head"
+  },
+  "ヘッキャ ムジ": {
+    "jp": "ヘッキャ ムジ",
+    "target": "頭部護具 素色",
+    "category": "GearName_Head"
+  },
+  "ヘッキャ イシダイ": {
+    "jp": "ヘッキャ イシダイ",
+    "target": "頭部護具 條石鯛",
+    "category": "GearName_Head"
+  },
+  "イシダイSTメット ホーム": {
+    "jp": "イシダイSTメット ホーム",
+    "target": "條石鯛ST安全帽 主場",
+    "category": "GearName_Head"
+  },
+  "チゴフグメット": {
+    "jp": "チゴフグメット",
+    "target": "幼河豚安全帽",
+    "category": "GearName_Head"
+  },
+  "イカフィットメットPRO": {
+    "jp": "イカフィットメットPRO",
+    "target": "魷魚貼身安全帽PRO",
+    "category": "GearName_Head"
+  },
+  "イカフィットメット": {
+    "jp": "イカフィットメット",
+    "target": "魷魚貼身安全帽",
+    "category": "GearName_Head"
+  },
+  "タコマスク": {
+    "jp": "タコマスク",
+    "target": "章魚面罩",
+    "category": "GearName_Head"
+  },
+  "フェイスゴーグル": {
+    "jp": "フェイスゴーグル",
+    "target": "護目鏡面罩",
+    "category": "GearName_Head"
+  },
+  "エイズリーバンダナ": {
+    "jp": "エイズリーバンダナ",
+    "target": "佩斯利花紋絲巾",
+    "category": "GearName_Head"
+  },
+  "イカスカルマスク": {
+    "jp": "イカスカルマスク",
+    "target": "魷魚骨口罩",
+    "category": "GearName_Head"
+  },
+  "ペインターマスク": {
+    "jp": "ペインターマスク",
+    "target": "噴漆面罩",
+    "category": "GearName_Head"
+  },
+  "アナアキマスク": {
+    "jp": "アナアキマスク",
+    "target": "無法無天口罩",
+    "category": "GearName_Head"
+  },
+  "キングタコスターマスク": {
+    "jp": "キングタコスターマスク",
+    "target": "章魚王星星口罩",
+    "category": "GearName_Head"
+  },
+  "イカバッテンガード": {
+    "jp": "イカバッテンガード",
+    "target": "魷魚交叉防護口罩",
+    "category": "GearName_Head"
+  },
+  "マスクドホッコリー": {
+    "jp": "マスクドホッコリー",
+    "target": "暖流口罩",
+    "category": "GearName_Head"
+  },
+  "キングオブマスク": {
+    "jp": "キングオブマスク",
+    "target": "王者口罩",
+    "category": "GearName_Head"
+  },
+  "ノーズガードモトクロス": {
+    "jp": "ノーズガードモトクロス",
+    "target": "越野摩托車連鼻防護面罩",
+    "category": "GearName_Head"
+  },
+  "フォーリマスク": {
+    "jp": "フォーリマスク",
+    "target": "鍛品口罩",
+    "category": "GearName_Head"
+  },
+  "フォーリマスク デジカモ": {
+    "jp": "フォーリマスク デジカモ",
+    "target": "鍛品口罩 數位迷彩",
+    "category": "GearName_Head"
+  },
+  "ブロブスマイルマスク": {
+    "jp": "ブロブスマイルマスク",
+    "target": "水滴魚微笑面罩",
+    "category": "GearName_Head"
+  },
+  "エラブリースマスク": {
+    "jp": "エラブリースマスク",
+    "target": "可愛魚鰓面罩",
+    "category": "GearName_Head"
+  },
+  "トンビシールドR255": {
+    "jp": "トンビシールドR255",
+    "target": "黑鳶防護面罩R255",
+    "category": "GearName_Head"
+  },
+  "マイネームイズマスク": {
+    "jp": "マイネームイズマスク",
+    "target": "吾名口罩",
+    "category": "GearName_Head"
+  },
+  "トンビシールドRGB0": {
+    "jp": "トンビシールドRGB0",
+    "target": "黑鳶防護面罩RGB0",
+    "category": "GearName_Head"
+  },
+  "マルノミウーパー": {
+    "jp": "マルノミウーパー",
+    "target": "大口螈面罩",
+    "category": "GearName_Head"
+  },
+  "ヒーローヘッズ レプリカ": {
+    "jp": "ヒーローヘッズ レプリカ",
+    "target": "英雄頭部裝備 複製",
+    "category": "GearName_Head"
+  },
+  "アーマーメット レプリカ": {
+    "jp": "アーマーメット レプリカ",
+    "target": "盔甲頭盔 複製",
+    "category": "GearName_Head"
+  },
+  "クマノミミ": {
+    "jp": "クマノミミ",
+    "target": "熊耳朵",
+    "category": "GearName_Head"
+  },
+  "ケタコゾネスゴーグル": {
+    "jp": "ケタコゾネスゴーグル",
+    "target": "絨毛章魚女戰士護目鏡",
+    "category": "GearName_Head"
+  },
+  "サバイバルイヤー": {
+    "jp": "サバイバルイヤー",
+    "target": "生存耳朵",
+    "category": "GearName_Head"
+  },
+  "ヒーローブレインLv1": {
+    "jp": "ヒーローブレインLv1",
+    "target": "英雄頭飾裝備Lv1",
+    "category": "GearName_Head"
+  },
+  "ヒーローブレインLv2": {
+    "jp": "ヒーローブレインLv2",
+    "target": "英雄頭飾裝備Lv2",
+    "category": "GearName_Head"
+  },
+  "ヒーローブレインLv3": {
+    "jp": "ヒーローブレインLv3",
+    "target": "英雄頭飾裝備Lv3",
+    "category": "GearName_Head"
+  },
+  "ヒーローブレインST": {
+    "jp": "ヒーローブレインST",
+    "target": "英雄頭飾裝備ST",
+    "category": "GearName_Head"
+  },
+  "ヒーローブレイン レプリカ": {
+    "jp": "ヒーローブレイン レプリカ",
+    "target": "英雄頭飾裝備 複製",
+    "category": "GearName_Head"
+  },
+  "ヒーロークリップ レプリカ": {
+    "jp": "ヒーロークリップ レプリカ",
+    "target": "英雄耳掛 複製",
+    "category": "GearName_Head"
+  },
+  "でんせつのぼうし": {
+    "jp": "でんせつのぼうし",
+    "target": "傳說的帽子",
+    "category": "GearName_Head"
+  },
+  "コマンダーヘッド レプリカ": {
+    "jp": "コマンダーヘッド レプリカ",
+    "target": "指揮官帽 複製",
+    "category": "GearName_Head"
+  },
+  "ボンボンニット": {
+    "jp": "ボンボンニット",
+    "target": "球球毛帽",
+    "category": "GearName_Head"
+  },
+  "ショートビーニー": {
+    "jp": "ショートビーニー",
+    "target": "短款圓頂毛帽",
+    "category": "GearName_Head"
+  },
+  "ボーダービーニー": {
+    "jp": "ボーダービーニー",
+    "target": "橫紋圓頂毛帽",
+    "category": "GearName_Head"
+  },
+  "ウインターボンボン": {
+    "jp": "ウインターボンボン",
+    "target": "冬季球球毛帽",
+    "category": "GearName_Head"
+  },
+  "モンゴウベレー": {
+    "jp": "モンゴウベレー",
+    "target": "紋甲貝雷帽",
+    "category": "GearName_Head"
+  },
+  "イカノルディック": {
+    "jp": "イカノルディック",
+    "target": "北歐魷魚帽",
+    "category": "GearName_Head"
+  },
+  "リブニット": {
+    "jp": "リブニット",
+    "target": "針織帽",
+    "category": "GearName_Head"
+  },
+  "アナアキアンピンベレー": {
+    "jp": "アナアキアンピンベレー",
+    "target": "無法無天別針貝雷帽",
+    "category": "GearName_Head"
+  },
+  "ヤマギリビーニー": {
+    "jp": "ヤマギリビーニー",
+    "target": "山形紋圓頂毛帽",
+    "category": "GearName_Head"
+  },
+  "オシノビニット": {
+    "jp": "オシノビニット",
+    "target": "藏貌針織帽",
+    "category": "GearName_Head"
+  },
+  "アンコウニット": {
+    "jp": "アンコウニット",
+    "target": "燈籠魚針織帽",
+    "category": "GearName_Head"
+  },
+  "チゴフグニット": {
+    "jp": "チゴフグニット",
+    "target": "幼河豚針織帽",
+    "category": "GearName_Head"
+  },
+  "オーダーピアス レプリカ": {
+    "jp": "オーダーピアス レプリカ",
+    "target": "秩序耳飾 複製",
+    "category": "GearName_Head"
+  },
+  "オーダーレギュ レプリカ": {
+    "jp": "オーダーレギュ レプリカ",
+    "target": "秩序呼吸調節器 複製",
+    "category": "GearName_Head"
+  },
+  "ブレインウォッシュVE": {
+    "jp": "ブレインウォッシュVE",
+    "target": "思想改造VE",
+    "category": "GearName_Head"
+  },
+  "イカイノカメン": {
+    "jp": "イカイノカメン",
+    "target": "異界面具",
+    "category": "GearName_Head"
+  },
+  "ヒメグルミ": {
+    "jp": "ヒメグルミ",
+    "target": "小姬髮箍",
+    "category": "GearName_Head"
+  },
+  "ロブキャップ": {
+    "jp": "ロブキャップ",
+    "target": "阿龍帽",
+    "category": "GearName_Head"
+  },
+  "ジャッジメントイヤー": {
+    "jp": "ジャッジメントイヤー",
+    "target": "評審耳",
+    "category": "GearName_Head"
+  },
+  "キャディ サンバイザー": {
+    "jp": "キャディ サンバイザー",
+    "target": "球童中空遮陽帽",
+    "category": "GearName_Head"
+  },
+  "ヤキフグ サンバイザー": {
+    "jp": "ヤキフグ サンバイザー",
+    "target": "燒河豚中空遮陽帽",
+    "category": "GearName_Head"
+  },
+  "サンサンサンバイザー": {
+    "jp": "サンサンサンバイザー",
+    "target": "豔陽中空遮陽帽",
+    "category": "GearName_Head"
+  },
+  "ヤコバイザー": {
+    "jp": "ヤコバイザー",
+    "target": "暇古中空遮陽帽",
+    "category": "GearName_Head"
+  },
+  "フェイスバイザー": {
+    "jp": "フェイスバイザー",
+    "target": "臉部中空遮陽帽",
+    "category": "GearName_Head"
+  },
+  "ロブズ・10・バイザー": {
+    "jp": "ロブズ・10・バイザー",
+    "target": "龍10中空遮陽帽",
+    "category": "GearName_Head"
+  },
+  "スラグンサンバイザー": {
+    "jp": "スラグンサンバイザー",
+    "target": "鏡墨中空遮陽帽",
+    "category": "GearName_Head"
+  },
+  "スクールブレザーL": {
+    "jp": "スクールブレザーL",
+    "target": "學校制服外套L",
+    "category": "GearName_Clothes"
+  },
+  "サムライジャケット": {
+    "jp": "サムライジャケット",
+    "target": "武士外套",
+    "category": "GearName_Clothes"
+  },
+  "パワードスーツ": {
+    "jp": "パワードスーツ",
+    "target": "動力裝",
+    "category": "GearName_Clothes"
+  },
+  "スクールカーデ リボン": {
+    "jp": "スクールカーデ リボン",
+    "target": "學校針織罩衫 蝴蝶結",
+    "category": "GearName_Clothes"
+  },
+  "ニンジャスーツ": {
+    "jp": "ニンジャスーツ",
+    "target": "忍者裝",
+    "category": "GearName_Clothes"
+  },
+  "パワードスーツ オリジン": {
+    "jp": "パワードスーツ オリジン",
+    "target": "動力裝 原型",
+    "category": "GearName_Clothes"
+  },
+  "ヒメイトパーカー": {
+    "jp": "ヒメイトパーカー",
+    "target": "姬伴連帽上衣",
+    "category": "GearName_Clothes"
+  },
+  "イイダチトップス": {
+    "jp": "イイダチトップス",
+    "target": "飯友上衣",
+    "category": "GearName_Clothes"
+  },
+  "エンチャントローブS": {
+    "jp": "エンチャントローブS",
+    "target": "魔力長袍S",
+    "category": "GearName_Clothes"
+  },
+  "タコティカルなよろい": {
+    "jp": "タコティカルなよろい",
+    "target": "章魚鎧甲",
+    "category": "GearName_Clothes"
+  },
+  "ひれおくんのて": {
+    "jp": "ひれおくんのて",
+    "target": "魚奇奇手套",
+    "category": "GearName_Clothes"
+  },
+  "サキイカガクラン": {
+    "jp": "サキイカガクラン",
+    "target": "魷魚絲校服",
+    "category": "GearName_Clothes"
+  },
+  "ジュウドウギ クロオビ": {
+    "jp": "ジュウドウギ クロオビ",
+    "target": "柔道服 黑帶",
+    "category": "GearName_Clothes"
+  },
+  "バーサークアーマー": {
+    "jp": "バーサークアーマー",
+    "target": "狂戰士盔甲",
+    "category": "GearName_Clothes"
+  },
+  "スクールブレザーR": {
+    "jp": "スクールブレザーR",
+    "target": "學校制服外套R",
+    "category": "GearName_Clothes"
+  },
+  "スクールカーデ ネクタイ": {
+    "jp": "スクールカーデ ネクタイ",
+    "target": "學校針織罩衫 領帶",
+    "category": "GearName_Clothes"
+  },
+  "エンチャントローブL": {
+    "jp": "エンチャントローブL",
+    "target": "魔力長袍L",
+    "category": "GearName_Clothes"
+  },
+  "ホホジロノハゴロモ": {
+    "jp": "ホホジロノハゴロモ",
+    "target": "頰白的羽衣",
+    "category": "GearName_Clothes"
+  },
+  "オナガノハゴロモ": {
+    "jp": "オナガノハゴロモ",
+    "target": "翁長的羽衣",
+    "category": "GearName_Clothes"
+  },
+  "マンダノカッパ": {
+    "jp": "マンダノカッパ",
+    "target": "曼蛇的雨衣",
+    "category": "GearName_Clothes"
+  },
+  "ワールドMCジャンパー": {
+    "jp": "ワールドMCジャンパー",
+    "target": "世界級MC羽絨衣",
+    "category": "GearName_Clothes"
+  },
+  "ワールドDJジャケット": {
+    "jp": "ワールドDJジャケット",
+    "target": "世界級DJ外套",
+    "category": "GearName_Clothes"
+  },
+  "イカテンくんポロ": {
+    "jp": "イカテンくんポロ",
+    "target": "魷魚小子Polo衫",
+    "category": "GearName_Clothes"
+  },
+  "アンカーベスト": {
+    "jp": "アンカーベスト",
+    "target": "船錨背心",
+    "category": "GearName_Clothes"
+  },
+  "フューエルブルゾン": {
+    "jp": "フューエルブルゾン",
+    "target": "燃料外套",
+    "category": "GearName_Clothes"
+  },
+  "マクレGT": {
+    "jp": "マクレGT",
+    "target": "捲袖上衣與勞工手套",
+    "category": "GearName_Clothes"
+  },
+  "アゲアゲ・10・プラーXXL": {
+    "jp": "アゲアゲ・10・プラーXXL",
+    "target": "酥脆天婦羅T恤XXL",
+    "category": "GearName_Clothes"
+  },
+  "フロムキタグニ87": {
+    "jp": "フロムキタグニ87",
+    "target": "北方國家外套87",
+    "category": "GearName_Clothes"
+  },
+  "ゾネスティックプロテクター": {
+    "jp": "ゾネスティックプロテクター",
+    "target": "女戰士風護甲",
+    "category": "GearName_Clothes"
+  },
+  "デベロッパーズワークウエア": {
+    "jp": "デベロッパーズワークウエア",
+    "target": "開發人員工作制服",
+    "category": "GearName_Clothes"
+  },
+  "ジムパーソンアーマー": {
+    "jp": "ジムパーソンアーマー",
+    "target": "工作人員制服",
+    "category": "GearName_Clothes"
+  },
+  "アカシックコート": {
+    "jp": "アカシックコート",
+    "target": "研究員大衣",
+    "category": "GearName_Clothes"
+  },
+  "ガーディアンズスーツ": {
+    "jp": "ガーディアンズスーツ",
+    "target": "守衛者裝",
+    "category": "GearName_Clothes"
+  },
+  "ナリキリハイテクスーツ": {
+    "jp": "ナリキリハイテクスーツ",
+    "target": "角色扮演高科技裝",
+    "category": "GearName_Clothes"
+  },
+  "ハイパーミライスーツ": {
+    "jp": "ハイパーミライスーツ",
+    "target": "超未來裝",
+    "category": "GearName_Clothes"
+  },
+  "カリスマシンガージャケット": {
+    "jp": "カリスマシンガージャケット",
+    "target": "魅力超群歌手外套",
+    "category": "GearName_Clothes"
+  },
+  "ミライスタージャケット": {
+    "jp": "ミライスタージャケット",
+    "target": "未來巨星外套",
+    "category": "GearName_Clothes"
+  },
+  "ハリキリインベンター": {
+    "jp": "ハリキリインベンター",
+    "target": "幹勁十足發明家外套",
+    "category": "GearName_Clothes"
+  },
+  "エネルギッシュジャケット": {
+    "jp": "エネルギッシュジャケット",
+    "target": "精力外套",
+    "category": "GearName_Clothes"
+  },
+  "わかばイカＴ": {
+    "jp": "わかばイカＴ",
+    "target": "新葉魷魚T恤",
+    "category": "GearName_Clothes"
+  },
+  "わかばタコT": {
+    "jp": "わかばタコT",
+    "target": "新葉章魚T恤",
+    "category": "GearName_Clothes"
+  },
+  "フェスＴ": {
+    "jp": "フェスＴ",
+    "target": "祭典T恤",
+    "category": "GearName_Clothes"
+  },
+  "フェスT": {
+    "jp": "フェスT",
+    "target": "祭典T恤",
+    "category": "GearName_Clothes"
+  },
+  "マウンテンオリーブ": {
+    "jp": "マウンテンオリーブ",
+    "target": "登山外套 橄欖綠",
+    "category": "GearName_Clothes"
+  },
+  "ヤコナイロン ヴィンテージ": {
+    "jp": "ヤコナイロン ヴィンテージ",
+    "target": "暇古尼龍拉鍊上衣 懷舊",
+    "category": "GearName_Clothes"
+  },
+  "マウンテンベリー": {
+    "jp": "マウンテンベリー",
+    "target": "登山外套 莓果紅",
+    "category": "GearName_Clothes"
+  },
+  "スタジャンロゴマシ": {
+    "jp": "スタジャンロゴマシ",
+    "target": "多Logo棒球外套",
+    "category": "GearName_Clothes"
+  },
+  "スクールジャージー": {
+    "jp": "スクールジャージー",
+    "target": "學校運動服",
+    "category": "GearName_Clothes"
+  },
+  "レタード グリーン": {
+    "jp": "レタード グリーン",
+    "target": "字母針織罩衫 綠色",
+    "category": "GearName_Clothes"
+  },
+  "イカライダーBLACK": {
+    "jp": "イカライダーBLACK",
+    "target": "魷魚騎士皮外套 黑色",
+    "category": "GearName_Clothes"
+  },
+  "イカライダーWHITE": {
+    "jp": "イカライダーWHITE",
+    "target": "魷魚騎士皮外套 白色",
+    "category": "GearName_Clothes"
+  },
+  "FCジャージー": {
+    "jp": "FCジャージー",
+    "target": "FC運動服",
+    "category": "GearName_Clothes"
+  },
+  "レタード オレンジ": {
+    "jp": "レタード オレンジ",
+    "target": "字母針織罩衫 橘色",
+    "category": "GearName_Clothes"
+  },
+  "イカセーラー ブルー": {
+    "jp": "イカセーラー ブルー",
+    "target": "魷魚水手服 藍色",
+    "category": "GearName_Clothes"
+  },
+  "イカセーラー ホワイト": {
+    "jp": "イカセーラー ホワイト",
+    "target": "魷魚水手服 白色",
+    "category": "GearName_Clothes"
+  },
+  "イカスカジャン": {
+    "jp": "イカスカジャン",
+    "target": "魷魚飛行外套",
+    "category": "GearName_Clothes"
+  },
+  "ウラスカジャン": {
+    "jp": "ウラスカジャン",
+    "target": "鯰魚飛行外套",
+    "category": "GearName_Clothes"
+  },
+  "クラーゲス528": {
+    "jp": "クラーゲス528",
+    "target": "海月528",
+    "category": "GearName_Clothes"
+  },
+  "マウンテンフローズン": {
+    "jp": "マウンテンフローズン",
+    "target": "登山外套 冰雪藍",
+    "category": "GearName_Clothes"
+  },
+  "ヤコナイロンレトロ": {
+    "jp": "ヤコナイロンレトロ",
+    "target": "暇古尼龍拉鍊上衣 復古",
+    "category": "GearName_Clothes"
+  },
+  "マッチャ ライトダウン": {
+    "jp": "マッチャ ライトダウン",
+    "target": "輕量羽絨外套 抹茶色",
+    "category": "GearName_Clothes"
+  },
+  "FA-01オモテ": {
+    "jp": "FA-01オモテ",
+    "target": "FA-01正面",
+    "category": "GearName_Clothes"
+  },
+  "FA-01ウラ": {
+    "jp": "FA-01ウラ",
+    "target": "FA-01反面",
+    "category": "GearName_Clothes"
+  },
+  "プルオーバーコート": {
+    "jp": "プルオーバーコート",
+    "target": "套頭風衣外套",
+    "category": "GearName_Clothes"
+  },
+  "ケンサキコーチ": {
+    "jp": "ケンサキコーチ",
+    "target": "劍尖教練外套",
+    "category": "GearName_Clothes"
+  },
+  "トリスカベッチン": {
+    "jp": "トリスカベッチン",
+    "target": "鳥兒天鵝絨飛行外套",
+    "category": "GearName_Clothes"
+  },
+  "ウラタコスカジャン": {
+    "jp": "ウラタコスカジャン",
+    "target": "深海章魚飛行外套",
+    "category": "GearName_Clothes"
+  },
+  "エゾッココーチ アカネ": {
+    "jp": "エゾッココーチ アカネ",
+    "target": "澤酷教練外套 暗紅色",
+    "category": "GearName_Clothes"
+  },
+  "マウンテンノリタマゴ": {
+    "jp": "マウンテンノリタマゴ",
+    "target": "登山外套 海苔雞蛋色",
+    "category": "GearName_Clothes"
+  },
+  "エゾッココーチ モエギ": {
+    "jp": "エゾッココーチ モエギ",
+    "target": "澤酷教練外套 青綠色",
+    "category": "GearName_Clothes"
+  },
+  "ボンバージャケット ポジ": {
+    "jp": "ボンバージャケット ポジ",
+    "target": "轟炸機飛行外套 正片",
+    "category": "GearName_Clothes"
+  },
+  "キングベンチNV": {
+    "jp": "キングベンチNV",
+    "target": "王者大衣 海軍",
+    "category": "GearName_Clothes"
+  },
+  "エゾッココーチ ウコン": {
+    "jp": "エゾッココーチ ウコン",
+    "target": "澤酷教練外套 薑黃色",
+    "category": "GearName_Clothes"
+  },
+  "F-3 ペイントカスタム": {
+    "jp": "F-3 ペイントカスタム",
+    "target": "F-3皮外套 油漆改裝",
+    "category": "GearName_Clothes"
+  },
+  "ボンバージャケット ネガ": {
+    "jp": "ボンバージャケット ネガ",
+    "target": "轟炸機飛行外套 負片",
+    "category": "GearName_Clothes"
+  },
+  "F-3 ホワイトレザー": {
+    "jp": "F-3 ホワイトレザー",
+    "target": "F-3皮外套 白色",
+    "category": "GearName_Clothes"
+  },
+  "マウンテンチリペッパー": {
+    "jp": "マウンテンチリペッパー",
+    "target": "登山外套 辣椒紅",
+    "category": "GearName_Clothes"
+  },
+  "ハウスタグホエールニット": {
+    "jp": "ハウスタグホエールニット",
+    "target": "房屋標籤鯨魚針織衫",
+    "category": "GearName_Clothes"
+  },
+  "ロッケンブレイクジャケット": {
+    "jp": "ロッケンブレイクジャケット",
+    "target": "搖滾風皮外套",
+    "category": "GearName_Clothes"
+  },
+  "クンフージャージ": {
+    "jp": "クンフージャージ",
+    "target": "功夫運動服",
+    "category": "GearName_Clothes"
+  },
+  "クンフーパンジャージ": {
+    "jp": "クンフーパンジャージ",
+    "target": "熊貓風功夫運動服",
+    "category": "GearName_Clothes"
+  },
+  "モンスター PCU56": {
+    "jp": "モンスター PCU56",
+    "target": "怪物 PCU56",
+    "category": "GearName_Clothes"
+  },
+  "バラズシヤッケ": {
+    "jp": "バラズシヤッケ",
+    "target": "散壽司派克大衣",
+    "category": "GearName_Clothes"
+  },
+  "フィレジャケット": {
+    "jp": "フィレジャケット",
+    "target": "魚片外套",
+    "category": "GearName_Clothes"
+  },
+  "オールウェイズファン": {
+    "jp": "オールウェイズファン",
+    "target": "永遠涼爽外套",
+    "category": "GearName_Clothes"
+  },
+  "パドリングジャケット ネガ": {
+    "jp": "パドリングジャケット ネガ",
+    "target": "划槳外套 負片",
+    "category": "GearName_Clothes"
+  },
+  "コテボレロ ネガ": {
+    "jp": "コテボレロ ネガ",
+    "target": "短版小外套 負片",
+    "category": "GearName_Clothes"
+  },
+  "オスモル アイボリー": {
+    "jp": "オスモル アイボリー",
+    "target": "滲透壓毛絨外套 象牙色",
+    "category": "GearName_Clothes"
+  },
+  "オスモル アース": {
+    "jp": "オスモル アース",
+    "target": "滲透壓毛絨外套 大地色",
+    "category": "GearName_Clothes"
+  },
+  "アナアキダブルジャケット": {
+    "jp": "アナアキダブルジャケット",
+    "target": "無法無天雙排釦外套",
+    "category": "GearName_Clothes"
+  },
+  "ハンティングジャケットKK": {
+    "jp": "ハンティングジャケットKK",
+    "target": "狩獵外套KK",
+    "category": "GearName_Clothes"
+  },
+  "パドリングジャケット ポジ": {
+    "jp": "パドリングジャケット ポジ",
+    "target": "划槳外套 正片",
+    "category": "GearName_Clothes"
+  },
+  "コテボレロ ポジ": {
+    "jp": "コテボレロ ポジ",
+    "target": "短版小外套 正片",
+    "category": "GearName_Clothes"
+  },
+  "バラズシダッフル": {
+    "jp": "バラズシダッフル",
+    "target": "散壽司毛大衣",
+    "category": "GearName_Clothes"
+  },
+  "バラズシピーコート": {
+    "jp": "バラズシピーコート",
+    "target": "散壽司海軍大衣",
+    "category": "GearName_Clothes"
+  },
+  "イチニンバオリ": {
+    "jp": "イチニンバオリ",
+    "target": "主公羽織",
+    "category": "GearName_Clothes"
+  },
+  "マウンテン アオサ": {
+    "jp": "マウンテン アオサ",
+    "target": "登山外套 藻綠色",
+    "category": "GearName_Clothes"
+  },
+  "ヤコナイロン ノスタルジア": {
+    "jp": "ヤコナイロン ノスタルジア",
+    "target": "暇古尼龍拉鍊上衣 鄉愁",
+    "category": "GearName_Clothes"
+  },
+  "バラズシライナー": {
+    "jp": "バラズシライナー",
+    "target": "散壽司內襯外套",
+    "category": "GearName_Clothes"
+  },
+  "チェックテーラード": {
+    "jp": "チェックテーラード",
+    "target": "格紋剪裁外套",
+    "category": "GearName_Clothes"
+  },
+  "アナアキダッフル": {
+    "jp": "アナアキダッフル",
+    "target": "無法無天毛大衣",
+    "category": "GearName_Clothes"
+  },
+  "スタジャンフカマシ": {
+    "jp": "スタジャンフカマシ",
+    "target": "深色棒球外套",
+    "category": "GearName_Clothes"
+  },
+  "ヒーロージャケット レプリカ": {
+    "jp": "ヒーロージャケット レプリカ",
+    "target": "英雄外套 複製",
+    "category": "GearName_Clothes"
+  },
+  "アーマージャケット レプリカ": {
+    "jp": "アーマージャケット レプリカ",
+    "target": "盔甲外套 複製",
+    "category": "GearName_Clothes"
+  },
+  "ケタコゾネスプロテクター": {
+    "jp": "ケタコゾネスプロテクター",
+    "target": "絨毛章魚女戰士護甲",
+    "category": "GearName_Clothes"
+  },
+  "サバイバルスーツ": {
+    "jp": "サバイバルスーツ",
+    "target": "生存裝",
+    "category": "GearName_Clothes"
+  },
+  "ヒーロースーツLv1": {
+    "jp": "ヒーロースーツLv1",
+    "target": "英雄裝Lv1",
+    "category": "GearName_Clothes"
+  },
+  "ヒーロースーツLv2": {
+    "jp": "ヒーロースーツLv2",
+    "target": "英雄裝Lv2",
+    "category": "GearName_Clothes"
+  },
+  "ヒーロースーツLv3": {
+    "jp": "ヒーロースーツLv3",
+    "target": "英雄裝Lv3",
+    "category": "GearName_Clothes"
+  },
+  "ヒーロースーツST": {
+    "jp": "ヒーロースーツST",
+    "target": "英雄裝ST",
+    "category": "GearName_Clothes"
+  },
+  "ヒーロースーツ レプリカ": {
+    "jp": "ヒーロースーツ レプリカ",
+    "target": "英雄裝 複製",
+    "category": "GearName_Clothes"
+  },
+  "サバイバルスーツ レプリカ": {
+    "jp": "サバイバルスーツ レプリカ",
+    "target": "生存裝 複製",
+    "category": "GearName_Clothes"
+  },
+  "でんせつのマント": {
+    "jp": "でんせつのマント",
+    "target": "傳說的披風",
+    "category": "GearName_Clothes"
+  },
+  "コマンダーマント レプリカ": {
+    "jp": "コマンダーマント レプリカ",
+    "target": "指揮官披風 複製",
+    "category": "GearName_Clothes"
+  },
+  "さくらエビポロ": {
+    "jp": "さくらエビポロ",
+    "target": "Polo衫 櫻花蝦色",
+    "category": "GearName_Clothes"
+  },
+  "オレンジボーダーラガー": {
+    "jp": "オレンジボーダーラガー",
+    "target": "橫紋橄欖球衫 橘色",
+    "category": "GearName_Clothes"
+  },
+  "トリコロールラガー": {
+    "jp": "トリコロールラガー",
+    "target": "三色橄欖球衫",
+    "category": "GearName_Clothes"
+  },
+  "よもぎポロ": {
+    "jp": "よもぎポロ",
+    "target": "Polo衫 艾草綠",
+    "category": "GearName_Clothes"
+  },
+  "ピンポンポロ": {
+    "jp": "ピンポンポロ",
+    "target": "乒乓球Polo衫",
+    "category": "GearName_Clothes"
+  },
+  "テッカサイクルシャツ": {
+    "jp": "テッカサイクルシャツ",
+    "target": "單車衫",
+    "category": "GearName_Clothes"
+  },
+  "チャリキングジャージ": {
+    "jp": "チャリキングジャージ",
+    "target": "單車王者運動服",
+    "category": "GearName_Clothes"
+  },
+  "FCカラスミ": {
+    "jp": "FCカラスミ",
+    "target": "FC烏魚子制服",
+    "category": "GearName_Clothes"
+  },
+  "アオサドーレ": {
+    "jp": "アオサドーレ",
+    "target": "藻薩多足球隊制服",
+    "category": "GearName_Clothes"
+  },
+  "キングラガー010": {
+    "jp": "キングラガー010",
+    "target": "王者橄欖球衫010",
+    "category": "GearName_Clothes"
+  },
+  "キングラガー008": {
+    "jp": "キングラガー008",
+    "target": "王者橄欖球衫008",
+    "category": "GearName_Clothes"
+  },
+  "ジップアップ カモ": {
+    "jp": "ジップアップ カモ",
+    "target": "拉鍊連帽外套 迷彩",
+    "category": "GearName_Clothes"
+  },
+  "ジップアップ グリーン": {
+    "jp": "ジップアップ グリーン",
+    "target": "拉鍊連帽外套 綠色",
+    "category": "GearName_Clothes"
+  },
+  "エゾッコパーカー アズキ": {
+    "jp": "エゾッコパーカー アズキ",
+    "target": "澤酷連帽上衣 紅豆色",
+    "category": "GearName_Clothes"
+  },
+  "シャツノゾキブルー": {
+    "jp": "シャツノゾキブルー",
+    "target": "連帽上衣配襯衫 藍色",
+    "category": "GearName_Clothes"
+  },
+  "キングパーカー グレープ": {
+    "jp": "キングパーカー グレープ",
+    "target": "王者連帽上衣 葡萄紫",
+    "category": "GearName_Clothes"
+  },
+  "ホタパーカー グレー": {
+    "jp": "ホタパーカー グレー",
+    "target": "帆立連帽上衣 灰色",
+    "category": "GearName_Clothes"
+  },
+  "ホタプラントパーカー": {
+    "jp": "ホタプラントパーカー",
+    "target": "帆立植物連帽上衣",
+    "category": "GearName_Clothes"
+  },
+  "シャツノゾキピンク": {
+    "jp": "シャツノゾキピンク",
+    "target": "連帽上衣配襯衫 粉紅色",
+    "category": "GearName_Clothes"
+  },
+  "エゾッコパーカー ウグイス": {
+    "jp": "エゾッコパーカー ウグイス",
+    "target": "澤酷連帽上衣 橄欖綠",
+    "category": "GearName_Clothes"
+  },
+  "ホタパーカー ブラック": {
+    "jp": "ホタパーカー ブラック",
+    "target": "帆立連帽上衣 黑色",
+    "category": "GearName_Clothes"
+  },
+  "バハフーディー ロホ": {
+    "jp": "バハフーディー ロホ",
+    "target": "巴哈連帽上衣 紅色",
+    "category": "GearName_Clothes"
+  },
+  "カモパーカー ドトン": {
+    "jp": "カモパーカー ドトン",
+    "target": "迷彩連帽上衣 土遁",
+    "category": "GearName_Clothes"
+  },
+  "バハフーディー セレステ": {
+    "jp": "バハフーディー セレステ",
+    "target": "巴哈連帽上衣 天藍色",
+    "category": "GearName_Clothes"
+  },
+  "カモパーカー スイトン": {
+    "jp": "カモパーカー スイトン",
+    "target": "迷彩連帽上衣 水遁",
+    "category": "GearName_Clothes"
+  },
+  "オーダースーツ レプリカ": {
+    "jp": "オーダースーツ レプリカ",
+    "target": "秩序裝 複製",
+    "category": "GearName_Clothes"
+  },
+  "オータムネル": {
+    "jp": "オータムネル",
+    "target": "秋季法蘭絨襯衫",
+    "category": "GearName_Clothes"
+  },
+  "イカスタンシャツ": {
+    "jp": "イカスタンシャツ",
+    "target": "魷魚刺繡西部襯衫",
+    "category": "GearName_Clothes"
+  },
+  "ギンガムチェック ミドリ": {
+    "jp": "ギンガムチェック ミドリ",
+    "target": "嘉頓格紋襯衫 綠色",
+    "category": "GearName_Clothes"
+  },
+  "シロシャツ": {
+    "jp": "シロシャツ",
+    "target": "白色襯衫",
+    "category": "GearName_Clothes"
+  },
+  "ウーニーズBBシャツ": {
+    "jp": "ウーニーズBBシャツ",
+    "target": "海膽BB襯衫",
+    "category": "GearName_Clothes"
+  },
+  "おどるイカアロハ": {
+    "jp": "おどるイカアロハ",
+    "target": "舞動魷魚夏威夷襯衫",
+    "category": "GearName_Clothes"
+  },
+  "ギンガムチェック アカ": {
+    "jp": "ギンガムチェック アカ",
+    "target": "嘉頓格紋襯衫 紅色",
+    "category": "GearName_Clothes"
+  },
+  "ベイビークラゲシャツ": {
+    "jp": "ベイビークラゲシャツ",
+    "target": "小小水母襯衫",
+    "category": "GearName_Clothes"
+  },
+  "ミスターベースボール": {
+    "jp": "ミスターベースボール",
+    "target": "棒球運動服",
+    "category": "GearName_Clothes"
+  },
+  "ミックスシャツ グレー": {
+    "jp": "ミックスシャツ グレー",
+    "target": "拼接襯衫 灰色",
+    "category": "GearName_Clothes"
+  },
+  "ヴィンテージチェック": {
+    "jp": "ヴィンテージチェック",
+    "target": "懷舊格紋襯衫",
+    "category": "GearName_Clothes"
+  },
+  "マルエリシャツ": {
+    "jp": "マルエリシャツ",
+    "target": "圓領襯衫",
+    "category": "GearName_Clothes"
+  },
+  "ロゴマシマシアロハ": {
+    "jp": "ロゴマシマシアロハ",
+    "target": "很多Logo夏威夷襯衫",
+    "category": "GearName_Clothes"
+  },
+  "ブロックストライプシャツ": {
+    "jp": "ブロックストライプシャツ",
+    "target": "條紋襯衫",
+    "category": "GearName_Clothes"
+  },
+  "シャンブレーシャツ": {
+    "jp": "シャンブレーシャツ",
+    "target": "青年布襯衫",
+    "category": "GearName_Clothes"
+  },
+  "タイシャツ": {
+    "jp": "タイシャツ",
+    "target": "領帶襯衫",
+    "category": "GearName_Clothes"
+  },
+  "ピーターパンクシャツ": {
+    "jp": "ピーターパンクシャツ",
+    "target": "彼得龐克襯衫",
+    "category": "GearName_Clothes"
+  },
+  "タコボウラーシャツ": {
+    "jp": "タコボウラーシャツ",
+    "target": "章魚保齡球衫",
+    "category": "GearName_Clothes"
+  },
+  "スミカケシャツ": {
+    "jp": "スミカケシャツ",
+    "target": "墨汁噴灑襯衫",
+    "category": "GearName_Clothes"
+  },
+  "パラシューター ザクロ": {
+    "jp": "パラシューター ザクロ",
+    "target": "降落傘上衣 石榴紅",
+    "category": "GearName_Clothes"
+  },
+  "タイツキベイビークラゲ": {
+    "jp": "タイツキベイビークラゲ",
+    "target": "小小水母領帶襯衫",
+    "category": "GearName_Clothes"
+  },
+  "パラシューター プルーン": {
+    "jp": "パラシューター プルーン",
+    "target": "降落傘上衣 李子藍",
+    "category": "GearName_Clothes"
+  },
+  "ピーターパンクタイ ブラッド": {
+    "jp": "ピーターパンクタイ ブラッド",
+    "target": "彼得龐克領帶襯衫 血紅色",
+    "category": "GearName_Clothes"
+  },
+  "チリメンタコアロハ": {
+    "jp": "チリメンタコアロハ",
+    "target": "扁面蛸夏威夷襯衫",
+    "category": "GearName_Clothes"
+  },
+  "アナアキオンブレネル": {
+    "jp": "アナアキオンブレネル",
+    "target": "無法無天法蘭絨連帽上衣",
+    "category": "GearName_Clothes"
+  },
+  "スミヌキシャツ": {
+    "jp": "スミヌキシャツ",
+    "target": "墨汁脫落襯衫",
+    "category": "GearName_Clothes"
+  },
+  "レイヤードットシャツ": {
+    "jp": "レイヤードットシャツ",
+    "target": "多重點點襯衫",
+    "category": "GearName_Clothes"
+  },
+  "タタキBBBシャツ": {
+    "jp": "タタキBBBシャツ",
+    "target": "劍尖BBB襯衫",
+    "category": "GearName_Clothes"
+  },
+  "タツノコキューバ": {
+    "jp": "タツノコキューバ",
+    "target": "海馬古巴襯衫",
+    "category": "GearName_Clothes"
+  },
+  "ピエロシャツ": {
+    "jp": "ピエロシャツ",
+    "target": "小丑襯衫",
+    "category": "GearName_Clothes"
+  },
+  "ジャコスカウト": {
+    "jp": "ジャコスカウト",
+    "target": "蝦蛄偵察兵",
+    "category": "GearName_Clothes"
+  },
+  "フィレシャツ サファリ": {
+    "jp": "フィレシャツ サファリ",
+    "target": "魚片襯衫 野外觀察",
+    "category": "GearName_Clothes"
+  },
+  "ステッチシャツ ヤガラ": {
+    "jp": "ステッチシャツ ヤガラ",
+    "target": "繡花襯衫 煙管魚",
+    "category": "GearName_Clothes"
+  },
+  "スミコボシシャツ": {
+    "jp": "スミコボシシャツ",
+    "target": "漏墨襯衫",
+    "category": "GearName_Clothes"
+  },
+  "スミチラシシャツ": {
+    "jp": "スミチラシシャツ",
+    "target": "噴墨襯衫",
+    "category": "GearName_Clothes"
+  },
+  "バンドカラー ストライプ": {
+    "jp": "バンドカラー ストライプ",
+    "target": "立領襯衫 條紋",
+    "category": "GearName_Clothes"
+  },
+  "バンドカラー ムジ": {
+    "jp": "バンドカラー ムジ",
+    "target": "立領襯衫 素色",
+    "category": "GearName_Clothes"
+  },
+  "パッチワークシャツ": {
+    "jp": "パッチワークシャツ",
+    "target": "拼接襯衫",
+    "category": "GearName_Clothes"
+  },
+  "フィレシャツ アーバン": {
+    "jp": "フィレシャツ アーバン",
+    "target": "魚片襯衫 城市",
+    "category": "GearName_Clothes"
+  },
+  "イシダイストライプスユニ": {
+    "jp": "イシダイストライプスユニ",
+    "target": "條石鯛隊條紋制服",
+    "category": "GearName_Clothes"
+  },
+  "オーシャンリゾートアロハ": {
+    "jp": "オーシャンリゾートアロハ",
+    "target": "海洋度假區夏威夷襯衫",
+    "category": "GearName_Clothes"
+  },
+  "ジャコスカウト ハマチ": {
+    "jp": "ジャコスカウト ハマチ",
+    "target": "蝦蛄偵察兵 鰤魚",
+    "category": "GearName_Clothes"
+  },
+  "カレッジスウェット グレー": {
+    "jp": "カレッジスウェット グレー",
+    "target": "學院風套頭衫 灰色",
+    "category": "GearName_Clothes"
+  },
+  "イカバッテン マスタード": {
+    "jp": "イカバッテン マスタード",
+    "target": "魷魚交叉套頭衫 芥末黃",
+    "category": "GearName_Clothes"
+  },
+  "レトロジャッジ": {
+    "jp": "レトロジャッジ",
+    "target": "復古運動服",
+    "category": "GearName_Clothes"
+  },
+  "ホッコリー ネイビー": {
+    "jp": "ホッコリー ネイビー",
+    "target": "暖流套頭衫 海軍藍",
+    "category": "GearName_Clothes"
+  },
+  "カレッジスウェット ネイビー": {
+    "jp": "カレッジスウェット ネイビー",
+    "target": "學院風套頭衫 海軍藍",
+    "category": "GearName_Clothes"
+  },
+  "リールロールスウェット": {
+    "jp": "リールロールスウェット",
+    "target": "滑輪套頭衫",
+    "category": "GearName_Clothes"
+  },
+  "イカリスウェット": {
+    "jp": "イカリスウェット",
+    "target": "船錨套頭衫",
+    "category": "GearName_Clothes"
+  },
+  "ドロップスウェット ネガ": {
+    "jp": "ドロップスウェット ネガ",
+    "target": "長版套頭衫 負片",
+    "category": "GearName_Clothes"
+  },
+  "ショートニットカサネ": {
+    "jp": "ショートニットカサネ",
+    "target": "短版針織衫連襯衫",
+    "category": "GearName_Clothes"
+  },
+  "ドロップスウェット ポジ": {
+    "jp": "ドロップスウェット ポジ",
+    "target": "長版套頭衫 正片",
+    "category": "GearName_Clothes"
+  },
+  "アナアキニット アオソデ": {
+    "jp": "アナアキニット アオソデ",
+    "target": "無法無天針織衫 藍色袖子",
+    "category": "GearName_Clothes"
+  },
+  "アナアキニット キソデ": {
+    "jp": "アナアキニット キソデ",
+    "target": "無法無天針織衫 黃色袖子",
+    "category": "GearName_Clothes"
+  },
+  "アナアキニット アカソデ": {
+    "jp": "アナアキニット アカソデ",
+    "target": "無法無天針織衫 紅色袖子",
+    "category": "GearName_Clothes"
+  },
+  "エンペーサートレーナー": {
+    "jp": "エンペーサートレーナー",
+    "target": "皇耆訓練套頭衫",
+    "category": "GearName_Clothes"
+  },
+  "オクタリアンレトロ": {
+    "jp": "オクタリアンレトロ",
+    "target": "復古章魚族上衣",
+    "category": "GearName_Clothes"
+  },
+  "ヤコピステ": {
+    "jp": "ヤコピステ",
+    "target": "暇古防風運動上衣",
+    "category": "GearName_Clothes"
+  },
+  "クラマナスウェット": {
+    "jp": "クラマナスウェット",
+    "target": "海月海牛套頭衫",
+    "category": "GearName_Clothes"
+  },
+  "3Dニット シャーク": {
+    "jp": "3Dニット シャーク",
+    "target": "3D針織衫 鯊魚",
+    "category": "GearName_Clothes"
+  },
+  "タコピステ ブルー": {
+    "jp": "タコピステ ブルー",
+    "target": "章魚防風運動上衣 藍色",
+    "category": "GearName_Clothes"
+  },
+  "タコピステ ホワイト": {
+    "jp": "タコピステ ホワイト",
+    "target": "章魚防風運動上衣 白色",
+    "category": "GearName_Clothes"
+  },
+  "3Dニット ホエール": {
+    "jp": "3Dニット ホエール",
+    "target": "3D針織衫 鯨魚",
+    "category": "GearName_Clothes"
+  },
+  "フードレスパーカー イエロー": {
+    "jp": "フードレスパーカー イエロー",
+    "target": "無帽厚上衣 黃色",
+    "category": "GearName_Clothes"
+  },
+  "フードレスパーカー マルチ": {
+    "jp": "フードレスパーカー マルチ",
+    "target": "無帽厚上衣 彩色",
+    "category": "GearName_Clothes"
+  },
+  "フードレスパーカー グリーン": {
+    "jp": "フードレスパーカー グリーン",
+    "target": "無帽厚上衣 綠色",
+    "category": "GearName_Clothes"
+  },
+  "ワケワカメニット": {
+    "jp": "ワケワカメニット",
+    "target": "亂藻藻針織衫",
+    "category": "GearName_Clothes"
+  },
+  "CFHパーカー": {
+    "jp": "CFHパーカー",
+    "target": "CFH連帽上衣",
+    "category": "GearName_Clothes"
+  },
+  "ボーダーホワイト": {
+    "jp": "ボーダーホワイト",
+    "target": "橫紋長袖上衣 白色",
+    "category": "GearName_Clothes"
+  },
+  "バニーポップ ブラック": {
+    "jp": "バニーポップ ブラック",
+    "target": "長袖上衣 黑色",
+    "category": "GearName_Clothes"
+  },
+  "カモフラパープル": {
+    "jp": "カモフラパープル",
+    "target": "迷彩長袖上衣 紫色",
+    "category": "GearName_Clothes"
+  },
+  "ボーダーネイビー": {
+    "jp": "ボーダーネイビー",
+    "target": "橫紋長袖上衣 海軍藍",
+    "category": "GearName_Clothes"
+  },
+  "エゾッコラグラン": {
+    "jp": "エゾッコラグラン",
+    "target": "澤酷插肩袖上衣",
+    "category": "GearName_Clothes"
+  },
+  "カレッジラグラン": {
+    "jp": "カレッジラグラン",
+    "target": "學院風插肩袖上衣",
+    "category": "GearName_Clothes"
+  },
+  "ハラグロラグラン": {
+    "jp": "ハラグロラグラン",
+    "target": "插肩袖上衣 黑色",
+    "category": "GearName_Clothes"
+  },
+  "ハラシロラグラン": {
+    "jp": "ハラシロラグラン",
+    "target": "插肩袖上衣 白色",
+    "category": "GearName_Clothes"
+  },
+  "バトロング ホワイト": {
+    "jp": "バトロング ホワイト",
+    "target": "戰鬥長袖上衣 白色",
+    "category": "GearName_Clothes"
+  },
+  "ボーダーモスグリーン": {
+    "jp": "ボーダーモスグリーン",
+    "target": "橫紋長袖上衣 青苔綠",
+    "category": "GearName_Clothes"
+  },
+  "イカバッテンロング": {
+    "jp": "イカバッテンロング",
+    "target": "魷魚交叉長袖上衣",
+    "category": "GearName_Clothes"
+  },
+  "アイロニックロング": {
+    "jp": "アイロニックロング",
+    "target": "鋼鐵先鋒長袖上衣",
+    "category": "GearName_Clothes"
+  },
+  "ヤマビコボーダー": {
+    "jp": "ヤマビコボーダー",
+    "target": "山岳橫紋長袖上衣",
+    "category": "GearName_Clothes"
+  },
+  "ゆとりボーダー ピンク": {
+    "jp": "ゆとりボーダー ピンク",
+    "target": "寬鬆橫紋長袖上衣 粉紅色",
+    "category": "GearName_Clothes"
+  },
+  "トビウォーズHKユニ": {
+    "jp": "トビウォーズHKユニ",
+    "target": "飛魚HK制服",
+    "category": "GearName_Clothes"
+  },
+  "アナアキロンT ドライブ": {
+    "jp": "アナアキロンT ドライブ",
+    "target": "無法無天長袖T恤 駕駛",
+    "category": "GearName_Clothes"
+  },
+  "ゆとりボーダー ライム": {
+    "jp": "ゆとりボーダー ライム",
+    "target": "寬鬆橫紋長袖上衣 萊姆綠",
+    "category": "GearName_Clothes"
+  },
+  "アナアキロンT イボルブ": {
+    "jp": "アナアキロンT イボルブ",
+    "target": "無法無天長袖T恤 進化",
+    "category": "GearName_Clothes"
+  },
+  "エゾッコロンTキャロット": {
+    "jp": "エゾッコロンTキャロット",
+    "target": "澤酷長袖T恤 胡蘿蔔",
+    "category": "GearName_Clothes"
+  },
+  "エゾッコロンTラディッシュ": {
+    "jp": "エゾッコロンTラディッシュ",
+    "target": "澤酷長袖T恤 櫻桃蘿蔔",
+    "category": "GearName_Clothes"
+  },
+  "タコロンT 黒": {
+    "jp": "タコロンT 黒",
+    "target": "章魚長袖T恤 黑色",
+    "category": "GearName_Clothes"
+  },
+  "ヤコラグランクレイジー": {
+    "jp": "ヤコラグランクレイジー",
+    "target": "暇古插肩袖上衣 狂熱",
+    "category": "GearName_Clothes"
+  },
+  "タコロンT 赤": {
+    "jp": "タコロンT 赤",
+    "target": "章魚長袖T恤 紅色",
+    "category": "GearName_Clothes"
+  },
+  "ヤキフグ16bit カーキ": {
+    "jp": "ヤキフグ16bit カーキ",
+    "target": "燒河豚點陣T恤 卡其色",
+    "category": "GearName_Clothes"
+  },
+  "ヤキフグ16bit ブルー": {
+    "jp": "ヤキフグ16bit ブルー",
+    "target": "燒河豚點陣T恤 藍色",
+    "category": "GearName_Clothes"
+  },
+  "カラマリフック ブラック": {
+    "jp": "カラマリフック ブラック",
+    "target": "纏繞鉤爪T恤 黑色",
+    "category": "GearName_Clothes"
+  },
+  "カラマリフック ディープ": {
+    "jp": "カラマリフック ディープ",
+    "target": "纏繞鉤爪T恤 深色",
+    "category": "GearName_Clothes"
+  },
+  "シャークラグラン": {
+    "jp": "シャークラグラン",
+    "target": "鯊魚插肩袖上衣",
+    "category": "GearName_Clothes"
+  },
+  "イカホワイト": {
+    "jp": "イカホワイト",
+    "target": "魷魚T恤 白色",
+    "category": "GearName_Clothes"
+  },
+  "イカノメＴ ブラック": {
+    "jp": "イカノメＴ ブラック",
+    "target": "魷魚眼T恤 黑色",
+    "category": "GearName_Clothes"
+  },
+  "イカノメＴ ライトブルー": {
+    "jp": "イカノメＴ ライトブルー",
+    "target": "魷魚眼T恤 淺藍色",
+    "category": "GearName_Clothes"
+  },
+  "ロッケンベルグＴ ホワイト": {
+    "jp": "ロッケンベルグＴ ホワイト",
+    "target": "羅肯貝格T恤 白色",
+    "category": "GearName_Clothes"
+  },
+  "ロッケンベルグＴ ブラック": {
+    "jp": "ロッケンベルグＴ ブラック",
+    "target": "羅肯貝格T恤 黑色",
+    "category": "GearName_Clothes"
+  },
+  "イカブラック": {
+    "jp": "イカブラック",
+    "target": "魷魚T恤 黑色",
+    "category": "GearName_Clothes"
+  },
+  "サニーオレンジＴ": {
+    "jp": "サニーオレンジＴ",
+    "target": "晴天橘T恤",
+    "category": "GearName_Clothes"
+  },
+  "レイニーブルーＴ": {
+    "jp": "レイニーブルーＴ",
+    "target": "雨天藍T恤",
+    "category": "GearName_Clothes"
+  },
+  "イカジャマイカ": {
+    "jp": "イカジャマイカ",
+    "target": "牙買加魷魚T恤",
+    "category": "GearName_Clothes"
+  },
+  "マルフグＴ": {
+    "jp": "マルフグＴ",
+    "target": "圓圓河豚T恤",
+    "category": "GearName_Clothes"
+  },
+  "ミントＴ": {
+    "jp": "ミントＴ",
+    "target": "薄荷綠T恤",
+    "category": "GearName_Clothes"
+  },
+  "グレープＴ": {
+    "jp": "グレープＴ",
+    "target": "葡萄紫T恤",
+    "category": "GearName_Clothes"
+  },
+  "ベクトルパターン レッド": {
+    "jp": "ベクトルパターン レッド",
+    "target": "向量圖案T恤 紅色",
+    "category": "GearName_Clothes"
+  },
+  "ベクトルパターン グレー": {
+    "jp": "ベクトルパターン グレー",
+    "target": "向量圖案T恤 灰色",
+    "category": "GearName_Clothes"
+  },
+  "ヤマビコＴ ブルー": {
+    "jp": "ヤマビコＴ ブルー",
+    "target": "山岳T恤 藍色",
+    "category": "GearName_Clothes"
+  },
+  "ヤマビコＴ アイボリー": {
+    "jp": "ヤマビコＴ アイボリー",
+    "target": "山岳T恤 象牙色",
+    "category": "GearName_Clothes"
+  },
+  "チドリメロンＴ": {
+    "jp": "チドリメロンＴ",
+    "target": "千鳥哈密瓜綠T恤",
+    "category": "GearName_Clothes"
+  },
+  "パイレーツボーダー": {
+    "jp": "パイレーツボーダー",
+    "target": "海盜風橫紋T恤",
+    "category": "GearName_Clothes"
+  },
+  "マリンボーダー": {
+    "jp": "マリンボーダー",
+    "target": "海軍風橫紋T恤",
+    "category": "GearName_Clothes"
+  },
+  "ヤキフグ8bit ホワイト": {
+    "jp": "ヤキフグ8bit ホワイト",
+    "target": "燒河豚點陣T恤 白色",
+    "category": "GearName_Clothes"
+  },
+  "ヤキフグ8bit ブラック": {
+    "jp": "ヤキフグ8bit ブラック",
+    "target": "燒河豚點陣T恤 黑色",
+    "category": "GearName_Clothes"
+  },
+  "ガチホワイト": {
+    "jp": "ガチホワイト",
+    "target": "真格T恤 白色",
+    "category": "GearName_Clothes"
+  },
+  "ガチブラック": {
+    "jp": "ガチブラック",
+    "target": "真格T恤 黑色",
+    "category": "GearName_Clothes"
+  },
+  "ニクショクＴ": {
+    "jp": "ニクショクＴ",
+    "target": "肉食動物T恤",
+    "category": "GearName_Clothes"
+  },
+  "パールドットＴ": {
+    "jp": "パールドットＴ",
+    "target": "珍珠點點T恤",
+    "category": "GearName_Clothes"
+  },
+  "タコＴ": {
+    "jp": "タコＴ",
+    "target": "章魚T恤",
+    "category": "GearName_Clothes"
+  },
+  "ソウショクＴ": {
+    "jp": "ソウショクＴ",
+    "target": "草食動物T恤",
+    "category": "GearName_Clothes"
+  },
+  "イカブラックV": {
+    "jp": "イカブラックV",
+    "target": "魷魚V領T恤 黑色",
+    "category": "GearName_Clothes"
+  },
+  "デカロゴＴ シロ": {
+    "jp": "デカロゴＴ シロ",
+    "target": "大LogoT恤 白色",
+    "category": "GearName_Clothes"
+  },
+  "スウェットT ゴブ": {
+    "jp": "スウェットT ゴブ",
+    "target": "五分袖套頭衫",
+    "category": "GearName_Clothes"
+  },
+  "キングHKシャツ": {
+    "jp": "キングHKシャツ",
+    "target": "王者HK襯衫",
+    "category": "GearName_Clothes"
+  },
+  "ヤキフグ8bit グレー": {
+    "jp": "ヤキフグ8bit グレー",
+    "target": "燒河豚點陣T恤 灰色",
+    "category": "GearName_Clothes"
+  },
+  "イカホワイトV": {
+    "jp": "イカホワイトV",
+    "target": "魷魚V領T恤 白色",
+    "category": "GearName_Clothes"
+  },
+  "ガンガゼロックT シロ": {
+    "jp": "ガンガゼロックT シロ",
+    "target": "刺冠海膽搖滾T恤 白色",
+    "category": "GearName_Clothes"
+  },
+  "ガンガゼロックT クロ": {
+    "jp": "ガンガゼロックT クロ",
+    "target": "刺冠海膽搖滾T恤 黑色",
+    "category": "GearName_Clothes"
+  },
+  "バンドT WETFLOOR": {
+    "jp": "バンドT WETFLOOR",
+    "target": "樂隊T恤 WETFLOOR",
+    "category": "GearName_Clothes"
+  },
+  "バンドT SQUIDSQUAD": {
+    "jp": "バンドT SQUIDSQUAD",
+    "target": "樂隊T恤 SQUIDSQUAD",
+    "category": "GearName_Clothes"
+  },
+  "デカロゴT ノーコン": {
+    "jp": "デカロゴT ノーコン",
+    "target": "大LogoT恤 深藍色",
+    "category": "GearName_Clothes"
+  },
+  "ミスターシュラッグT": {
+    "jp": "ミスターシュラッグT",
+    "target": "聳肩先生T恤",
+    "category": "GearName_Clothes"
+  },
+  "バンドT ABXY": {
+    "jp": "バンドT ABXY",
+    "target": "樂隊T恤 ABXY",
+    "category": "GearName_Clothes"
+  },
+  "バンドT HIGHTIDEERA": {
+    "jp": "バンドT HIGHTIDEERA",
+    "target": "樂隊T恤 HIGHTIDEERA",
+    "category": "GearName_Clothes"
+  },
+  "ω-3T": {
+    "jp": "ω-3T",
+    "target": "ω-3T恤",
+    "category": "GearName_Clothes"
+  },
+  "アナアキT ポルポピック": {
+    "jp": "アナアキT ポルポピック",
+    "target": "無法無天章魚圖案T恤",
+    "category": "GearName_Clothes"
+  },
+  "ホットグラデT": {
+    "jp": "ホットグラデT",
+    "target": "火熱漸層T恤",
+    "category": "GearName_Clothes"
+  },
+  "ヤコタイダイ ギャラクシー": {
+    "jp": "ヤコタイダイ ギャラクシー",
+    "target": "暇古扎染T恤 銀河",
+    "category": "GearName_Clothes"
+  },
+  "ヤコタイダイ レインボー": {
+    "jp": "ヤコタイダイ レインボー",
+    "target": "暇古扎染T恤 彩虹",
+    "category": "GearName_Clothes"
+  },
+  "ミズシュラッグT": {
+    "jp": "ミズシュラッグT",
+    "target": "聳肩小姐T恤",
+    "category": "GearName_Clothes"
+  },
+  "リーグT": {
+    "jp": "リーグT",
+    "target": "聯盟T恤",
+    "category": "GearName_Clothes"
+  },
+  "フレンドT": {
+    "jp": "フレンドT",
+    "target": "朋友T恤",
+    "category": "GearName_Clothes"
+  },
+  "アロメスローガンT": {
+    "jp": "アロメスローガンT",
+    "target": "艾洛眼口號T恤",
+    "category": "GearName_Clothes"
+  },
+  "アイスグラデT": {
+    "jp": "アイスグラデT",
+    "target": "冰原漸層T恤",
+    "category": "GearName_Clothes"
+  },
+  "キングオクトHKシャツ": {
+    "jp": "キングオクトHKシャツ",
+    "target": "章魚皇HK襯衫",
+    "category": "GearName_Clothes"
+  },
+  "デカロTキウイ": {
+    "jp": "デカロTキウイ",
+    "target": "大LogoT恤 奇異果綠",
+    "category": "GearName_Clothes"
+  },
+  "デカロTゴールデン": {
+    "jp": "デカロTゴールデン",
+    "target": "大LogoT恤 黃金",
+    "category": "GearName_Clothes"
+  },
+  "キングオクトTブラックベロア": {
+    "jp": "キングオクトTブラックベロア",
+    "target": "章魚皇HKT恤 絨面黑",
+    "category": "GearName_Clothes"
+  },
+  "キングオクトTミドリベロア": {
+    "jp": "キングオクトTミドリベロア",
+    "target": "章魚皇HKT恤 絨面綠",
+    "category": "GearName_Clothes"
+  },
+  "サキイカホワイト": {
+    "jp": "サキイカホワイト",
+    "target": "魷魚絲T恤 白色",
+    "category": "GearName_Clothes"
+  },
+  "アロメT ゴブゴブ": {
+    "jp": "アロメT ゴブゴブ",
+    "target": "艾洛眼T恤 五分袖",
+    "category": "GearName_Clothes"
+  },
+  "アナアキT チョーカー": {
+    "jp": "アナアキT チョーカー",
+    "target": "無法無天T恤配頸鍊",
+    "category": "GearName_Clothes"
+  },
+  "アナアキT アシメブレス": {
+    "jp": "アナアキT アシメブレス",
+    "target": "無法無天T恤配手鍊",
+    "category": "GearName_Clothes"
+  },
+  "リイシューT ホワイト": {
+    "jp": "リイシューT ホワイト",
+    "target": "再版T恤 白色",
+    "category": "GearName_Clothes"
+  },
+  "リイシューT ブルー": {
+    "jp": "リイシューT ブルー",
+    "target": "再版T恤 藍色",
+    "category": "GearName_Clothes"
+  },
+  "リイシューT ブラウン": {
+    "jp": "リイシューT ブラウン",
+    "target": "再版T恤 棕色",
+    "category": "GearName_Clothes"
+  },
+  "バラズシ ノリマキ": {
+    "jp": "バラズシ ノリマキ",
+    "target": "散壽司披肩 海苔卷",
+    "category": "GearName_Clothes"
+  },
+  "バラズシT ハクマイ": {
+    "jp": "バラズシT ハクマイ",
+    "target": "散壽司T恤 白米",
+    "category": "GearName_Clothes"
+  },
+  "バラズシT ゲンマイ": {
+    "jp": "バラズシT ゲンマイ",
+    "target": "散壽司T恤 糙米",
+    "category": "GearName_Clothes"
+  },
+  "バラズシT セキハン": {
+    "jp": "バラズシT セキハン",
+    "target": "散壽司T恤 紅豆飯",
+    "category": "GearName_Clothes"
+  },
+  "イコT ゴブゴブ": {
+    "jp": "イコT ゴブゴブ",
+    "target": "依古T恤 五分袖",
+    "category": "GearName_Clothes"
+  },
+  "イカサンT": {
+    "jp": "イカサンT",
+    "target": "魷魚先生T恤",
+    "category": "GearName_Clothes"
+  },
+  "タコサンT": {
+    "jp": "タコサンT",
+    "target": "章魚先生T恤",
+    "category": "GearName_Clothes"
+  },
+  "ヤコT ヘヴィクラブ": {
+    "jp": "ヤコT ヘヴィクラブ",
+    "target": "暇古T恤 重量級螃蟹",
+    "category": "GearName_Clothes"
+  },
+  "ヤコT メタルエイリアン": {
+    "jp": "ヤコT メタルエイリアン",
+    "target": "暇古T恤 金屬外星生物",
+    "category": "GearName_Clothes"
+  },
+  "ヤコT ゴブゴブ": {
+    "jp": "ヤコT ゴブゴブ",
+    "target": "暇古T恤 五分袖",
+    "category": "GearName_Clothes"
+  },
+  "リンガーT パイン": {
+    "jp": "リンガーT パイン",
+    "target": "滾邊T恤 鳳梨",
+    "category": "GearName_Clothes"
+  },
+  "リンガーT アップル": {
+    "jp": "リンガーT アップル",
+    "target": "滾邊T恤 蘋果",
+    "category": "GearName_Clothes"
+  },
+  "トワイライトグラデT": {
+    "jp": "トワイライトグラデT",
+    "target": "暮光漸層T恤",
+    "category": "GearName_Clothes"
+  },
+  "サンセットグラデT": {
+    "jp": "サンセットグラデT",
+    "target": "日落漸層T恤",
+    "category": "GearName_Clothes"
+  },
+  "ビバレッジT リコピン": {
+    "jp": "ビバレッジT リコピン",
+    "target": "飲料T恤 番茄紅素",
+    "category": "GearName_Clothes"
+  },
+  "ビバレッジT セサミン": {
+    "jp": "ビバレッジT セサミン",
+    "target": "飲料T恤 芝麻素",
+    "category": "GearName_Clothes"
+  },
+  "ガブリエルT": {
+    "jp": "ガブリエルT",
+    "target": "加百列T恤",
+    "category": "GearName_Clothes"
+  },
+  "コントレイルボーダー": {
+    "jp": "コントレイルボーダー",
+    "target": "飛機雲橫紋T恤",
+    "category": "GearName_Clothes"
+  },
+  "スシズメブロブ ライム": {
+    "jp": "スシズメブロブ ライム",
+    "target": "密集水滴魚上衣 萊姆綠",
+    "category": "GearName_Clothes"
+  },
+  "スシズメブロブ ベリー": {
+    "jp": "スシズメブロブ ベリー",
+    "target": "密集水滴魚上衣 莓果紅",
+    "category": "GearName_Clothes"
+  },
+  "エゾッコリーT ホワイト": {
+    "jp": "エゾッコリーT ホワイト",
+    "target": "澤酷暖流T恤 白色",
+    "category": "GearName_Clothes"
+  },
+  "エゾッコリーT ネイビー": {
+    "jp": "エゾッコリーT ネイビー",
+    "target": "澤酷暖流T恤 海軍藍",
+    "category": "GearName_Clothes"
+  },
+  "バラズシ アカシソマキ": {
+    "jp": "バラズシ アカシソマキ",
+    "target": "散壽司披肩 紅紫蘇卷",
+    "category": "GearName_Clothes"
+  },
+  "キングシースルーT": {
+    "jp": "キングシースルーT",
+    "target": "王者透明T恤",
+    "category": "GearName_Clothes"
+  },
+  "レイヤード ホワイト": {
+    "jp": "レイヤード ホワイト",
+    "target": "兩件式長袖上衣 白色",
+    "category": "GearName_Clothes"
+  },
+  "マスタードガサネ": {
+    "jp": "マスタードガサネ",
+    "target": "兩件式長袖上衣 芥末黃",
+    "category": "GearName_Clothes"
+  },
+  "カモガサネ": {
+    "jp": "カモガサネ",
+    "target": "兩件式長袖上衣 迷彩綠",
+    "category": "GearName_Clothes"
+  },
+  "レイヤード ブラック": {
+    "jp": "レイヤード ブラック",
+    "target": "兩件式長袖上衣 黑色",
+    "category": "GearName_Clothes"
+  },
+  "アイロニックレイヤード": {
+    "jp": "アイロニックレイヤード",
+    "target": "鋼鐵先鋒兩件式長袖上衣",
+    "category": "GearName_Clothes"
+  },
+  "ガチガサネ": {
+    "jp": "ガチガサネ",
+    "target": "真格兩件式長袖上衣",
+    "category": "GearName_Clothes"
+  },
+  "チョコガサネ": {
+    "jp": "チョコガサネ",
+    "target": "兩件式長袖上衣 巧克力色",
+    "category": "GearName_Clothes"
+  },
+  "かくれパイレーツ": {
+    "jp": "かくれパイレーツ",
+    "target": "隱藏版海盜上衣",
+    "category": "GearName_Clothes"
+  },
+  "ベクトルラインガサネ": {
+    "jp": "ベクトルラインガサネ",
+    "target": "向量線條兩件式長袖上衣",
+    "category": "GearName_Clothes"
+  },
+  "グリーンＴ": {
+    "jp": "グリーンＴ",
+    "target": "綠色T恤",
+    "category": "GearName_Clothes"
+  },
+  "アロメテックT レッド": {
+    "jp": "アロメテックT レッド",
+    "target": "艾洛眼T恤 紅色",
+    "category": "GearName_Clothes"
+  },
+  "アロメテックT ブルー": {
+    "jp": "アロメテックT ブルー",
+    "target": "艾洛眼T恤 藍色",
+    "category": "GearName_Clothes"
+  },
+  "イカイエローVガサネ": {
+    "jp": "イカイエローVガサネ",
+    "target": "魷魚兩件式V領長袖上衣 黃色",
+    "category": "GearName_Clothes"
+  },
+  "バスケジャージ ホーム": {
+    "jp": "バスケジャージ ホーム",
+    "target": "籃球運動服 主場",
+    "category": "GearName_Clothes"
+  },
+  "バスケジャージ アウェイ": {
+    "jp": "バスケジャージ アウェイ",
+    "target": "籃球運動服 客場",
+    "category": "GearName_Clothes"
+  },
+  "キングタンク ホワイト": {
+    "jp": "キングタンク ホワイト",
+    "target": "王者坦克背心 白色",
+    "category": "GearName_Clothes"
+  },
+  "キングタンク スラッシュ": {
+    "jp": "キングタンク スラッシュ",
+    "target": "王者坦克背心 斜線",
+    "category": "GearName_Clothes"
+  },
+  "キングタンク マリン": {
+    "jp": "キングタンク マリン",
+    "target": "王者坦克背心 海軍風",
+    "category": "GearName_Clothes"
+  },
+  "ロブスターズユニ": {
+    "jp": "ロブスターズユニ",
+    "target": "威猛龍蝦隊制服",
+    "category": "GearName_Clothes"
+  },
+  "ウミボーズ アウェイ": {
+    "jp": "ウミボーズ アウェイ",
+    "target": "海坊主坦克背心 客場",
+    "category": "GearName_Clothes"
+  },
+  "ウミボーズ ホーム": {
+    "jp": "ウミボーズ ホーム",
+    "target": "海坊主坦克背心 主場",
+    "category": "GearName_Clothes"
+  },
+  "アゲアゲコロモ": {
+    "jp": "アゲアゲコロモ",
+    "target": "酥脆外皮",
+    "category": "GearName_Clothes"
+  },
+  "ジャッジメントハンド": {
+    "jp": "ジャッジメントハンド",
+    "target": "評審手套",
+    "category": "GearName_Clothes"
+  },
+  "マウンテンダウン": {
+    "jp": "マウンテンダウン",
+    "target": "登山羽絨背心",
+    "category": "GearName_Clothes"
+  },
+  "フォレストダウン": {
+    "jp": "フォレストダウン",
+    "target": "森林羽絨背心",
+    "category": "GearName_Clothes"
+  },
+  "アーバンベスト ナイト": {
+    "jp": "アーバンベスト ナイト",
+    "target": "城市背心 夜空藍",
+    "category": "GearName_Clothes"
+  },
+  "アーバンベスト イエロー": {
+    "jp": "アーバンベスト イエロー",
+    "target": "城市背心 黃色",
+    "category": "GearName_Clothes"
+  },
+  "イカゴッチンベスト": {
+    "jp": "イカゴッチンベスト",
+    "target": "相撞魷魚背心",
+    "category": "GearName_Clothes"
+  },
+  "イカノボリベスト": {
+    "jp": "イカノボリベスト",
+    "target": "上升魷魚背心",
+    "category": "GearName_Clothes"
+  },
+  "フィッシャーズベスト オジ": {
+    "jp": "フィッシャーズベスト オジ",
+    "target": "釣魚背心 爺爺",
+    "category": "GearName_Clothes"
+  },
+  "フロントジップベスト": {
+    "jp": "フロントジップベスト",
+    "target": "前拉鍊背心",
+    "category": "GearName_Clothes"
+  },
+  "アロメランベスト シルバー": {
+    "jp": "アロメランベスト シルバー",
+    "target": "艾洛眼跑步背心 銀色",
+    "category": "GearName_Clothes"
+  },
+  "ハンティングベストKK": {
+    "jp": "ハンティングベストKK",
+    "target": "狩獵背心KK",
+    "category": "GearName_Clothes"
+  },
+  "タカアシプロテクターレッド": {
+    "jp": "タカアシプロテクターレッド",
+    "target": "長腿護甲 紅色",
+    "category": "GearName_Clothes"
+  },
+  "タカアシプロテクターライム": {
+    "jp": "タカアシプロテクターライム",
+    "target": "長腿護甲 萊姆綠",
+    "category": "GearName_Clothes"
+  },
+  "スミチラシベスト": {
+    "jp": "スミチラシベスト",
+    "target": "噴墨背心",
+    "category": "GearName_Clothes"
+  },
+  "ハンティングベストBK": {
+    "jp": "ハンティングベストBK",
+    "target": "狩獵背心BK",
+    "category": "GearName_Clothes"
+  },
+  "スミコボシベスト": {
+    "jp": "スミコボシベスト",
+    "target": "漏墨背心",
+    "category": "GearName_Clothes"
+  },
+  "アロメサイクルベスト": {
+    "jp": "アロメサイクルベスト",
+    "target": "艾洛眼單車背心",
+    "category": "GearName_Clothes"
+  },
+  "ゴマサバスポーティージレ": {
+    "jp": "ゴマサバスポーティージレ",
+    "target": "花腹鯖運動背心",
+    "category": "GearName_Clothes"
+  },
+  "スクールローファー ハイソ": {
+    "jp": "スクールローファー ハイソ",
+    "target": "學校樂福鞋 高級",
+    "category": "GearName_Shoes"
+  },
+  "サムライシューズ": {
+    "jp": "サムライシューズ",
+    "target": "武士鞋",
+    "category": "GearName_Shoes"
+  },
+  "パワードレッグス": {
+    "jp": "パワードレッグス",
+    "target": "動力靴",
+    "category": "GearName_Shoes"
+  },
+  "キルトローファー ルーズ": {
+    "jp": "キルトローファー ルーズ",
+    "target": "流蘇樂福鞋 寬鬆",
+    "category": "GearName_Shoes"
+  },
+  "シノビアシ": {
+    "jp": "シノビアシ",
+    "target": "忍者鞋",
+    "category": "GearName_Shoes"
+  },
+  "パワードレッグス オリジン": {
+    "jp": "パワードレッグス オリジン",
+    "target": "動力靴 原型",
+    "category": "GearName_Shoes"
+  },
+  "ヒメイトスニーカー": {
+    "jp": "ヒメイトスニーカー",
+    "target": "姬伴運動鞋",
+    "category": "GearName_Shoes"
+  },
+  "イイダチスリッポン": {
+    "jp": "イイダチスリッポン",
+    "target": "飯友懶人鞋",
+    "category": "GearName_Shoes"
+  },
+  "エンチャントブーツ": {
+    "jp": "エンチャントブーツ",
+    "target": "魔力靴",
+    "category": "GearName_Shoes"
+  },
+  "タコティカルなすねあて": {
+    "jp": "タコティカルなすねあて",
+    "target": "章魚護腿鞋",
+    "category": "GearName_Shoes"
+  },
+  "ひれおくんのあし": {
+    "jp": "ひれおくんのあし",
+    "target": "魚奇奇鞋",
+    "category": "GearName_Shoes"
+  },
+  "イダテンヒモサン": {
+    "jp": "イダテンヒモサン",
+    "target": "韋駄天綁帶涼鞋",
+    "category": "GearName_Shoes"
+  },
+  "アンクルサポーター": {
+    "jp": "アンクルサポーター",
+    "target": "腳踝支撐帶",
+    "category": "GearName_Shoes"
+  },
+  "バーサークグリーブ": {
+    "jp": "バーサークグリーブ",
+    "target": "狂戰士脛甲",
+    "category": "GearName_Shoes"
+  },
+  "スクールローファー スゲソ": {
+    "jp": "スクールローファー スゲソ",
+    "target": "學校樂福鞋 醋魷魚鬚",
+    "category": "GearName_Shoes"
+  },
+  "キルトローファー スゲソ": {
+    "jp": "キルトローファー スゲソ",
+    "target": "流蘇樂福鞋 醋魷魚鬚",
+    "category": "GearName_Shoes"
+  },
+  "ホホジロノポックリ": {
+    "jp": "ホホジロノポックリ",
+    "target": "頰白的木屐",
+    "category": "GearName_Shoes"
+  },
+  "オナガノタビ": {
+    "jp": "オナガノタビ",
+    "target": "翁長的足袋",
+    "category": "GearName_Shoes"
+  },
+  "マンダノナガグツ": {
+    "jp": "マンダノナガグツ",
+    "target": "曼蛇的長靴",
+    "category": "GearName_Shoes"
+  },
+  "ワールドMCブーツ": {
+    "jp": "ワールドMCブーツ",
+    "target": "世界級MC靴子",
+    "category": "GearName_Shoes"
+  },
+  "ワールドDJブーティー": {
+    "jp": "ワールドDJブーティー",
+    "target": "世界級DJ短靴",
+    "category": "GearName_Shoes"
+  },
+  "モトクロスブーツ": {
+    "jp": "モトクロスブーツ",
+    "target": "越野摩托車靴",
+    "category": "GearName_Shoes"
+  },
+  "ヌバックブーツ イエロー": {
+    "jp": "ヌバックブーツ イエロー",
+    "target": "磨砂皮革靴 黃色",
+    "category": "GearName_Shoes"
+  },
+  "ヌバックブーツ レッド": {
+    "jp": "ヌバックブーツ レッド",
+    "target": "磨砂皮革靴 紅色",
+    "category": "GearName_Shoes"
+  },
+  "モトクロス ソリッドブルー": {
+    "jp": "モトクロス ソリッドブルー",
+    "target": "越野摩托車靴 純藍色",
+    "category": "GearName_Shoes"
+  },
+  "レイニーモスグリーン": {
+    "jp": "レイニーモスグリーン",
+    "target": "雨靴 青苔綠",
+    "category": "GearName_Shoes"
+  },
+  "レイニーアセロラ": {
+    "jp": "レイニーアセロラ",
+    "target": "雨靴 櫻桃紅",
+    "category": "GearName_Shoes"
+  },
+  "ロッキンホワイト": {
+    "jp": "ロッキンホワイト",
+    "target": "搖滾靴 白色",
+    "category": "GearName_Shoes"
+  },
+  "ロッキンチェリー": {
+    "jp": "ロッキンチェリー",
+    "target": "搖滾靴 櫻桃",
+    "category": "GearName_Shoes"
+  },
+  "ロッキンイエロー": {
+    "jp": "ロッキンイエロー",
+    "target": "搖滾靴 黃色",
+    "category": "GearName_Shoes"
+  },
+  "レイニーシャボン": {
+    "jp": "レイニーシャボン",
+    "target": "雨靴 泡泡",
+    "category": "GearName_Shoes"
+  },
+  "ミルキーダウンブーツ": {
+    "jp": "ミルキーダウンブーツ",
+    "target": "羽絨靴 牛乳",
+    "category": "GearName_Shoes"
+  },
+  "アイスダウンブーツ": {
+    "jp": "アイスダウンブーツ",
+    "target": "羽絨靴 冰原",
+    "category": "GearName_Shoes"
+  },
+  "ハンティングブーツ": {
+    "jp": "ハンティングブーツ",
+    "target": "狩獵靴",
+    "category": "GearName_Shoes"
+  },
+  "ロッキンブラック": {
+    "jp": "ロッキンブラック",
+    "target": "搖滾靴 黑色",
+    "category": "GearName_Shoes"
+  },
+  "シンカイレザーブーツ": {
+    "jp": "シンカイレザーブーツ",
+    "target": "深海皮靴",
+    "category": "GearName_Shoes"
+  },
+  "アナアキスパイダー6ホール": {
+    "jp": "アナアキスパイダー6ホール",
+    "target": "無法無天蜘蛛網6孔靴",
+    "category": "GearName_Shoes"
+  },
+  "シンリョクレザーブーツ": {
+    "jp": "シンリョクレザーブーツ",
+    "target": "深綠皮靴",
+    "category": "GearName_Shoes"
+  },
+  "チャバハンティングブーツ": {
+    "jp": "チャバハンティングブーツ",
+    "target": "茶吧狩獵靴",
+    "category": "GearName_Shoes"
+  },
+  "モトクロスM-DCB": {
+    "jp": "モトクロスM-DCB",
+    "target": "越野摩托車靴M-DCB",
+    "category": "GearName_Shoes"
+  },
+  "ヌバックブーツxSJ": {
+    "jp": "ヌバックブーツxSJ",
+    "target": "磨砂皮革靴xSJ",
+    "category": "GearName_Shoes"
+  },
+  "ダックブーツ スノウ": {
+    "jp": "ダックブーツ スノウ",
+    "target": "獵鴨靴 白雪",
+    "category": "GearName_Shoes"
+  },
+  "ダックブーツ ブッシュ": {
+    "jp": "ダックブーツ ブッシュ",
+    "target": "獵鴨靴 灌木",
+    "category": "GearName_Shoes"
+  },
+  "カセブカブーツ レッド": {
+    "jp": "カセブカブーツ レッド",
+    "target": "雙髻鯊靴 紅色",
+    "category": "GearName_Shoes"
+  },
+  "カセブカブーツ ダップル": {
+    "jp": "カセブカブーツ ダップル",
+    "target": "雙髻鯊靴 斑紋",
+    "category": "GearName_Shoes"
+  },
+  "ロッキンピンク": {
+    "jp": "ロッキンピンク",
+    "target": "搖滾靴 粉紅色",
+    "category": "GearName_Shoes"
+  },
+  "ウォームブーツ": {
+    "jp": "ウォームブーツ",
+    "target": "暖暖靴",
+    "category": "GearName_Shoes"
+  },
+  "カモチャームブーツ": {
+    "jp": "カモチャームブーツ",
+    "target": "配飾迷彩靴",
+    "category": "GearName_Shoes"
+  },
+  "モトクロスM-DCR": {
+    "jp": "モトクロスM-DCR",
+    "target": "越野摩托車靴M-DCR",
+    "category": "GearName_Shoes"
+  },
+  "ダックブーツ カクタス": {
+    "jp": "ダックブーツ カクタス",
+    "target": "獵鴨靴 仙人掌",
+    "category": "GearName_Shoes"
+  },
+  "エンジニアブーツ": {
+    "jp": "エンジニアブーツ",
+    "target": "工程師靴",
+    "category": "GearName_Shoes"
+  },
+  "ブルーベリーコンフォート": {
+    "jp": "ブルーベリーコンフォート",
+    "target": "休閒鞋 藍莓",
+    "category": "GearName_Shoes"
+  },
+  "アケビコンフォート": {
+    "jp": "アケビコンフォート",
+    "target": "休閒鞋 阿科比果",
+    "category": "GearName_Shoes"
+  },
+  "マッドラバー": {
+    "jp": "マッドラバー",
+    "target": "憤怒厚底鞋",
+    "category": "GearName_Shoes"
+  },
+  "ノンスリップタクミ": {
+    "jp": "ノンスリップタクミ",
+    "target": "防滑反折靴",
+    "category": "GearName_Shoes"
+  },
+  "ゾネスティックブーツ": {
+    "jp": "ゾネスティックブーツ",
+    "target": "女戰士風靴",
+    "category": "GearName_Shoes"
+  },
+  "チギリノヒモ": {
+    "jp": "チギリノヒモ",
+    "target": "結拜繩",
+    "category": "GearName_Shoes"
+  },
+  "ゲソバタアシスト": {
+    "jp": "ゲソバタアシスト",
+    "target": "魷魚蛙鞋",
+    "category": "GearName_Shoes"
+  },
+  "バンカラコロン": {
+    "jp": "バンカラコロン",
+    "target": "蠻頹木屐",
+    "category": "GearName_Shoes"
+  },
+  "ローラーシューズGT": {
+    "jp": "ローラーシューズGT",
+    "target": "輪滑鞋GT",
+    "category": "GearName_Shoes"
+  },
+  "カリスマシンガーブーツ": {
+    "jp": "カリスマシンガーブーツ",
+    "target": "魅力超群歌手靴",
+    "category": "GearName_Shoes"
+  },
+  "ノックアウトシューズ": {
+    "jp": "ノックアウトシューズ",
+    "target": "完勝鞋",
+    "category": "GearName_Shoes"
+  },
+  "キャンバス ホワイト": {
+    "jp": "キャンバス ホワイト",
+    "target": "帆布鞋 白色",
+    "category": "GearName_Shoes"
+  },
+  "ノーリーチャッカ ヒメイト": {
+    "jp": "ノーリーチャッカ ヒメイト",
+    "target": "滑板查卡靴 姬伴",
+    "category": "GearName_Shoes"
+  },
+  "エギング4 ヒメキン": {
+    "jp": "エギング4 ヒメキン",
+    "target": "餌木釣鞋4 小姬金",
+    "category": "GearName_Shoes"
+  },
+  "ロッキンクラウン": {
+    "jp": "ロッキンクラウン",
+    "target": "搖滾靴 皇冠",
+    "category": "GearName_Shoes"
+  },
+  "アカツキアローズ": {
+    "jp": "アカツキアローズ",
+    "target": "箭標鞋 拂曉",
+    "category": "GearName_Shoes"
+  },
+  "ノーリーチャッカ イイダチ": {
+    "jp": "ノーリーチャッカ イイダチ",
+    "target": "滑板查卡靴 飯友",
+    "category": "GearName_Shoes"
+  },
+  "エギング4 イイマリ": {
+    "jp": "エギング4 イイマリ",
+    "target": "餌木釣鞋4 飯田藍",
+    "category": "GearName_Shoes"
+  },
+  "パワーストリップ トルーパー": {
+    "jp": "パワーストリップ トルーパー",
+    "target": "能力條紋鞋 士兵",
+    "category": "GearName_Shoes"
+  },
+  "ミッドナイトスリッポン": {
+    "jp": "ミッドナイトスリッポン",
+    "target": "懶人鞋 午夜",
+    "category": "GearName_Shoes"
+  },
+  "エギング3xHF": {
+    "jp": "エギング3xHF",
+    "target": "餌木釣鞋3xHF",
+    "category": "GearName_Shoes"
+  },
+  "エギング3xOU": {
+    "jp": "エギング3xOU",
+    "target": "餌木釣鞋3xOU",
+    "category": "GearName_Shoes"
+  },
+  "エギング3xMT": {
+    "jp": "エギング3xMT",
+    "target": "餌木釣鞋3xMT",
+    "category": "GearName_Shoes"
+  },
+  "スリミクロッグ クサリ": {
+    "jp": "スリミクロッグ クサリ",
+    "target": "魚漿鱷魚鞋 鎖鍊",
+    "category": "GearName_Shoes"
+  },
+  "スリミクロッグ スタッズ": {
+    "jp": "スリミクロッグ スタッズ",
+    "target": "魚漿鱷魚鞋 鉚釘",
+    "category": "GearName_Shoes"
+  },
+  "スリミクロッグ マーブル": {
+    "jp": "スリミクロッグ マーブル",
+    "target": "魚漿鱷魚鞋 墨流",
+    "category": "GearName_Shoes"
+  },
+  "サンモンヨウダックブーツ": {
+    "jp": "サンモンヨウダックブーツ",
+    "target": "三重花紋獵鴨靴",
+    "category": "GearName_Shoes"
+  },
+  "サンモンヨウキャンバスHi": {
+    "jp": "サンモンヨウキャンバスHi",
+    "target": "三重花紋高筒帆布鞋",
+    "category": "GearName_Shoes"
+  },
+  "サンモンヨウシャワサン": {
+    "jp": "サンモンヨウシャワサン",
+    "target": "三重花紋浴室拖鞋",
+    "category": "GearName_Shoes"
+  },
+  "ラバーソール ホワイト": {
+    "jp": "ラバーソール ホワイト",
+    "target": "厚底鞋 白色",
+    "category": "GearName_Shoes"
+  },
+  "ラバーソール チェリー": {
+    "jp": "ラバーソール チェリー",
+    "target": "厚底鞋 櫻桃",
+    "category": "GearName_Shoes"
+  },
+  "ラバーソール ターコイズ": {
+    "jp": "ラバーソール ターコイズ",
+    "target": "厚底鞋 綠松石",
+    "category": "GearName_Shoes"
+  },
+  "イカスミチップ": {
+    "jp": "イカスミチップ",
+    "target": "魷魚墨汁雕花鞋",
+    "category": "GearName_Shoes"
+  },
+  "イカヤキチップ": {
+    "jp": "イカヤキチップ",
+    "target": "烤魷魚雕花鞋",
+    "category": "GearName_Shoes"
+  },
+  "イカボウズキャメル": {
+    "jp": "イカボウズキャメル",
+    "target": "魷魚僧侶鞋 駝色",
+    "category": "GearName_Shoes"
+  },
+  "スモークチップ": {
+    "jp": "スモークチップ",
+    "target": "煙霧雕花鞋",
+    "category": "GearName_Shoes"
+  },
+  "ネイビーチップ レッドソール": {
+    "jp": "ネイビーチップ レッドソール",
+    "target": "海軍雕花鞋 紅底",
+    "category": "GearName_Shoes"
+  },
+  "グレーチップ イエローソール": {
+    "jp": "グレーチップ イエローソール",
+    "target": "灰色雕花鞋 黃底",
+    "category": "GearName_Shoes"
+  },
+  "イカボウズジェットブラック": {
+    "jp": "イカボウズジェットブラック",
+    "target": "魷魚僧侶鞋 噴射黑",
+    "category": "GearName_Shoes"
+  },
+  "アナアキラバー ハバネロ": {
+    "jp": "アナアキラバー ハバネロ",
+    "target": "無法無天厚底鞋 哈瓦那辣椒",
+    "category": "GearName_Shoes"
+  },
+  "アナアキラバー フェイク": {
+    "jp": "アナアキラバー フェイク",
+    "target": "無法無天厚底鞋 爵士經典",
+    "category": "GearName_Shoes"
+  },
+  "チャッカブーツ サンド": {
+    "jp": "チャッカブーツ サンド",
+    "target": "查卡靴 三明治",
+    "category": "GearName_Shoes"
+  },
+  "デッキシューズ フカイリ": {
+    "jp": "デッキシューズ フカイリ",
+    "target": "帆船鞋 深咖啡色",
+    "category": "GearName_Shoes"
+  },
+  "デッキシューズ ブレンド": {
+    "jp": "デッキシューズ ブレンド",
+    "target": "帆船鞋 混色",
+    "category": "GearName_Shoes"
+  },
+  "シーホースビットローファー": {
+    "jp": "シーホースビットローファー",
+    "target": "海馬皮革樂福鞋",
+    "category": "GearName_Shoes"
+  },
+  "ヒーローキックス レプリカ": {
+    "jp": "ヒーローキックス レプリカ",
+    "target": "英雄鞋 複製",
+    "category": "GearName_Shoes"
+  },
+  "アーマーブーツ レプリカ": {
+    "jp": "アーマーブーツ レプリカ",
+    "target": "盔甲靴 複製",
+    "category": "GearName_Shoes"
+  },
+  "ケタコゾネスブーツ": {
+    "jp": "ケタコゾネスブーツ",
+    "target": "絨毛章魚女戰士靴",
+    "category": "GearName_Shoes"
+  },
+  "サバイバルフット": {
+    "jp": "サバイバルフット",
+    "target": "生存鞋子",
+    "category": "GearName_Shoes"
+  },
+  "ヒーローブーツLv1": {
+    "jp": "ヒーローブーツLv1",
+    "target": "英雄靴Lv1",
+    "category": "GearName_Shoes"
+  },
+  "ヒーローブーツLv2": {
+    "jp": "ヒーローブーツLv2",
+    "target": "英雄靴Lv2",
+    "category": "GearName_Shoes"
+  },
+  "ヒーローブーツLv3": {
+    "jp": "ヒーローブーツLv3",
+    "target": "英雄靴Lv3",
+    "category": "GearName_Shoes"
+  },
+  "ヒーローブーツST": {
+    "jp": "ヒーローブーツST",
+    "target": "英雄靴ST",
+    "category": "GearName_Shoes"
+  },
+  "ヒーローブーツ レプリカ": {
+    "jp": "ヒーローブーツ レプリカ",
+    "target": "英雄靴 複製",
+    "category": "GearName_Shoes"
+  },
+  "サバイバルフット レプリカ": {
+    "jp": "サバイバルフット レプリカ",
+    "target": "生存鞋子 複製",
+    "category": "GearName_Shoes"
+  },
+  "でんせつのゾーリ": {
+    "jp": "でんせつのゾーリ",
+    "target": "傳說的草鞋",
+    "category": "GearName_Shoes"
+  },
+  "コマンダーゾーリ レプリカ": {
+    "jp": "コマンダーゾーリ レプリカ",
+    "target": "指揮官人字拖 複製",
+    "category": "GearName_Shoes"
+  },
+  "オイスタークロッグ": {
+    "jp": "オイスタークロッグ",
+    "target": "鱷魚鞋 牡蠣",
+    "category": "GearName_Shoes"
+  },
+  "チョコクロッグ": {
+    "jp": "チョコクロッグ",
+    "target": "鱷魚鞋 巧克力",
+    "category": "GearName_Shoes"
+  },
+  "デルタストラップ ネオン": {
+    "jp": "デルタストラップ ネオン",
+    "target": "三角帶運動涼鞋 霓虹",
+    "category": "GearName_Shoes"
+  },
+  "BBサンダル": {
+    "jp": "BBサンダル",
+    "target": "BB拖鞋",
+    "category": "GearName_Shoes"
+  },
+  "デルタストラップ スノー": {
+    "jp": "デルタストラップ スノー",
+    "target": "三角帶運動涼鞋 雪白",
+    "category": "GearName_Shoes"
+  },
+  "デルタストラップ ルミナス": {
+    "jp": "デルタストラップ ルミナス",
+    "target": "三角帶運動涼鞋 光亮",
+    "category": "GearName_Shoes"
+  },
+  "ヤキフグシャワサン アカ": {
+    "jp": "ヤキフグシャワサン アカ",
+    "target": "燒河豚浴室拖鞋 紅色",
+    "category": "GearName_Shoes"
+  },
+  "ヤキフグシャワサン キ": {
+    "jp": "ヤキフグシャワサン キ",
+    "target": "燒河豚浴室拖鞋 黃色",
+    "category": "GearName_Shoes"
+  },
+  "フジツボペタサン": {
+    "jp": "フジツボペタサン",
+    "target": "藤壺平底拖鞋",
+    "category": "GearName_Shoes"
+  },
+  "フィッシュボーンワラチ": {
+    "jp": "フィッシュボーンワラチ",
+    "target": "魚骨編織涼鞋",
+    "category": "GearName_Shoes"
+  },
+  "アローズサンダル アオキ": {
+    "jp": "アローズサンダル アオキ",
+    "target": "箭標拖鞋 藍黃色",
+    "category": "GearName_Shoes"
+  },
+  "BSサンダル": {
+    "jp": "BSサンダル",
+    "target": "BS拖鞋",
+    "category": "GearName_Shoes"
+  },
+  "ベリベリサン オレンジ": {
+    "jp": "ベリベリサン オレンジ",
+    "target": "非常非常拖鞋 橘色",
+    "category": "GearName_Shoes"
+  },
+  "アローズサンダル ムラキ": {
+    "jp": "アローズサンダル ムラキ",
+    "target": "箭標拖鞋 紫黃色",
+    "category": "GearName_Shoes"
+  },
+  "アナアキストラップ レザー": {
+    "jp": "アナアキストラップ レザー",
+    "target": "無法無天運動涼鞋 皮革",
+    "category": "GearName_Shoes"
+  },
+  "イカボーンサンダル": {
+    "jp": "イカボーンサンダル",
+    "target": "魷魚骨拖鞋",
+    "category": "GearName_Shoes"
+  },
+  "ベリベリサン マゼンタ": {
+    "jp": "ベリベリサン マゼンタ",
+    "target": "非常非常拖鞋 洋紅色",
+    "category": "GearName_Shoes"
+  },
+  "ベリベリサン シアン": {
+    "jp": "ベリベリサン シアン",
+    "target": "非常非常拖鞋 綠藍色",
+    "category": "GearName_Shoes"
+  },
+  "エゾックロッグ ネイビー": {
+    "jp": "エゾックロッグ ネイビー",
+    "target": "澤酷鱷魚鞋 海軍藍",
+    "category": "GearName_Shoes"
+  },
+  "エゾックロッグ レッド": {
+    "jp": "エゾックロッグ レッド",
+    "target": "澤酷鱷魚鞋 紅色",
+    "category": "GearName_Shoes"
+  },
+  "エゾックロッグ イエロー": {
+    "jp": "エゾックロッグ イエロー",
+    "target": "澤酷鱷魚鞋 黃色",
+    "category": "GearName_Shoes"
+  },
+  "エゾックロッグ グリーン": {
+    "jp": "エゾックロッグ グリーン",
+    "target": "澤酷鱷魚鞋 綠色",
+    "category": "GearName_Shoes"
+  },
+  "イカニラミサボ": {
+    "jp": "イカニラミサボ",
+    "target": "魷魚交鋒木底鞋",
+    "category": "GearName_Shoes"
+  },
+  "ホネナラベサボ": {
+    "jp": "ホネナラベサボ",
+    "target": "魚骨木底鞋",
+    "category": "GearName_Shoes"
+  },
+  "オーダーシューズ レプリカ": {
+    "jp": "オーダーシューズ レプリカ",
+    "target": "秩序鞋 複製",
+    "category": "GearName_Shoes"
+  },
+  "シーホースHi レッド": {
+    "jp": "シーホースHi レッド",
+    "target": "高筒海馬鞋 紅色",
+    "category": "GearName_Shoes"
+  },
+  "シーホースHi ゾンビ": {
+    "jp": "シーホースHi ゾンビ",
+    "target": "高筒海馬鞋 殭屍",
+    "category": "GearName_Shoes"
+  },
+  "キャンバスHi マッシュルーム": {
+    "jp": "キャンバスHi マッシュルーム",
+    "target": "高筒帆布鞋 蘑菇",
+    "category": "GearName_Shoes"
+  },
+  "シーホースHi パープル": {
+    "jp": "シーホースHi パープル",
+    "target": "高筒海馬鞋 紫色",
+    "category": "GearName_Shoes"
+  },
+  "キャンバスHi モロヘイヤ": {
+    "jp": "キャンバスHi モロヘイヤ",
+    "target": "高筒帆布鞋 黃麻",
+    "category": "GearName_Shoes"
+  },
+  "キャンバスHi トマト": {
+    "jp": "キャンバスHi トマト",
+    "target": "高筒帆布鞋 番茄",
+    "category": "GearName_Shoes"
+  },
+  "シーホースHi ゴールド": {
+    "jp": "シーホースHi ゴールド",
+    "target": "高筒海馬鞋 金色",
+    "category": "GearName_Shoes"
+  },
+  "シャークモカシン": {
+    "jp": "シャークモカシン",
+    "target": "莫卡辛鞋 鯊魚",
+    "category": "GearName_Shoes"
+  },
+  "ジョーズモカシン": {
+    "jp": "ジョーズモカシン",
+    "target": "莫卡辛鞋 大白鯊",
+    "category": "GearName_Shoes"
+  },
+  "デカロニックチョコレート": {
+    "jp": "デカロニックチョコレート",
+    "target": "貝殼鞋 巧克力",
+    "category": "GearName_Shoes"
+  },
+  "デカロニックミント": {
+    "jp": "デカロニックミント",
+    "target": "貝殼鞋 薄荷",
+    "category": "GearName_Shoes"
+  },
+  "デカロニックブラック": {
+    "jp": "デカロニックブラック",
+    "target": "貝殼鞋 黑色",
+    "category": "GearName_Shoes"
+  },
+  "ピラニアモカシン": {
+    "jp": "ピラニアモカシン",
+    "target": "莫卡辛鞋 食人魚",
+    "category": "GearName_Shoes"
+  },
+  "ノリマキ750 ホワイト": {
+    "jp": "ノリマキ750 ホワイト",
+    "target": "海苔捲鞋750 白色",
+    "category": "GearName_Shoes"
+  },
+  "ノリマキ750 ブラック": {
+    "jp": "ノリマキ750 ブラック",
+    "target": "海苔捲鞋750 黑色",
+    "category": "GearName_Shoes"
+  },
+  "オルカHi サンセット": {
+    "jp": "オルカHi サンセット",
+    "target": "虎鯨高筒鞋 日落",
+    "category": "GearName_Shoes"
+  },
+  "エギング4 アカクロ": {
+    "jp": "エギング4 アカクロ",
+    "target": "餌木釣鞋4 紅配黑",
+    "category": "GearName_Shoes"
+  },
+  "エギング4 アオクロ": {
+    "jp": "エギング4 アオクロ",
+    "target": "餌木釣鞋4 藍配黑",
+    "category": "GearName_Shoes"
+  },
+  "ウミウシタウンHi グレー": {
+    "jp": "ウミウシタウンHi グレー",
+    "target": "海蛞蝓鎮高筒鞋 灰色",
+    "category": "GearName_Shoes"
+  },
+  "オルカHi": {
+    "jp": "オルカHi",
+    "target": "虎鯨高筒鞋",
+    "category": "GearName_Shoes"
+  },
+  "エンペリアルNV": {
+    "jp": "エンペリアルNV",
+    "target": "皇家靴 海軍",
+    "category": "GearName_Shoes"
+  },
+  "ウミウシタウンHi アンバー": {
+    "jp": "ウミウシタウンHi アンバー",
+    "target": "海蛞蝓鎮高筒鞋 琥珀",
+    "category": "GearName_Shoes"
+  },
+  "イロマキ750 イエロー": {
+    "jp": "イロマキ750 イエロー",
+    "target": "綜合捲鞋750 黃色",
+    "category": "GearName_Shoes"
+  },
+  "エギング5 シロアカ": {
+    "jp": "エギング5 シロアカ",
+    "target": "餌木釣鞋5 白配紅",
+    "category": "GearName_Shoes"
+  },
+  "エギング5 ハニオレ": {
+    "jp": "エギング5 ハニオレ",
+    "target": "餌木釣鞋5 蜂蜜橘子",
+    "category": "GearName_Shoes"
+  },
+  "エギング4 キイコン": {
+    "jp": "エギング4 キイコン",
+    "target": "餌木釣鞋4 黃配深藍",
+    "category": "GearName_Shoes"
+  },
+  "オルカHi ウーブン": {
+    "jp": "オルカHi ウーブン",
+    "target": "虎鯨高筒鞋 梭織",
+    "category": "GearName_Shoes"
+  },
+  "イロマキ750 グリーン": {
+    "jp": "イロマキ750 グリーン",
+    "target": "綜合捲鞋750 綠色",
+    "category": "GearName_Shoes"
+  },
+  "イロマキ750 パープル": {
+    "jp": "イロマキ750 パープル",
+    "target": "綜合捲鞋750 紫色",
+    "category": "GearName_Shoes"
+  },
+  "イロマキ750 レッド": {
+    "jp": "イロマキ750 レッド",
+    "target": "綜合捲鞋750 紅色",
+    "category": "GearName_Shoes"
+  },
+  "イロマキ750 ブルー": {
+    "jp": "イロマキ750 ブルー",
+    "target": "綜合捲鞋750 藍色",
+    "category": "GearName_Shoes"
+  },
+  "イロマキ750 オレンジ": {
+    "jp": "イロマキ750 オレンジ",
+    "target": "綜合捲鞋750 橘色",
+    "category": "GearName_Shoes"
+  },
+  "パワーストリップ アカアシ": {
+    "jp": "パワーストリップ アカアシ",
+    "target": "能力條紋鞋 紅色",
+    "category": "GearName_Shoes"
+  },
+  "パワーストリップ アオアシ": {
+    "jp": "パワーストリップ アオアシ",
+    "target": "能力條紋鞋 藍色",
+    "category": "GearName_Shoes"
+  },
+  "ストリップ タタキベッチュー": {
+    "jp": "ストリップ タタキベッチュー",
+    "target": "條紋鞋 劍尖魷特製",
+    "category": "GearName_Shoes"
+  },
+  "ゴマシオ270": {
+    "jp": "ゴマシオ270",
+    "target": "芝麻鹽巴鞋270",
+    "category": "GearName_Shoes"
+  },
+  "エギング5 クロアオ": {
+    "jp": "エギング5 クロアオ",
+    "target": "餌木釣鞋5 黑配藍",
+    "category": "GearName_Shoes"
+  },
+  "オルカHi パッション": {
+    "jp": "オルカHi パッション",
+    "target": "虎鯨高筒鞋 熱情",
+    "category": "GearName_Shoes"
+  },
+  "キャンバスHi トリュフ": {
+    "jp": "キャンバスHi トリュフ",
+    "target": "高筒帆布鞋 松露",
+    "category": "GearName_Shoes"
+  },
+  "パワーリセットHi": {
+    "jp": "パワーリセットHi",
+    "target": "能力重置高筒鞋",
+    "category": "GearName_Shoes"
+  },
+  "テンヤ8 レッド": {
+    "jp": "テンヤ8 レッド",
+    "target": "天亞8籃球鞋 紅色",
+    "category": "GearName_Shoes"
+  },
+  "テンヤ8 パープル": {
+    "jp": "テンヤ8 パープル",
+    "target": "天亞8籃球鞋 紫色",
+    "category": "GearName_Shoes"
+  },
+  "01STER コハク": {
+    "jp": "01STER コハク",
+    "target": "01STER 琥珀",
+    "category": "GearName_Shoes"
+  },
+  "ウノアシHi": {
+    "jp": "ウノアシHi",
+    "target": "鵜足青螺高筒鞋",
+    "category": "GearName_Shoes"
+  },
+  "カモスニーカー ドトン": {
+    "jp": "カモスニーカー ドトン",
+    "target": "迷彩運動鞋 土遁",
+    "category": "GearName_Shoes"
+  },
+  "カモスニーカー スイトン": {
+    "jp": "カモスニーカー スイトン",
+    "target": "迷彩運動鞋 水遁",
+    "category": "GearName_Shoes"
+  },
+  "パーチHi ホワイト": {
+    "jp": "パーチHi ホワイト",
+    "target": "河鱸高筒鞋 白色",
+    "category": "GearName_Shoes"
+  },
+  "エギング3 アオクロシロ": {
+    "jp": "エギング3 アオクロシロ",
+    "target": "餌木釣鞋3 藍黑白",
+    "category": "GearName_Shoes"
+  },
+  "エギング3 アカシロクロ": {
+    "jp": "エギング3 アカシロクロ",
+    "target": "餌木釣鞋3 紅白黑",
+    "category": "GearName_Shoes"
+  },
+  "01STER カンロ": {
+    "jp": "01STER カンロ",
+    "target": "01STER 甘露醬油",
+    "category": "GearName_Shoes"
+  },
+  "エギング3 ZY": {
+    "jp": "エギング3 ZY",
+    "target": "餌木釣鞋3 ZY",
+    "category": "GearName_Shoes"
+  },
+  "ピンクビーンズ": {
+    "jp": "ピンクビーンズ",
+    "target": "糖果運動鞋 粉紅色",
+    "category": "GearName_Shoes"
+  },
+  "オレンジアローズ": {
+    "jp": "オレンジアローズ",
+    "target": "箭標鞋 橘色",
+    "category": "GearName_Shoes"
+  },
+  "ウミウシイエロー": {
+    "jp": "ウミウシイエロー",
+    "target": "海蛞蝓鞋 黃色",
+    "category": "GearName_Shoes"
+  },
+  "ホワイトアローズ": {
+    "jp": "ホワイトアローズ",
+    "target": "箭標鞋 白色",
+    "category": "GearName_Shoes"
+  },
+  "シアンビーンズ": {
+    "jp": "シアンビーンズ",
+    "target": "糖果運動鞋 藍綠色",
+    "category": "GearName_Shoes"
+  },
+  "ウミウシブルー": {
+    "jp": "ウミウシブルー",
+    "target": "海蛞蝓鞋 藍色",
+    "category": "GearName_Shoes"
+  },
+  "ウミウシレッド": {
+    "jp": "ウミウシレッド",
+    "target": "海蛞蝓鞋 紅色",
+    "category": "GearName_Shoes"
+  },
+  "ウミウシパープル": {
+    "jp": "ウミウシパープル",
+    "target": "海蛞蝓鞋 紫色",
+    "category": "GearName_Shoes"
+  },
+  "クレイジーアローズ": {
+    "jp": "クレイジーアローズ",
+    "target": "箭標鞋 狂熱",
+    "category": "GearName_Shoes"
+  },
+  "ブラックビーンズ": {
+    "jp": "ブラックビーンズ",
+    "target": "糖果運動鞋 黑色",
+    "category": "GearName_Shoes"
+  },
+  "スミレビーンズ": {
+    "jp": "スミレビーンズ",
+    "target": "糖果運動鞋 紫花地丁",
+    "category": "GearName_Shoes"
+  },
+  "カナリアビーンズ": {
+    "jp": "カナリアビーンズ",
+    "target": "糖果運動鞋 金絲雀",
+    "category": "GearName_Shoes"
+  },
+  "アロメッシュイエロー": {
+    "jp": "アロメッシュイエロー",
+    "target": "艾洛網眼運動鞋 黃色",
+    "category": "GearName_Shoes"
+  },
+  "アローズ タタキベッチュー": {
+    "jp": "アローズ タタキベッチュー",
+    "target": "箭標鞋 劍尖魷特製",
+    "category": "GearName_Shoes"
+  },
+  "アロメッシュバーミリオン": {
+    "jp": "アロメッシュバーミリオン",
+    "target": "艾洛網眼運動鞋 朱紅色",
+    "category": "GearName_Shoes"
+  },
+  "エンペーサーCaO": {
+    "jp": "エンペーサーCaO",
+    "target": "皇耆鞋CaO",
+    "category": "GearName_Shoes"
+  },
+  "エンペーサーAg": {
+    "jp": "エンペーサーAg",
+    "target": "皇耆鞋Ag",
+    "category": "GearName_Shoes"
+  },
+  "エンペーサーAu": {
+    "jp": "エンペーサーAu",
+    "target": "皇耆鞋Au",
+    "category": "GearName_Shoes"
+  },
+  "ウミウシボルト95": {
+    "jp": "ウミウシボルト95",
+    "target": "海蛞蝓鞋 伏特95",
+    "category": "GearName_Shoes"
+  },
+  "アスレチックアローズ": {
+    "jp": "アスレチックアローズ",
+    "target": "箭標鞋 運動",
+    "category": "GearName_Shoes"
+  },
+  "イカサシ スクランブル": {
+    "jp": "イカサシ スクランブル",
+    "target": "魷魚生魚片 Scramble",
+    "category": "GearName_Shoes"
+  },
+  "グッピーフラミンゴ": {
+    "jp": "グッピーフラミンゴ",
+    "target": "佛朗明哥孔雀魚運動鞋",
+    "category": "GearName_Shoes"
+  },
+  "MOVEレッド": {
+    "jp": "MOVEレッド",
+    "target": "MOVE跑鞋 紅色",
+    "category": "GearName_Shoes"
+  },
+  "シェルバシラWO": {
+    "jp": "シェルバシラWO",
+    "target": "貝殼柱WO",
+    "category": "GearName_Shoes"
+  },
+  "フカヒレニマイバ": {
+    "jp": "フカヒレニマイバ",
+    "target": "雙魚翅",
+    "category": "GearName_Shoes"
+  },
+  "シャコナックル": {
+    "jp": "シャコナックル",
+    "target": "蝦蛄關節運動鞋",
+    "category": "GearName_Shoes"
+  },
+  "クラゲイターAKA": {
+    "jp": "クラゲイターAKA",
+    "target": "水母套鞋AKA",
+    "category": "GearName_Shoes"
+  },
+  "クラゲイターMIZ": {
+    "jp": "クラゲイターMIZ",
+    "target": "水母套鞋MIZ",
+    "category": "GearName_Shoes"
+  },
+  "グッピーフルブラック": {
+    "jp": "グッピーフルブラック",
+    "target": "純黑孔雀魚運動鞋",
+    "category": "GearName_Shoes"
+  },
+  "グリッチョ ブルー": {
+    "jp": "グリッチョ ブルー",
+    "target": "低筒鞋 藍色",
+    "category": "GearName_Shoes"
+  },
+  "キャンバス バナナ": {
+    "jp": "キャンバス バナナ",
+    "target": "帆布鞋 香蕉",
+    "category": "GearName_Shoes"
+  },
+  "グリッチョ グリーン 限定版": {
+    "jp": "グリッチョ グリーン 限定版",
+    "target": "低筒鞋 綠色限定版",
+    "category": "GearName_Shoes"
+  },
+  "シーホース ホワイト": {
+    "jp": "シーホース ホワイト",
+    "target": "海馬鞋 白色",
+    "category": "GearName_Shoes"
+  },
+  "グリッチョ オレンジ": {
+    "jp": "グリッチョ オレンジ",
+    "target": "低筒鞋 橘色",
+    "category": "GearName_Shoes"
+  },
+  "シーホース ブラックレザー": {
+    "jp": "シーホース ブラックレザー",
+    "target": "海馬鞋 黑色皮革",
+    "category": "GearName_Shoes"
+  },
+  "キャンバス クマノミ": {
+    "jp": "キャンバス クマノミ",
+    "target": "帆布鞋 小丑魚",
+    "category": "GearName_Shoes"
+  },
+  "シーホース イエロー": {
+    "jp": "シーホース イエロー",
+    "target": "海馬鞋 黃色",
+    "category": "GearName_Shoes"
+  },
+  "ベリベリホワイト": {
+    "jp": "ベリベリホワイト",
+    "target": "魔鬼氈鞋 白色",
+    "category": "GearName_Shoes"
+  },
+  "ベリベリレッド": {
+    "jp": "ベリベリレッド",
+    "target": "魔鬼氈鞋 紅色",
+    "category": "GearName_Shoes"
+  },
+  "ユデスパイカ": {
+    "jp": "ユデスパイカ",
+    "target": "釘鞋 橙紅",
+    "category": "GearName_Shoes"
+  },
+  "レアスパイカ": {
+    "jp": "レアスパイカ",
+    "target": "釘鞋 稀有",
+    "category": "GearName_Shoes"
+  },
+  "ボルダーシューズ タイノエ": {
+    "jp": "ボルダーシューズ タイノエ",
+    "target": "攀岩鞋 食舌蟲",
+    "category": "GearName_Shoes"
+  },
+  "ボルダーシューズ ハザクラ": {
+    "jp": "ボルダーシューズ ハザクラ",
+    "target": "攀岩鞋 葉櫻",
+    "category": "GearName_Shoes"
+  },
+  "ヒモヒモグリーン": {
+    "jp": "ヒモヒモグリーン",
+    "target": "繫帶鞋 綠色",
+    "category": "GearName_Shoes"
+  },
+  "デカロノーレース ホワイト": {
+    "jp": "デカロノーレース ホワイト",
+    "target": "無鞋帶貝殼鞋 白色",
+    "category": "GearName_Shoes"
+  },
+  "デカロノーレース ブルー": {
+    "jp": "デカロノーレース ブルー",
+    "target": "無鞋帶貝殼鞋 藍色",
+    "category": "GearName_Shoes"
+  },
+  "ノーリーチャッカ グレー": {
+    "jp": "ノーリーチャッカ グレー",
+    "target": "滑板查卡靴 灰色",
+    "category": "GearName_Shoes"
+  },
+  "ノーリーチャッカ トライブ": {
+    "jp": "ノーリーチャッカ トライブ",
+    "target": "滑板查卡靴 民族風",
+    "category": "GearName_Shoes"
+  },
+  "ノーリーチャッカ ロビンズ": {
+    "jp": "ノーリーチャッカ ロビンズ",
+    "target": "滑板查卡靴 知更鳥",
+    "category": "GearName_Shoes"
+  },
+  "スパイカ タタキベッチュー": {
+    "jp": "スパイカ タタキベッチュー",
+    "target": "釘鞋 劍尖魷特製",
+    "category": "GearName_Shoes"
+  },
+  "NNJグリーン": {
+    "jp": "NNJグリーン",
+    "target": "NNJ運動鞋 綠色",
+    "category": "GearName_Shoes"
+  },
+  "ザ・ベース ルーキー": {
+    "jp": "ザ・ベース ルーキー",
+    "target": "基地訓練鞋 入門",
+    "category": "GearName_Shoes"
+  },
+  "クラム600 カンロ": {
+    "jp": "クラム600 カンロ",
+    "target": "蛤蜊600 甘露醬油",
+    "category": "GearName_Shoes"
+  },
+  "ザ・ベース ボス": {
+    "jp": "ザ・ベース ボス",
+    "target": "基地訓練鞋 高手",
+    "category": "GearName_Shoes"
+  },
+  "クラム600 コハク": {
+    "jp": "クラム600 コハク",
+    "target": "蛤蜊600 琥珀",
+    "category": "GearName_Shoes"
+  },
+  "サイクルシューズ エナジー": {
+    "jp": "サイクルシューズ エナジー",
+    "target": "單車鞋 能量",
+    "category": "GearName_Shoes"
+  },
+  "サイクルシューズ ソーダ": {
+    "jp": "サイクルシューズ ソーダ",
+    "target": "單車鞋 蘇打",
+    "category": "GearName_Shoes"
+  },
+  "スリッポン ブルー": {
+    "jp": "スリッポン ブルー",
+    "target": "懶人鞋 藍色",
+    "category": "GearName_Shoes"
+  },
+  "スリッポン レッド": {
+    "jp": "スリッポン レッド",
+    "target": "懶人鞋 紅色",
+    "category": "GearName_Shoes"
+  },
+  "スリッポン チドリ": {
+    "jp": "スリッポン チドリ",
+    "target": "懶人鞋 千鳥",
+    "category": "GearName_Shoes"
+  },
+  "スリッポン ポルカ": {
+    "jp": "スリッポン ポルカ",
+    "target": "懶人鞋 圓點",
+    "category": "GearName_Shoes"
+  },
+  "チゴフグスリッポン": {
+    "jp": "チゴフグスリッポン",
+    "target": "幼河豚懶人鞋",
+    "category": "GearName_Shoes"
+  },
+  "ジャッジメントフット": {
+    "jp": "ジャッジメントフット",
+    "target": "評審鞋",
+    "category": "GearName_Shoes"
+  },
+  "トレッキングライト": {
+    "jp": "トレッキングライト",
+    "target": "登山鞋 輕量",
+    "category": "GearName_Shoes"
+  },
+  "トレッキングカスタム": {
+    "jp": "トレッキングカスタム",
+    "target": "登山鞋 訂製",
+    "category": "GearName_Shoes"
+  },
+  "トレッキングプロ": {
+    "jp": "トレッキングプロ",
+    "target": "登山鞋 專業",
+    "category": "GearName_Shoes"
+  },
+  "バンカラマッチ（チャレンジ）": {
+    "jp": "バンカラマッチ（チャレンジ）",
+    "target": "蠻頹比賽（挑戰）",
+    "category": "MatchMode"
+  },
+  "バンカラマッチ（オープン）": {
+    "jp": "バンカラマッチ（オープン）",
+    "target": "蠻頹比賽（開放）",
+    "category": "MatchMode"
+  },
+  "プライベートバイト": {
+    "jp": "プライベートバイト",
+    "target": "私人打工",
+    "category": "MatchMode"
+  },
+  "バイトチームコンテスト": {
+    "jp": "バイトチームコンテスト",
+    "target": "團隊打工競賽",
+    "category": "MatchMode"
+  },
+  "フェスマッチ（チャレンジ）": {
+    "jp": "フェスマッチ（チャレンジ）",
+    "target": "祭典比賽（挑戰）",
+    "category": "MatchMode"
+  },
+  "フェスマッチ（オープン）": {
+    "jp": "フェスマッチ（オープン）",
+    "target": "祭典比賽（開放）",
+    "category": "MatchMode"
+  },
+  "トリカラマッチ": {
+    "jp": "トリカラマッチ",
+    "target": "三色奪寶比賽",
+    "category": "MatchMode"
+  },
+  "イベントマッチ": {
+    "jp": "イベントマッチ",
+    "target": "活動比賽",
+    "category": "MatchMode"
+  },
+  "ナワバトラー": {
+    "jp": "ナワバトラー",
+    "target": "占地鬥士",
+    "category": "MatchMode"
+  },
+  "プライベートマッチ": {
+    "jp": "プライベートマッチ",
+    "target": "私人比賽",
+    "category": "MatchMode"
+  },
+  "レギュラーマッチ": {
+    "jp": "レギュラーマッチ",
+    "target": "一般比賽",
+    "category": "MatchMode"
+  },
+  "ライアン": {
+    "jp": "ライアン",
+    "target": "萊恩",
+    "category": "Glossary"
+  },
+  "オルタナ": {
+    "jp": "オルタナ",
+    "target": "幻界",
+    "category": "Glossary"
+  },
+  "ゲソタウン": {
+    "jp": "ゲソタウン",
+    "target": "魷魚鬚商城",
+    "category": "Glossary"
+  },
+  "アタリメ": {
+    "jp": "アタリメ",
+    "target": "魚乾",
+    "category": "Glossary"
+  },
+  "バトルメモリー": {
+    "jp": "バトルメモリー",
+    "target": "對戰記憶",
+    "category": "Glossary"
+  },
+  "二つ名": {
+    "jp": "二つ名",
+    "target": "別名",
+    "category": "Glossary"
+  },
+  "カードパック": {
+    "jp": "カードパック",
+    "target": "卡包",
+    "category": "Glossary"
+  },
+  "フレッシュカードパック": {
+    "jp": "フレッシュカードパック",
+    "target": "新鮮卡包",
+    "category": "Glossary"
+  },
+  "カードスリーブ": {
+    "jp": "カードスリーブ",
+    "target": "卡套",
+    "category": "Glossary"
+  },
+  "グリル発進": {
+    "jp": "グリル発進",
+    "target": "烤架魚出動",
+    "category": "Glossary"
+  },
+  "キンシャケ探し": {
+    "jp": "キンシャケ探し",
+    "target": "尋找金鮭魚",
+    "category": "Glossary"
+  },
+  "ハコビヤ襲来": {
+    "jp": "ハコビヤ襲来",
+    "target": "走私魚來襲",
+    "category": "Glossary"
+  },
+  "ドスコイ大量発生": {
+    "jp": "ドスコイ大量発生",
+    "target": "大胖魚大量出現",
+    "category": "Glossary"
+  },
+  "巨大タツマキ": {
+    "jp": "巨大タツマキ",
+    "target": "巨型龍捲風",
+    "category": "Glossary"
+  },
+  "ラッシュ": {
+    "jp": "ラッシュ",
+    "target": "狂潮",
+    "category": "Glossary"
+  },
+  "ドロシャケ噴出": {
+    "jp": "ドロシャケ噴出",
+    "target": "泥鮭魚噴發",
+    "category": "Glossary"
+  },
+  "バイトシナリオ": {
+    "jp": "バイトシナリオ",
+    "target": "打工劇本",
+    "category": "Glossary"
+  },
+  "大会イベント用バイトシナリオ": {
+    "jp": "大会イベント用バイトシナリオ",
+    "target": "大賽活動用的打工劇本",
+    "category": "Glossary"
+  },
+  "クレーター": {
+    "jp": "クレーター",
+    "target": "荒界",
+    "category": "Glossary"
+  },
+  "イルカ": {
+    "jp": "イルカ",
+    "target": "海豚豚",
+    "category": "Glossary"
+  },
+  "エモート": {
+    "jp": "エモート",
+    "target": "表情",
+    "category": "Glossary"
+  },
+  "チゴフグ": {
+    "jp": "チゴフグ",
+    "target": "幼河豚",
+    "category": "Glossary"
+  },
+  "１００ケツ": {
+    "jp": "１００ケツ",
+    "target": "百傑",
+    "category": "Glossary"
+  },
+  "オミコシ": {
+    "jp": "オミコシ",
+    "target": "神轎",
+    "category": "Glossary"
+  },
+  "ヨビ祭": {
+    "jp": "ヨビ祭",
+    "target": "準備祭",
+    "category": "Glossary"
+  },
+  "本祭": {
+    "jp": "本祭",
+    "target": "正式祭",
+    "category": "Glossary"
+  },
+  "フェスポイント": {
+    "jp": "フェスポイント",
+    "target": "祭典點數",
+    "category": "Glossary"
+  },
+  "フェスランク": {
+    "jp": "フェスランク",
+    "target": "祭典等級",
+    "category": "Glossary"
+  },
+  "オマツリガイ": {
+    "jp": "オマツリガイ",
+    "target": "祭典貝",
+    "category": "Glossary"
+  },
+  "オキモノ": {
+    "jp": "オキモノ",
+    "target": "裝飾品",
+    "category": "Glossary"
+  },
+  "ユメエビ": {
+    "jp": "ユメエビ",
+    "target": "夢霞",
+    "category": "Glossary"
+  },
+  "ロブ": {
+    "jp": "ロブ",
+    "target": "阿龍",
+    "category": "Glossary"
+  },
+  "ハナガサ": {
+    "jp": "ハナガサ",
+    "target": "花笠",
+    "category": "Glossary"
+  },
+  "エチゼン": {
+    "jp": "エチゼン",
+    "target": "越前",
+    "category": "Glossary"
+  },
+  "ビゼン": {
+    "jp": "ビゼン",
+    "target": "備前",
+    "category": "Glossary"
+  },
+  "オームラ": {
+    "jp": "オームラ",
+    "target": "螺螺",
+    "category": "Glossary"
+  },
+  "アネモ": {
+    "jp": "アネモ",
+    "target": "小葵",
+    "category": "Glossary"
+  },
+  "クマノ": {
+    "jp": "クマノ",
+    "target": "小丑",
+    "category": "Glossary"
+  },
+  "ミウラ": {
+    "jp": "ミウラ",
+    "target": "海瑜",
+    "category": "Glossary"
+  },
+  "エビィ": {
+    "jp": "エビィ",
+    "target": "蝦米",
+    "category": "Glossary"
+  },
+  "タニシ店長": {
+    "jp": "タニシ店長",
+    "target": "田螺店長",
+    "category": "Glossary"
+  },
+  "ヤシガニさん": {
+    "jp": "ヤシガニさん",
+    "target": "椰子蟹先生",
+    "category": "Glossary"
+  },
+  "アジオ": {
+    "jp": "アジオ",
+    "target": "竹莢雄",
+    "category": "Glossary"
+  },
+  "シガニー": {
+    "jp": "シガニー",
+    "target": "蟹尼",
+    "category": "Glossary"
+  },
+  "パル子": {
+    "jp": "パル子",
+    "target": "脈子",
+    "category": "Glossary"
+  },
+  "グランドフェスティバル": {
+    "jp": "グランドフェスティバル",
+    "target": "大型祭典",
+    "category": "Glossary"
+  },
+  "クマサン端末": {
+    "jp": "クマサン端末",
+    "target": "熊先生設備",
+    "category": "Glossary"
+  },
+  "ハチ": {
+    "jp": "ハチ",
+    "target": "小八",
+    "category": "Glossary"
+  },
+  "８号": {
+    "jp": "８号",
+    "target": "8號",
+    "category": "Glossary"
+  },
+  "１号": {
+    "jp": "１号",
+    "target": "1號",
+    "category": "Glossary"
+  },
+  "Sea O'Colors\n(シオカラーズ)": {
+    "jp": "Sea O'Colors\n(シオカラーズ)",
+    "target": "Sea O'Colors\n（麻辣魷物）",
+    "category": "Glossary"
+  },
+  "インクリング": {
+    "jp": "インクリング",
+    "target": "魷魚族",
+    "category": "Glossary"
+  },
+  "ハイカラシティ": {
+    "jp": "ハイカラシティ",
+    "target": "尚興市",
+    "category": "Glossary"
+  },
+  "ハイカラスクエア": {
+    "jp": "ハイカラスクエア",
+    "target": "尚興廣場",
+    "category": "Glossary"
+  },
+  "ジャッジくん": {
+    "jp": "ジャッジくん",
+    "target": "評審",
+    "category": "Glossary"
+  },
+  "コジャッジくん": {
+    "jp": "コジャッジくん",
+    "target": "小評審",
+    "category": "Glossary"
+  },
+  "バトルポット": {
+    "jp": "バトルポット",
+    "target": "對戰壺",
+    "category": "Glossary"
+  },
+  "ロビー端末": {
+    "jp": "ロビー端末",
+    "target": "大廳設備",
+    "category": "Glossary"
+  },
+  "ダミイカ": {
+    "jp": "ダミイカ",
+    "target": "假魷魚",
+    "category": "Glossary"
+  },
+  "くじ引き": {
+    "jp": "くじ引き",
+    "target": "抽獎",
+    "category": "Glossary"
+  },
+  "くじ引きコイン": {
+    "jp": "くじ引きコイン",
+    "target": "抽獎金幣",
+    "category": "Glossary"
+  },
+  "しょしんしゃクラゲ": {
+    "jp": "しょしんしゃクラゲ",
+    "target": "新手水母",
+    "category": "Glossary"
+  },
+  "のんびりクラゲ": {
+    "jp": "のんびりクラゲ",
+    "target": "悠閒水母",
+    "category": "Glossary"
+  },
+  "まえむきクラゲ": {
+    "jp": "まえむきクラゲ",
+    "target": "獨當一面水母",
+    "category": "Glossary"
+  },
+  "ものまねクラゲ": {
+    "jp": "ものまねクラゲ",
+    "target": "模仿水母",
+    "category": "Glossary"
+  },
+  "ナワバトランク": {
+    "jp": "ナワバトランク",
+    "target": "占地鬥士等級",
+    "category": "Glossary"
+  },
+  "陣取大戦ナワバトラー": {
+    "jp": "陣取大戦ナワバトラー",
+    "target": "布陣大戰占地鬥士",
+    "category": "Glossary"
+  },
+  "ミズタ": {
+    "jp": "ミズタ",
+    "target": "水田",
+    "category": "Glossary"
+  },
+  "ヒーローモード": {
+    "jp": "ヒーローモード",
+    "target": "英雄模式",
+    "category": "Glossary"
+  },
+  "マザー": {
+    "jp": "マザー",
+    "target": "阿母",
+    "category": "Glossary"
+  },
+  "店員さん": {
+    "jp": "店員さん",
+    "target": "店員",
+    "category": "Glossary"
+  },
+  "スタッフさん": {
+    "jp": "スタッフさん",
+    "target": "員工",
+    "category": "Glossary"
+  },
+  "ガイドさん": {
+    "jp": "ガイドさん",
+    "target": "導覽員",
+    "category": "Glossary"
+  },
+  "ミステリーファイル": {
+    "jp": "ミステリーファイル",
+    "target": "神秘檔案",
+    "category": "Glossary"
+  },
+  "サイト": {
+    "jp": "サイト",
+    "target": "地域",
+    "category": "Glossary"
+  },
+  "ダメ風船": {
+    "jp": "ダメ風船",
+    "target": "失敗氣球",
+    "category": "Glossary"
+  },
+  "マト": {
+    "jp": "マト",
+    "target": "標靶",
+    "category": "Glossary"
+  },
+  "チェックポイント": {
+    "jp": "チェックポイント",
+    "target": "關卡點",
+    "category": "Glossary"
+  },
+  "スイッチ": {
+    "jp": "スイッチ",
+    "target": "開關",
+    "category": "Glossary"
+  },
+  "でんでんスイッチ": {
+    "jp": "でんでんスイッチ",
+    "target": "轉轉開關",
+    "category": "Glossary"
+  },
+  "ボム風船": {
+    "jp": "ボム風船",
+    "target": "炸彈氣球",
+    "category": "Glossary"
+  },
+  "スポンジ": {
+    "jp": "スポンジ",
+    "target": "海綿",
+    "category": "Glossary"
+  },
+  "カンケツセン": {
+    "jp": "カンケツセン",
+    "target": "噴泉",
+    "category": "Glossary"
+  },
+  "ピロピロ": {
+    "jp": "ピロピロ",
+    "target": "吹吹捲",
+    "category": "Glossary"
+  },
+  "プロペラ": {
+    "jp": "プロペラ",
+    "target": "螺旋槳",
+    "category": "Glossary"
+  },
+  "インクレール": {
+    "jp": "インクレール",
+    "target": "墨汁軌道",
+    "category": "Glossary"
+  },
+  "ライドレール": {
+    "jp": "ライドレール",
+    "target": "輸送軌道",
+    "category": "Glossary"
+  },
+  "ダッシュ板": {
+    "jp": "ダッシュ板",
+    "target": "衝刺板",
+    "category": "Glossary"
+  },
+  "ジャンプマット": {
+    "jp": "ジャンプマット",
+    "target": "跳躍墊",
+    "category": "Glossary"
+  },
+  "ヌリホイール": {
+    "jp": "ヌリホイール",
+    "target": "塗色輪子",
+    "category": "Glossary"
+  },
+  "ヘビブロック": {
+    "jp": "ヘビブロック",
+    "target": "蛇方塊",
+    "category": "Glossary"
+  },
+  "ふみスイッチ": {
+    "jp": "ふみスイッチ",
+    "target": "踩踏開關",
+    "category": "Glossary"
+  },
+  "エネルギーコア": {
+    "jp": "エネルギーコア",
+    "target": "能量核心",
+    "category": "Glossary"
+  },
+  "プロペラリフト": {
+    "jp": "プロペラリフト",
+    "target": "螺旋槳踏板",
+    "category": "Glossary"
+  },
+  "ドローン": {
+    "jp": "ドローン",
+    "target": "無人機",
+    "category": "Glossary"
+  },
+  "タコストライク": {
+    "jp": "タコストライク",
+    "target": "章魚保齡球兵",
+    "category": "Glossary"
+  },
+  "インクリーナー": {
+    "jp": "インクリーナー",
+    "target": "吸墨器",
+    "category": "Glossary"
+  },
+  "タココマンダー": {
+    "jp": "タココマンダー",
+    "target": "章魚指揮官",
+    "category": "Glossary"
+  },
+  "タコプター": {
+    "jp": "タコプター",
+    "target": "章魚螺旋槳兵",
+    "category": "Glossary"
+  },
+  "タコミラーボール": {
+    "jp": "タコミラーボール",
+    "target": "章魚鏡球兵",
+    "category": "Glossary"
+  },
+  "ボムタコプター": {
+    "jp": "ボムタコプター",
+    "target": "炸彈章魚螺旋槳兵",
+    "category": "Glossary"
+  },
+  "スタコラー": {
+    "jp": "スタコラー",
+    "target": "章魚溜兵",
+    "category": "Glossary"
+  },
+  "タコドーザー": {
+    "jp": "タコドーザー",
+    "target": "章魚推進灑墨機",
+    "category": "Glossary"
+  },
+  "タコッペリン号": {
+    "jp": "タコッペリン号",
+    "target": "章魚柏林號",
+    "category": "Glossary"
+  },
+  "タコミサイル": {
+    "jp": "タコミサイル",
+    "target": "章魚導彈兵",
+    "category": "Glossary"
+  },
+  "タコポッド": {
+    "jp": "タコポッド",
+    "target": "章魚彈艙兵",
+    "category": "Glossary"
+  },
+  "大容量タコポッド": {
+    "jp": "大容量タコポッド",
+    "target": "大容量章魚彈艙兵",
+    "category": "Glossary"
+  },
+  "タコスナイパー": {
+    "jp": "タコスナイパー",
+    "target": "章魚狙擊兵",
+    "category": "Glossary"
+  },
+  "タコゾネス": {
+    "jp": "タコゾネス",
+    "target": "章魚女戰士",
+    "category": "Glossary"
+  },
+  "タコスタンプ": {
+    "jp": "タコスタンプ",
+    "target": "章魚印章兵",
+    "category": "Glossary"
+  },
+  "ビートタコスタンプ": {
+    "jp": "ビートタコスタンプ",
+    "target": "波動章魚印章兵",
+    "category": "Glossary"
+  },
+  "タコトルーパー": {
+    "jp": "タコトルーパー",
+    "target": "章魚兵",
+    "category": "Glossary"
+  },
+  "タテタコトルーパー": {
+    "jp": "タテタコトルーパー",
+    "target": "盾牌章魚兵",
+    "category": "Glossary"
+  },
+  "バイタコトルーパー": {
+    "jp": "バイタコトルーパー",
+    "target": "強化章魚兵",
+    "category": "Glossary"
+  },
+  "タコホッパー": {
+    "jp": "タコホッパー",
+    "target": "章魚彈跳兵",
+    "category": "Glossary"
+  },
+  "イリコニウム": {
+    "jp": "イリコニウム",
+    "target": "小魚乾",
+    "category": "Glossary"
+  },
+  "イクラ": {
+    "jp": "イクラ",
+    "target": "鮭魚卵",
+    "category": "Glossary"
+  },
+  "ビンイクラ": {
+    "jp": "ビンイクラ",
+    "target": "瓶裝鮭魚卵",
+    "category": "Glossary"
+  },
+  "イカフライ": {
+    "jp": "イカフライ",
+    "target": "炸魷魚圈",
+    "category": "Glossary"
+  },
+  "スペシャルカンヅメ": {
+    "jp": "スペシャルカンヅメ",
+    "target": "特殊罐頭",
+    "category": "Glossary"
+  },
+  "カギ": {
+    "jp": "カギ",
+    "target": "鑰匙",
+    "category": "Glossary"
+  },
+  "ゴールドディスク": {
+    "jp": "ゴールドディスク",
+    "target": "金色唱片",
+    "category": "Glossary"
+  },
+  "ジャンプポイント": {
+    "jp": "ジャンプポイント",
+    "target": "跳躍點",
+    "category": "Glossary"
+  },
+  "ヌリヌリ棒": {
+    "jp": "ヌリヌリ棒",
+    "target": "塗塗棒",
+    "category": "Glossary"
+  },
+  "強化ポイント": {
+    "jp": "強化ポイント",
+    "target": "強化點數",
+    "category": "Glossary"
+  },
+  "パイプライン": {
+    "jp": "パイプライン",
+    "target": "管線",
+    "category": "Glossary"
+  },
+  "びっくりネジ": {
+    "jp": "びっくりネジ",
+    "target": "驚人螺絲",
+    "category": "Glossary"
+  },
+  "オオデンチナマズ": {
+    "jp": "オオデンチナマズ",
+    "target": "大電池鯰魚",
+    "category": "Glossary"
+  },
+  "デンチナマズ": {
+    "jp": "デンチナマズ",
+    "target": "電池鯰魚",
+    "category": "Glossary"
+  },
+  "でんちゃん": {
+    "jp": "でんちゃん",
+    "target": "電仔",
+    "category": "Glossary"
+  },
+  "ナゾの声": {
+    "jp": "ナゾの声",
+    "target": "謎之聲",
+    "category": "Glossary"
+  },
+  "プレート": {
+    "jp": "プレート",
+    "target": "背景",
+    "category": "Glossary"
+  },
+  "２号": {
+    "jp": "２号",
+    "target": "2號",
+    "category": "Glossary"
+  },
+  "チャンネル": {
+    "jp": "チャンネル",
+    "target": "頻道",
+    "category": "Glossary"
+  },
+  "オクタリアン": {
+    "jp": "オクタリアン",
+    "target": "章魚族",
+    "category": "Glossary"
+  },
+  "オクトリング": {
+    "jp": "オクトリング",
+    "target": "章魚圈",
+    "category": "Glossary"
+  },
+  "オーダ": {
+    "jp": "オーダ",
+    "target": "秩序",
+    "category": "Glossary"
+  },
+  "オーダコ": {
+    "jp": "オーダコ",
+    "target": "秩序巨蛸",
+    "category": "Glossary"
+  },
+  "コダコ": {
+    "jp": "コダコ",
+    "target": "小小蛸",
+    "category": "Glossary"
+  },
+  "New!カラストンビ部隊": {
+    "jp": "New!カラストンビ部隊",
+    "target": "New！噴嘴部隊",
+    "category": "Glossary"
+  },
+  "ブンシン": {
+    "jp": "ブンシン",
+    "target": "分身",
+    "category": "Glossary"
+  },
+  "フェス投票所": {
+    "jp": "フェス投票所",
+    "target": "祭典投票所",
+    "category": "Glossary"
+  },
+  "イクラキャノン": {
+    "jp": "イクラキャノン",
+    "target": "鮭魚卵大炮",
+    "category": "Glossary"
+  },
+  "イクラコンテナ": {
+    "jp": "イクラコンテナ",
+    "target": "鮭魚卵容器",
+    "category": "Glossary"
+  },
+  "イクラ投げ": {
+    "jp": "イクラ投げ",
+    "target": "投擲鮭魚卵",
+    "category": "Glossary"
+  },
+  "イカリング３": {
+    "jp": "イカリング３",
+    "target": "魷魚圈 3",
+    "category": "Glossary"
+  },
+  "発射台": {
+    "jp": "発射台",
+    "target": "發射台",
+    "category": "Glossary"
+  },
+  "オカシラシャケ": {
+    "jp": "オカシラシャケ",
+    "target": "頭目鮭魚",
+    "category": "Glossary"
+  },
+  "オカシラゲージ": {
+    "jp": "オカシラゲージ",
+    "target": "頭目槽",
+    "category": "Glossary"
+  },
+  "ハコビヤ": {
+    "jp": "ハコビヤ",
+    "target": "走私魚",
+    "category": "Glossary"
+  },
+  "３号": {
+    "jp": "３号",
+    "target": "3號",
+    "category": "Glossary"
+  },
+  "ボール": {
+    "jp": "ボール",
+    "target": "球",
+    "category": "Glossary"
+  },
+  "ラッキーボム": {
+    "jp": "ラッキーボム",
+    "target": "幸運炸彈",
+    "category": "Glossary"
+  },
+  "系統": {
+    "jp": "系統",
+    "target": "色系",
+    "category": "Glossary"
+  },
+  "カラーチップ": {
+    "jp": "カラーチップ",
+    "target": "色彩晶片",
+    "category": "Glossary"
+  },
+  "ノンカラ処理": {
+    "jp": "ノンカラ処理",
+    "target": "脫色處理",
+    "category": "Glossary"
+  },
+  "ヒメドローン": {
+    "jp": "ヒメドローン",
+    "target": "小姬無人機",
+    "category": "Glossary"
+  },
+  "ドローンバッテリー": {
+    "jp": "ドローンバッテリー",
+    "target": "無人機電池",
+    "category": "Glossary"
+  },
+  "ドローンゲージ": {
+    "jp": "ドローンゲージ",
+    "target": "無人機蓄力槽",
+    "category": "Glossary"
+  },
+  "ネリコイン": {
+    "jp": "ネリコイン",
+    "target": "憶界硬幣",
+    "category": "Glossary"
+  },
+  "ゴロゴロマルチャーレ": {
+    "jp": "ゴロゴロマルチャーレ",
+    "target": "翻滾行進",
+    "category": "Glossary"
+  },
+  "イイダ・エジタンド": {
+    "jp": "イイダ・エジタンド",
+    "target": "飯田‧躊躇",
+    "category": "Glossary"
+  },
+  "噴出するトリオンファーレ": {
+    "jp": "噴出するトリオンファーレ",
+    "target": "噴吐的凱旋重蚌",
+    "category": "Glossary"
+  },
+  "そびえ立つノビルメンテ": {
+    "jp": "そびえ立つノビルメンテ",
+    "target": "聳立的高貴海馬",
+    "category": "Glossary"
+  },
+  "疾走するアラマンボ": {
+    "jp": "疾走するアラマンボ",
+    "target": "疾走的輪轉曼波",
+    "category": "Glossary"
+  },
+  "伸縮するスピッカート": {
+    "jp": "伸縮するスピッカート",
+    "target": "伸縮的跳弓鰓鰻",
+    "category": "Glossary"
+  },
+  "制圧するグラーヴェ": {
+    "jp": "制圧するグラーヴェ",
+    "target": "壓制的緩版瘤鯛",
+    "category": "Glossary"
+  },
+  "行進するアンダンテ": {
+    "jp": "行進するアンダンテ",
+    "target": "行進的行板曲鯛",
+    "category": "Glossary"
+  },
+  "イカイノカノン": {
+    "jp": "イカイノカノン",
+    "target": "異界卡農",
+    "category": "Glossary"
+  },
+  "反射するコラパルテ": {
+    "jp": "反射するコラパルテ",
+    "target": "反彈的伴奏旋殼",
+    "category": "Glossary"
+  },
+  "群れるラングエンド": {
+    "jp": "群れるラングエンド",
+    "target": "群聚的憔悴沙丁",
+    "category": "Glossary"
+  },
+  "撒き散らすカプリチョーソ": {
+    "jp": "撒き散らすカプリチョーソ",
+    "target": "飛濺的即興泡魚",
+    "category": "Glossary"
+  },
+  "カイセンロンド": {
+    "jp": "カイセンロンド",
+    "target": "迴轉輪舞",
+    "category": "Glossary"
+  },
+  "産み出すアッコルド": {
+    "jp": "産み出すアッコルド",
+    "target": "孕育的和弦燈籠魚",
+    "category": "Glossary"
+  },
+  "飛来するアルペジオ": {
+    "jp": "飛来するアルペジオ",
+    "target": "飛射的琵音魚彈",
+    "category": "Glossary"
+  },
+  "エントランス": {
+    "jp": "エントランス",
+    "target": "入口大廳",
+    "category": "Glossary"
+  },
+  "スケルトーン": {
+    "jp": "スケルトーン",
+    "target": "骷髏魚",
+    "category": "Glossary"
+  },
+  "インクボトル": {
+    "jp": "インクボトル",
+    "target": "墨汁瓶",
+    "category": "Glossary"
+  },
+  "シンジュ": {
+    "jp": "シンジュ",
+    "target": "珍珠",
+    "category": "Glossary"
+  },
+  "ライフ": {
+    "jp": "ライフ",
+    "target": "生命",
+    "category": "Glossary"
+  },
+  "ケージ": {
+    "jp": "ケージ",
+    "target": "籠軌",
+    "category": "Glossary"
+  },
+  "ロッカー": {
+    "jp": "ロッカー",
+    "target": "置物櫃",
+    "category": "Glossary"
+  },
+  "ラッキーコンボ": {
+    "jp": "ラッキーコンボ",
+    "target": "幸運連擊",
+    "category": "Glossary"
+  },
+  "お題": {
+    "jp": "お題",
+    "target": "任務",
+    "category": "Glossary"
+  },
+  "ユメエビの露店": {
+    "jp": "ユメエビの露店",
+    "target": "夢霞的攤販",
+    "category": "Glossary"
+  },
+  "秩序の街": {
+    "jp": "秩序の街",
+    "target": "秩序之城",
+    "category": "Glossary"
+  },
+  "パレット": {
+    "jp": "パレット",
+    "target": "調色盤",
+    "category": "Glossary"
+  },
+  "自販機": {
+    "jp": "自販機",
+    "target": "自動販賣機",
+    "category": "Glossary"
+  },
+  "ポータル": {
+    "jp": "ポータル",
+    "target": "傳送口",
+    "category": "Glossary"
+  },
+  "フロア": {
+    "jp": "フロア",
+    "target": "樓層",
+    "category": "Glossary"
+  },
+  "サウンドバースト": {
+    "jp": "サウンドバースト",
+    "target": "音爆",
+    "category": "Glossary"
+  },
+  "ディスクパーツ": {
+    "jp": "ディスクパーツ",
+    "target": "唱片零件",
+    "category": "Glossary"
+  },
+  "カラーチップフィーバー": {
+    "jp": "カラーチップフィーバー",
+    "target": "色彩晶片狂潮",
+    "category": "Glossary"
+  },
+  "秩序の塔": {
+    "jp": "秩序の塔",
+    "target": "秩序之塔",
+    "category": "Glossary"
+  },
+  "ネリバース": {
+    "jp": "ネリバース",
+    "target": "憶界宇宙",
+    "category": "Glossary"
+  },
+  "プロペラヤグラ": {
+    "jp": "プロペラヤグラ",
+    "target": "螺旋槳塔樓",
+    "category": "Glossary"
+  },
+  "スペシャルアタック": {
+    "jp": "スペシャルアタック",
+    "target": "特殊攻擊",
+    "category": "Glossary"
+  },
+  "スペシャルポイント": {
+    "jp": "スペシャルポイント",
+    "target": "特殊點數",
+    "category": "Glossary"
+  },
+  "バンカラ地方": {
+    "jp": "バンカラ地方",
+    "target": "蠻頹地區",
+    "category": "Glossary"
+  },
+  "バンカラ街": {
+    "jp": "バンカラ街",
+    "target": "蠻頹鎮",
+    "category": "Glossary"
+  },
+  "イカスポーン": {
+    "jp": "イカスポーン",
+    "target": "魷魚生成",
+    "category": "Glossary"
+  },
+  "イカノボリ": {
+    "jp": "イカノボリ",
+    "target": "魷魚登頂",
+    "category": "Glossary"
+  },
+  "ステッカー": {
+    "jp": "ステッカー",
+    "target": "貼紙",
+    "category": "Glossary"
+  },
+  "ウキワタンク": {
+    "jp": "ウキワタンク",
+    "target": "泳圈槽",
+    "category": "Glossary"
+  },
+  "DJタコワサ将軍": {
+    "jp": "DJタコワサ将軍",
+    "target": "DJ芥末章魚將軍",
+    "category": "Glossary"
+  },
+  "スーパーシグナル": {
+    "jp": "スーパーシグナル",
+    "target": "超級信號",
+    "category": "Glossary"
+  },
+  "マトイ": {
+    "jp": "マトイ",
+    "target": "塗滿告示牌",
+    "category": "Glossary"
+  },
+  "ホラガイ": {
+    "jp": "ホラガイ",
+    "target": "法螺",
+    "category": "Glossary"
+  },
+  "ホラガイ争奪戦": {
+    "jp": "ホラガイ争奪戦",
+    "target": "法螺爭奪戰",
+    "category": "Glossary"
+  },
+  "スーパーサザエ": {
+    "jp": "スーパーサザエ",
+    "target": "超級蠑螺",
+    "category": "Glossary"
+  },
+  "ウデマエポイント": {
+    "jp": "ウデマエポイント",
+    "target": "技術點數",
+    "category": "Glossary"
+  },
+  "昇格戦": {
+    "jp": "昇格戦",
+    "target": "晉級戰",
+    "category": "Glossary"
+  },
+  "ウロコ": {
+    "jp": "ウロコ",
+    "target": "鱗片",
+    "category": "Glossary"
+  },
+  "ガチエリア": {
+    "jp": "ガチエリア",
+    "target": "真格區域",
+    "category": "Glossary"
+  },
+  "ガチヤグラ": {
+    "jp": "ガチヤグラ",
+    "target": "真格塔樓",
+    "category": "Glossary"
+  },
+  "ガチアサリ": {
+    "jp": "ガチアサリ",
+    "target": "真格蛤蜊",
+    "category": "Glossary"
+  },
+  "ハナビダマ": {
+    "jp": "ハナビダマ",
+    "target": "煙火彈",
+    "category": "Glossary"
+  },
+  "スパイキー": {
+    "jp": "スパイキー",
+    "target": "刺冠",
+    "category": "Glossary"
+  },
+  "ダウニー": {
+    "jp": "ダウニー",
+    "target": "丹尼",
+    "category": "Glossary"
+  },
+  "ブキチライセンス": {
+    "jp": "ブキチライセンス",
+    "target": "武器兌換證",
+    "category": "Glossary"
+  },
+  "ゴールドブキチライセンス": {
+    "jp": "ゴールドブキチライセンス",
+    "target": "金色武器兌換證",
+    "category": "Glossary"
+  },
+  "マメブキチ": {
+    "jp": "マメブキチ",
+    "target": "豆豆武器子",
+    "category": "Glossary"
+  },
+  "ツブブキチ": {
+    "jp": "ツブブキチ",
+    "target": "粒粒武器子",
+    "category": "Glossary"
+  },
+  "Xランキング": {
+    "jp": "Xランキング",
+    "target": "X排名",
+    "category": "Glossary"
+  },
+  "グループ": {
+    "jp": "グループ",
+    "target": "組別",
+    "category": "Glossary"
+  },
+  "４号": {
+    "jp": "４号",
+    "target": "4號",
+    "category": "Glossary"
+  },
+  "最初の塔をクリアした": {
+    "jp": "最初の塔をクリアした",
+    "target": "通過初始之塔",
+    "category": "BadgeMsg"
+  },
+  "サイド・オーダーをクリアした": {
+    "jp": "サイド・オーダーをクリアした",
+    "target": "通過秩序篇",
+    "category": "BadgeMsg"
+  },
+  "全てのパレットで秩序の塔をクリアした": {
+    "jp": "全てのパレットで秩序の塔をクリアした",
+    "target": "使用所有調色盤通過秩序之塔",
+    "category": "BadgeMsg"
+  },
+  "ユメエビの露店で全ての品を交換した": {
+    "jp": "ユメエビの露店で全ての品を交換した",
+    "target": "在夢霞的攤販兌換了所有的物品",
+    "category": "BadgeMsg"
+  },
+  "ハッキング極少のハチのパレットで秩序の塔をクリアした": {
+    "jp": "ハッキング極少のハチのパレットで秩序の塔をクリアした",
+    "target": "在小八的調色盤駭解程度極少的情況下通過秩序之塔",
+    "category": "BadgeMsg"
+  },
+  "カタログレベルが５０になった": {
+    "jp": "カタログレベルが５０になった",
+    "target": "目錄等級達到50",
+    "category": "BadgeMsg"
+  },
+  "カタログレベルが１００になった": {
+    "jp": "カタログレベルが１００になった",
+    "target": "目錄等級達到100",
+    "category": "BadgeMsg"
+  },
+  "バンカラマッチ（チャレンジ）で１０回勝ちぬけした": {
+    "jp": "バンカラマッチ（チャレンジ）で１０回勝ちぬけした",
+    "target": "在蠻頹比賽（挑戰）中勝出10場",
+    "category": "BadgeMsg"
+  },
+  "バンカラマッチ（チャレンジ）で５０回勝ちぬけした": {
+    "jp": "バンカラマッチ（チャレンジ）で５０回勝ちぬけした",
+    "target": "在蠻頹比賽（挑戰）中勝出50場",
+    "category": "BadgeMsg"
+  },
+  "バンカラマッチ（チャレンジ）で２５０回勝ちぬけした": {
+    "jp": "バンカラマッチ（チャレンジ）で２５０回勝ちぬけした",
+    "target": "在蠻頹比賽（挑戰）中勝出250場",
+    "category": "BadgeMsg"
+  },
+  "ビッグランで銅以上のオキモノをもらった": {
+    "jp": "ビッグランで銅以上のオキモノをもらった",
+    "target": "在大型跑獲得銅級以上的裝飾品",
+    "category": "BadgeMsg"
+  },
+  "ビッグランで銀以上のオキモノをもらった": {
+    "jp": "ビッグランで銀以上のオキモノをもらった",
+    "target": "在大型跑獲得銀級以上的裝飾品",
+    "category": "BadgeMsg"
+  },
+  "ビッグランで金のオキモノをもらった": {
+    "jp": "ビッグランで金のオキモノをもらった",
+    "target": "在大型跑獲得金裝飾品",
+    "category": "BadgeMsg"
+  },
+  "キケン度MAXをクリアした": {
+    "jp": "キケン度MAXをクリアした",
+    "target": "危險度MAX過關",
+    "category": "BadgeMsg"
+  },
+  "バイトチームコンテストで上位５０%に入った": {
+    "jp": "バイトチームコンテストで上位５０%に入った",
+    "target": "團隊打工競賽的分數位列前50％",
+    "category": "BadgeMsg"
+  },
+  "バイトチームコンテストで上位２０%に入った": {
+    "jp": "バイトチームコンテストで上位２０%に入った",
+    "target": "團隊打工競賽的分數位列前20％",
+    "category": "BadgeMsg"
+  },
+  "バイトチームコンテストで上位５%に入った": {
+    "jp": "バイトチームコンテストで上位５%に入った",
+    "target": "團隊打工競賽的分數位列前5％",
+    "category": "BadgeMsg"
+  },
+  "オカシラ連合を倒した": {
+    "jp": "オカシラ連合を倒した",
+    "target": "擊倒了頭目聯合",
+    "category": "BadgeMsg"
+  },
+  "イベントマッチで上位５０%に入った": {
+    "jp": "イベントマッチで上位５０%に入った",
+    "target": "活動比賽的排名位列前50％",
+    "category": "BadgeMsg"
+  },
+  "イベントマッチで上位２０%に入った": {
+    "jp": "イベントマッチで上位２０%に入った",
+    "target": "活動比賽的排名位列前20％",
+    "category": "BadgeMsg"
+  },
+  "イベントマッチで上位５%に入った": {
+    "jp": "イベントマッチで上位５%に入った",
+    "target": "活動比賽的排名位列前5％",
+    "category": "BadgeMsg"
+  },
+  "１０倍マッチを３回戦いぬいた": {
+    "jp": "１０倍マッチを３回戦いぬいた",
+    "target": "完成3場10倍比賽",
+    "category": "BadgeMsg"
+  },
+  "１０倍マッチで１０回勝利した": {
+    "jp": "１０倍マッチで１０回勝利した",
+    "target": "10倍比賽獲勝10次",
+    "category": "BadgeMsg"
+  },
+  "フェスランクが「えいえん」になった": {
+    "jp": "フェスランクが「えいえん」になった",
+    "target": "祭典等級已達到「永遠」",
+    "category": "BadgeMsg"
+  },
+  "タイカイサポートで主催した大会の参加者が合計１６人になった": {
+    "jp": "タイカイサポートで主催した大会の参加者が合計１６人になった",
+    "target": "在透過大賽支援助手籌辦的大賽中參賽者總計達到16人",
+    "category": "BadgeMsg"
+  },
+  "タイカイサポートで主催した大会の参加者が合計２５０人になった": {
+    "jp": "タイカイサポートで主催した大会の参加者が合計２５０人になった",
+    "target": "在透過大賽支援助手籌辦的大賽中參賽者總計達到250人",
+    "category": "BadgeMsg"
+  },
+  "タイカイサポートで主催した大会の参加者が合計１０００人になった": {
+    "jp": "タイカイサポートで主催した大会の参加者が合計１０００人になった",
+    "target": "在透過大賽支援助手籌辦的大賽中參賽者總計達到1000人",
+    "category": "BadgeMsg"
+  },
+  "くじ引きで大当たりを４回引いた": {
+    "jp": "くじ引きで大当たりを４回引いた",
+    "target": "抽獎抽中了4次頭獎",
+    "category": "BadgeMsg"
+  },
+  "くじ引きで大当たりを８回引いた": {
+    "jp": "くじ引きで大当たりを８回引いた",
+    "target": "抽獎抽中了8次頭獎",
+    "category": "BadgeMsg"
+  },
+  "くじ引きで大当たりを１６回引いた": {
+    "jp": "くじ引きで大当たりを１６回引いた",
+    "target": "抽獎抽中了16次頭獎",
+    "category": "BadgeMsg"
+  },
+  "DJタコワサ将軍を倒した": {
+    "jp": "DJタコワサ将軍を倒した",
+    "target": "已擊倒DJ芥末章魚將軍",
+    "category": "BadgeMsg"
+  },
+  "ヒーローモードをクリアした": {
+    "jp": "ヒーローモードをクリアした",
+    "target": "已通過英雄模式",
+    "category": "BadgeMsg"
+  },
+  "ヒーローそうびの強化ポイントを最大まで手に入れた": {
+    "jp": "ヒーローそうびの強化ポイントを最大まで手に入れた",
+    "target": "獲得的英雄裝備強化點數已達到上限",
+    "category": "BadgeMsg"
+  },
+  "かくしヤカンをクリアした": {
+    "jp": "かくしヤカンをクリアした",
+    "target": "已通過隱藏茶壺",
+    "category": "BadgeMsg"
+  },
+  "ナワバトラーのカードを９０種類コレクションした": {
+    "jp": "ナワバトラーのカードを９０種類コレクションした",
+    "target": "收集90種占地鬥士卡片",
+    "category": "BadgeMsg"
+  },
+  "ナワバトラーのカードを１２０種類コレクションした": {
+    "jp": "ナワバトラーのカードを１２０種類コレクションした",
+    "target": "收集120種占地鬥士卡片",
+    "category": "BadgeMsg"
+  },
+  "ナワバトラーのカードを１５０種類コレクションした": {
+    "jp": "ナワバトラーのカードを１５０種類コレクションした",
+    "target": "收集150種占地鬥士卡片",
+    "category": "BadgeMsg"
+  },
+  "ナワバトランクが３０になった": {
+    "jp": "ナワバトランクが３０になった",
+    "target": "占地鬥士等級達到30",
+    "category": "BadgeMsg"
+  },
+  "ナワバトランクが４０になった": {
+    "jp": "ナワバトランクが４０になった",
+    "target": "占地鬥士等級達到40",
+    "category": "BadgeMsg"
+  },
+  "ナワバトランクが５０になった": {
+    "jp": "ナワバトランクが５０になった",
+    "target": "占地鬥士等級達到50",
+    "category": "BadgeMsg"
+  },
+  "ナワバトランクが１００になった": {
+    "jp": "ナワバトランクが１００になった",
+    "target": "占地鬥士等級達到100",
+    "category": "BadgeMsg"
+  },
+  "ナワバトランクが２００になった": {
+    "jp": "ナワバトランクが２００になった",
+    "target": "占地鬥士等級達到200",
+    "category": "BadgeMsg"
+  },
+  "ナワバトランクが３００になった": {
+    "jp": "ナワバトランクが３００になった",
+    "target": "占地鬥士等級達到300",
+    "category": "BadgeMsg"
+  },
+  "ナワバトランクが４００になった": {
+    "jp": "ナワバトランクが４００になった",
+    "target": "占地鬥士等級達到400",
+    "category": "BadgeMsg"
+  },
+  "ナワバトランクが５００になった": {
+    "jp": "ナワバトランクが５００になった",
+    "target": "占地鬥士等級達到500",
+    "category": "BadgeMsg"
+  },
+  "ナワバトランクが６００になった": {
+    "jp": "ナワバトランクが６００になった",
+    "target": "占地鬥士等級達到600",
+    "category": "BadgeMsg"
+  },
+  "ナワバトランクが７００になった": {
+    "jp": "ナワバトランクが７００になった",
+    "target": "占地鬥士等級達到700",
+    "category": "BadgeMsg"
+  },
+  "ナワバトランクが８００になった": {
+    "jp": "ナワバトランクが８００になった",
+    "target": "占地鬥士等級達到800",
+    "category": "BadgeMsg"
+  },
+  "ナワバトランクが９００になった": {
+    "jp": "ナワバトランクが９００になった",
+    "target": "占地鬥士等級達到900",
+    "category": "BadgeMsg"
+  },
+  "ナワバトランクが９９９になった": {
+    "jp": "ナワバトランクが９９９になった",
+    "target": "占地鬥士等級達到999",
+    "category": "BadgeMsg"
+  },
+  "ナワバトラー道場で全員の最高レベルに勝利した": {
+    "jp": "ナワバトラー道場で全員の最高レベルに勝利した",
+    "target": "在占地鬥士道場戰勝最高等級的所有人",
+    "category": "BadgeMsg"
+  },
+  "売店で１０回注文した": {
+    "jp": "売店で１０回注文した",
+    "target": "在商店完成了10次點餐",
+    "category": "BadgeMsg"
+  },
+  "売店で１００回注文した": {
+    "jp": "売店で１００回注文した",
+    "target": "在商店完成了100次點餐",
+    "category": "BadgeMsg"
+  },
+  "売店で１０００回注文した": {
+    "jp": "売店で１０００回注文した",
+    "target": "在商店完成了1000次點餐",
+    "category": "BadgeMsg"
+  },
+  "ダウニーに１０回ギアを注文した": {
+    "jp": "ダウニーに１０回ギアを注文した",
+    "target": "找丹尼預訂裝備10次",
+    "category": "BadgeMsg"
+  },
+  "ダウニーに１００回ギアを注文した": {
+    "jp": "ダウニーに１００回ギアを注文した",
+    "target": "找丹尼預訂裝備100次",
+    "category": "BadgeMsg"
+  },
+  "スパイキーに１０回ギアを注文した": {
+    "jp": "スパイキーに１０回ギアを注文した",
+    "target": "找刺冠預訂裝備10次",
+    "category": "BadgeMsg"
+  },
+  "スパイキーに１００回ギアを注文した": {
+    "jp": "スパイキーに１００回ギアを注文した",
+    "target": "找刺冠預訂裝備100次",
+    "category": "BadgeMsg"
+  },
+  "ランクが３０になった": {
+    "jp": "ランクが３０になった",
+    "target": "等級達到30",
+    "category": "BadgeMsg"
+  },
+  "ランクが５０になった": {
+    "jp": "ランクが５０になった",
+    "target": "等級達到50",
+    "category": "BadgeMsg"
+  },
+  "ランクが１００になった": {
+    "jp": "ランクが１００になった",
+    "target": "等級達到100",
+    "category": "BadgeMsg"
+  },
+  "ランクが２００になった": {
+    "jp": "ランクが２００になった",
+    "target": "等級達到200",
+    "category": "BadgeMsg"
+  },
+  "ランクが３００になった": {
+    "jp": "ランクが３００になった",
+    "target": "等級達到300",
+    "category": "BadgeMsg"
+  },
+  "ランクが４００になった": {
+    "jp": "ランクが４００になった",
+    "target": "等級達到400",
+    "category": "BadgeMsg"
+  },
+  "ランクが５００になった": {
+    "jp": "ランクが５００になった",
+    "target": "等級達到500",
+    "category": "BadgeMsg"
+  },
+  "ランクが６００になった": {
+    "jp": "ランクが６００になった",
+    "target": "等級達到600",
+    "category": "BadgeMsg"
+  },
+  "ランクが７００になった": {
+    "jp": "ランクが７００になった",
+    "target": "等級達到700",
+    "category": "BadgeMsg"
+  },
+  "ランクが８００になった": {
+    "jp": "ランクが８００になった",
+    "target": "等級達到800",
+    "category": "BadgeMsg"
+  },
+  "ランクが９００になった": {
+    "jp": "ランクが９００になった",
+    "target": "等級達到900",
+    "category": "BadgeMsg"
+  },
+  "ランクが９９９になった": {
+    "jp": "ランクが９９９になった",
+    "target": "等級達到999",
+    "category": "BadgeMsg"
+  },
+  "くじ引きでおカネを３００,０００ゲソ使った": {
+    "jp": "くじ引きでおカネを３００,０００ゲソ使った",
+    "target": "抽獎的消費金額達到300,000元魷鈔",
+    "category": "BadgeMsg"
+  },
+  "くじ引きでおカネを３,０００,０００ゲソ使った": {
+    "jp": "くじ引きでおカネを３,０００,０００ゲソ使った",
+    "target": "抽獎的消費金額達到3,000,000元魷鈔",
+    "category": "BadgeMsg"
+  },
+  "くじ引きでおカネを３０,０００,０００ゲソ使った": {
+    "jp": "くじ引きでおカネを３０,０００,０００ゲソ使った",
+    "target": "抽獎的消費金額達到30,000,000元魷鈔",
+    "category": "BadgeMsg"
+  },
+  "ハイカラシティのフク屋でおカネを１００,０００ゲソ使った": {
+    "jp": "ハイカラシティのフク屋でおカネを１００,０００ゲソ使った",
+    "target": "在尚興市的服裝店消費金額達到100,000元魷鈔",
+    "category": "BadgeMsg"
+  },
+  "ハイカラシティのフク屋でおカネを１,０００,０００ゲソ使った": {
+    "jp": "ハイカラシティのフク屋でおカネを１,０００,０００ゲソ使った",
+    "target": "在尚興市的服裝店消費金額達到1,000,000元魷鈔",
+    "category": "BadgeMsg"
+  },
+  "バンカラ街のフク屋でおカネを１００,０００ゲソ使った": {
+    "jp": "バンカラ街のフク屋でおカネを１００,０００ゲソ使った",
+    "target": "在蠻頹鎮的服裝店消費金額達到100,000元魷鈔",
+    "category": "BadgeMsg"
+  },
+  "バンカラ街のフク屋でおカネを１,０００,０００ゲソ使った": {
+    "jp": "バンカラ街のフク屋でおカネを１,０００,０００ゲソ使った",
+    "target": "在蠻頹鎮的服裝店消費金額達到1,000,000元魷鈔",
+    "category": "BadgeMsg"
+  },
+  "ハイカラスクエアのフク屋でおカネを１００,０００ゲソ使った": {
+    "jp": "ハイカラスクエアのフク屋でおカネを１００,０００ゲソ使った",
+    "target": "在尚興廣場的服裝店消費金額達到100,000元魷鈔",
+    "category": "BadgeMsg"
+  },
+  "ハイカラスクエアのフク屋でおカネを１,０００,０００ゲソ使った": {
+    "jp": "ハイカラスクエアのフク屋でおカネを１,０００,０００ゲソ使った",
+    "target": "在尚興廣場的服裝店消費金額達到1,000,000元魷鈔",
+    "category": "BadgeMsg"
+  },
+  "ザッカ屋でおカネを１００,０００ゲソ使った": {
+    "jp": "ザッカ屋でおカネを１００,０００ゲソ使った",
+    "target": "在雜貨店的消費金額達到100,000元魷鈔",
+    "category": "BadgeMsg"
+  },
+  "ザッカ屋でおカネを１,０００,０００ゲソ使った": {
+    "jp": "ザッカ屋でおカネを１,０００,０００ゲソ使った",
+    "target": "在雜貨店的消費金額達到1,000,000元魷鈔",
+    "category": "BadgeMsg"
+  },
+  "ハイカラシティのアタマ屋でおカネを１００,０００ゲソ使った": {
+    "jp": "ハイカラシティのアタマ屋でおカネを１００,０００ゲソ使った",
+    "target": "在尚興市的頭部裝備店消費金額達到100,000元魷鈔",
+    "category": "BadgeMsg"
+  },
+  "ハイカラシティのアタマ屋でおカネを１,０００,０００ゲソ使った": {
+    "jp": "ハイカラシティのアタマ屋でおカネを１,０００,０００ゲソ使った",
+    "target": "在尚興市的頭部裝備店消費金額達到1,000,000元魷鈔",
+    "category": "BadgeMsg"
+  },
+  "バンカラ街のアタマ屋でおカネを１００,０００ゲソ使った": {
+    "jp": "バンカラ街のアタマ屋でおカネを１００,０００ゲソ使った",
+    "target": "在蠻頹鎮的頭部裝備店消費金額達到100,000元魷鈔",
+    "category": "BadgeMsg"
+  },
+  "バンカラ街のアタマ屋でおカネを１,０００,０００ゲソ使った": {
+    "jp": "バンカラ街のアタマ屋でおカネを１,０００,０００ゲソ使った",
+    "target": "在蠻頹鎮的頭部裝備店消費金額達到1,000,000元魷鈔",
+    "category": "BadgeMsg"
+  },
+  "ハイカラスクエアのアタマ屋でおカネを１００,０００ゲソ使った": {
+    "jp": "ハイカラスクエアのアタマ屋でおカネを１００,０００ゲソ使った",
+    "target": "在尚興廣場的頭部裝備店消費金額達到100,000元魷鈔",
+    "category": "BadgeMsg"
+  },
+  "ハイカラスクエアのアタマ屋でおカネを１,０００,０００ゲソ使った": {
+    "jp": "ハイカラスクエアのアタマ屋でおカネを１,０００,０００ゲソ使った",
+    "target": "在尚興廣場的頭部裝備店消費金額達到1,000,000元魷鈔",
+    "category": "BadgeMsg"
+  },
+  "ハイカラシティのクツ屋でおカネを１００,０００ゲソ使った": {
+    "jp": "ハイカラシティのクツ屋でおカネを１００,０００ゲソ使った",
+    "target": "在尚興市的鞋店消費金額達到100,000元魷鈔",
+    "category": "BadgeMsg"
+  },
+  "ハイカラシティのクツ屋でおカネを１,０００,０００ゲソ使った": {
+    "jp": "ハイカラシティのクツ屋でおカネを１,０００,０００ゲソ使った",
+    "target": "在尚興市的鞋店消費金額達到1,000,000元魷鈔",
+    "category": "BadgeMsg"
+  },
+  "バンカラ街のクツ屋でおカネを１００,０００ゲソ使った": {
+    "jp": "バンカラ街のクツ屋でおカネを１００,０００ゲソ使った",
+    "target": "在蠻頹鎮的鞋店消費金額達到100,000元魷鈔",
+    "category": "BadgeMsg"
+  },
+  "バンカラ街のクツ屋でおカネを１,０００,０００ゲソ使った": {
+    "jp": "バンカラ街のクツ屋でおカネを１,０００,０００ゲソ使った",
+    "target": "在蠻頹鎮的鞋店消費金額達到1,000,000元魷鈔",
+    "category": "BadgeMsg"
+  },
+  "ハイカラスクエアのクツ屋でおカネを１００,０００ゲソ使った": {
+    "jp": "ハイカラスクエアのクツ屋でおカネを１００,０００ゲソ使った",
+    "target": "在尚興廣場的鞋店消費金額達到100,000元魷鈔",
+    "category": "BadgeMsg"
+  },
+  "ハイカラスクエアのクツ屋でおカネを１,０００,０００ゲソ使った": {
+    "jp": "ハイカラスクエアのクツ屋でおカネを１,０００,０００ゲソ使った",
+    "target": "在尚興廣場的鞋店消費金額達到1,000,000元魷鈔",
+    "category": "BadgeMsg"
+  },
+  "同じ色のカラーチップの情報を全て集めた": {
+    "jp": "同じ色のカラーチップの情報を全て集めた",
+    "target": "收集到相同顏色的所有色彩晶片的資訊",
+    "category": "BadgeMsg"
+  },
+  "クマサンポイントを１００００pかせいだ": {
+    "jp": "クマサンポイントを１００００pかせいだ",
+    "target": "累積獲得10000p熊先生點數",
+    "category": "BadgeMsg"
+  },
+  "クマサンポイントを１００,０００pかせいだ": {
+    "jp": "クマサンポイントを１００,０００pかせいだ",
+    "target": "累積獲得100000p熊先生點數",
+    "category": "BadgeMsg"
+  },
+  "クマサンポイントを９,９９９,９９９pかせいだ": {
+    "jp": "クマサンポイントを９,９９９,９９９pかせいだ",
+    "target": "累積獲得9999999p熊先生點數",
+    "category": "BadgeMsg"
+  },
+  "ウデマエがＡになった": {
+    "jp": "ウデマエがＡになった",
+    "target": "技術達到A",
+    "category": "BadgeMsg"
+  },
+  "ウデマエがＳになった": {
+    "jp": "ウデマエがＳになった",
+    "target": "技術達到S",
+    "category": "BadgeMsg"
+  },
+  "ウデマエがＳ+になった": {
+    "jp": "ウデマエがＳ+になった",
+    "target": "技術達到S+",
+    "category": "BadgeMsg"
+  },
+  "１０コのブキのじゅくれん度が★４以上になった": {
+    "jp": "１０コのブキのじゅくれん度が★４以上になった",
+    "target": "10種武器的熟練度達到★4以上",
+    "category": "BadgeMsg"
+  },
+  "２５コのブキのじゅくれん度が★４以上になった": {
+    "jp": "２５コのブキのじゅくれん度が★４以上になった",
+    "target": "25種武器的熟練度達到★4以上",
+    "category": "BadgeMsg"
+  },
+  "５０コのブキのじゅくれん度が★４以上になった": {
+    "jp": "５０コのブキのじゅくれん度が★４以上になった",
+    "target": "50種武器的熟練度達到★4以上",
+    "category": "BadgeMsg"
+  },
+  "Xパワー２０００以上でXマッチを１５回勝ちぬけした": {
+    "jp": "Xパワー２０００以上でXマッチを１５回勝ちぬけした",
+    "target": "X戰力為2000以上的狀態下勝出15場X比賽",
+    "category": "BadgeMsg"
+  },
+  "Xパワー２０００以上でXマッチを７０回勝ちぬけした": {
+    "jp": "Xパワー２０００以上でXマッチを７０回勝ちぬけした",
+    "target": "X戰力為2000以上的狀態下勝出70場X比賽",
+    "category": "BadgeMsg"
+  },
+  "Xパワー２０００以上でXマッチを３５０回勝ちぬけした": {
+    "jp": "Xパワー２０００以上でXマッチを３５０回勝ちぬけした",
+    "target": "X戰力為2000以上的狀態下勝出350場X比賽",
+    "category": "BadgeMsg"
+  },
+  "ナワバリバトルで５０回勝利した": {
+    "jp": "ナワバリバトルで５０回勝利した",
+    "target": "占地對戰獲勝50次",
+    "category": "BadgeMsg"
+  },
+  "ナワバリバトルで２５０回勝利した": {
+    "jp": "ナワバリバトルで２５０回勝利した",
+    "target": "占地對戰獲勝250次",
+    "category": "BadgeMsg"
+  },
+  "ナワバリバトルで１２００回勝利した": {
+    "jp": "ナワバリバトルで１２００回勝利した",
+    "target": "占地對戰獲勝1200次",
+    "category": "BadgeMsg"
+  },
+  "トリカラバトルの攻撃チームで勝利した": {
+    "jp": "トリカラバトルの攻撃チームで勝利した",
+    "target": "在三色奪寶對戰中作為進攻隊伍獲勝",
+    "category": "BadgeMsg"
+  },
+  "トリカラバトルの攻撃チームで１０回勝利した": {
+    "jp": "トリカラバトルの攻撃チームで１０回勝利した",
+    "target": "在三色奪寶對戰中作為進攻隊伍獲勝10次",
+    "category": "BadgeMsg"
+  },
+  "トリカラバトルの守備チームで勝利した": {
+    "jp": "トリカラバトルの守備チームで勝利した",
+    "target": "在三色奪寶對戰中作為防守隊伍獲勝",
+    "category": "BadgeMsg"
+  },
+  "トリカラバトルの守備チームで１０回勝利した": {
+    "jp": "トリカラバトルの守備チームで１０回勝利した",
+    "target": "在三色奪寶對戰中作為防守隊伍獲勝10次",
+    "category": "BadgeMsg"
+  },
+  "ガチエリアで１００回勝利した": {
+    "jp": "ガチエリアで１００回勝利した",
+    "target": "真格區域獲勝100次",
+    "category": "BadgeMsg"
+  },
+  "ガチエリアで１０００回勝利した": {
+    "jp": "ガチエリアで１０００回勝利した",
+    "target": "真格區域獲勝1000次",
+    "category": "BadgeMsg"
+  },
+  "ガチアサリで１００回勝利した": {
+    "jp": "ガチアサリで１００回勝利した",
+    "target": "真格蛤蜊獲勝100次",
+    "category": "BadgeMsg"
+  },
+  "ガチアサリで１０００回勝利した": {
+    "jp": "ガチアサリで１０００回勝利した",
+    "target": "真格蛤蜊獲勝1000次",
+    "category": "BadgeMsg"
+  },
+  "ガチホコバトルで１００回勝利した": {
+    "jp": "ガチホコバトルで１００回勝利した",
+    "target": "真格魚虎對戰獲勝100次",
+    "category": "BadgeMsg"
+  },
+  "ガチホコバトルで１０００回勝利した": {
+    "jp": "ガチホコバトルで１０００回勝利した",
+    "target": "真格魚虎對戰獲勝1000次",
+    "category": "BadgeMsg"
+  },
+  "ガチヤグラで１００回勝利した": {
+    "jp": "ガチヤグラで１００回勝利した",
+    "target": "真格塔樓獲勝100次",
+    "category": "BadgeMsg"
+  },
+  "ガチヤグラで１０００回勝利した": {
+    "jp": "ガチヤグラで１０００回勝利した",
+    "target": "真格塔樓獲勝1000次",
+    "category": "BadgeMsg"
+  },
+  "Xパワーが２０００以上になった": {
+    "jp": "Xパワーが２０００以上になった",
+    "target": "X戰力達到2000以上",
+    "category": "BadgeMsg"
+  },
+  "Xマッチのランキングで３０００位以内に入った": {
+    "jp": "Xマッチのランキングで３０００位以内に入った",
+    "target": "在X比賽的排名中位列前3000名",
+    "category": "BadgeMsg"
+  },
+  "Xマッチのランキングで５００位以内に入った": {
+    "jp": "Xマッチのランキングで５００位以内に入った",
+    "target": "在X比賽的排名中位列前500名",
+    "category": "BadgeMsg"
+  },
+  "Xマッチのランキングで１０位以内に入った": {
+    "jp": "Xマッチのランキングで１０位以内に入った",
+    "target": "在X比賽的排名中位列前10名",
+    "category": "BadgeMsg"
+  },
+  "Xマッチのランキングで５００００位以内に入った": {
+    "jp": "Xマッチのランキングで５００００位以内に入った",
+    "target": "在X比賽的排名中位列前50000名",
+    "category": "BadgeMsg"
+  },
+  "Xマッチのランキングで３００００位以内に入った": {
+    "jp": "Xマッチのランキングで３００００位以内に入った",
+    "target": "在X比賽的排名中位列前30000名",
+    "category": "BadgeMsg"
+  },
+  "Xマッチのランキングで１００００位以内に入った": {
+    "jp": "Xマッチのランキングで１００００位以内に入った",
+    "target": "在X比賽的排名中位列前10000名",
+    "category": "BadgeMsg"
+  },
+  "Xマッチのランキングで５０００位以内に入った": {
+    "jp": "Xマッチのランキングで５０００位以内に入った",
+    "target": "在X比賽的排名中位列前5000名",
+    "category": "BadgeMsg"
+  },
+  "Xマッチのランキングで１０００位以内に入った": {
+    "jp": "Xマッチのランキングで１０００位以内に入った",
+    "target": "在X比賽的排名中位列前1000名",
+    "category": "BadgeMsg"
+  },
+  "打開": {
+    "jp": "打開",
+    "target": "開路/突破",
+    "category": "strategy"
+  },
+  "抑え": {
+    "jp": "抑え",
+    "target": "壓制/守住",
+    "category": "strategy"
+  },
+  "塗り": {
+    "jp": "塗り",
+    "target": "塗地",
+    "category": "strategy"
+  },
+  "キル": {
+    "jp": "キル",
+    "target": "擊殺",
+    "category": "strategy"
+  },
+  "デス": {
+    "jp": "デス",
+    "target": "陣亡",
+    "category": "strategy"
+  },
+  "潜伏": {
+    "jp": "潜伏",
+    "target": "潛伏/蹲人",
+    "category": "strategy"
+  },
+  "リスキル": {
+    "jp": "リスキル",
+    "target": "蹲復活點",
+    "category": "strategy"
+  },
+  "対面": {
+    "jp": "対面",
+    "target": "對槍/1v1",
+    "category": "strategy"
+  },
+  "編成": {
+    "jp": "編成",
+    "target": "隊伍配置",
+    "category": "strategy"
+  },
+  "立ち回り": {
+    "jp": "立ち回り",
+    "target": "打法/走位",
+    "category": "strategy"
+  },
+  "射程": {
+    "jp": "射程",
+    "target": "射程",
+    "category": "strategy"
+  },
+  "前線": {
+    "jp": "前線",
+    "target": "前線",
+    "category": "strategy"
+  },
+  "裏取り": {
+    "jp": "裏取り",
+    "target": "繞後",
+    "category": "strategy"
+  },
+  "塗り状況": {
+    "jp": "塗り状況",
+    "target": "塗地狀況",
+    "category": "strategy"
+  },
+  "人数有利": {
+    "jp": "人数有利",
+    "target": "人數優勢",
+    "category": "strategy"
+  },
+  "人数不利": {
+    "jp": "人数不利",
+    "target": "人數劣勢",
+    "category": "strategy"
+  },
+  "カウント": {
+    "jp": "カウント",
+    "target": "計數/比分",
+    "category": "strategy"
+  },
+  "スペシャル": {
+    "jp": "スペシャル",
+    "target": "大招",
+    "category": "strategy"
+  },
+  "サブ": {
+    "jp": "サブ",
+    "target": "副武器",
+    "category": "strategy"
+  },
+  "メイン": {
+    "jp": "メイン",
+    "target": "主武器",
+    "category": "strategy"
+  },
+  "確1": {
+    "jp": "確1",
+    "target": "一發秒殺",
+    "category": "strategy"
+  },
+  "確2": {
+    "jp": "確2",
+    "target": "兩發擊殺",
+    "category": "strategy"
+  },
+  "確3": {
+    "jp": "確3",
+    "target": "三發擊殺",
+    "category": "strategy"
+  },
+  "1確": {
+    "jp": "1確",
+    "target": "一發秒殺",
+    "category": "strategy"
+  },
+  "2確": {
+    "jp": "2確",
+    "target": "兩發擊殺",
+    "category": "strategy"
+  },
+  "3確": {
+    "jp": "3確",
+    "target": "三發擊殺",
+    "category": "strategy"
+  },
+  "エイム": {
+    "jp": "エイム",
+    "target": "瞄準",
+    "category": "strategy"
+  },
+  "キャリー": {
+    "jp": "キャリー",
+    "target": "帶飛/carry",
+    "category": "strategy"
+  },
+  "ヘイト": {
+    "jp": "ヘイト",
+    "target": "仇恨/拉仇恨",
+    "category": "strategy"
+  },
+  "ボム": {
+    "jp": "ボム",
+    "target": "炸彈",
+    "category": "strategy"
+  },
+  "張り付き": {
+    "jp": "張り付き",
+    "target": "貼牆",
+    "category": "strategy"
+  },
+  "硬直": {
+    "jp": "硬直",
+    "target": "後搖/硬直",
+    "category": "strategy"
+  },
+  "構築": {
+    "jp": "構築",
+    "target": "前搖",
+    "category": "strategy"
+  },
+  "全落ち": {
+    "jp": "全落ち",
+    "target": "團滅",
+    "category": "strategy"
+  },
+  "落ち": {
+    "jp": "落ち",
+    "target": "被擊殺了",
+    "category": "strategy"
+  },
+  "味方": {
+    "jp": "味方",
+    "target": "隊友",
+    "category": "strategy"
+  },
+  "相手": {
+    "jp": "相手",
+    "target": "對手",
+    "category": "strategy"
+  },
+  "復帰": {
+    "jp": "復帰",
+    "target": "復活/回來",
+    "category": "strategy"
+  },
+  "スパジャン": {
+    "jp": "スパジャン",
+    "target": "超級跳",
+    "category": "strategy"
+  },
+  "索敵": {
+    "jp": "索敵",
+    "target": "搜索敵人",
+    "category": "strategy"
+  },
+  "クリアリング": {
+    "jp": "クリアリング",
+    "target": "清場",
+    "category": "strategy"
+  },
+  "詰める": {
+    "jp": "詰める",
+    "target": "逼近/推進",
+    "category": "strategy"
+  },
+  "引く": {
+    "jp": "引く",
+    "target": "後撤",
+    "category": "strategy"
+  },
+  "荒らす": {
+    "jp": "荒らす",
+    "target": "騷擾",
+    "category": "strategy"
+  },
+  "固める": {
+    "jp": "固める",
+    "target": "鎖區/鎖死",
+    "category": "strategy"
+  },
+  "カバー": {
+    "jp": "カバー",
+    "target": "補槍/掩護",
+    "category": "strategy"
+  },
+  "初動": {
+    "jp": "初動",
+    "target": "開局",
+    "category": "strategy"
+  },
+  "延長戦": {
+    "jp": "延長戦",
+    "target": "延長賽",
+    "category": "strategy"
+  },
+  "連キル": {
+    "jp": "連キル",
+    "target": "連殺",
+    "category": "strategy"
+  },
+  "アシスト": {
+    "jp": "アシスト",
+    "target": "助攻",
+    "category": "strategy"
+  },
+  "疑似確": {
+    "jp": "疑似確",
+    "target": "偽一擊必殺",
+    "category": "strategy"
+  },
+  "イカ速": {
+    "jp": "イカ速",
+    "target": "游泳速度提升",
+    "category": "ability_abbrev"
+  },
+  "ヒト速": {
+    "jp": "ヒト速",
+    "target": "跑步速度提升",
+    "category": "ability_abbrev"
+  },
+  "イカニン": {
+    "jp": "イカニン",
+    "target": "魷魚忍者",
+    "category": "ability_abbrev"
+  },
+  "スぺ増": {
+    "jp": "スぺ増",
+    "target": "大招充能",
+    "category": "ability_abbrev"
+  },
+  "スぺ減": {
+    "jp": "スぺ減",
+    "target": "大招保存",
+    "category": "ability_abbrev"
+  },
+  "復短": {
+    "jp": "復短",
+    "target": "快速復活",
+    "category": "ability_abbrev"
+  },
+  "安全靴": {
+    "jp": "安全靴",
+    "target": "著地翻滾",
+    "category": "ability_abbrev"
+  },
+  "ステジャン": {
+    "jp": "ステジャン",
+    "target": "隱身跳躍",
+    "category": "ability_abbrev"
+  },
+  "ゾンビ": {
+    "jp": "ゾンビ",
+    "target": "快速復活(殭屍流)",
+    "category": "ability_abbrev"
+  },
+  "メイン性能": {
+    "jp": "メイン性能",
+    "target": "主武器性能提升",
+    "category": "ability_abbrev"
+  },
+  "アクション": {
+    "jp": "アクション",
+    "target": "行動強化",
+    "category": "ability_abbrev"
+  },
+  "ダイナモ": {
+    "jp": "ダイナモ",
+    "target": "電動馬達滾筒",
+    "category": "weapon_abbrev"
+  },
+  "リッター": {
+    "jp": "リッター",
+    "target": "公升狙擊槍4K",
+    "category": "weapon_abbrev"
+  },
+  "スシ": {
+    "jp": "スシ",
+    "target": "斯普拉射擊槍",
+    "category": "weapon_abbrev"
+  },
+  "スシコラ": {
+    "jp": "スシコラ",
+    "target": "斯普拉射擊槍聯名",
+    "category": "weapon_abbrev"
+  },
+  "わかば": {
+    "jp": "わかば",
+    "target": "新葉射擊槍",
+    "category": "weapon_abbrev"
+  },
+  "プライム": {
+    "jp": "プライム",
+    "target": "頂尖射擊槍",
+    "category": "weapon_abbrev"
+  },
+  "ザップ": {
+    "jp": "ザップ",
+    "target": "N-ZAP",
+    "category": "weapon_abbrev"
+  },
+  "ロンブラ": {
+    "jp": "ロンブラ",
+    "target": "遠距爆破槍",
+    "category": "weapon_abbrev"
+  },
+  "ラピ": {
+    "jp": "ラピ",
+    "target": "快速爆破槍",
+    "category": "weapon_abbrev"
+  },
+  "ハイドラ": {
+    "jp": "ハイドラ",
+    "target": "消防栓旋轉槍",
+    "category": "weapon_abbrev"
+  },
+  "バレル": {
+    "jp": "バレル",
+    "target": "桶裝旋轉槍",
+    "category": "weapon_abbrev"
+  },
+  "ノヴァ": {
+    "jp": "ノヴァ",
+    "target": "新星爆破槍",
+    "category": "weapon_abbrev"
+  },
+  "ボールド": {
+    "jp": "ボールド",
+    "target": "廣域標記槍",
+    "category": "weapon_abbrev"
+  },
+  "カーボン": {
+    "jp": "カーボン",
+    "target": "碳纖維滾筒",
+    "category": "weapon_abbrev"
+  },
+  "パブロ": {
+    "jp": "パブロ",
+    "target": "巴勃羅",
+    "category": "weapon_abbrev"
+  },
+  "ホクサイ": {
+    "jp": "ホクサイ",
+    "target": "北齋",
+    "category": "weapon_abbrev"
+  },
+  "スプチャ": {
+    "jp": "スプチャ",
+    "target": "斯普拉蓄力狙擊槍",
+    "category": "weapon_abbrev"
+  },
+  "竹": {
+    "jp": "竹",
+    "target": "14式竹筒槍",
+    "category": "weapon_abbrev"
+  },
+  "バケツ": {
+    "jp": "バケツ",
+    "target": "飛濺潑桶",
+    "category": "weapon_abbrev"
+  },
+  "ヒッセン": {
+    "jp": "ヒッセン",
+    "target": "洗筆桶",
+    "category": "weapon_abbrev"
+  },
+  "モップリン": {
+    "jp": "モップリン",
+    "target": "墨瀑淋",
+    "category": "weapon_abbrev"
+  },
+  "マニュ": {
+    "jp": "マニュ",
+    "target": "雙槍",
+    "category": "weapon_abbrev"
+  },
+  "トライ": {
+    "jp": "トライ",
+    "target": "三弦弓",
+    "category": "weapon_abbrev"
+  },
+  "ジム": {
+    "jp": "ジム",
+    "target": "工作刮水刀",
+    "category": "weapon_abbrev"
+  },
+  "ドライブ": {
+    "jp": "ドライブ",
+    "target": "雨刷刀",
+    "category": "weapon_abbrev"
+  },
+  "ホコ": {
+    "jp": "ホコ",
+    "target": "真格魚虎對戰",
+    "category": "mode_abbrev"
+  },
+  "ヤグラ": {
+    "jp": "ヤグラ",
+    "target": "真格塔樓對戰",
+    "category": "mode_abbrev"
+  },
+  "エリア": {
+    "jp": "エリア",
+    "target": "真格區域對戰",
+    "category": "mode_abbrev"
+  },
+  "アサリ": {
+    "jp": "アサリ",
+    "target": "真格蛤蜊對戰",
+    "category": "mode_abbrev"
+  },
+  "ナワバリ": {
+    "jp": "ナワバリ",
+    "target": "佔地對戰",
+    "category": "mode_abbrev"
+  },
+  "バンカラ": {
+    "jp": "バンカラ",
+    "target": "蠻頹比賽",
+    "category": "mode_abbrev"
+  },
+  "ガチマ": {
+    "jp": "ガチマ",
+    "target": "蠻頹比賽",
+    "category": "mode_abbrev"
+  },
+  "ガチマッチ": {
+    "jp": "ガチマッチ",
+    "target": "蠻頹比賽",
+    "category": "mode_abbrev"
+  },
+  "サモラン": {
+    "jp": "サモラン",
+    "target": "鮭魚跑",
+    "category": "mode_abbrev"
+  },
+  "Xマッチ": {
+    "jp": "Xマッチ",
+    "target": "X比賽",
+    "category": "mode_abbrev"
+  },
+  "右": {
+    "jp": "右",
+    "target": "右側",
+    "category": "callout"
+  },
+  "左": {
+    "jp": "左",
+    "target": "左側",
+    "category": "callout"
+  },
+  "正面": {
+    "jp": "正面",
+    "target": "正面",
+    "category": "callout"
+  },
+  "自陣": {
+    "jp": "自陣",
+    "target": "己方陣地",
+    "category": "callout"
+  },
+  "敵陣": {
+    "jp": "敵陣",
+    "target": "敵方陣地",
+    "category": "callout"
+  },
+  "高台": {
+    "jp": "高台",
+    "target": "高台",
+    "category": "callout"
+  },
+  "中央": {
+    "jp": "中央",
+    "target": "中間/中路",
+    "category": "callout"
+  },
+  "リスポーン": {
+    "jp": "リスポーン",
+    "target": "復活點",
+    "category": "callout"
+  },
+  "リス": {
+    "jp": "リス",
+    "target": "復活點",
+    "category": "callout"
+  },
+  "ノルマ": {
+    "jp": "ノルマ",
+    "target": "配額",
+    "category": "salmon_run"
+  },
+  "納品": {
+    "jp": "納品",
+    "target": "交納/運蛋",
+    "category": "salmon_run"
+  },
+  "寄せ": {
+    "jp": "寄せ",
+    "target": "引怪(到籃筐附近)",
+    "category": "salmon_run"
+  },
+  "処理": {
+    "jp": "処理",
+    "target": "處理(Boss)",
+    "category": "salmon_run"
+  },
+  "野良": {
+    "jp": "野良",
+    "target": "野隊/路人隊",
+    "category": "salmon_run"
+  },
+  "干潮": {
+    "jp": "干潮",
+    "target": "退潮",
+    "category": "salmon_run"
+  },
+  "満潮": {
+    "jp": "満潮",
+    "target": "漲潮",
+    "category": "salmon_run"
+  },
+  "バイト": {
+    "jp": "バイト",
+    "target": "打工(鮭魚跑)",
+    "category": "salmon_run"
+  },
+  "全滅": {
+    "jp": "全滅",
+    "target": "全滅",
+    "category": "salmon_run"
+  },
+  "オオモノ": {
+    "jp": "オオモノ",
+    "target": "大型鮭魚",
+    "category": "salmon_run"
+  },
+  "ヨコヅナ": {
+    "jp": "ヨコヅナ",
+    "target": "橫綱",
+    "category": "salmon_run"
+  },
+  "タツ": {
+    "jp": "タツ",
+    "target": "龍",
+    "category": "salmon_run"
+  },
+  "ジョー": {
+    "jp": "ジョー",
+    "target": "巨顎",
+    "category": "salmon_run"
+  },
+  "キッズ": {
+    "jp": "キッズ",
+    "target": "菜雞/小學生",
+    "category": "slang"
+  },
+  "産廃": {
+    "jp": "産廃",
+    "target": "廢物(指武器太弱)",
+    "category": "slang"
+  },
+  "地雷": {
+    "jp": "地雷",
+    "target": "坑隊友的人",
+    "category": "slang"
+  },
+  "沼": {
+    "jp": "沼",
+    "target": "連敗/沼澤",
+    "category": "slang"
+  },
+  "ナイス": {
+    "jp": "ナイス",
+    "target": "讚!",
+    "category": "slang"
+  },
+  "カモン": {
+    "jp": "カモン",
+    "target": "快來/這邊",
+    "category": "slang"
+  },
+  "環境": {
+    "jp": "環境",
+    "target": "版本強勢/環境",
+    "category": "slang"
+  },
+  "壊れ": {
+    "jp": "壊れ",
+    "target": "超強/崩壞",
+    "category": "slang"
+  },
+  "ナーフ": {
+    "jp": "ナーフ",
+    "target": "削弱",
+    "category": "slang"
+  },
+  "バフ": {
+    "jp": "バフ",
+    "target": "加強",
+    "category": "slang"
+  },
+  "盛る": {
+    "jp": "盛る",
+    "target": "上分",
+    "category": "slang"
+  },
+  "味方ガチャ": {
+    "jp": "味方ガチャ",
+    "target": "隊友抽獎/看臉隊友",
+    "category": "slang"
+  },
+  "神プレイ": {
+    "jp": "神プレイ",
+    "target": "神級操作",
+    "category": "slang"
+  },
+  "ウデマエ": {
+    "jp": "ウデマエ",
+    "target": "技術等級",
+    "category": "general"
+  },
+  "ブキ": {
+    "jp": "ブキ",
+    "target": "武器",
+    "category": "general"
+  },
+  "ギア": {
+    "jp": "ギア",
+    "target": "裝備",
+    "category": "general"
+  },
+  "ギアパワー": {
+    "jp": "ギアパワー",
+    "target": "裝備能力",
+    "category": "general"
+  },
+  "バトル": {
+    "jp": "バトル",
+    "target": "對戰",
+    "category": "general"
+  },
+  "フェス": {
+    "jp": "フェス",
+    "target": "祭典",
+    "category": "general"
+  },
+  "ビッグラン": {
+    "jp": "ビッグラン",
+    "target": "大型跑",
+    "category": "general"
+  },
+  "オカシラ": {
+    "jp": "オカシラ",
+    "target": "首領鮭魚",
+    "category": "general"
+  },
+  "シャケ": {
+    "jp": "シャケ",
+    "target": "鮭魚",
+    "category": "general"
+  },
+  "金イクラ": {
+    "jp": "金イクラ",
+    "target": "金鮭魚卵",
+    "category": "general"
+  },
+  "赤イクラ": {
+    "jp": "赤イクラ",
+    "target": "能量卵",
+    "category": "general"
+  },
+  "ショクワンダー": {
+    "jp": "ショクワンダー",
+    "target": "觸手攀升",
+    "category": "general"
+  },
+  "イカロール": {
+    "jp": "イカロール",
+    "target": "魷魚翻滾",
+    "category": "general"
+  },
+  "金網": {
+    "jp": "金網",
+    "target": "鐵網/網格",
+    "category": "general"
+  },
+  "イカ状態": {
+    "jp": "イカ状態",
+    "target": "魷魚形態",
+    "category": "general"
+  },
+  "連打": {
+    "jp": "連打",
+    "target": "連按",
+    "category": "general"
+  },
+  "ジャイロ": {
+    "jp": "ジャイロ",
+    "target": "體感操控",
+    "category": "general"
+  },
+  "すりみ連合": {
+    "jp": "すりみ連合",
+    "target": "魚漿幫",
+    "category": "character"
+  },
+  "フウカ": {
+    "jp": "フウカ",
+    "target": "莎莎",
+    "category": "character"
+  },
+  "ウツホ": {
+    "jp": "ウツホ",
+    "target": "曼曼",
+    "category": "character"
+  },
+  "マンタロー": {
+    "jp": "マンタロー",
+    "target": "鬼福",
+    "category": "character"
+  },
+  "シオカラーズ": {
+    "jp": "シオカラーズ",
+    "target": "魷魚姐妹",
+    "category": "character"
+  },
+  "アオリ": {
+    "jp": "アオリ",
+    "target": "小擬",
+    "category": "character"
+  },
+  "ホタル": {
+    "jp": "ホタル",
+    "target": "小螢",
+    "category": "character"
+  },
+  "テンタクルズ": {
+    "jp": "テンタクルズ",
+    "target": "觸手姐妹",
+    "category": "character"
+  },
+  "ヒメ": {
+    "jp": "ヒメ",
+    "target": "小姬",
+    "category": "character"
+  },
+  "イイダ": {
+    "jp": "イイダ",
+    "target": "飯田",
+    "category": "character"
+  },
+  "ブキチ": {
+    "jp": "ブキチ",
+    "target": "武鱟",
+    "category": "character"
+  },
+  "クマサン": {
+    "jp": "クマサン",
+    "target": "熊先生",
+    "category": "character"
+  },
+  "コジャケ": {
+    "jp": "コジャケ",
+    "target": "小鮭魚",
+    "category": "character"
+  },
+  "シクワンダー": {
+    "jp": "シクワンダー",
+    "target": "觸手攀升",
+    "category": "whisper_correction"
+  },
+  "食安": {
+    "jp": "食安",
+    "target": "觸手攀升",
+    "category": "whisper_correction"
+  },
+  "寿司": {
+    "jp": "寿司",
+    "target": "斯普拉射擊槍",
+    "category": "whisper_correction"
+  },
+  "解說": {
+    "jp": "解說",
+    "target": "講解/攻略",
+    "category": "commentary_pattern"
+  },
+  "攻略": {
+    "jp": "攻略",
+    "target": "攻略/教學",
+    "category": "commentary_pattern"
+  },
+  "實況": {
+    "jp": "實況",
+    "target": "實況解說",
+    "category": "commentary_pattern"
+  }
+}
