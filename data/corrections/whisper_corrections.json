@@ -1,0 +1,82 @@
+{
+  "_description": "Splatoon 3 ASR correction dictionary for Whisper/kotoba-whisper. Maps known mistranscriptions back to correct Splatoon terms.",
+
+  "corrections": [
+    {"wrong": "食安", "correct": "ショクワンダー", "category": "special_weapon", "type": "kanji_substitution"},
+    {"wrong": "シクワンダー", "correct": "ショクワンダー", "category": "special_weapon", "type": "kana_confusion"},
+    {"wrong": "寿司", "correct": "スシ", "category": "weapon_abbrev", "type": "kanji_substitution", "guard": "splatoon_context"},
+    {"wrong": "若葉", "correct": "わかば", "category": "weapon_abbrev", "type": "kanji_substitution", "guard": "splatoon_context"},
+    {"wrong": "鉄球", "correct": "テッキュウ", "category": "salmon_run_boss", "type": "kanji_substitution"},
+    {"wrong": "鍋蓋", "correct": "ナベブタ", "category": "salmon_run_boss", "type": "kanji_substitution"},
+    {"wrong": "爆弾", "correct": "バクダン", "category": "salmon_run_boss", "type": "kanji_substitution", "guard": "salmon_run_context"},
+    {"wrong": "鉄板", "correct": "テッパン", "category": "salmon_run_boss", "type": "kanji_substitution", "guard": "salmon_run_context"},
+    {"wrong": "着地", "correct": "チャクチ", "category": "special_weapon", "type": "kanji_substitution", "guard": "splatoon_context"},
+    {"wrong": "帝王イカ", "correct": "テイオウイカ", "category": "special_weapon", "type": "partial_kanji"},
+    {"wrong": "蟹タンク", "correct": "カニタンク", "category": "special_weapon", "type": "partial_kanji"},
+    {"wrong": "吸引器", "correct": "キューインキ", "category": "special_weapon", "type": "kanji_substitution"},
+    {"wrong": "吸引き", "correct": "キューインキ", "category": "special_weapon", "type": "kanji_substitution"},
+    {"wrong": "竜宮ターミナル", "correct": "リュウグウターミナル", "category": "stage", "type": "partial_kanji"},
+    {"wrong": "ナイス玉", "correct": "ナイスダマ", "category": "special_weapon", "type": "partial_kanji"},
+    {"wrong": "ナイスだま", "correct": "ナイスダマ", "category": "special_weapon", "type": "hiragana_variant"},
+    {"wrong": "鮫ライド", "correct": "サメライド", "category": "special_weapon", "type": "partial_kanji"},
+    {"wrong": "墨流しート", "correct": "スミナガシート", "category": "special_weapon", "type": "partial_kanji"},
+    {"wrong": "子鮭", "correct": "コジャケ", "category": "character", "type": "kanji_substitution"},
+    {"wrong": "泥鮭", "correct": "ドロシャケ", "category": "salmon_run_boss", "type": "kanji_substitution"},
+    {"wrong": "鮭コプター", "correct": "シャケコプター", "category": "salmon_run_boss", "type": "partial_kanji"},
+    {"wrong": "イカ忍者", "correct": "イカニンジャ", "category": "gear_ability", "type": "partial_kanji"},
+    {"wrong": "イカ忍", "correct": "イカニン", "category": "gear_ability_abbrev", "type": "partial_kanji"},
+    {"wrong": "炭酸ボム", "correct": "タンサンボム", "category": "sub_weapon", "type": "partial_kanji"},
+    {"wrong": "雨降らし", "correct": "アメフラシ", "category": "special_weapon", "type": "kanji_substitution"},
+
+    {"wrong": "スプラ シューター", "correct": "スプラシューター", "category": "weapon", "type": "compound_split"},
+    {"wrong": "スプラ チャージャー", "correct": "スプラチャージャー", "category": "weapon", "type": "compound_split"},
+    {"wrong": "スプラ スコープ", "correct": "スプラスコープ", "category": "weapon", "type": "compound_split"},
+    {"wrong": "スプラ マニューバー", "correct": "スプラマニューバー", "category": "weapon", "type": "compound_split"},
+    {"wrong": "ウルトラ ショット", "correct": "ウルトラショット", "category": "special_weapon", "type": "compound_split"},
+    {"wrong": "マルチ ミサイル", "correct": "マルチミサイル", "category": "special_weapon", "type": "compound_split"},
+    {"wrong": "メガホン レーザー", "correct": "メガホンレーザー", "category": "special_weapon", "type": "compound_split"},
+    {"wrong": "カーリング ボム", "correct": "カーリングボム", "category": "sub_weapon", "type": "compound_split"},
+    {"wrong": "エナジー スタンド", "correct": "エナジースタンド", "category": "special_weapon", "type": "compound_split"},
+    {"wrong": "グレート バリア", "correct": "グレートバリア", "category": "special_weapon", "type": "compound_split"},
+    {"wrong": "ジェット パック", "correct": "ジェットパック", "category": "special_weapon", "type": "compound_split"},
+    {"wrong": "トリプル トルネード", "correct": "トリプルトルネード", "category": "special_weapon", "type": "compound_split"},
+    {"wrong": "ホップ ソナー", "correct": "ホップソナー", "category": "special_weapon", "type": "compound_split"},
+    {"wrong": "デコイ チラシ", "correct": "デコイチラシ", "category": "special_weapon", "type": "compound_split"},
+    {"wrong": "スプラッシュ ボム", "correct": "スプラッシュボム", "category": "sub_weapon", "type": "compound_split"},
+    {"wrong": "キューバン ボム", "correct": "キューバンボム", "category": "sub_weapon", "type": "compound_split"},
+    {"wrong": "ロボット ボム", "correct": "ロボットボム", "category": "sub_weapon", "type": "compound_split"},
+    {"wrong": "ポイズン ミスト", "correct": "ポイズンミスト", "category": "sub_weapon", "type": "compound_split"},
+    {"wrong": "ライン マーカー", "correct": "ラインマーカー", "category": "sub_weapon", "type": "compound_split"},
+    {"wrong": "サーマル インク", "correct": "サーマルインク", "category": "gear_ability", "type": "compound_split"},
+
+    {"wrong": "ご視聴ありがとうございました", "correct": "", "category": "hallucination", "type": "training_artifact", "action": "remove"},
+    {"wrong": "チャンネル登録よろしくお願いします", "correct": "", "category": "hallucination", "type": "training_artifact", "action": "flag"},
+    {"wrong": "字幕提供", "correct": "", "category": "hallucination", "type": "training_artifact", "action": "remove"}
+  ],
+
+  "initial_prompt_terms": [
+    "スプラトゥーン3のゲーム実況解説です。",
+    "スプラシューター、スプラチャージャー、スプラマニューバー、スプラローラー、",
+    "ショクワンダー、イカロール、イカノボリ、スーパージャンプ、",
+    "ナワバリバトル、バンカラマッチ、ガチエリア、ガチヤグラ、ガチホコ、ガチアサリ、",
+    "サーモンラン、ビッグラン、オカシラ、ヨコヅナ、タツ、ジョー、",
+    "ウルトラショット、カニタンク、ナイスダマ、マルチミサイル、テイオウイカ、",
+    "メガホンレーザー、キューインキ、サメライド、ホップソナー、デコイチラシ、",
+    "スプラッシュボム、キューバンボム、カーリングボム、タンサンボム、トーピード、",
+    "ナベブタ、テッキュウ、テッパン、バクダン、ドロシャケ、シャケコプター、",
+    "スシ、わかば、ダイナモ、リッター、ノヴァ、ロンブラ、ハイドラ、バレル、",
+    "ジムワイパー、ドライブワイパー、トライストリンガー、",
+    "イカ速、ヒト速、イカニンジャ、ステルスジャンプ、",
+    "打開、抑え、潜伏、対面、裏取り、前線、編成、立ち回り"
+  ],
+
+  "hotwords": "スプラトゥーン スプラシューター ショクワンダー ナワバリバトル バンカラマッチ ガチエリア ガチヤグラ ガチホコ ガチアサリ サーモンラン ウルトラショット カニタンク ナイスダマ マルチミサイル テイオウイカ キューインキ サメライド ナベブタ テッキュウ テッパン バクダン ドロシャケ コジャケ スシ わかば ダイナモ リッター ノヴァ ロンブラ ハイドラ ジムワイパー ドライブワイパー トライストリンガー イカニンジャ ステルスジャンプ 打開 潜伏 対面 裏取り 前線 編成",
+
+  "correction_config": {
+    "enable_compound_rejoin": true,
+    "enable_kanji_to_katakana": true,
+    "enable_hallucination_filter": true,
+    "min_context_confidence": 0.7,
+    "guarded_corrections_require_context": true
+  }
+}

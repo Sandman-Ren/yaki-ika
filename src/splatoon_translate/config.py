@@ -13,6 +13,8 @@ WORKSPACE_ROOT = PROJECT_ROOT.parents[1]
 DATA_DIR = PROJECT_ROOT / "data"
 GLOSSARY_DIR = DATA_DIR / "glossary"
 JARGON_DIR = DATA_DIR / "jargon"
+CORRECTIONS_DIR = DATA_DIR / "corrections"
+CONTEXT_DIR = DATA_DIR / "context"
 
 DEPS_DIR = WORKSPACE_ROOT / "deps"
 SPLAT3_LANG_DIR = DEPS_DIR / "splat3" / "data" / "language"

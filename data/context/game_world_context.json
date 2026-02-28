@@ -1,0 +1,64 @@
+{
+  "_description": "Compact Splatoon 3 game world context for LLM translation prompt injection. Provides domain knowledge to help the LLM make contextually accurate translations.",
+
+  "game_overview": "Splatoon 3 is a team-based ink shooter by Nintendo set 12,000 years after human extinction. Players are Inklings (squid-kids) or Octolings (octopus-kids) who battle by spreading colored ink. The game's tone is youthful, energetic, and fashion-forward — 'freshness' is the core cultural value.",
+
+  "key_concepts": {
+    "inking": "Players spread colored ink on surfaces. Standing in your team's ink lets you swim through it quickly (squid form). Enemy ink slows you and deals damage.",
+    "splatting": "The Splatoon term for 'killing' — players get 'splatted', not killed. They respawn after a few seconds.",
+    "squid_form": "Players can transform between kid form (humanoid, can shoot) and squid/octopus form (can swim in ink, faster movement, refill ink tank).",
+    "special_moves": "Squid Roll (dodge with invincibility), Squid Surge (climb walls fast), Super Jump (teleport to teammates)."
+  },
+
+  "game_modes": {
+    "turf_war": "Casual 4v4 mode. Team that inks the most ground in 3 minutes wins.",
+    "anarchy_battle": "Competitive ranked mode with 4 sub-modes: Splat Zones (control area), Tower Control (ride the tower), Rainmaker (carry the weapon to enemy base), Clam Blitz (throw clams into enemy basket).",
+    "x_battle": "Elite ranked mode above Anarchy. Uses X Power rating.",
+    "salmon_run": "4-player PvE co-op mode. Fight waves of Salmonid enemies, collect Golden Eggs, meet quota. Has Boss Salmonids and King Salmonids (Cohozuna, Horrorboros, Megalodontia).",
+    "splatfest": "Periodic 3-team event where players vote on a theme and battle for their team. Hosted by Deep Cut (the idol group)."
+  },
+
+  "characters": {
+    "deep_cut": "Splatoon 3's idol group (すりみ連合). Shiver (フウカ) — cool shark tamer, Frye (ウツホ) — energetic eel dancer, Big Man (マンタロー) — gentle manta ray who only says 'Ay!' (エイ!).",
+    "squid_sisters": "Splatoon 1 idols (シオカラーズ). Callie (アオリ) and Marie (ホタル) — still appear in story mode.",
+    "off_the_hook": "Splatoon 2 idols (テンタクルズ). Pearl (ヒメ) — loud and tiny, Marina (イイダ) — shy DJ octopus. Key roles in Side Order DLC.",
+    "mr_grizz": "Bear who runs Grizzco Industries (Salmon Run). Turns out to be the main villain of the story mode.",
+    "sheldon": "Weapon shop owner (ブキチ). Extremely enthusiastic about weapons."
+  },
+
+  "translation_tone_guide": {
+    "general": "Splatoon commentary is fast, excited, and casual. Speakers often shout, use abbreviations, and mix gaming jargon with everyday Japanese. Translations should feel natural and energetic — not stiff or formal.",
+    "register": "Most JP Splatoon YouTubers use casual speech (タメ口) with occasional polite forms. Match this with casual English/Chinese. Use contractions, short sentences, and gaming vocabulary.",
+    "exclamations": "Preserve the energy of exclamations. ナイス! = Nice! / 来た! = Let's go! / やばい = Oh no / That's insane (context-dependent). やった = Got 'em!",
+    "ambiguous_terms": {
+      "エリア": "Usually means 'Splat Zones' (the game mode), NOT a generic area. In rare cases when discussing map positioning it can mean 'area/zone'.",
+      "アサリ": "Usually means 'Clam Blitz' (the game mode), NOT literal clams.",
+      "ホコ": "Always means 'Rainmaker' in Splatoon context, NOT a generic torch/halberd.",
+      "バイト": "In Salmon Run context means 'shift/job' (playing Salmon Run), NOT a part-time job.",
+      "キャンプ": "In weapon context means 'Tenta Brella', NOT camping/tent. In strategy context means 'camping (staying in one spot)'.",
+      "スパイ": "In weapon context means 'Undercover Brella', NOT spy.",
+      "スシ": "Always means 'Splattershot' in Splatoon context, NEVER sushi.",
+      "わかば": "Always means 'Splattershot Jr.' in Splatoon context, NOT young leaves.",
+      "ジム": "In weapon context means 'Splatana Stamper', NOT a gym.",
+      "ドライブ": "In weapon context means 'Splatana Wiper', NOT driving.",
+      "環境": "In competitive context means 'the meta' (current strongest strategies/weapons), NOT the environment."
+    }
+  },
+
+  "commentary_patterns": {
+    "video_structure": "JP Splatoon videos typically: greeting → topic intro → gameplay with commentary → conclusion. Common phrases: はいどうも (hey everyone), というわけで (so with that said), 解説 (guide/breakdown), 攻略 (strategy tips).",
+    "damage_notation": "確N or N確 = N-shot kill. Example: 確1 = one-shot kill, 3確 = three-shot kill. 疑似確 = pseudo one-shot (using damage-up abilities to reduce shots needed).",
+    "rank_references": "Players often reference ranks: S+, X Battle, XP (X Power) with numbers like XP2500. ウデマエ = rank. 盛る = climbing/gaining points.",
+    "salmon_run_terms": "バイト = shift, ノルマ = quota, 納品 = deliver eggs, 寄せ = lure bosses to basket, 野良 = random teammates, 干潮/満潮 = low/high tide."
+  },
+
+  "weapon_class_notes": {
+    "jp_en_divergences": [
+      "スピナー (Spinner) = Splatling in English",
+      "シェルター (Shelter) = Brella in English",
+      "ワイパー (Wiper) = Splatana in English",
+      "マニューバー (Maneuver) = Dualies in English",
+      "フデ (Brush) = Brush in English (same)"
+    ]
+  }
+}
