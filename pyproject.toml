@@ -17,6 +17,9 @@ dependencies = [
     "tqdm",
 ]
 
+[project.optional-dependencies]
+ocr = ["paddlepaddle-gpu>=2.6", "paddleocr>=2.9", "opencv-python>=4.8"]
+
 [project.scripts]
 yaki-ika = "splatoon_translate.pipeline:main"
 

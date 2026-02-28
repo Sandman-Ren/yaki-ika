@@ -15,6 +15,7 @@ GLOSSARY_DIR = DATA_DIR / "glossary"
 JARGON_DIR = DATA_DIR / "jargon"
 CORRECTIONS_DIR = DATA_DIR / "corrections"
 CONTEXT_DIR = DATA_DIR / "context"
+REFERENCES_DIR = DATA_DIR / "references"
 
 DEPS_DIR = WORKSPACE_ROOT / "deps"
 SPLAT3_LANG_DIR = DEPS_DIR / "splat3" / "data" / "language"
