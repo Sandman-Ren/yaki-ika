@@ -2,6 +2,7 @@
 
 import argparse
 import json
+import shutil
 import time
 from pathlib import Path
 
@@ -26,6 +27,7 @@ def run_pipeline(
     translation_provider: str | None = None,
     burn: bool = True,
     soft_subs: bool = False,
+    burn_subtitle: str = "translated",
     gpu: bool = True,
     keep_intermediates: bool = True,
 ) -> Path:
@@ -40,6 +42,8 @@ def run_pipeline(
         translation_provider: "anthropic" or "openai".
         burn: Burn subtitles into video.
         soft_subs: Add as toggleable subtitle track.
+        burn_subtitle: Which subtitle to burn/embed: "translated" (default),
+            "ja", "bilingual", or a file path to an SRT.
         gpu: Use GPU encoding for FFmpeg.
         keep_intermediates: Keep intermediate files (audio, transcripts, etc.).
 
@@ -61,6 +65,10 @@ def run_pipeline(
         video_path = source_path
         stem = video_path.stem
         print(f"[1/7] Using local file: {video_path}")
+        # Copy to output dir so output is self-contained
+        video_in_output = output_dir / video_path.name
+        if video_path.resolve() != video_in_output.resolve():
+            shutil.copy2(video_path, video_in_output)
     else:
         print(f"[1/7] Downloading video...")
         video_path = download_video(source, output_dir)
@@ -117,17 +125,31 @@ def run_pipeline(
     # ── Step 7: Embed subtitles ────────────────────────────────────────────
     final_output = translated_srt  # default: just the SRT
 
+    # Resolve which SRT to embed based on burn_subtitle option.
+    if burn_subtitle == "translated":
+        embed_srt = translated_srt
+        sub_suffix = ""
+    elif burn_subtitle == "ja":
+        embed_srt = jp_srt
+        sub_suffix = ".ja"
+    elif burn_subtitle == "bilingual":
+        embed_srt = bilingual_srt
+        sub_suffix = f".bilingual.{lang_suffix}"
+    else:
+        embed_srt = Path(burn_subtitle)
+        sub_suffix = f".{embed_srt.stem}"
+
     if burn:
-        print(f"[7/7] Burning subtitles into video...")
+        print(f"[7/7] Burning subtitles into video ({burn_subtitle})...")
         t0 = time.time()
-        output_mp4 = output_dir / f"{stem}.subtitled.mp4"
-        burn_subtitles(video_path, translated_srt, output_mp4, target_lang=target_lang, gpu=gpu)
+        output_mp4 = output_dir / f"{stem}.subtitled{sub_suffix}.mp4"
+        burn_subtitles(video_path, embed_srt, output_mp4, target_lang=target_lang, gpu=gpu)
         final_output = output_mp4
         print(f"       -> {output_mp4.name} ({time.time() - t0:.1f}s)")
     elif soft_subs:
-        print(f"[7/7] Adding soft subtitles...")
-        output_mp4 = output_dir / f"{stem}.subtitled.mp4"
-        add_soft_subtitles(video_path, translated_srt, output_mp4)
+        print(f"[7/7] Adding soft subtitles ({burn_subtitle})...")
+        output_mp4 = output_dir / f"{stem}.subtitled{sub_suffix}.mp4"
+        add_soft_subtitles(video_path, embed_srt, output_mp4)
         final_output = output_mp4
         print(f"       -> {output_mp4.name}")
     else:
@@ -184,6 +206,12 @@ def main():
         help="Skip burning subtitles into video (SRT only)",
     )
     parser.add_argument(
+        "--burn-subtitle",
+        default="translated",
+        metavar="TYPE",
+        help="Which subtitle to burn: translated (default), ja, bilingual, or a path to an SRT file",
+    )
+    parser.add_argument(
         "--soft-subs",
         action="store_true",
         help="Add as toggleable subtitle track instead of burn-in",
@@ -210,6 +238,7 @@ def main():
         translation_provider=args.translation_provider,
         burn=not args.no_burn and not args.soft_subs,
         soft_subs=args.soft_subs,
+        burn_subtitle=args.burn_subtitle,
         gpu=not args.cpu,
         keep_intermediates=not args.no_intermediates,
     )
