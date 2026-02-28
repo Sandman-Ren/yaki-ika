@@ -1,9 +1,9 @@
 [build-system]
-requires = ["setuptools>=68.0", "wheel"]
-build-backend = "setuptools.build_meta"
+requires = ["uv_build>=0.10.7,<0.11.0"]
+build-backend = "uv_build"
 
 [project]
-name = "splatoon-translate"
+name = "yaki-ika"
 version = "0.1.0"
 description = "Automated Japanese subtitle translation pipeline for Splatoon 3 videos"
 requires-python = ">=3.11"
@@ -18,7 +18,8 @@ dependencies = [
 ]
 
 [project.scripts]
-splatoon-translate = "splatoon_translate.pipeline:main"
+yaki-ika = "splatoon_translate.pipeline:main"
 
-[tool.setuptools.packages.find]
-where = ["src"]
+[tool.uv.build-backend]
+module-root = "src"
+module-name = "splatoon_translate"

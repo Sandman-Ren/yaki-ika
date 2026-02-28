@@ -37,34 +37,33 @@ YouTube URL / local video
 ## Setup
 
 ```bash
-# Clone with submodule data
+# Clone the repo
 git clone https://github.com/Sandman-Ren/yaki-ika.git
 cd yaki-ika
 
-# Create venv and install
-python -m venv .venv
-source .venv/bin/activate  # Windows: .venv\Scripts\activate
-pip install -e .
+# Install uv (https://docs.astral.sh/uv/getting-started/installation/)
+# Then sync dependencies (creates .venv, installs everything)
+uv sync
 
 # Set up API key
 cp .env.example .env
 # Edit .env and add your ANTHROPIC_API_KEY or OPENAI_API_KEY
 
 # Build the glossary (requires Leanny's splat3 data in ../deps/splat3)
-python scripts/build_glossary.py zh-CN
+uv run python scripts/build_glossary.py zh-CN
 ```
 
 ## Usage
 
 ```bash
 # Translate a YouTube video (default: Simplified Chinese, with burn-in)
-splatoon-translate https://www.youtube.com/watch?v=VIDEO_ID -o ./output
+uv run yaki-ika https://www.youtube.com/watch?v=VIDEO_ID -o ./output
 
 # Translate to English, SRT only (no video burn-in)
-splatoon-translate video.mp4 -l en --no-burn -o ./output
+uv run yaki-ika video.mp4 -l en --no-burn -o ./output
 
 # Use CPU encoding instead of GPU
-splatoon-translate video.mp4 --cpu -o ./output
+uv run yaki-ika video.mp4 --cpu -o ./output
 ```
 
 ### CLI Options
@@ -160,28 +159,28 @@ YouTube 链接 / 本地视频
 git clone https://github.com/Sandman-Ren/yaki-ika.git
 cd yaki-ika
 
-python -m venv .venv
-source .venv/bin/activate  # Windows: .venv\Scripts\activate
-pip install -e .
+# 安装 uv (https://docs.astral.sh/uv/getting-started/installation/)
+# 同步依赖（自动创建 .venv，安装所有依赖）
+uv sync
 
 cp .env.example .env
 # 编辑 .env，填入 ANTHROPIC_API_KEY 或 OPENAI_API_KEY
 
 # 构建术语表（需要 Leanny 的 splat3 数据位于 ../deps/splat3）
-python scripts/build_glossary.py zh-CN
+uv run python scripts/build_glossary.py zh-CN
 ```
 
 ## 使用方法
 
 ```bash
 # 翻译 YouTube 视频（默认简体中文，烧录字幕）
-splatoon-translate https://www.youtube.com/watch?v=VIDEO_ID -o ./output
+uv run yaki-ika https://www.youtube.com/watch?v=VIDEO_ID -o ./output
 
 # 翻译为英语，仅输出 SRT（不烧录视频）
-splatoon-translate video.mp4 -l en --no-burn -o ./output
+uv run yaki-ika video.mp4 -l en --no-burn -o ./output
 
 # 使用 CPU 编码
-splatoon-translate video.mp4 --cpu -o ./output
+uv run yaki-ika video.mp4 --cpu -o ./output
 ```
 
 ## 输出文件
