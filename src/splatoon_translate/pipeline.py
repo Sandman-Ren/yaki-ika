@@ -74,21 +74,31 @@ def run_pipeline(
         video_path = source_path
         stem = video_path.stem
         progress.set_description(f"[{step}/{total_steps}] Using local file")
-        # Copy to output dir so output is self-contained
-        video_in_output = output_dir / video_path.name
-        if video_path.resolve() != video_in_output.resolve():
-            shutil.copy2(video_path, video_in_output)
     else:
         progress.set_description(f"[{step}/{total_steps}] Downloading video")
         video_path = download_video(source, output_dir)
         stem = video_path.stem
+
+    # Create a per-video subdirectory for all outputs.
+    video_dir = output_dir / stem
+    video_dir.mkdir(parents=True, exist_ok=True)
+
+    # Copy/move video into the subdirectory.
+    video_in_dir = video_dir / video_path.name
+    if video_path.resolve() != video_in_dir.resolve():
+        if video_path.parent.resolve() == output_dir.resolve():
+            # Downloaded to output_dir — move into subdirectory.
+            video_path.rename(video_in_dir)
+        else:
+            shutil.copy2(video_path, video_in_dir)
+        video_path = video_in_dir
     progress.update(1)
 
     # ── Step 2: Extract audio ──────────────────────────────────────────────
     step += 1
     progress.set_description(f"[{step}/{total_steps}] Extracting audio")
     t0 = time.time()
-    audio_path = extract_audio(video_path, output_dir)
+    audio_path = extract_audio(video_path, video_dir)
     progress.update(1)
 
     # ── Step 3: Transcribe ─────────────────────────────────────────────────
@@ -99,7 +109,7 @@ def run_pipeline(
     progress.update(1)
 
     # Save JP transcript.
-    jp_srt = output_dir / f"{stem}.ja.srt"
+    jp_srt = video_dir / f"{stem}.ja.srt"
     transcript_to_srt(segments, jp_srt)
 
     # ── Step 4: Term extraction + glossary matching ────────────────────────
@@ -110,7 +120,7 @@ def run_pipeline(
     progress.update(1)
 
     if keep_intermediates:
-        terms_path = output_dir / f"{stem}.terms.{lang_suffix}.json"
+        terms_path = video_dir / f"{stem}.terms.{lang_suffix}.json"
         with open(terms_path, "w", encoding="utf-8") as f:
             json.dump(matched, f, ensure_ascii=False, indent=2)
 
@@ -129,10 +139,10 @@ def run_pipeline(
     # ── Step 6: Generate SRT ───────────────────────────────────────────────
     step += 1
     progress.set_description(f"[{step}/{total_steps}] Generating subtitles")
-    translated_srt = output_dir / f"{stem}.{lang_suffix}.srt"
+    translated_srt = video_dir / f"{stem}.{lang_suffix}.srt"
     segments_to_srt(translated, translated_srt, target_lang=target_lang)
 
-    bilingual_srt = output_dir / f"{stem}.bilingual.{lang_suffix}.srt"
+    bilingual_srt = video_dir / f"{stem}.bilingual.{lang_suffix}.srt"
     segments_to_bilingual_srt(translated, bilingual_srt)
     progress.update(1)
 
@@ -154,7 +164,7 @@ def run_pipeline(
             embed_srt = Path(burn_subtitle)
             sub_suffix = f".{embed_srt.stem}"
 
-        output_mp4 = output_dir / f"{stem}.subtitled{sub_suffix}.mp4"
+        output_mp4 = video_dir / f"{stem}.subtitled{sub_suffix}.mp4"
         step += 1
 
         if burn:
@@ -174,7 +184,7 @@ def run_pipeline(
         audio_path.unlink(missing_ok=True)
 
     # Print summary.
-    print(f"\nOutput: {final_output}")
+    print(f"\nOutput directory: {video_dir}")
     print(f"  Japanese transcript: {jp_srt.name}")
     print(f"  Translated subtitles: {translated_srt.name}")
     print(f"  Bilingual subtitles: {bilingual_srt.name}")
