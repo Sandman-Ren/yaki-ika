@@ -369,7 +369,7 @@ Options:
   --model-size SIZE          Whisper model size (default: large-v3-turbo)
   --translation-model MODEL  LLM model name
   --translation-provider {anthropic,openai}
-  --no-burn                  Skip video burn-in (SRT only)
+  --burn                     Burn subtitles into the output video
   --soft-subs                Add as toggleable subtitle track
   --cpu                      Use CPU for FFmpeg encoding
   --no-intermediates         Don't keep intermediate files

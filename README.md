@@ -56,14 +56,14 @@ uv run python scripts/build_glossary.py zh-CN
 ## Usage
 
 ```bash
-# Translate a YouTube video (default: Simplified Chinese, with burn-in)
+# Translate a YouTube video (default: Simplified Chinese, SRT output)
 uv run yaki-ika https://www.youtube.com/watch?v=VIDEO_ID -o ./output
 
-# Translate to English, SRT only (no video burn-in)
-uv run yaki-ika video.mp4 -l en --no-burn -o ./output
+# Translate to English
+uv run yaki-ika video.mp4 -l en -o ./output
 
-# Use CPU encoding instead of GPU
-uv run yaki-ika video.mp4 --cpu -o ./output
+# Also burn subtitles into the video
+uv run yaki-ika video.mp4 -o ./output --burn
 ```
 
 ### CLI Options
@@ -75,7 +75,7 @@ uv run yaki-ika video.mp4 --cpu -o ./output
 | `--model-size` | Whisper model size (default: `large-v3-turbo`) |
 | `--translation-model` | LLM model name |
 | `--translation-provider` | `anthropic` or `openai` |
-| `--no-burn` | Skip video burn-in, output SRT only |
+| `--burn` | Burn subtitles into the output video |
 | `--soft-subs` | Add as toggleable subtitle track |
 | `--cpu` | Use CPU for FFmpeg encoding |
 | `--no-intermediates` | Don't keep intermediate files |
@@ -173,14 +173,14 @@ uv run python scripts/build_glossary.py zh-CN
 ## 使用方法
 
 ```bash
-# 翻译 YouTube 视频（默认简体中文，烧录字幕）
+# 翻译 YouTube 视频（默认简体中文，输出 SRT 字幕）
 uv run yaki-ika https://www.youtube.com/watch?v=VIDEO_ID -o ./output
 
-# 翻译为英语，仅输出 SRT（不烧录视频）
-uv run yaki-ika video.mp4 -l en --no-burn -o ./output
+# 翻译为英语
+uv run yaki-ika video.mp4 -l en -o ./output
 
-# 使用 CPU 编码
-uv run yaki-ika video.mp4 --cpu -o ./output
+# 同时烧录字幕到视频
+uv run yaki-ika video.mp4 -o ./output --burn
 ```
 
 ## 输出文件

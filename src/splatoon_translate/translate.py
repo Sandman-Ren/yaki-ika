@@ -1,9 +1,12 @@
 """LLM-based translation with RAG glossary injection and game world context."""
 
-from dataclasses import dataclass
 import json
+import math
 import re
+from dataclasses import dataclass
 from pathlib import Path
+
+from tqdm import tqdm
 
 from . import config
 from .transcribe import TranscriptSegment
@@ -220,9 +223,18 @@ def translate_segments(
     )
 
     all_results: list[TranslatedSegment] = []
+    num_batches = math.ceil(len(segments) / batch_size)
 
-    for batch_start in range(0, len(segments), batch_size):
+    batch_iter = tqdm(
+        range(0, len(segments), batch_size),
+        total=num_batches,
+        desc="Translating",
+        unit="batch",
+        leave=False,
+    )
+    for batch_start in batch_iter:
         batch = segments[batch_start : batch_start + batch_size]
+        batch_iter.set_postfix(segments=f"{batch_start + len(batch)}/{len(segments)}")
         # Use global indices so numbering is consistent across batches.
         user_msg = _build_user_message_indexed(batch, batch_start + 1)
 

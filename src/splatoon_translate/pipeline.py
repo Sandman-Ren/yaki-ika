@@ -6,6 +6,8 @@ import shutil
 import time
 from pathlib import Path
 
+from tqdm import tqdm
+
 from . import config
 from .config import get_lang_config
 from .download import download_video
@@ -25,7 +27,7 @@ def run_pipeline(
     model_size: str | None = None,
     translation_model: str | None = None,
     translation_provider: str | None = None,
-    burn: bool = True,
+    burn: bool = False,
     soft_subs: bool = False,
     burn_subtitle: str = "translated",
     gpu: bool = True,
@@ -40,7 +42,7 @@ def run_pipeline(
         model_size: Whisper model size (default: large-v3-turbo).
         translation_model: LLM model name.
         translation_provider: "anthropic" or "openai".
-        burn: Burn subtitles into video.
+        burn: Burn subtitles into video (default: off).
         soft_subs: Add as toggleable subtitle track.
         burn_subtitle: Which subtitle to burn/embed: "translated" (default),
             "ja", "bilingual", or a file path to an SRT.
@@ -59,43 +61,53 @@ def run_pipeline(
     output_dir = Path(output_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
 
+    embed = burn or soft_subs
+    total_steps = 7 if embed else 6
+    step = 0
+
+    progress = tqdm(total=total_steps, desc="Pipeline", unit="step", bar_format="{l_bar}{bar}| {n_fmt}/{total_fmt} steps [{elapsed}<{remaining}]")
+
     # ── Step 1: Download or locate video ───────────────────────────────────
+    step += 1
     source_path = Path(source)
     if source_path.exists():
         video_path = source_path
         stem = video_path.stem
-        print(f"[1/7] Using local file: {video_path}")
+        progress.set_description(f"[{step}/{total_steps}] Using local file")
         # Copy to output dir so output is self-contained
         video_in_output = output_dir / video_path.name
         if video_path.resolve() != video_in_output.resolve():
             shutil.copy2(video_path, video_in_output)
     else:
-        print(f"[1/7] Downloading video...")
+        progress.set_description(f"[{step}/{total_steps}] Downloading video")
         video_path = download_video(source, output_dir)
         stem = video_path.stem
-        print(f"       -> {video_path.name}")
+    progress.update(1)
 
     # ── Step 2: Extract audio ──────────────────────────────────────────────
-    print(f"[2/7] Extracting audio...")
+    step += 1
+    progress.set_description(f"[{step}/{total_steps}] Extracting audio")
     t0 = time.time()
     audio_path = extract_audio(video_path, output_dir)
-    print(f"       -> {audio_path.name} ({time.time() - t0:.1f}s)")
+    progress.update(1)
 
     # ── Step 3: Transcribe ─────────────────────────────────────────────────
-    print(f"[3/7] Transcribing Japanese audio...")
+    step += 1
+    progress.set_description(f"[{step}/{total_steps}] Transcribing")
     t0 = time.time()
     segments = transcribe(audio_path, model_size=model_size)
-    print(f"       -> {len(segments)} segments ({time.time() - t0:.1f}s)")
+    progress.update(1)
 
     # Save JP transcript.
     jp_srt = output_dir / f"{stem}.ja.srt"
     transcript_to_srt(segments, jp_srt)
 
     # ── Step 4: Term extraction + glossary matching ────────────────────────
-    print(f"[4/7] Matching glossary terms ({lang_name})...")
+    step += 1
+    progress.set_description(f"[{step}/{total_steps}] Matching glossary terms")
     glossary = load_glossary(target_lang=target_lang)
     matched = match_glossary(segments, glossary, target_lang=target_lang)
-    print(f"       -> {len(matched)} terms matched")
+    progress.update(1)
 
     if keep_intermediates:
         terms_path = output_dir / f"{stem}.terms.{lang_suffix}.json"
@@ -103,7 +115,8 @@ def run_pipeline(
             json.dump(matched, f, ensure_ascii=False, indent=2)
 
     # ── Step 5: Translate ──────────────────────────────────────────────────
-    print(f"[5/7] Translating to {lang_name}...")
+    step += 1
+    progress.set_description(f"[{step}/{total_steps}] Translating to {lang_name}")
     t0 = time.time()
     translated = translate_segments(
         segments, matched,
@@ -111,55 +124,62 @@ def run_pipeline(
         provider=translation_provider,
         target_lang=target_lang,
     )
-    print(f"       -> {len(translated)} segments translated ({time.time() - t0:.1f}s)")
+    progress.update(1)
 
     # ── Step 6: Generate SRT ───────────────────────────────────────────────
-    print(f"[6/7] Generating subtitles...")
+    step += 1
+    progress.set_description(f"[{step}/{total_steps}] Generating subtitles")
     translated_srt = output_dir / f"{stem}.{lang_suffix}.srt"
     segments_to_srt(translated, translated_srt, target_lang=target_lang)
 
     bilingual_srt = output_dir / f"{stem}.bilingual.{lang_suffix}.srt"
     segments_to_bilingual_srt(translated, bilingual_srt)
-    print(f"       -> {translated_srt.name}, {bilingual_srt.name}")
+    progress.update(1)
 
-    # ── Step 7: Embed subtitles ────────────────────────────────────────────
-    final_output = translated_srt  # default: just the SRT
+    # ── Step 7 (optional): Embed subtitles ─────────────────────────────────
+    final_output = translated_srt
 
-    # Resolve which SRT to embed based on burn_subtitle option.
-    if burn_subtitle == "translated":
-        embed_srt = translated_srt
-        sub_suffix = ""
-    elif burn_subtitle == "ja":
-        embed_srt = jp_srt
-        sub_suffix = ".ja"
-    elif burn_subtitle == "bilingual":
-        embed_srt = bilingual_srt
-        sub_suffix = f".bilingual.{lang_suffix}"
-    else:
-        embed_srt = Path(burn_subtitle)
-        sub_suffix = f".{embed_srt.stem}"
+    if embed:
+        # Resolve which SRT to embed based on burn_subtitle option.
+        if burn_subtitle == "translated":
+            embed_srt = translated_srt
+            sub_suffix = ""
+        elif burn_subtitle == "ja":
+            embed_srt = jp_srt
+            sub_suffix = ".ja"
+        elif burn_subtitle == "bilingual":
+            embed_srt = bilingual_srt
+            sub_suffix = f".bilingual.{lang_suffix}"
+        else:
+            embed_srt = Path(burn_subtitle)
+            sub_suffix = f".{embed_srt.stem}"
 
-    if burn:
-        print(f"[7/7] Burning subtitles into video ({burn_subtitle})...")
-        t0 = time.time()
         output_mp4 = output_dir / f"{stem}.subtitled{sub_suffix}.mp4"
-        burn_subtitles(video_path, embed_srt, output_mp4, target_lang=target_lang, gpu=gpu)
+        step += 1
+
+        if burn:
+            progress.set_description(f"[{step}/{total_steps}] Burning subtitles")
+            burn_subtitles(video_path, embed_srt, output_mp4, target_lang=target_lang, gpu=gpu)
+        else:
+            progress.set_description(f"[{step}/{total_steps}] Adding soft subtitles")
+            add_soft_subtitles(video_path, embed_srt, output_mp4)
         final_output = output_mp4
-        print(f"       -> {output_mp4.name} ({time.time() - t0:.1f}s)")
-    elif soft_subs:
-        print(f"[7/7] Adding soft subtitles ({burn_subtitle})...")
-        output_mp4 = output_dir / f"{stem}.subtitled{sub_suffix}.mp4"
-        add_soft_subtitles(video_path, embed_srt, output_mp4)
-        final_output = output_mp4
-        print(f"       -> {output_mp4.name}")
-    else:
-        print(f"[7/7] Skipping video embedding (SRT only)")
+        progress.update(1)
+
+    progress.set_description("Done")
+    progress.close()
 
     # ── Cleanup ────────────────────────────────────────────────────────────
     if not keep_intermediates:
         audio_path.unlink(missing_ok=True)
 
-    print(f"\nDone! Output: {final_output}")
+    # Print summary.
+    print(f"\nOutput: {final_output}")
+    print(f"  Japanese transcript: {jp_srt.name}")
+    print(f"  Translated subtitles: {translated_srt.name}")
+    print(f"  Bilingual subtitles: {bilingual_srt.name}")
+    if embed:
+        print(f"  Video: {final_output.name}")
     return final_output
 
 
@@ -201,9 +221,9 @@ def main():
         help=f"LLM provider (default: {config.TRANSLATION_PROVIDER})",
     )
     parser.add_argument(
-        "--no-burn",
+        "--burn",
         action="store_true",
-        help="Skip burning subtitles into video (SRT only)",
+        help="Burn subtitles into the output video",
     )
     parser.add_argument(
         "--burn-subtitle",
@@ -236,7 +256,7 @@ def main():
         model_size=args.model_size,
         translation_model=args.translation_model,
         translation_provider=args.translation_provider,
-        burn=not args.no_burn and not args.soft_subs,
+        burn=args.burn and not args.soft_subs,
         soft_subs=args.soft_subs,
         burn_subtitle=args.burn_subtitle,
         gpu=not args.cpu,
