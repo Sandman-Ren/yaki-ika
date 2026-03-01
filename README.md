@@ -34,6 +34,9 @@ YouTube URL / local video
 - yt-dlp (for YouTube downloads)
 - Anthropic API key or OpenAI API key
 
+> **New here?** Follow the [Beginner Setup Guide](docs/setup-guide-beginner.md) for step-by-step instructions.
+> **Experienced developer?** See the [Technical Setup Guide](docs/setup-guide-technical.md) for a concise reference.
+
 ## Setup
 
 ```bash
@@ -152,6 +155,9 @@ YouTube 链接 / 本地视频
 - 支持 libass 的 FFmpeg
 - yt-dlp（用于下载 YouTube 视频）
 - Anthropic API 密钥或 OpenAI API 密钥
+
+> **新手？** 请参阅 [新手安装指南](docs/setup-guide-beginner.md)（英文）获取详细步骤。
+> **有经验的开发者？** 请参阅 [技术安装指南](docs/setup-guide-technical.md)（英文）获取简明参考。
 
 ## 安装
 
