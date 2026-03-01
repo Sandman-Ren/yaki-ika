@@ -143,7 +143,7 @@ def run_pipeline(
     segments_to_srt(translated, translated_srt, target_lang=target_lang)
 
     bilingual_srt = video_dir / f"{stem}.bilingual.{lang_suffix}.srt"
-    segments_to_bilingual_srt(translated, bilingual_srt)
+    segments_to_bilingual_srt(translated, bilingual_srt, target_lang=target_lang)
     progress.update(1)
 
     # ── Step 7 (optional): Embed subtitles ─────────────────────────────────

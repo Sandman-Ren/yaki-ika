@@ -1,10 +1,13 @@
 """SRT subtitle generation with line wrapping."""
 
+import logging
 from pathlib import Path
 
 from . import config
 from .config import get_lang_config
 from .translate import TranslatedSegment
+
+logger = logging.getLogger(__name__)
 
 
 def _format_timestamp(seconds: float) -> str:
@@ -49,8 +52,10 @@ def _wrap_line(text: str, max_chars: int | None = None, target_lang: str | None 
 
     # If either line is still too long, truncate rather than add a 3rd line.
     if len(line1) > max_chars:
+        logger.warning("Hard-truncating subtitle line from %d to %d chars: '%s'", len(line1), max_chars, line1)
         line1 = line1[:max_chars]
     if len(line2) > max_chars:
+        logger.warning("Hard-truncating subtitle line from %d to %d chars: '%s'", len(line2), max_chars, line2)
         line2 = line2[:max_chars]
 
     return line1 + "\n" + line2
@@ -69,16 +74,16 @@ def segments_to_srt(segments: list[TranslatedSegment], output_path: Path, target
 
 
 def segments_to_bilingual_srt(
-    segments: list[TranslatedSegment], output_path: Path
+    segments: list[TranslatedSegment], output_path: Path, target_lang: str | None = None
 ) -> Path:
-    """Write segments as a bilingual SRT (JP on top, EN below) for review."""
+    """Write segments as a bilingual SRT (JP on top, translated below) for review."""
     output_path.parent.mkdir(parents=True, exist_ok=True)
     with open(output_path, "w", encoding="utf-8") as f:
         for seg in segments:
             start = _format_timestamp(seg.start)
             end = _format_timestamp(seg.end)
-            en_text = _wrap_line(seg.translated)
-            f.write(f"{seg.index}\n{start} --> {end}\n{seg.original}\n{en_text}\n\n")
+            translated_text = _wrap_line(seg.translated, target_lang=target_lang)
+            f.write(f"{seg.index}\n{start} --> {end}\n{seg.original}\n{translated_text}\n\n")
     return output_path
 
 
