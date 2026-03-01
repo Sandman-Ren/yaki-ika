@@ -104,8 +104,10 @@ Matches transcript text against the glossary using three strategies:
 | **Tool** | Anthropic API (Claude) or OpenAI API (GPT-4o) |
 
 Translates segments in batches of 40 (configurable). Each batch sends one API call with:
-- System prompt containing game context, glossary table, disambiguation rules, and language-specific subtitle rules
-- User message with numbered JP segments
+- System prompt containing game context, glossary table, disambiguation rules, language-specific subtitle rules, and translation memory (last 5 translated pairs from prior batches)
+- User message with segments as a JSON array (id, start, end, duration_seconds, source)
+- **Structured output** via Pydantic models — Anthropic uses forced tool_use, OpenAI uses `response_format` — guaranteeing valid JSON responses
+- **Validation + retry** — missing or suspiciously short translations (<20% of source length) are retried individually
 
 See Translation Prompt Architecture below for details.
 
@@ -117,7 +119,7 @@ See Translation Prompt Architecture below for details.
 | **Input** | `list[TranslatedSegment]` |
 | **Output** | Two `.srt` files: translated-only and bilingual (JP + translated) |
 
-Handles line wrapping per language config (`max_chars_per_line`: 42 for EN, 22 for CJK). Splits at nearest space for English; hard-wraps at character limit for CJK. Maximum 2 lines per subtitle.
+Handles line wrapping per language config (`max_chars_per_line`: 42 for EN, 22 for CJK). Splits at nearest space for English; hard-wraps at character limit for CJK. Maximum 2 lines per subtitle. Logs warnings when hard-truncation is triggered.
 
 ### Step 7: Subtitle Embedding
 
@@ -274,7 +276,7 @@ The LLM is instructed to use glossary translations exactly as given.
 
 ## Translation Prompt Architecture
 
-The system prompt (`translate.py:SYSTEM_PROMPT`) is assembled from dynamic sections:
+The system prompt (`translate.py:SYSTEM_PROMPT`) is assembled from dynamic sections, rebuilt per batch to include updated translation memory:
 
 ```mermaid
 graph LR
@@ -284,20 +286,60 @@ graph LR
         P2["{game_context_section}"]
         P3["{glossary_section}"]
         P4["{ambiguous_terms_section}"]
-        P5["Subtitle rules"]
-        P6["{language_specific_rules}"]
-        P7["Translation rules"]
-        P8["Output format"]
+        P5["{memory_section}"]
+        P6["Subtitle rules"]
+        P7["{language_specific_rules}"]
+        P8["Translation rules"]
         P1 --- P2 --- P3 --- P4 --- P5 --- P6 --- P7 --- P8
     end
 
     GC["game_world_context.json"] -.-> P2
     GL["matched glossary terms"] -.-> P3
     GC -.-> P4
-    LC["LANGUAGE_RULES dict"] -.-> P6
+    TM["TranslationMemory\n(last 5 pairs)"] -.-> P5
+    LC["LANGUAGE_RULES dict"] -.-> P7
 ```
 
-**Batching**: Segments are sent in batches of 40 with globally consistent numbering. Each batch is one API call. The LLM returns `[N] translated text` lines, parsed back into `TranslatedSegment` objects. Missing segments fall back to original JP text with a stderr warning.
+### Structured Output
+
+Both providers use structured output to guarantee valid JSON responses, eliminating fragile regex parsing:
+
+- **Anthropic**: Forced tool_use with a Pydantic-generated JSON schema. The LLM must call a `submit_translations` tool whose input is validated against `TranslationBatchOutput`. This works on all Claude model versions.
+- **OpenAI**: `client.chat.completions.parse(response_format=TranslationBatchOutput)` — native structured output support.
+
+The response schema is defined by two Pydantic models:
+
+```python
+class TranslatedSegmentOutput(BaseModel):
+    id: int
+    translation: str
+
+class TranslationBatchOutput(BaseModel):
+    segments: list[TranslatedSegmentOutput]
+```
+
+### Translation Memory
+
+`TranslationMemory` maintains a sliding window of the last 5 translated pairs (source + translation). After each batch completes, its results are added to the memory. The memory is formatted into the system prompt as a `RECENT TRANSLATIONS` section, giving the LLM context for consistent naming and terminology across batch boundaries.
+
+This solves the problem of names being translated differently in different batches (e.g., ユーマ→优马 in batch 1 but left untranslated in batch 2).
+
+### Batching and Validation
+
+Segments are sent in batches of 40 with globally consistent numbering. Each batch is one API call. The user message sends segments as a JSON array with `{id, start, end, duration_seconds, source}` — the duration helps the LLM gauge how much text viewers can read.
+
+After each batch, `_validate_and_retry()` checks:
+1. **Missing segments** — IDs expected but not returned
+2. **Suspiciously short translations** — translations shorter than 20% of the source text length (for segments >10 chars), which indicates content was dropped
+
+Problem segments are retried individually. After retry, any still-missing segments fall back to original JP text with a stderr warning.
+
+### Prompt Design
+
+Key subtitle rules in the system prompt:
+- "Convey the COMPLETE meaning within the character budget — condense and rephrase naturally, but NEVER truncate or drop clauses"
+- Duration-aware: "Each segment includes its display duration — use this to gauge how much text viewers can read"
+- Filler omission: "Omit filler words and redundant politeness markers (えーと, まあ, ですね, etc.)"
 
 **Language-specific rules** vary by target:
 - **EN**: contractions, active voice, community terms
@@ -436,6 +478,8 @@ graph TD
 | RAG glossary injection over fine-tuning | Fine-tuned translation model | Glossary changes don't require retraining; easy to add/fix terms; transparent which terms are enforced |
 | MeCab tokenization for term matching | Regex, SudachiPy | MeCab has fastest startup, lightest memory footprint, sufficient accuracy for glossary lookup |
 | SRT format over ASS | ASS, VTT, TTML | SRT is universally supported; ASS styling is applied at FFmpeg burn time via `force_style` |
+| Structured output via tool_use / response_format | Regex parsing of `[N] text` lines, JSON in prompt | Guarantees valid JSON; no silent parse failures; Pydantic validation; tool_use works on all Claude models |
+| Translation memory (sliding window) | Full-transcript context, proper-noun extraction | LLM naturally picks up name consistency from recent examples; no MeCab overhead for noun extraction; 5-pair window keeps prompt size minimal |
 | Batch size 40 for translation | 20, 80, full-transcript | Balances API cost (fewer calls) vs. accuracy (LLM loses coherence on very long inputs) |
 | Zustand over Redux | Redux, Jotai, Context API | Minimal boilerplate, built-in TypeScript support, no provider wrapping needed |
 | @vidstack/react over video.js | video.js, react-player, plyr | Native React, modern API, good TypeScript support, React 19 compatible (v1.12+) |
@@ -454,7 +498,7 @@ graph TD
 | `transcribe.py` | Whisper transcription with initial_prompt + post-corrections |
 | `glossary.py` | Glossary build from Leanny's data + jargon; glossary loading |
 | `terms.py` | MeCab tokenization + 3-strategy glossary matching |
-| `translate.py` | LLM translation with prompt construction + batched API calls |
+| `translate.py` | LLM translation with structured output, translation memory, and validation/retry |
 | `subtitle.py` | SRT generation with line wrapping (mono + bilingual) |
 | `embed.py` | FFmpeg subtitle burn-in (GPU/CPU) and soft subtitle muxing |
 | `ocr.py` | Burned-in subtitle OCR extraction using PaddleOCR (standalone, requires `[ocr]` extras) |
@@ -538,6 +582,7 @@ graph TD
 | `unidic-lite` | MeCab dictionary |
 | `anthropic` >=0.40 | Claude API client |
 | `openai` >=1.50 | OpenAI API client |
+| `pydantic` >=2.0 | Structured output models for LLM responses |
 | `python-dotenv` | `.env` file loading |
 | `tqdm` | Progress bars |
 
