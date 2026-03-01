@@ -1,2 +1,5 @@
 export { SubtitleTable } from './subtitle-table'
 export { FilterBar } from './filter-bar'
+export { TableHeader } from './table-header'
+export { TrackCell } from './track-cell'
+export { ActionsCell } from './actions-cell'

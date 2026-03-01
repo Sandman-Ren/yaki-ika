@@ -1,11 +1,13 @@
-import { useRef, useEffect, useCallback } from 'react'
+import { useRef, useEffect, useCallback, useMemo } from 'react'
 import { useVirtualizer } from '@tanstack/react-virtual'
 import { useFilteredSegments } from '@/hooks/use-filtered-segments'
+import { useProjectStore } from '@/stores/project-store'
 import { usePlaybackStore } from '@/stores/playback-store'
 import { useUiStore } from '@/stores/ui-store'
+import { TableHeader } from './table-header'
 import { SegmentRow } from './segment-row'
 
-const ROW_HEIGHT = 64
+const ROW_HEIGHT = 80
 
 export function SubtitleTable() {
   const filteredSegments = useFilteredSegments()
@@ -13,6 +15,17 @@ export function SubtitleTable() {
   const activeSegmentIndex = usePlaybackStore((s) => s.activeSegmentIndex)
   const selectedSegmentIndex = useUiStore((s) => s.selectedSegmentIndex)
   const setSelectedSegmentIndex = useUiStore((s) => s.setSelectedSegmentIndex)
+  const visibleTrackIds = useUiStore((s) => s.visibleTrackIds)
+  const trackMetas = useProjectStore((s) => s.trackMetas)
+  const projectName = useProjectStore((s) => s.meta?.name ?? '')
+
+  const trackLabels = useMemo(() => {
+    const labels: Record<string, string> = {}
+    for (const t of trackMetas) {
+      labels[t.id] = t.label
+    }
+    return labels
+  }, [trackMetas])
 
   const virtualizer = useVirtualizer({
     count: filteredSegments.length,
@@ -21,21 +34,16 @@ export function SubtitleTable() {
     overscan: 10,
   })
 
-  // Auto-scroll to active segment when it changes
+  // Auto-scroll to active segment
   useEffect(() => {
     if (activeSegmentIndex == null) return
-
-    // Find the position in the filtered list
     const filteredIndex = filteredSegments.findIndex((seg) => seg.index === activeSegmentIndex)
     if (filteredIndex === -1) return
-
     virtualizer.scrollToIndex(filteredIndex, { align: 'center', behavior: 'smooth' })
   }, [activeSegmentIndex, filteredSegments, virtualizer])
 
   const handleSelect = useCallback(
-    (index: number) => {
-      setSelectedSegmentIndex(index)
-    },
+    (index: number) => setSelectedSegmentIndex(index),
     [setSelectedSegmentIndex]
   )
 
@@ -49,16 +57,8 @@ export function SubtitleTable() {
 
   return (
     <div className="flex flex-col flex-1 min-h-0">
-      {/* Header */}
-      <div className="grid grid-cols-[3rem_5rem_1fr_1fr_6rem] gap-2 px-3 py-1.5 border-b bg-muted/50 text-xs font-medium text-muted-foreground sticky top-0 z-10">
-        <span>#</span>
-        <span>Time</span>
-        <span>Japanese</span>
-        <span>Translation</span>
-        <span className="text-right">Status</span>
-      </div>
+      <TableHeader trackMetas={trackMetas} visibleTrackIds={visibleTrackIds} />
 
-      {/* Virtualized rows */}
       <div ref={parentRef} className="flex-1 overflow-auto">
         <div
           style={{
@@ -83,8 +83,11 @@ export function SubtitleTable() {
               >
                 <SegmentRow
                   segment={segment}
+                  visibleTrackIds={visibleTrackIds}
+                  trackLabels={trackLabels}
                   isActive={activeSegmentIndex === segment.index}
                   isSelected={selectedSegmentIndex === segment.index}
+                  projectName={projectName}
                   onSelect={handleSelect}
                 />
               </div>
