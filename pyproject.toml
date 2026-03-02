@@ -23,6 +23,7 @@ ocr = ["paddlepaddle-gpu>=2.6", "paddleocr>=2.9", "opencv-python>=4.8"]
 
 [project.scripts]
 yaki-ika = "splatoon_translate.pipeline:main"
+yaki-ika-burn = "splatoon_translate.embed:main"
 
 [tool.uv.build-backend]
 module-root = "src"
