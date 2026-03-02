@@ -35,10 +35,6 @@ TRANSLATION_PROVIDER = os.getenv("TRANSLATION_PROVIDER", "anthropic")
 TARGET_LANGUAGE = os.getenv("TARGET_LANGUAGE", "zh-CN")
 TRANSLATION_MEMORY_SIZE = int(os.getenv("TRANSLATION_MEMORY_SIZE", "20"))
 
-# ── NER Pre-scan ─────────────────────────────────────────────────────────
-NER_MODEL = os.getenv("NER_MODEL", "claude-haiku-4-5-20251001")
-NER_ENABLED = os.getenv("NER_ENABLED", "true").lower() == "true"
-
 # ── Quality Scoring ──────────────────────────────────────────────────────
 QUALITY_FLAG_THRESHOLD = float(os.getenv("QUALITY_FLAG_THRESHOLD", "0.6"))
 

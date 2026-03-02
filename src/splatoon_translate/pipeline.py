@@ -14,12 +14,10 @@ from .config import get_lang_config
 from .download import download_video
 from .audio import extract_audio
 from .transcribe import transcribe, TranscriptSegment
-from .glossary import load_glossary
-from .terms import match_glossary
+from .knowledge import load_domain_knowledge
 from .translate import translate_segments, TranslatedSegment
 from .subtitle import segments_to_srt, segments_to_bilingual_srt, transcript_to_srt
 from .embed import burn_subtitles, add_soft_subtitles
-from .ner import prescan_entities, EntityRegistry
 from .references import search_references, load_reference, ReferenceSegment
 
 
@@ -35,7 +33,6 @@ def run_pipeline(
     burn_subtitle: str = "translated",
     gpu: bool = True,
     keep_intermediates: bool = True,
-    skip_ner: bool = False,
     no_quality_report: bool = False,
 ) -> Path:
     """Run the full transcribe -> translate -> subtitle pipeline.
@@ -53,7 +50,6 @@ def run_pipeline(
             "ja", "bilingual", or a file path to an SRT.
         gpu: Use GPU encoding for FFmpeg.
         keep_intermediates: Keep intermediate files (audio, transcripts, etc.).
-        skip_ner: Skip the NER pre-scan step.
         no_quality_report: Skip the quality scoring step.
 
     Returns:
@@ -69,11 +65,8 @@ def run_pipeline(
     output_dir.mkdir(parents=True, exist_ok=True)
 
     embed = burn or soft_subs
-    run_ner = config.NER_ENABLED and not skip_ner
     run_quality = not no_quality_report
-    total_steps = 6  # base: download, audio, transcribe, glossary, translate, srt
-    if run_ner:
-        total_steps += 1
+    total_steps = 6  # base: download, audio, transcribe, knowledge, translate, srt
     if run_quality:
         total_steps += 1
     if embed:
@@ -127,33 +120,13 @@ def run_pipeline(
     jp_srt = video_dir / f"{stem}.ja.srt"
     transcript_to_srt(segments, jp_srt)
 
-    # ── Step 4: Term extraction + glossary matching ────────────────────────
+    # ── Step 4: Load domain knowledge ────────────────────────────────────
     step += 1
-    progress.set_description(f"[{step}/{total_steps}] Matching glossary terms")
-    glossary = load_glossary(target_lang=target_lang)
-    matched = match_glossary(segments, glossary, target_lang=target_lang)
+    progress.set_description(f"[{step}/{total_steps}] Loading domain knowledge")
+    domain_knowledge = load_domain_knowledge(target_lang=target_lang)
     progress.update(1)
 
-    if keep_intermediates:
-        terms_path = video_dir / f"{stem}.terms.{lang_suffix}.json"
-        with open(terms_path, "w", encoding="utf-8") as f:
-            json.dump(matched, f, ensure_ascii=False, indent=2)
-
-    # ── Step 5 (optional): NER pre-scan ──────────────────────────────────
-    ner_registry = EntityRegistry.empty()
-    if run_ner:
-        step += 1
-        progress.set_description(f"[{step}/{total_steps}] NER pre-scan")
-        glossary_jp_terms = {e.get("jp", "") for e in matched} - {""}
-        ner_registry = prescan_entities(segments, glossary_jp_terms)
-        progress.update(1)
-
-        if keep_intermediates:
-            ner_path = video_dir / f"{stem}.ner.json"
-            with open(ner_path, "w", encoding="utf-8") as f:
-                json.dump(ner_registry.to_dict(), f, ensure_ascii=False, indent=2)
-
-    # ── Step 5b: Load reference translations ──────────────────────────────
+    # ── Step 4b: Load reference translations ──────────────────────────────
     reference_segments: list[ReferenceSegment] | None = None
     source_str = str(source)
     if source_str.startswith("http"):
@@ -167,16 +140,15 @@ def run_pipeline(
             except FileNotFoundError:
                 pass
 
-    # ── Step 6: Translate ─────────────────────────────────────────────────
+    # ── Step 5: Translate ─────────────────────────────────────────────────
     step += 1
     progress.set_description(f"[{step}/{total_steps}] Translating to {lang_name}")
     t0 = time.time()
     translated = translate_segments(
-        segments, matched,
+        segments, domain_knowledge,
         model=translation_model,
         provider=translation_provider,
         target_lang=target_lang,
-        ner_registry=ner_registry,
         reference_segments=reference_segments,
     )
     progress.update(1)
@@ -196,8 +168,9 @@ def run_pipeline(
         step += 1
         progress.set_description(f"[{step}/{total_steps}] Quality scoring")
         from .quality import score_translations
-        entity_names = ner_registry.get_name_set() if ner_registry else None
-        report = score_translations(translated, matched, entity_names=entity_names, target_lang=target_lang)
+        from .glossary import load_glossary_array
+        glossary_data = load_glossary_array(target_lang=target_lang)
+        report = score_translations(translated, glossary_data, target_lang=target_lang)
         progress.update(1)
 
         if keep_intermediates:
@@ -317,11 +290,6 @@ def main():
         help="Don't keep intermediate files",
     )
     parser.add_argument(
-        "--skip-ner",
-        action="store_true",
-        help="Skip the NER pre-scan step",
-    )
-    parser.add_argument(
         "--no-quality-report",
         action="store_true",
         help="Skip the quality scoring step",
@@ -341,7 +309,6 @@ def main():
         burn_subtitle=args.burn_subtitle,
         gpu=not args.cpu,
         keep_intermediates=not args.no_intermediates,
-        skip_ner=args.skip_ner,
         no_quality_report=args.no_quality_report,
     )
 

@@ -1,12 +1,10 @@
-"""LLM-based translation with structured output, translation memory, and game world context."""
+"""LLM-based translation with structured output, translation memory, and domain knowledge."""
 
 import json
 import logging
-import math
 import re
 import sys
 from dataclasses import dataclass
-from pathlib import Path
 
 from pydantic import BaseModel
 from tqdm import tqdm
@@ -90,24 +88,18 @@ class EntityLedger:
         if jp_term and translation and jp_term not in self._entries:
             self._entries[jp_term] = translation
 
-    def extract_from_batch(
-        self,
-        batch_output: "TranslationBatchOutput",
-        glossary_terms: set[str] | None = None,
-    ) -> None:
+    def extract_from_batch(self, batch_output: "TranslationBatchOutput") -> None:
         """Extract entities from batch results and record them.
 
         Reads the optional `entities` field from each translated segment.
-        Skips terms already in the glossary.
         """
-        glossary_terms = glossary_terms or set()
         for seg in batch_output.segments:
             if not seg.entities:
                 continue
             for entity in seg.entities:
                 jp = entity.get("jp", entity.get("source", ""))
                 tr = entity.get("translation", entity.get("target", ""))
-                if jp and tr and jp not in glossary_terms:
+                if jp and tr:
                     self.record(jp, tr)
 
     def format_for_prompt(self) -> str:
@@ -125,40 +117,35 @@ class EntityLedger:
 
 SYSTEM_PROMPT = """\
 You are an expert Splatoon 3 subtitle translator (Japanese to {target_language}).
-You have deep knowledge of Splatoon 3 gameplay, competitive terminology,
-and localization conventions.
 
-{game_context_section}
-{glossary_section}
-{ambiguous_terms_section}
+{domain_knowledge}
 {memory_section}
 {entity_ledger_section}
-{ner_names_section}
-{ner_unknown_terms_section}
 {reference_section}
 
 SUBTITLE RULES:
 - Maximum {max_chars} characters per line, 2 lines maximum per subtitle
 - Each segment includes its display duration — use this to gauge how much text viewers can read
-- Convey the COMPLETE meaning within the character budget — condense and rephrase naturally, but NEVER truncate or drop clauses
+- Convey the COMPLETE meaning within the character budget — condense and rephrase naturally
 - Omit filler words and redundant politeness markers (えーと, まあ, ですね, etc.)
-- Preserve the speaker's tone and energy level — excited speech should feel excited
+- Preserve the speaker's tone and energy level
 {language_specific_rules}
 
 TRANSLATION RULES:
-- For glossary categories marked "必须使用", you MUST use the exact translation provided
-- For glossary categories marked "参考", adapt the translation naturally while staying close to the reference
+- Use the OFFICIAL localized names from the reference data for all game entities \
+(weapons, stages, bosses, modes, abilities) — NEVER invent translations for known terms
+- The source is ASR output and WILL contain transcription errors — use the reference data \
+to recognize misspelled/misheard game terms and translate them correctly
 - Adapt informal Japanese naturally to natural {target_language}
 - For ambiguous passages, ALWAYS favor the gaming/Splatoon context interpretation
-- Keep weapon names, ability names, and stage names in their official {target_language} localized form
-- Weapon class names differ between JP and EN: スピナー=Splatling, シェルター=Brella, ワイパー=Splatana, マニューバー=Dualies
+- Preserve player names and channel names in their original form (do not transliterate)
 - 確N or N確 = N-shot kill (e.g. 確1 = one-shot kill, 3確 = three-shot kill)
-- Preserve exclamation energy: ナイス!=Nice!, やばい=context-dependent (amazing/terrible), 来た!=Let's go!
+- Preserve exclamation energy: ナイス!=Nice!, やばい=context-dependent
 
-- If you encounter player names, channel names, or recurring terms NOT in the glossary,
-  include them in the "entities" field as [{{"jp": "term", "translation": "chosen translation"}}]
+- If you encounter player names, channel names, or recurring terms NOT in the reference data, \
+include them in the "entities" field as [{{"jp": "term", "translation": "chosen translation"}}]
 
-Return ONLY the JSON object with translated segments. Do not add commentary or notes."""
+Return ONLY the JSON object with translated segments."""
 
 LANGUAGE_RULES = {
     "en": (
@@ -180,82 +167,6 @@ LANGUAGE_RULES = {
     ),
 }
 
-# ── Glossary category grouping ────────────────────────────────────────────
-
-# Display names for glossary categories: (bilingual for zh-CN LLM context)
-GLOSSARY_CATEGORY_DISPLAY: dict[str, str] = {
-    # Leanny categories
-    "WeaponName_Main": "主武器 Main Weapons",
-    "WeaponName_Sub": "副武器 Sub Weapons",
-    "WeaponName_Special": "特殊武器 Specials",
-    "WeaponTypeName": "武器类型 Weapon Types",
-    "VSStageName": "对战场地 VS Stages",
-    "CoopStageName": "打工场地 Salmon Run Stages",
-    "CoopEnemy": "打工Boss Salmon Run Bosses",
-    "CoopGrade": "打工等级 Salmon Run Grades",
-    "CoopSkinName": "打工装备 Salmon Run Gear",
-    "GearPowerName": "技能 Gear Abilities",
-    "GearBrandName": "品牌 Gear Brands",
-    "GearName_Head": "头部装备 Headgear",
-    "GearName_Clothes": "服装 Clothing",
-    "GearName_Shoes": "鞋子 Shoes",
-    "MatchMode": "模式 Game Modes",
-    "Glossary": "游戏术语 In-Game Glossary",
-    "BadgeMsg": "徽章 Badges",
-    # Jargon categories
-    "strategy": "策略术语 Strategy Terms",
-    "weapon_abbrev": "武器简称 Weapon Abbreviations",
-    "salmon_run": "打工术语 Salmon Run Terms",
-    "general": "通用术语 General Terms",
-    "slang": "社区俚语 Community Slang",
-    "ability_abbrev": "技能简称 Ability Abbreviations",
-    "character": "角色名 Characters",
-    "callout": "报点用语 Callouts",
-    "mode_abbrev": "模式简称 Mode Abbreviations",
-    "commentary_pattern": "解说用语 Commentary",
-    "whisper_correction": "ASR修正 ASR Corrections",
-}
-
-# Categories where the glossary translation MUST be used verbatim.
-EXACT_TRANSLATION_CATEGORIES: set[str] = {
-    "WeaponName_Main", "WeaponName_Sub", "WeaponName_Special", "WeaponTypeName",
-    "VSStageName", "CoopStageName", "CoopEnemy", "CoopGrade", "CoopSkinName",
-    "GearPowerName", "MatchMode", "character",
-    "weapon_abbrev", "ability_abbrev", "mode_abbrev",
-    "whisper_correction",
-}
-
-# Display order for grouped glossary sections (most relevant first).
-GLOSSARY_CATEGORY_ORDER: list[str] = [
-    "WeaponName_Main", "WeaponName_Sub", "WeaponName_Special", "WeaponTypeName",
-    "VSStageName", "CoopStageName", "MatchMode",
-    "GearPowerName", "character",
-    "strategy", "callout", "salmon_run",
-    "weapon_abbrev", "ability_abbrev", "mode_abbrev",
-    "slang", "general", "commentary_pattern",
-    "CoopEnemy", "CoopGrade", "CoopSkinName",
-    "GearBrandName", "GearName_Head", "GearName_Clothes", "GearName_Shoes",
-    "Glossary", "BadgeMsg",
-    "whisper_correction",
-]
-
-GLOSSARY_CATEGORY_TEMPLATE = """\
-### {category_name}
-{instruction}
-| 日本語 | {target_language} |
-|--------|---------|
-{rows}"""
-
-GAME_CONTEXT_TEMPLATE = """\
-GAME CONTEXT:
-{overview}
-Key modes: Turf War (casual 4v4 inking), Anarchy Battle (competitive ranked with Splat Zones/Tower Control/Rainmaker/Clam Blitz), Salmon Run (4-player PvE co-op), Splatfest (team events).
-In this game, players get "splatted" (not killed) and "respawn". The action of covering ground is "inking" or "painting"."""
-
-AMBIGUOUS_TERMS_TEMPLATE = """\
-DISAMBIGUATION (these terms have Splatoon-specific meanings):
-{terms}"""
-
 
 # ── Data class (unchanged interface) ──────────────────────────────────────
 
@@ -273,101 +184,20 @@ class TranslatedSegment:
 # ── Prompt builders ───────────────────────────────────────────────────────
 
 
-def _load_game_context() -> dict | None:
-    """Load game world context from data/context/game_world_context.json."""
-    ctx_path = config.CONTEXT_DIR / "game_world_context.json"
-    if not ctx_path.exists():
-        return None
-    with open(ctx_path, encoding="utf-8") as f:
-        return json.load(f)
-
-
-def _build_game_context_section() -> str:
-    """Build a compact game context section for the system prompt."""
-    ctx = _load_game_context()
-    if not ctx:
-        return ""
-    return GAME_CONTEXT_TEMPLATE.format(overview=ctx.get("game_overview", ""))
-
-
-def _build_ambiguous_terms_section(target_lang: str) -> str:
-    """Build disambiguation section from game context for ambiguous terms."""
-    ctx = _load_game_context()
-    if not ctx:
-        return ""
-    ambiguous = ctx.get("translation_tone_guide", {}).get("ambiguous_terms", {})
-    if not ambiguous:
-        return ""
-    lines = []
-    for term, explanation in ambiguous.items():
-        lines.append(f"- {term}: {explanation}")
-    return AMBIGUOUS_TERMS_TEMPLATE.format(terms="\n".join(lines))
-
-
-def _build_glossary_section(matched_glossary: list[dict], target_language: str = "Simplified Chinese") -> str:
-    """Format matched glossary entries grouped by category with per-category instructions."""
-    if not matched_glossary:
-        return ""
-
-    # Group entries by category.
-    by_category: dict[str, list[dict]] = {}
-    for e in matched_glossary:
-        cat = e.get("category", "general")
-        by_category.setdefault(cat, []).append(e)
-
-    # Build sections in display order.
-    sections: list[str] = []
-    ordered_cats = [c for c in GLOSSARY_CATEGORY_ORDER if c in by_category]
-    # Append any categories not in the order list.
-    for c in by_category:
-        if c not in ordered_cats:
-            ordered_cats.append(c)
-
-    for cat in ordered_cats:
-        entries = by_category[cat]
-        display_name = GLOSSARY_CATEGORY_DISPLAY.get(cat, cat)
-        if cat in EXACT_TRANSLATION_CATEGORIES:
-            instruction = "必须使用以下翻译，不可修改 (Use these translations exactly):"
-        else:
-            instruction = "参考以下翻译，自然表达即可 (Use as reference, adapt naturally):"
-
-        rows = []
-        for e in entries:
-            target = e.get("target", e.get("en", ""))
-            rows.append(f"| {e['jp']} | {target} |")
-
-        sections.append(GLOSSARY_CATEGORY_TEMPLATE.format(
-            category_name=display_name,
-            instruction=instruction,
-            target_language=target_language,
-            rows="\n".join(rows),
-        ))
-
-    return "GLOSSARY:\n" + "\n\n".join(sections)
-
-
 def _build_system_prompt(
     target_language: str,
     max_chars: int,
     lang_rules: str,
-    glossary_section: str,
-    game_context_section: str,
-    ambiguous_terms_section: str,
+    domain_knowledge: str,
     memory: TranslationMemory,
     entity_ledger: EntityLedger | None = None,
-    ner_names_section: str = "",
-    ner_unknown_terms_section: str = "",
     reference_section: str = "",
 ) -> str:
-    """Build the complete system prompt with current translation memory."""
+    """Build the complete system prompt with domain knowledge and translation memory."""
     return SYSTEM_PROMPT.format(
-        glossary_section=glossary_section,
-        game_context_section=game_context_section,
-        ambiguous_terms_section=ambiguous_terms_section,
+        domain_knowledge=domain_knowledge,
         memory_section=memory.format_for_prompt(),
         entity_ledger_section=entity_ledger.format_for_prompt() if entity_ledger else "",
-        ner_names_section=ner_names_section,
-        ner_unknown_terms_section=ner_unknown_terms_section,
         reference_section=reference_section,
         target_language=target_language,
         max_chars=max_chars,
@@ -748,21 +578,19 @@ def _validate_and_retry(
 
 def translate_segments(
     segments: list[TranscriptSegment],
-    matched_glossary: list[dict],
+    domain_knowledge: str,
     model: str | None = None,
     provider: str | None = None,
     target_lang: str | None = None,
     batch_size: int = 40,
-    ner_registry: "EntityRegistry | None" = None,
     reference_segments: list | None = None,
 ) -> list[TranslatedSegment]:
-    """Translate transcript segments using an LLM with glossary injection.
+    """Translate transcript segments using an LLM with domain knowledge injection.
 
     Segments are batched using sentence-aware grouping to avoid splitting
     sentences across batches. Uses structured output (Pydantic) for reliable
     parsing, translation memory and entity ledger for cross-batch consistency.
     """
-    from .ner import EntityRegistry
     model = model or config.TRANSLATION_MODEL
     provider = provider or config.TRANSLATION_PROVIDER
     target_lang = target_lang or config.TARGET_LANGUAGE
@@ -772,18 +600,8 @@ def translate_segments(
     max_chars = lang_cfg["max_chars_per_line"]
     lang_rules = LANGUAGE_RULES.get(target_lang, "")
 
-    glossary_section = _build_glossary_section(matched_glossary, target_language)
-    game_context_section = _build_game_context_section()
-    ambiguous_terms_section = _build_ambiguous_terms_section(target_lang)
-
-    if ner_registry is None:
-        ner_registry = EntityRegistry.empty()
-    ner_names_section = ner_registry.format_names_section()
-    ner_unknown_terms_section = ner_registry.format_unknown_terms_section()
-
     memory = TranslationMemory()
     entity_ledger = EntityLedger()
-    glossary_jp_terms = {e.get("jp", "") for e in matched_glossary} - {""}
     all_results: list[TranslatedSegment] = []
     batches = _build_sentence_aware_batches(segments, batch_size)
 
@@ -809,13 +627,9 @@ def translate_segments(
             target_language=target_language,
             max_chars=max_chars,
             lang_rules=lang_rules,
-            glossary_section=glossary_section,
-            game_context_section=game_context_section,
-            ambiguous_terms_section=ambiguous_terms_section,
+            domain_knowledge=domain_knowledge,
             memory=memory,
             entity_ledger=entity_ledger,
-            ner_names_section=ner_names_section,
-            ner_unknown_terms_section=ner_unknown_terms_section,
             reference_section=batch_reference_section,
         )
 
@@ -861,7 +675,7 @@ def translate_segments(
         memory.add_batch(batch_results)
 
         # Extract entities from LLM output for cross-batch consistency
-        entity_ledger.extract_from_batch(batch_output, glossary_jp_terms)
+        entity_ledger.extract_from_batch(batch_output)
 
         segment_offset += len(batch)
 

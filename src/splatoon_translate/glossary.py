@@ -162,3 +162,18 @@ def load_glossary(
         return {}
     with open(glossary_path, encoding="utf-8") as f:
         return json.load(f)
+
+
+def load_glossary_array(
+    target_lang: str = "zh-CN",
+    glossary_path: Path | None = None,
+) -> list[dict]:
+    """Load the pre-built glossary as a list of {jp, target, category} dicts.
+
+    Returns an empty list if the glossary file doesn't exist.
+    """
+    glossary_path = glossary_path or GLOSSARY_DIR / f"glossary.{target_lang}.json"
+    if not glossary_path.exists():
+        return []
+    with open(glossary_path, encoding="utf-8") as f:
+        return json.load(f)

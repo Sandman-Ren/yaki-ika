@@ -3,14 +3,14 @@
 Provides automated quality checks after translation:
 - Length ratio (source vs. translation)
 - Glossary adherence (mandatory terms present in output)
-- Entity preservation (NER-detected names preserved)
 """
 
 import logging
 from dataclasses import dataclass, field
 
 from . import config
-from .translate import TranslatedSegment, EXACT_TRANSLATION_CATEGORIES
+from .translate import TranslatedSegment
+from .knowledge import MANDATORY_CATEGORIES
 
 logger = logging.getLogger(__name__)
 
@@ -32,8 +32,6 @@ class SegmentQualityScore:
     length_flag: bool
     glossary_adherence: float
     missing_glossary_terms: list[str]
-    entity_preserved: float
-    missing_entities: list[str]
     overall_score: float
 
 
@@ -60,8 +58,6 @@ class QualityReport:
                     "length_flag": s.length_flag,
                     "glossary_adherence": round(s.glossary_adherence, 4),
                     "missing_glossary_terms": s.missing_glossary_terms,
-                    "entity_preserved": round(s.entity_preserved, 4),
-                    "missing_entities": s.missing_entities,
                     "overall_score": round(s.overall_score, 4),
                 }
                 for s in self.segment_scores
@@ -71,20 +67,17 @@ class QualityReport:
 
 def score_translations(
     translated_segments: list[TranslatedSegment],
-    matched_glossary: list[dict],
-    entity_names: set[str] | None = None,
+    glossary_data: list[dict],
     target_lang: str | None = None,
 ) -> QualityReport:
     """Score translated segments for content fidelity.
 
     Checks:
     1. Length ratio — flag if outside language-specific bounds.
-    2. Glossary adherence — for mandatory-category terms in source,
+    2. Glossary adherence — for mandatory-category terms found in source,
        check if the target translation appears in the output.
-    3. Entity preservation — check if NER-detected names in source
-       are preserved in the translation.
 
-    Weighted composite: 20% length + 50% glossary + 30% entity.
+    Weighted composite: 30% length + 70% glossary.
     """
     target_lang = target_lang or config.TARGET_LANGUAGE
     threshold = config.QUALITY_FLAG_THRESHOLD
@@ -92,15 +85,14 @@ def score_translations(
 
     # Build lookup: jp_term -> target_translation for mandatory categories.
     mandatory_terms: dict[str, str] = {}
-    for entry in matched_glossary:
+    for entry in glossary_data:
         cat = entry.get("category", "")
-        if cat in EXACT_TRANSLATION_CATEGORIES:
+        if cat in MANDATORY_CATEGORIES:
             jp = entry.get("jp", "")
             target = entry.get("target", entry.get("en", ""))
             if jp and target:
                 mandatory_terms[jp] = target
 
-    entity_names = entity_names or set()
     scores: list[SegmentQualityScore] = []
 
     for seg in translated_segments:
@@ -117,7 +109,7 @@ def score_translations(
         length_flag = ratio < min_ratio or ratio > max_ratio
         length_score = 0.0 if length_flag else 1.0
 
-        # 2. Glossary adherence.
+        # 2. Glossary adherence: substring-match mandatory JP terms against source.
         applicable_terms: list[str] = []
         missing_glossary: list[str] = []
         for jp_term, target_trans in mandatory_terms.items():
@@ -134,22 +126,8 @@ def score_translations(
         else:
             glossary_score = 1.0  # No applicable terms = perfect score.
 
-        # 3. Entity preservation.
-        applicable_entities: list[str] = []
-        missing_ents: list[str] = []
-        for name in entity_names:
-            if name in source:
-                applicable_entities.append(name)
-                if name not in translation:
-                    missing_ents.append(name)
-
-        if applicable_entities:
-            entity_score = 1.0 - (len(missing_ents) / len(applicable_entities))
-        else:
-            entity_score = 1.0
-
         # Weighted composite.
-        overall = 0.20 * length_score + 0.50 * glossary_score + 0.30 * entity_score
+        overall = 0.30 * length_score + 0.70 * glossary_score
 
         scores.append(SegmentQualityScore(
             index=seg.index,
@@ -157,8 +135,6 @@ def score_translations(
             length_flag=length_flag,
             glossary_adherence=glossary_score,
             missing_glossary_terms=missing_glossary,
-            entity_preserved=entity_score,
-            missing_entities=missing_ents,
             overall_score=overall,
         ))
 
