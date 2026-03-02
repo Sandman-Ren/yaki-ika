@@ -176,7 +176,7 @@ export function ImportDialog() {
           Import
         </Button>
       </DialogTrigger>
-      <DialogContent className="sm:max-w-lg">
+      <DialogContent className="sm:max-w-lg overflow-hidden">
         <DialogHeader>
           <DialogTitle>Import Project Files</DialogTitle>
         </DialogHeader>
@@ -231,10 +231,10 @@ export function ImportDialog() {
           <div className="space-y-2">
             <p className="text-xs font-medium text-muted-foreground">Translation Tracks</p>
             {files.tracks.map((track, i) => (
-              <div key={track.lang} className="flex items-center gap-2">
-                <span className="w-20 text-sm truncate">{track.label}</span>
-                <span className="flex-1 truncate text-xs text-muted-foreground">{track.file.name}</span>
-                <Button variant="ghost" size="icon" className="h-6 w-6" onClick={() => removeTrack(i)}>
+              <div key={track.lang} className="flex items-center gap-2 min-w-0">
+                <span className="w-20 text-sm shrink-0 truncate">{track.label}</span>
+                <span className="flex-1 min-w-0 truncate text-xs text-muted-foreground" title={track.file.name}>{track.file.name}</span>
+                <Button variant="ghost" size="icon" className="h-6 w-6 shrink-0" onClick={() => removeTrack(i)}>
                   <X className="h-3 w-3" />
                 </Button>
               </div>
@@ -321,13 +321,13 @@ function FileSlotRow({
   onPick: (file: File) => void
 }) {
   return (
-    <div className="flex items-center gap-2">
-      <span className="text-muted-foreground">{icon}</span>
+    <div className="flex items-center gap-2 min-w-0">
+      <span className="text-muted-foreground shrink-0">{icon}</span>
       <span className="w-20 text-sm font-medium shrink-0">{label}</span>
       {file ? (
         <>
-          <span className="flex-1 truncate text-xs text-muted-foreground">{file.name}</span>
-          <Button variant="ghost" size="icon" className="h-6 w-6" onClick={onRemove}>
+          <span className="flex-1 min-w-0 truncate text-xs text-muted-foreground" title={file.name}>{file.name}</span>
+          <Button variant="ghost" size="icon" className="h-6 w-6 shrink-0" onClick={onRemove}>
             <X className="h-3 w-3" />
           </Button>
         </>

@@ -32,7 +32,7 @@ export function ExportMenu() {
   const exportTrack = useCallback(
     (trackId: string) => {
       const content = buildTrackSrt(segments, trackId)
-      downloadBlob(content, `${projectName}.${trackId}.edited.srt`, 'text/srt;charset=utf-8')
+      downloadBlob(content, `${trackId}.${projectName}.edited.srt`, 'text/srt;charset=utf-8')
     },
     [segments, projectName]
   )
@@ -40,7 +40,7 @@ export function ExportMenu() {
   const exportBilingual = useCallback(
     (trackId: string) => {
       const content = buildBilingualSrt(segments, trackId)
-      downloadBlob(content, `${projectName}.${trackId}.bilingual.srt`, 'text/srt;charset=utf-8')
+      downloadBlob(content, `${trackId}.bilingual.${projectName}.srt`, 'text/srt;charset=utf-8')
     },
     [segments, projectName]
   )
@@ -48,14 +48,14 @@ export function ExportMenu() {
   const exportAllTracks = useCallback(() => {
     for (const track of trackMetas) {
       const content = buildTrackSrt(segments, track.id)
-      downloadBlob(content, `${projectName}.${track.id}.edited.srt`, 'text/srt;charset=utf-8')
+      downloadBlob(content, `${track.id}.${projectName}.edited.srt`, 'text/srt;charset=utf-8')
     }
   }, [segments, trackMetas, projectName])
 
   const exportReview = useCallback(() => {
     if (!meta) return
     const content = buildReviewSummary(meta, segments, trackMetas)
-    downloadBlob(content, `${projectName}.review.json`, 'application/json;charset=utf-8')
+    downloadBlob(content, `review.${projectName}.json`, 'application/json;charset=utf-8')
   }, [meta, segments, trackMetas, projectName])
 
   return (
