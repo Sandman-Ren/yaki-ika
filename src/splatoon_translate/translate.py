@@ -43,7 +43,7 @@ class TranslationMemory:
     """
 
     def __init__(self, window_size: int | None = None):
-        self._window_size = window_size or config.TRANSLATION_MEMORY_SIZE
+        self._window_size = window_size if window_size is not None else config.TRANSLATION_MEMORY_SIZE
         self._pairs: list[tuple[str, str]] = []  # (source, translation)
 
     def add(self, source: str, translation: str) -> None:
@@ -410,6 +410,14 @@ def _match_references_to_batch(
     batch_start = batch_segments[0].start - time_tolerance
     batch_end = batch_segments[-1].end + time_tolerance
 
+    # Pre-filter references to those near the batch time window.
+    candidate_refs = [
+        r for r in reference_segments
+        if r.end >= batch_start and r.start <= batch_end
+    ]
+    if not candidate_refs:
+        return ""
+
     # Find reference segments that overlap with the batch time range.
     matches: list[tuple[float, object, TranscriptSegment]] = []
     for batch_seg in batch_segments:
@@ -419,7 +427,7 @@ def _match_references_to_batch(
         if seg_duration <= 0:
             continue
 
-        for ref_seg in reference_segments:
+        for ref_seg in candidate_refs:
             ref_start = ref_seg.start
             ref_end = ref_seg.end
             # Check overlap.
@@ -559,12 +567,22 @@ def _force_split_group(
     num_splits = (len(group) - 1) // batch_size  # how many splits needed
     split_indices = sorted(g[1] for g in gaps[:num_splits])
 
-    result: list[list[TranscriptSegment]] = []
+    raw: list[list[TranscriptSegment]] = []
     prev = 0
     for idx in split_indices:
-        result.append(group[prev:idx])
+        raw.append(group[prev:idx])
         prev = idx
-    result.append(group[prev:])
+    raw.append(group[prev:])
+
+    # Recurse on any sub-groups that are still oversized.
+    result: list[list[TranscriptSegment]] = []
+    for sub in raw:
+        if not sub:
+            continue
+        if len(sub) > batch_size:
+            result.extend(_force_split_group(sub, batch_size))
+        else:
+            result.append(sub)
     return result
 
 
@@ -704,11 +722,16 @@ def _validate_and_retry(
         except Exception:
             logger.exception("Retry failed for segment %d", seg_id)
 
-    # Rebuild the batch output with retried translations
+    # Rebuild the batch output with retried translations (preserving entities)
+    original_entities = {s.id: s.entities for s in batch_output.segments}
     final_segments = []
     for s in batch_output.segments:
         if s.id in translations:
-            final_segments.append(TranslatedSegmentOutput(id=s.id, translation=translations[s.id]))
+            final_segments.append(TranslatedSegmentOutput(
+                id=s.id,
+                translation=translations[s.id],
+                entities=original_entities.get(s.id),
+            ))
 
     # Add any that were entirely missing from the original
     existing_ids = {s.id for s in final_segments}
@@ -760,7 +783,7 @@ def translate_segments(
 
     memory = TranslationMemory()
     entity_ledger = EntityLedger()
-    glossary_jp_terms = {e.get("jp", "") for e in matched_glossary}
+    glossary_jp_terms = {e.get("jp", "") for e in matched_glossary} - {""}
     all_results: list[TranslatedSegment] = []
     batches = _build_sentence_aware_batches(segments, batch_size)
 

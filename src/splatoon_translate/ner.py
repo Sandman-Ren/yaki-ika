@@ -5,7 +5,6 @@ to identify entities before the main translation pass. This allows the
 translator to preserve names and maintain consistency for unknown terms.
 """
 
-import json
 import logging
 from dataclasses import dataclass, field
 
@@ -158,8 +157,6 @@ def prescan_entities(
     system = NER_SYSTEM_PROMPT.format(known_terms_sample=known_terms_str)
     user_msg = f"Analyze this Splatoon 3 transcript for names and unknown terms:\n\n{transcript_text}"
 
-    # Count term frequencies in transcript.
-    term_freq: dict[str, int] = {}
     full_text = " ".join(seg.text for seg in segments)
 
     try:
