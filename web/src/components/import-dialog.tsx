@@ -176,7 +176,7 @@ export function ImportDialog() {
           Import
         </Button>
       </DialogTrigger>
-      <DialogContent className="sm:max-w-lg overflow-hidden">
+      <DialogContent className="sm:max-w-lg">
         <DialogHeader>
           <DialogTitle>Import Project Files</DialogTitle>
         </DialogHeader>
@@ -202,8 +202,8 @@ export function ImportDialog() {
           </label>
         </div>
 
-        {/* File slots */}
-        <div className="space-y-3">
+        {/* File slots — scrollable so footer stays visible */}
+        <div className="space-y-3 max-h-[40vh] overflow-y-auto">
           {/* Video */}
           <FileSlotRow
             icon={<FileVideo className="h-4 w-4" />}

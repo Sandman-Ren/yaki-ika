@@ -14,6 +14,8 @@ interface ProjectState {
   videoFileName: string | null
   isLoaded: boolean
   warnings: string[]
+  /** Non-null when a saved session exists and the user hasn't decided yet */
+  pendingRestore: { name: string; segmentCount: number; trackCount: number } | null
 }
 
 interface ProjectActions {
@@ -34,7 +36,9 @@ interface ProjectActions {
 
   // Persistence
   saveToIndexedDB: () => Promise<void>
-  loadFromIndexedDB: () => Promise<boolean>
+  checkForSavedSession: () => Promise<void>
+  restoreSession: () => Promise<void>
+  dismissRestore: () => void
 }
 
 const initialState: ProjectState = {
@@ -46,6 +50,7 @@ const initialState: ProjectState = {
   videoFileName: null,
   isLoaded: false,
   warnings: [],
+  pendingRestore: null,
 }
 
 export const useProjectStore = create<ProjectState & ProjectActions>()(
@@ -175,9 +180,21 @@ export const useProjectStore = create<ProjectState & ProjectActions>()(
         })
       },
 
-      loadFromIndexedDB: async () => {
+      checkForSavedSession: async () => {
         const result = await loadLatestProject()
-        if (!result) return false
+        if (!result) return
+        set({
+          pendingRestore: {
+            name: result.data.meta.name,
+            segmentCount: result.data.segments.length,
+            trackCount: result.data.trackMetas.length,
+          },
+        })
+      },
+
+      restoreSession: async () => {
+        const result = await loadLatestProject()
+        if (!result) return
 
         const { data } = result
         set({
@@ -189,8 +206,12 @@ export const useProjectStore = create<ProjectState & ProjectActions>()(
           videoFileName: data.videoFileName,
           isLoaded: true,
           warnings: [],
+          pendingRestore: null,
         })
-        return true
+      },
+
+      dismissRestore: () => {
+        set({ pendingRestore: null })
       },
     }),
     {

@@ -38,14 +38,17 @@ export function WelcomeScreen() {
   const videoFileName = useProjectStore((s) => s.videoFileName)
   const videoUrl = useProjectStore((s) => s.videoUrl)
   const reloadVideo = useProjectStore((s) => s.reloadVideo)
+  const pendingRestore = useProjectStore((s) => s.pendingRestore)
+  const restoreSession = useProjectStore((s) => s.restoreSession)
+  const dismissRestore = useProjectStore((s) => s.dismissRestore)
 
-  // Session restored from IndexedDB but video needs re-import
+  // Session was restored and needs video re-import
   if (videoFileName && !videoUrl) {
     return (
       <div className="flex flex-col items-center justify-center bg-muted/30 aspect-video max-h-[40vh] gap-3">
         <FileVideo className="h-8 w-8 text-muted-foreground" />
         <p className="text-sm text-muted-foreground">
-          Previous session restored. Re-import video to continue:
+          Session restored. Re-import video to continue:
         </p>
         <p className="text-xs font-mono text-muted-foreground max-w-md truncate">{videoFileName}</p>
         <label className="cursor-pointer">
@@ -67,7 +70,38 @@ export function WelcomeScreen() {
     )
   }
 
-  // No project loaded — show inline import form
+  // Saved session found — ask user whether to restore
+  if (pendingRestore) {
+    return (
+      <div className="flex flex-col items-center bg-muted/30 py-8 px-4">
+        <div className="w-full max-w-md space-y-4">
+          <div className="rounded-lg border bg-background p-5 text-center space-y-3">
+            <p className="text-sm font-medium">Previous session found</p>
+            <p className="text-xs text-muted-foreground">
+              <span className="font-mono">{pendingRestore.name}</span>
+              {' '}&mdash; {pendingRestore.segmentCount} segments, {pendingRestore.trackCount} track{pendingRestore.trackCount !== 1 ? 's' : ''}
+            </p>
+            <div className="flex items-center justify-center gap-2">
+              <Button variant="outline" size="sm" onClick={dismissRestore}>
+                Start fresh
+              </Button>
+              <Button size="sm" onClick={restoreSession}>
+                Restore session
+              </Button>
+            </div>
+          </div>
+
+          <div className="text-center">
+            <p className="text-xs text-muted-foreground mb-3">Or import a new project:</p>
+          </div>
+
+          <InlineImportForm />
+        </div>
+      </div>
+    )
+  }
+
+  // No project loaded, no saved session — show inline import form
   return <InlineImportForm />
 }
 
